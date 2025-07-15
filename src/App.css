@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.record-section {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+.record-section h3 {
+  margin-bottom: 1rem;
+}
+.record-section div {
+  margin-bottom: 0.5rem;
+}

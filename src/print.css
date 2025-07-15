@@ -1,0 +1,49 @@
+/* 印刷専用スタイル */
+@media print {
+  /* 画面でしか使わない要素は非表示 */
+  button,
+  nav,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    font-size: 12pt;
+    line-height: 1.6;
+    background: white;
+    color: black;
+    padding: 0;
+    margin: 0;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  /* 各診療記録ごとに改ページ */
+  .record-entry {
+    page-break-inside: avoid;
+    page-break-after: always;
+  }
+
+  @page {
+    margin: 20mm;
+  }
+}
+
+@media print {
+  button, 
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    font-family: serif;
+    font-size: 12pt;
+    margin: 20mm;
+  }
+
+  .record-entry {
+    page-break-inside: avoid;
+  }
+}

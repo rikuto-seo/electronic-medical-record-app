@@ -1,0 +1,43 @@
+/* src/styles/pdf.css */
+
+@media print {
+  body {
+    print-color-adjust: exact;        /* 標準 */
+    -webkit-print-color-adjust: exact; /* WebKit対応 */
+  }
+}
+
+#pdf-content {
+  font-family: "Noto Serif JP", serif;
+  background-color: white;
+  padding: 20mm;
+  width: 210mm;
+  min-height: 297mm;
+  box-sizing: border-box;
+  font-size: 12pt;
+  color: black;
+}
+
+.record-entry {
+  border: 1px solid #999;
+  padding: 10mm;
+  margin-bottom: 12mm;
+  page-break-inside: avoid;
+}
+
+.record-entry h2 {
+  font-size: 16pt;
+  margin-bottom: 5mm;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 2mm;
+}
+
+.record-entry p {
+  margin: 2mm 0;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  font-weight: bold;
+  text-align: center;
+}

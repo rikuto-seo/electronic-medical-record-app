@@ -1,0 +1,106 @@
+/* src/components/pdf/PrintableMedicalRecord.css */
+
+/* 全体 */
+#print-area {
+  width: 210mm;
+  min-height: 297mm;
+  padding: 20mm;
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-family: 'Noto Serif JP', serif;
+  background-color: #fff;
+  color: #000;
+}
+
+/* 見出し */
+.print-record h1 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #000;
+  padding-bottom: 4px;
+}
+
+/* 各セクション */
+.section {
+  margin-bottom: 18px;
+  page-break-inside: avoid;
+}
+
+/* セクションタイトル */
+.section > h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  border-left: 4px solid #333;
+  padding-left: 6px;
+}
+
+/* 項目 */
+.field {
+  display: flex;
+  margin-bottom: 6px;
+}
+
+.field > strong {
+  width: 30%;
+  font-weight: bold;
+  color: #333;
+}
+
+.field-value {
+  width: 70%;
+  border: 1px solid #888;
+  padding: 6px 8px;
+  white-space: pre-wrap;
+  font-size: 13px;
+  color: #111;
+}
+
+/* 緊急連絡先などアイコン付きは視覚的余白調整 */
+.section h2::before {
+  content: '';
+  margin-right: 4px;
+}
+
+/* 署名 */
+.signature-area {
+  margin-top: 30px;
+  text-align: right;
+  font-size: 14px;
+  font-style: italic;
+  border-top: 1px solid #000;
+  padding-top: 6px;
+}
+
+/* 印刷調整 */
+@media print {
+  body {
+    margin: 0;
+    background: #fff;
+  }
+  .print-hidden {
+    display: none !important;
+  }
+}
+
+.meta-info {
+  position: relative;
+  text-align: right;
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+/* 各ページの分離 */
+.page {
+  page-break-after: always;
+  break-after: page;
+  padding-bottom: 10mm;
+}
+
+/* 最後のページでは改ページしない */
+.page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
