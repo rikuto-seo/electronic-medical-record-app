@@ -12,6 +12,7 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.1.4",
     "@types/react-dom": "^19.1.5",
+    "firebase": "^11.10.0",
     "html2pdf.js": "^0.10.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
