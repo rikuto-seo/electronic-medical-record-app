@@ -28,7 +28,7 @@
 }
 
 /* セクションタイトル */
-.section > h2 {
+.section>h2 {
   font-size: 16px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -42,7 +42,7 @@
   margin-bottom: 6px;
 }
 
-.field > strong {
+.field>strong {
   width: 30%;
   font-weight: bold;
   color: #333;
@@ -79,6 +79,7 @@
     margin: 0;
     background: #fff;
   }
+
   .print-hidden {
     display: none !important;
   }

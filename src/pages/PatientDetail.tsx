@@ -15,17 +15,17 @@ const PatientDetail: React.FC = () => {
   const navigate = useNavigate();
 
   const getNowInJSTDateTimeLocal = (): string => {
-  const now = new Date();
-  const pad = (n: number) => n.toString().padStart(2, '0');
+    const now = new Date();
+    const pad = (n: number) => n.toString().padStart(2, '0');
 
-  const year = now.getFullYear();
-  const month = pad(now.getMonth() + 1);
-  const date = pad(now.getDate());
-  const hours = pad(now.getHours());
-  const minutes = pad(now.getMinutes());
+    const year = now.getFullYear();
+    const month = pad(now.getMonth() + 1);
+    const date = pad(now.getDate());
+    const hours = pad(now.getHours());
+    const minutes = pad(now.getMinutes());
 
-  return `${year}-${month}-${date}T${hours}:${minutes}`;
-};
+    return `${year}-${month}-${date}T${hours}:${minutes}`;
+  };
 
 
   // 修正: 常に現在時刻を反映する emptyRecord を関数に変更
@@ -117,16 +117,16 @@ const PatientDetail: React.FC = () => {
     setPatient((prev) =>
       prev
         ? {
-            ...prev,
-            emergencyContact: {
-              ...(prev.emergencyContact ?? {
-                name: '',
-                relationship: '',
-                phoneNumber: '',
-              }),
-              [field]: value,
-            },
-          }
+          ...prev,
+          emergencyContact: {
+            ...(prev.emergencyContact ?? {
+              name: '',
+              relationship: '',
+              phoneNumber: '',
+            }),
+            [field]: value,
+          },
+        }
         : null
     );
   };

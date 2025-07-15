@@ -45,26 +45,26 @@ export const PatientProvider: React.FC<{ children: ReactNode }> = ({ children })
 
   const addMedicalRecord = (patientId: string, record: MedicalRecord) => {
     setPatients((prev) => {
-        const updated = prev.map((p) =>
+      const updated = prev.map((p) =>
         p.id === patientId
-            ? { ...p, records: [...(p.records || []), record] }
-            : p
-        );
-        console.log('更新後のpatients:', updated);
-        return updated;
+          ? { ...p, records: [...(p.records || []), record] }
+          : p
+      );
+      console.log('更新後のpatients:', updated);
+      return updated;
     });
-    };
+  };
 
   const updateMedicalRecord = (patientId: string, updatedRecord: MedicalRecord) => {
     setPatients((prev) =>
       prev.map((p) =>
         p.id === patientId
           ? {
-              ...p,
-              records: p.records.map((r) =>
-                r.id === updatedRecord.id ? updatedRecord : r
-              ),
-            }
+            ...p,
+            records: p.records.map((r) =>
+              r.id === updatedRecord.id ? updatedRecord : r
+            ),
+          }
           : p
       )
     );

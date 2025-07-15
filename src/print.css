@@ -1,5 +1,6 @@
 /* 印刷専用スタイル */
 @media print {
+
   /* 画面でしか使わない要素は非表示 */
   button,
   nav,
@@ -16,7 +17,9 @@
     margin: 0;
   }
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     page-break-after: avoid;
   }
 
@@ -32,7 +35,8 @@
 }
 
 @media print {
-  button, 
+
+  button,
   .no-print {
     display: none !important;
   }

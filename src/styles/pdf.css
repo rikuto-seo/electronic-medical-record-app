@@ -2,8 +2,10 @@
 
 @media print {
   body {
-    print-color-adjust: exact;        /* 標準 */
-    -webkit-print-color-adjust: exact; /* WebKit対応 */
+    print-color-adjust: exact;
+    /* 標準 */
+    -webkit-print-color-adjust: exact;
+    /* WebKit対応 */
   }
 }
 
@@ -37,7 +39,8 @@
   line-height: 1.6;
 }
 
-h1, h2 {
+h1,
+h2 {
   font-weight: bold;
   text-align: center;
 }
