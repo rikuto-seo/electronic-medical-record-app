@@ -3,12 +3,9 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Patient } from '../../types/PatientData';
 import { v4 as uuidv4 } from 'uuid';
+import { addPatient } from '../../lib/firebase/patient'; // Firestore操作関数（あなたの環境に合わせてパスを調整してください）
 
-type Props = {
-  onSubmit: (patient: Patient) => void;
-};
-
-const PatientForm: React.FC<Props> = ({ onSubmit }) => {
+const PatientForm: React.FC = () => {
   const navigate = useNavigate();
 
   const [formData, setFormData] = useState({
@@ -44,7 +41,7 @@ const PatientForm: React.FC<Props> = ({ onSubmit }) => {
     }
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
     const newPatient: Patient = {
@@ -56,11 +53,16 @@ const PatientForm: React.FC<Props> = ({ onSubmit }) => {
       firstVisitDate: formData.firstVisitDate,
       insuranceInfo: formData.insuranceInfo,
       emergencyContact: formData.emergencyContact,
-      records: [], // 初期診療記録は空にする
+      records: [], // 初期診療記録は空
     };
 
-    onSubmit(newPatient);
-    navigate(`/patients/${newPatient.id}`); // 詳細画面などに遷移
+    try {
+      await addPatient(newPatient);  // Firestoreに保存
+      navigate(`/patients/${newPatient.id}`); // 保存成功後に詳細画面へ遷移
+    } catch (error) {
+      console.error('患者の保存に失敗しました', error);
+      alert('患者の保存に失敗しました。再度お試しください。');
+    }
   };
 
   return (

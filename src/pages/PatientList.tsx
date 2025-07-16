@@ -14,7 +14,7 @@ const PatientList: React.FC = () => {
   const context = useContext(PatientContext);
   if (!context) throw new Error('PatientContext must be used within a PatientProvider');
 
-  const { patients, addPatient } = context;
+  const { patients } = context; // addPatient は使わない
   const navigate = useNavigate();
 
   const handleRowClick = (id: string) => {
@@ -25,8 +25,8 @@ const PatientList: React.FC = () => {
     <div>
       <h2>患者一覧</h2>
 
-      {/* 患者追加フォームも表示 */}
-      <PatientForm onSubmit={addPatient} />
+      {/* ここで onSubmit は渡さない */}
+      <PatientForm />
 
       <table>
         <thead>
