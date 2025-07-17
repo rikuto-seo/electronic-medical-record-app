@@ -23,14 +23,14 @@ export interface InsuranceDetail {
 
 export interface MedicalRecord {
   id: string;
-  date: string; // 記録日
+  date: string;
   chiefComplaint?: string;
   symptomOnsetDate?: string;
   symptomDuration?: string;
   symptomLocation?: string;
   painType?: string;
   painSeverity?: number | null;
-  painScale?: number | null;  // 痛みの数値評価（0-10など）
+  painScale?: number | null;
   rangeOfMotion?: string;
   muscleStrength?: string;
   palpationFindings?: string;
@@ -49,16 +49,21 @@ export interface MedicalRecord {
   treatmentProgress?: string;
   notes: string;
 
-  treatmentDate?: string;         // 実際の治療日
-  treatmentDuration?: string;     // 治療時間
-  medicationsPrescribed?: string; // 処方薬
-  adverseReactions?: string;      // 副反応やアレルギー反応
-  followUpDate?: string;          // 次回受診予定日
-  patientFeedback?: string;       // 患者の感想や反応
-  treatmentPerformedBy?: string;  // 治療担当者名
+  treatmentDate?: string;
+  treatmentDuration?: string;
+  medicationsPrescribed?: string;
+  adverseReactions?: string;
+  followUpDate?: string;
+  patientFeedback?: string;
+  treatmentPerformedBy?: string;
 
-  vitalSigns?: VitalSigns;        // バイタルサイン情報
-  mediaFiles?: (File | string)[];
+  vitalSigns?: VitalSigns;
+
+  /** Cloud Storage にアップロードされたファイルのURL一覧 */
+  mediaUrls?: string[];
+
+  /** クライアント側で一時保持されるFileオブジェクト（保存対象外） */
+  mediaFiles?: File[]; // ※ UIでのみ使用
 }
 
 export interface Patient {

@@ -3,7 +3,11 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Patient } from '../../types/PatientData';
 import { v4 as uuidv4 } from 'uuid';
-import { addPatient } from '../../lib/firebase/patient'; // Firestore操作関数（あなたの環境に合わせてパスを調整してください）
+import { addPatient } from '../../lib/firebase/patient'; // Firestore操作関数
+import { doc, getDoc } from 'firebase/firestore';
+import { db } from '../../firebase';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPhoneAlt, faClipboardList, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
 
 const PatientForm: React.FC = () => {
   const navigate = useNavigate();
@@ -53,12 +57,29 @@ const PatientForm: React.FC = () => {
       firstVisitDate: formData.firstVisitDate,
       insuranceInfo: formData.insuranceInfo,
       emergencyContact: formData.emergencyContact,
-      records: [], // 初期診療記録は空
+      records: [],
     };
 
     try {
-      await addPatient(newPatient);  // Firestoreに保存
-      navigate(`/patients/${newPatient.id}`); // 保存成功後に詳細画面へ遷移
+      await addPatient(newPatient); // Firestoreに保存
+
+      // 保存のタイミングによっては取得が間に合わないことがあるため、リトライ付きで確認
+      const tryNavigateToDetail = async (retries = 10, delay = 300) => {
+        for (let i = 0; i < retries; i++) {
+          const snap = await getDoc(doc(db, 'patients', newPatient.id));
+          if (snap.exists()) {
+            navigate(`/patients/${newPatient.id}/qr`);
+            return;
+          }
+          await new Promise((res) => setTimeout(res, delay));
+        }
+
+        // 最終的に見つからなければ fallback 表示
+        alert('保存は成功しましたが、遷移に失敗しました。患者一覧からご確認ください。');
+      };
+
+      await tryNavigateToDetail();
+
     } catch (error) {
       console.error('患者の保存に失敗しました', error);
       alert('患者の保存に失敗しました。再度お試しください。');
@@ -131,7 +152,10 @@ const PatientForm: React.FC = () => {
         />
       </div>
 
-      <h2>📞 緊急連絡先</h2>
+      <h2>
+        <FontAwesomeIcon icon={faPhoneAlt} style={{ marginRight: '0.5em', color: '#E63946' }} />
+        緊急連絡先
+      </h2>
       <div>
         <label>氏名</label>
         <input

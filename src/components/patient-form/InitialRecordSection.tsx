@@ -1,5 +1,7 @@
 // src/components/patient-form/InitialRecordSection.tsx
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPhoneAlt, faClipboardList, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
 
 type Props = {
   formData: any;
@@ -8,7 +10,10 @@ type Props = {
 
 const InitialRecordSection: React.FC<Props> = ({ formData, handleChange }) => (
   <>
-    <h2>📋 初回診療記録</h2>
+    <h2>
+      <FontAwesomeIcon icon={faClipboardList} style={{ marginRight: '0.5em', color: '#457B9D' }} />
+      初回診療記録
+    </h2>
     <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem', marginTop: '1rem' }}>
       <div>
         <label>記録日時</label>

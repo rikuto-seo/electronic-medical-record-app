@@ -1,5 +1,7 @@
 // src/components/patient-form/BasicInfoSection.tsx
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPhoneAlt, faClipboardList, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
 
 type Props = {
   formData: any;
@@ -8,7 +10,10 @@ type Props = {
 
 const BasicInfoSection: React.FC<Props> = ({ formData, handleChange }) => (
   <>
-    <h2>基本情報</h2>
+    <h2>
+      <FontAwesomeIcon icon={faInfoCircle} style={{ marginRight: '0.5em', color: '#2A9D8F' }} />
+      基本情報
+    </h2>
     <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.5rem' }}>
       <div>
         <label>氏名</label>

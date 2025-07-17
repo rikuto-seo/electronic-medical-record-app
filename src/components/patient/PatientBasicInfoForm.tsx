@@ -1,6 +1,8 @@
 //src/components/patient/PatientBasicInfoForm.tsx
 import React from 'react';
 import { Patient } from '../../types/PatientData';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faUserMd } from '@fortawesome/free-solid-svg-icons';
 
 interface Props {
   patient: Patient;
@@ -13,7 +15,10 @@ interface Props {
 const PatientBasicInfoForm: React.FC<Props> = ({ patient, onChange, onEmergencyContactChange }) => {
   return (
     <fieldset style={{ border: '1px solid #ccc', padding: '1rem', marginBottom: '2rem' }}>
-      <legend>🧑‍⚕️ 基本情報</legend>
+      <legend style={{ display: 'flex', alignItems: 'center', gap: '0.5em' }}>
+        <FontAwesomeIcon icon={faUserMd} style={{ color: '#2A9D8F' }} />
+        基本情報
+      </legend>
 
       <div style={{ marginBottom: '1rem' }}>
         <label>

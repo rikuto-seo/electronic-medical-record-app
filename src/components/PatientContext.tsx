@@ -3,6 +3,9 @@ import React, { createContext, useState, useEffect, ReactNode } from 'react';
 import { Patient, MedicalRecord } from '../types/PatientData';
 import { collection, onSnapshot, addDoc, doc, updateDoc } from 'firebase/firestore';
 import { db } from '../firebase'; // Firestore初期化済み
+import { ref, uploadBytes, getDownloadURL } from 'firebase/storage';
+import { storage } from '../firebase';
+import { setDoc } from 'firebase/firestore';
 
 type PatientContextType = {
   patients: Patient[];
@@ -31,8 +34,8 @@ export const PatientProvider: React.FC<{ children: ReactNode }> = ({ children })
   }, []);
 
   const addPatient = async (patient: Patient) => {
-    const patientsRef = collection(db, 'patients');
-    await addDoc(patientsRef, {
+    const patientDoc = doc(db, 'patients', patient.id);
+    await setDoc(patientDoc, {
       name: patient.name,
       age: patient.age,
       gender: patient.gender,
@@ -58,11 +61,28 @@ export const PatientProvider: React.FC<{ children: ReactNode }> = ({ children })
     });
   };
 
-  const addMedicalRecord = async (patientId: string, record: MedicalRecord) => {
+  const addMedicalRecord = async (patientId: string, record: MedicalRecord, mediaFiles: File[] = []) => {
     const patientDoc = doc(db, 'patients', patientId);
     const patient = patients.find(p => p.id === patientId);
     if (!patient) return;
-    const updatedRecords = [...(patient.records || []), record];
+
+    // 1. 添付ファイルを Cloud Storage にアップロード
+    const uploadedUrls: string[] = [];
+
+    for (const file of mediaFiles) {
+      const fileRef = ref(storage, `patients/${patientId}/records/${record.id}/${file.name}`);
+      await uploadBytes(fileRef, file);
+      const url = await getDownloadURL(fileRef);
+      uploadedUrls.push(url);
+    }
+
+    // 2. mediaUrls を record に追加して保存
+    const updatedRecord = {
+      ...record,
+      mediaUrls: uploadedUrls,
+    };
+
+    const updatedRecords = [...(patient.records || []), updatedRecord];
     await updateDoc(patientDoc, { records: updatedRecords });
   };
 

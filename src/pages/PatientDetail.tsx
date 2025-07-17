@@ -8,6 +8,9 @@ import MedicalRecordForm from '../components/record/MedicalRecordForm';
 import MedicalRecordList from '../components/record/MedicalRecordList';
 import { v4 as uuidv4 } from 'uuid';
 import { MedicalRecordFormData } from '../schema/medicalRecordSchema';
+import { getStorage, ref, uploadBytes, getDownloadURL } from "firebase/storage";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faUserCircle, faFileMedicalAlt } from '@fortawesome/free-solid-svg-icons';
 
 const PatientDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -27,8 +30,6 @@ const PatientDetail: React.FC = () => {
     return `${year}-${month}-${date}T${hours}:${minutes}`;
   };
 
-
-  // 修正: 常に現在時刻を反映する emptyRecord を関数に変更
   const createEmptyRecord = (): MedicalRecord => ({
     id: '',
     date: getNowInJSTDateTimeLocal(),
@@ -55,11 +56,14 @@ const PatientDetail: React.FC = () => {
     selfCareInstructions: '',
     treatmentProgress: '',
     notes: '',
+    mediaUrls: [],
   });
 
   const normalizeRecord = (data: MedicalRecordFormData): MedicalRecord => {
+    const { mediaFiles, ...rest } = data;  // mediaFilesを除外
+
     return {
-      ...data,
+      ...rest,
       chiefComplaint: data.chiefComplaint ?? '',
       symptomOnsetDate: data.symptomOnsetDate ?? '',
       symptomDuration: data.symptomDuration ?? '',
@@ -85,6 +89,7 @@ const PatientDetail: React.FC = () => {
       notes: data.notes ?? '',
       id: data.id || '',
       date: data.date || getNowInJSTDateTimeLocal(),
+      mediaUrls: [],  // mediaUrlsは空配列で初期化
     };
   };
 
@@ -92,14 +97,25 @@ const PatientDetail: React.FC = () => {
   const [newRecord, setNewRecord] = useState<MedicalRecord>(createEmptyRecord());
 
   useEffect(() => {
+    if (patients.length === 0) return; // データ未取得なら何もしない
     const found = patients.find((p) => p.id === id);
     if (found) {
       setPatient(found);
-      setNewRecord(createEmptyRecord()); // ← 再生成して常に新しい時刻にする
+      setNewRecord(createEmptyRecord());
+    } else {
+      setPatient(null); // 明示的にnullを設定
     }
   }, [id, patients]);
 
-  if (!patient) return <div>患者が見つかりません。</div>;
+  // 読み込み中の表示
+  if (patients.length === 0) {
+    return <div>読み込み中...</div>;
+  }
+
+  // 患者が見つからなかった場合のみ表示
+  if (!patient) {
+    return <div>患者が見つかりません。</div>;
+  }
 
   const handlePatientChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>
@@ -146,21 +162,52 @@ const PatientDetail: React.FC = () => {
     }));
   };
 
-  const handleSaveNewRecord = (record: MedicalRecordFormData) => {
+  const handleSaveNewRecord = async (
+    record: MedicalRecordFormData,
+    mediaFiles?: File[]
+  ) => {
     if (!patient) return;
 
-    const normalizedRecord = normalizeRecord(record);
-    const recordToSave = { ...normalizedRecord, id: uuidv4() };
-    addMedicalRecord(patient.id, recordToSave);
+    try {
+      const normalizedRecord = normalizeRecord(record);
+      const recordId = uuidv4();
 
-    setNewRecord(createEmptyRecord());
-    alert('診療記録を保存しました。');
+      let mediaUrls: string[] = [];
+
+      if (mediaFiles && mediaFiles.length > 0) {
+        const storage = getStorage();
+        const uploadPromises = mediaFiles.map(async (file) => {
+          const storageRef = ref(storage, `patients/${patient.id}/records/${recordId}/${file.name}`);
+          await uploadBytes(storageRef, file);
+          return getDownloadURL(storageRef);
+        });
+
+        mediaUrls = await Promise.all(uploadPromises);
+      }
+
+      const recordToSave = {
+        ...normalizedRecord,
+        id: recordId,
+        mediaUrls,
+      };
+
+      await addMedicalRecord(patient.id, recordToSave);
+
+      setNewRecord(createEmptyRecord());
+      alert('診療記録を保存しました。');
+    } catch (error) {
+      console.error('診療記録の保存でエラーが発生しました:', error);
+      alert('保存中にエラーが発生しました。コンソールを確認してください。');
+    }
   };
 
   return (
     <div className="container">
       <div style={{ maxWidth: 800, margin: '0 auto', padding: '1rem' }}>
-        <h2>患者詳細</h2>
+        <h2 style={{ display: 'flex', alignItems: 'center' }}>
+          <FontAwesomeIcon icon={faUserCircle} style={{ marginRight: '0.5em', color: '#1D3557' }} />
+          患者詳細
+        </h2>
 
         <PatientBasicInfoForm
           patient={patient}

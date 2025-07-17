@@ -199,14 +199,20 @@ button:hover {
   position: fixed;
   top: 16px;
   left: 16px;
-  z-index: 1001;
+  z-index: 1100;
   padding: 8px;
-  background-color: transparent;
-  /* bg-gray-800 */
+  background-color: rgba(255, 255, 255, 0.85);
+  /* 背景を追加し視認性向上 */
   color: rgb(93, 0, 255);
   border-radius: 6px;
   border: none;
   cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease;
+}
+
+.hamburger-btn:hover {
+  background-color: rgba(255, 255, 255, 1);
 }
 
 .hamburger-icon {
@@ -234,9 +240,12 @@ button:hover {
 .overlay {
   position: fixed;
   inset: 0;
-  /* top:0; bottom:0; left:0; right:0 */
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 1000;
+}
+
+.overlay.active {
+  display: block;
 }
 
 /* サイドバー */
@@ -245,30 +254,30 @@ button:hover {
   top: 0;
   left: 0;
   height: 100vh;
-  width: 50%;
-  background-color: rgba(37, 99, 235, 0.8);
-  /* bg-gray-800 */
+  width: 250px;
+  max-width: 80vw;
+  background-color: rgba(37, 99, 235, 1);
   color: white;
   padding: 16px;
   box-sizing: border-box;
-  z-index: 1002;
-
-  /* 初期は画面外（左に完全に隠す） */
+  z-index: 1110; /* ハンバーガーボタンより上に */
   transform: translateX(-100%);
   transition: transform 0.3s ease;
   overflow-y: auto;
 }
 
 .sidebar.open {
-  /* 開いたときは画面内に */
   transform: translateX(0);
 }
 
 /* サイドバー内の見出し */
 .sidebar h2 {
-  font-size: 1.25rem;
+  font-size: 1.4rem;
+  /* 少し大きく */
   font-weight: 700;
   margin-bottom: 1.5rem;
+  color: #FFFBEA;
+  /* 既存の色を活用 */
 }
 
 /* ナビリンク */
@@ -314,17 +323,6 @@ button.cancel:hover {
   box-shadow: 0 4px 12px rgba(185, 28, 28, 0.6);
 }
 
-/* モバイル対応 */
-@media (max-width: 640px) {
-  .container {
-    padding: 1rem;
-  }
-
-  h2 {
-    font-size: 1.4rem;
-  }
-}
-
 input[type="tel"],
 input[type="email"],
 input[type="datetime-local"] {
@@ -357,4 +355,44 @@ input[type="datetime-local"] {
   cursor: pointer;
   color: #2563eb;
   font-weight: 500;
+}
+
+/* メディアクエリ */
+
+/* デスクトップ以上はサイドバー常時表示 */
+@media (min-width: 1024px) {
+  .sidebar {
+    position: static;
+    transform: translateX(0) !important;
+    height: auto;
+    width: 250px;
+  }
+
+  .overlay {
+    display: none !important;
+  }
+
+  .hamburger-btn {
+    display: none;
+    /* ハンバーガーボタン非表示 */
+  }
+
+  /* コンテナをサイドバー分だけ右にずらす */
+  .container {
+    max-width: calc(100% - 250px);
+    margin-left: 250px;
+  }
+}
+
+/* モバイル小画面用 */
+@media (max-width: 640px) {
+  .container {
+    padding: 1rem;
+    max-width: 100%;
+    margin-left: 0;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
 }

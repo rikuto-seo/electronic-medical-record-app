@@ -3,6 +3,8 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { MedicalRecord } from '../../types/PatientData';
 import { formatJST } from '../../utils/dateUtils';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faUserCircle, faFileMedicalAlt } from '@fortawesome/free-solid-svg-icons';
 
 type Props = {
   records: MedicalRecord[];
@@ -68,7 +70,13 @@ const MedicalRecordList: React.FC<Props> = ({ records, patientId }) => {
 
   return (
     <div className="mt-6">
-      <h3 className="text-lg font-bold mb-4">診療記録</h3>
+      <h2
+        className="text-lg font-bold mb-4"
+        style={{ display: 'flex', alignItems: 'center' }}
+      >
+        <FontAwesomeIcon icon={faFileMedicalAlt} style={{ marginRight: '0.5em', color: '#E76F51' }} />
+        診療記録
+      </h2>
 
       {records.length === 0 && (
         <p className="text-gray-500 italic">診療記録はまだありません。</p>
@@ -115,7 +123,7 @@ const MedicalRecordList: React.FC<Props> = ({ records, patientId }) => {
             {expandedId === record.id && (
               <div className="p-4 bg-white text-sm space-y-2">
                 {Object.entries(record).map(([key, value]) => {
-                  if (key === 'id' || key === 'mediaFiles') return null; // mediaFilesは別扱い
+                  if (key === 'id' || key === 'mediaFiles') return null;
 
                   const label = fieldLabels[key as keyof MedicalRecord] || key;
                   const formattedValue =
@@ -131,8 +139,8 @@ const MedicalRecordList: React.FC<Props> = ({ records, patientId }) => {
                   );
                 })}
 
-                {/* 添付ファイル表示部分 */}
-                {record.mediaFiles && record.mediaFiles.length > 0 && (
+                {/* 添付ファイル表示 */}
+                {Array.isArray(record.mediaUrls) && record.mediaUrls.length > 0 && (
                   <div className="mt-4 space-y-2">
                     <button
                       className="text-blue-600 underline"
@@ -146,20 +154,12 @@ const MedicalRecordList: React.FC<Props> = ({ records, patientId }) => {
 
                     {mediaOpenIds[record.id] && (
                       <div className="flex flex-wrap gap-4 mt-2">
-                        {record.mediaFiles.map((file: any, index: number) => {
-                          const url =
-                            typeof file === 'string'
-                              ? file
-                              : URL.createObjectURL(file);
-                          const type = typeof file === 'string' ? '' : file.type;
-                          const isImage = type.startsWith('image/');
-                          const isVideo = type.startsWith('video/');
+                        {record.mediaUrls.map((url, index) => {
+                          const isImage = /\.(jpg|jpeg|png|gif|webp)$/i.test(url);
+                          const isVideo = /\.(mp4|webm|ogg)$/i.test(url);
 
                           return (
-                            <div
-                              key={index}
-                              className="border p-2 rounded shadow-sm max-w-xs"
-                            >
+                            <div key={index} className="border p-2 rounded shadow-sm max-w-xs">
                               {isImage ? (
                                 <img
                                   src={url}
@@ -168,15 +168,11 @@ const MedicalRecordList: React.FC<Props> = ({ records, patientId }) => {
                                 />
                               ) : isVideo ? (
                                 <video controls className="max-w-full h-auto">
-                                  <source src={url} type={type} />
+                                  <source src={url} />
                                   お使いのブラウザは video タグに対応していません。
                                 </video>
                               ) : (
-                                <a
-                                  href={url}
-                                  download
-                                  className="text-blue-600 underline"
-                                >
+                                <a href={url} download className="text-blue-600 underline">
                                   ファイルをダウンロード
                                 </a>
                               )}
@@ -187,6 +183,7 @@ const MedicalRecordList: React.FC<Props> = ({ records, patientId }) => {
                     )}
                   </div>
                 )}
+
               </div>
             )}
           </div>

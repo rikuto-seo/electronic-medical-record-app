@@ -1,5 +1,7 @@
 // src/components/patient-form/EmergencyContactSection.tsx
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPhoneAlt, faClipboardList, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
 
 type Props = {
   formData: any;
@@ -8,7 +10,11 @@ type Props = {
 
 const EmergencyContactSection: React.FC<Props> = ({ formData, handleChange }) => (
   <>
-    <h2>📞 緊急連絡先</h2>
+    <h2>
+      <FontAwesomeIcon icon={faPhoneAlt} style={{ marginRight: '0.5em', color: '#E63946' }} />
+      緊急連絡先
+    </h2>
+
     <div style={{ display: 'grid', gridTemplateColumns: '1fr', gap: '1.5rem' }}>
       <div>
         <label>氏名</label>
