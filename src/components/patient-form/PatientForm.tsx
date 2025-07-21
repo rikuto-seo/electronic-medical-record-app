@@ -68,7 +68,7 @@ const PatientForm: React.FC = () => {
         for (let i = 0; i < retries; i++) {
           const snap = await getDoc(doc(db, 'patients', newPatient.id));
           if (snap.exists()) {
-            navigate(`/patients/${newPatient.id}/qr`);
+            navigate(`/patients/${newPatient.id}`);
             return;
           }
           await new Promise((res) => setTimeout(res, delay));

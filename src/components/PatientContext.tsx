@@ -11,7 +11,7 @@ type PatientContextType = {
   patients: Patient[];
   addPatient: (patient: Patient) => Promise<void>;
   updatePatient: (updated: Patient) => Promise<void>;
-  addMedicalRecord: (patientId: string, record: MedicalRecord) => Promise<void>;
+  addMedicalRecord: (patientId: string, record: MedicalRecord, mediaFiles?: File[]) => Promise<void>; // ← ここを修正
   updateMedicalRecord: (patientId: string, updatedRecord: MedicalRecord) => Promise<void>;
 };
 
@@ -84,7 +84,13 @@ export const PatientProvider: React.FC<{ children: ReactNode }> = ({ children })
 
     const updatedRecords = [...(patient.records || []), updatedRecord];
     await updateDoc(patientDoc, { records: updatedRecords });
+
+    // 3. ローカル状態も更新（リアルタイム更新待たずに即時反映）
+    setPatients(prevPatients => prevPatients.map(p =>
+      p.id === patientId ? { ...p, records: updatedRecords } : p
+    ));
   };
+
 
   const updateMedicalRecord = async (patientId: string, updatedRecord: MedicalRecord) => {
     const patientDoc = doc(db, 'patients', patientId);

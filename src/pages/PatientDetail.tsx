@@ -162,19 +162,23 @@ const PatientDetail: React.FC = () => {
     }));
   };
 
-  const handleSaveNewRecord = async (
-    record: MedicalRecordFormData,
-    mediaFiles?: File[]
-  ) => {
+  const handleSaveNewRecord = async (formData: FormData) => {
     if (!patient) return;
 
     try {
-      const normalizedRecord = normalizeRecord(record);
+      // JSON部分（record）をBlobから抽出
+      const recordBlob = formData.get('record') as Blob;
+      const recordJson = JSON.parse(await recordBlob.text());
+
+      const normalizedRecord = normalizeRecord(recordJson);
       const recordId = uuidv4();
+
+      // mediaFiles部分を取得
+      const mediaFiles = formData.getAll('mediaFiles') as File[];
 
       let mediaUrls: string[] = [];
 
-      if (mediaFiles && mediaFiles.length > 0) {
+      if (mediaFiles.length > 0) {
         const storage = getStorage();
         const uploadPromises = mediaFiles.map(async (file) => {
           const storageRef = ref(storage, `patients/${patient.id}/records/${recordId}/${file.name}`);
@@ -191,7 +195,7 @@ const PatientDetail: React.FC = () => {
         mediaUrls,
       };
 
-      await addMedicalRecord(patient.id, recordToSave);
+      await addMedicalRecord(patient.id, recordToSave, mediaFiles);
 
       setNewRecord(createEmptyRecord());
       alert('診療記録を保存しました。');
