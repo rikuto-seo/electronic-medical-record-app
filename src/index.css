@@ -32,6 +32,17 @@ h2 {
   color: #FFFBEA;
 }
 
+/* Headerのタイトル特別デザイン */
+.app-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #2563eb;
+  padding: 0.5rem 1.2rem;
+  user-select: none;
+  font-family: "Noto Sans JP", sans-serif;
+  display: inline-block;
+}
+
 /* ページ全体のカードコンテナ */
 .container {
   max-width: 800px;
@@ -242,11 +253,13 @@ button:hover {
   inset: 0;
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 1000;
+  display: none; /* ← ここがないと常に表示されてしまう */
 }
 
 .overlay.active {
   display: block;
 }
+
 
 /* サイドバー */
 .sidebar {

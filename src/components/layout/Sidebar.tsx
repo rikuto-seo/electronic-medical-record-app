@@ -1,62 +1,58 @@
-// src/components/layout/Sidebar.tsx
-
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {
+  faList,
+  faUserPlus,
+  faCalendarAlt,
+  faBrain,
+  faHeartbeat,
+} from '@fortawesome/free-solid-svg-icons';
 
-const Sidebar: React.FC = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  const toggleSidebar = () => setIsOpen((prev) => !prev);
+interface SidebarProps {
+  isOpen: boolean;
+  toggleSidebar: () => void;
+}
 
+const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
   return (
-    <>
-      {/* ハンバーガーボタン */}
-      <button
-        onClick={toggleSidebar}
-        className="hamburger-btn"
-        aria-label="メニュー開閉"
-      >
-        <svg
-          className="hamburger-icon"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2"
-          viewBox="0 0 24 24"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-        >
-          <line x1="3" y1="6" x2="21" y2="6" />
-          <line x1="3" y1="12" x2="21" y2="12" />
-          <line x1="3" y1="18" x2="21" y2="18" />
-        </svg>
-      </button>
-
-      {/* オーバーレイ */}
-      {isOpen && <div className="overlay" onClick={toggleSidebar} aria-hidden="true" />}
-
-      {/* サイドバー */}
-      <aside className={`sidebar ${isOpen ? 'open' : ''}`}>
-        <h1 className='sidebar-title'>電子カルテ</h1>
-        <nav>
-          <ul>
-            <li>
-              <Link to="/patients" onClick={toggleSidebar}>
-                患者一覧
-              </Link>
-            </li>
-            <li>
-              <Link to="/anatomy" onClick={toggleSidebar}>
-                解剖学ページ
-              </Link>
-            </li>
-            <li>
-              <Link to="/physiology" onClick={toggleSidebar}>
-                生理学ページ
-              </Link>
-            </li>
-          </ul>
-        </nav>
-      </aside>
-    </>
+    <aside className={`sidebar ${isOpen ? 'open' : ''}`}>
+      <h1 className='sidebar-title'>電子カルテ</h1>
+      <nav>
+        <ul>
+          <li>
+            <Link to="/patients" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faList} style={{ marginRight: '0.5em' }} />
+              患者一覧
+            </Link>
+          </li>
+          <li>
+            <Link to="/patients/new" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faUserPlus} style={{ marginRight: '0.5em' }} />
+              新規患者
+            </Link>
+          </li>
+          <li>
+            <Link to="/reservations" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faCalendarAlt} style={{ marginRight: '0.5em' }} />
+              予約管理
+            </Link>
+          </li>
+          <li>
+            <Link to="/anatomy" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faBrain} style={{ marginRight: '0.5em' }} />
+              解剖学ページ
+            </Link>
+          </li>
+          <li>
+            <Link to="/physiology" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faHeartbeat} style={{ marginRight: '0.5em' }} />
+              生理学ページ
+            </Link>
+          </li>
+        </ul>
+      </nav>
+    </aside>
   );
 };
 

@@ -98,4 +98,5 @@ export interface Patient {
   };
   notes?: string;
   records: MedicalRecord[];
+  hasReservation?: boolean;
 }
