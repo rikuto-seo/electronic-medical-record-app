@@ -7,6 +7,10 @@ import {
   faCalendarAlt,
   faBrain,
   faHeartbeat,
+  faCalendarDays,
+  faMicroscope,
+  faLeaf,
+  faStethoscope
 } from '@fortawesome/free-solid-svg-icons';
 
 interface SidebarProps {
@@ -39,15 +43,39 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
             </Link>
           </li>
           <li>
+            <Link to="/calendar" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faCalendarDays} style={{ marginRight: '0.5em' }} />
+              カレンダー
+            </Link>
+          </li>
+          <li>
             <Link to="/anatomy" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faBrain} style={{ marginRight: '0.5em' }} />
-              解剖学ページ
+              解剖学
             </Link>
           </li>
           <li>
             <Link to="/physiology" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faHeartbeat} style={{ marginRight: '0.5em' }} />
-              生理学ページ
+              生理学
+            </Link>
+          </li>
+          <li>
+            <Link to="/pathology" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faMicroscope} style={{ marginRight: '0.5em' }} />
+              病理学
+            </Link>
+          </li>
+          <li>
+            <Link to="/oriental-medicine" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faLeaf} style={{ marginRight: '0.5em' }} />
+              東洋医学
+            </Link>
+          </li>
+          <li>
+            <Link to="/clinical-medicine" onClick={toggleSidebar}>
+              <FontAwesomeIcon icon={faStethoscope} style={{ marginRight: '0.5em' }} />
+              臨床医学
             </Link>
           </li>
         </ul>

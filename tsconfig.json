@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {
+"compilerOptions": {
     "target": "es2018",
     "lib": [
       "es2018",
@@ -19,10 +19,10 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "types": ["react", "react-dom", "@react-three/fiber"]
   },
   "include": [
     "src"
-  ],
-  "types": ["react", "react-dom"]
-} 
+  ]
+}
