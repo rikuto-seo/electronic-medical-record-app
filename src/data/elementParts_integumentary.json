@@ -1,0 +1,60 @@
+{
+  "FJ1375_BP50250_FMA59091_Tarsal plate of right upper eyelid": {
+    "conceptId": "FMA59091",
+    "name": "右上眼瞼瞼板(Tarsal plate of right upper eyelid)",
+    "parentName": "tarsal plate of upper eyelid",
+    "majorCategory": "Integumentary system",
+    "middleCategory": "Eyelids",
+    "order": 130
+  },
+  "FJ1379_BP50644_FMA59089_Tarsal plate of right lower eyelid": {
+    "conceptId": "FMA59089",
+    "name": "右下眼瞼瞼板(Tarsal plate of right lower eyelid)",
+    "parentName": "tarsal plate of lower eyelid",
+    "majorCategory": "Integumentary system",
+    "middleCategory": "Eyelids",
+    "order": 131
+  },
+  "FJ1843_BP48249_FMA83966_Tentorium cerebelli": {
+    "conceptId": "FMA83966",
+    "name": "小脳天幕(Tentorium cerebelli)",
+    "parentName": "subdivision of cranial dura mater",
+    "majorCategory": "Integumentary system",
+    "middleCategory": "Cranial dura mater",
+    "order": 120
+  },
+  "FJ2810_BP51176_FMA7163_Skin": {
+    "conceptId": "FMA7163",
+    "name": "皮膚(Skin)",
+    "parentName": "nonparenchymatous organ",
+    "majorCategory": "Integumentary system",
+    "middleCategory": "Skin"
+  },
+  "FJ2812_BP48357_FMA54237_Eyebrow": {
+    "conceptId": "FMA54237",
+    "name": "眉毛(Eyebrow)",
+    "parentName": "set of facial hairs",
+    "majorCategory": "Integumentary system",
+    "middleCategory": "Hair"
+  },
+  "FJ2813_BP48117_FMA54241_Hair of head": {
+    "conceptId": "FMA54241",
+    "name": "頭髪(Hair of head)",
+    "parentName": "hair",
+    "majorCategory": "Integumentary system",
+    "middleCategory": "Hair"
+  },
+  "FJ2815_BP49631_FMA54319_Pubic hair": {
+    "conceptId": "FMA54319",
+    "name": "陰毛(Pubic hair)",
+    "parentName": "hair of trunk",
+    "majorCategory": "Integumentary system",
+    "middleCategory": "Hair"
+  },
+  "FJ7443_BP48167_FMA74803_Skin of umbilicus": {
+    "conceptId": "FMA74803",
+    "name": "臍部の皮膚(Skin of umbilicus)",
+    "majorCategory": "Integumentary system",
+    "middleCategory": "Skin"
+  }
+}

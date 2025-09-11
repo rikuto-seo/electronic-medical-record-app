@@ -1,0 +1,99 @@
+{
+  "FJ1796_BP51161_FMA13889_Pituitary gland": {
+    "conceptId": "FMA13889",
+    "name": "下垂体(Pituitary gland)",
+    "parentName": "lobular organ",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Pituitary gland",
+    "order": 105
+  },
+  "FJ3129_BP48108_FMA15630_Left adrenal gland": {
+    "conceptId": "FMA15630",
+    "name": "左副腎(Left adrenal gland)",
+    "parentName": "adrenal gland",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Adrenal gland",
+    "order": 342
+  },
+  "FJ3130_BP49395_FMA15629_Right adrenal gland": {
+    "conceptId": "FMA15629",
+    "name": "右副腎(Right adrenal gland)",
+    "parentName": "adrenal gland",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Adrenal gland",
+    "order": 343
+  },
+  "FJ3150_BP49356_FMA71195_Left lobe of thymus": {
+    "conceptId": "FMA71195",
+    "name": "胸腺左葉(Left lobe of thymus)",
+    "parentName": "lobe of thymus",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Thymus",
+    "order": 363
+  },
+  "FJ3151_BP49313_FMA71194_Right lobe of thymus": {
+    "conceptId": "FMA71194",
+    "name": "胸腺右葉(Right lobe of thymus)",
+    "parentName": "lobe of thymus",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Thymus",
+    "order": 364
+  },
+  "FJ3670_BP51134_FMA49178_Isthmus of thyroid gland": {
+    "conceptId": "FMA49178",
+    "name": "甲状腺峡部(Isthmus of thyroid gland)",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Thyroid gland",
+    "order": 768
+  },
+  "FJ3671_BP51046_FMA13369_Left lobe of thyroid gland": {
+    "conceptId": "FMA13369",
+    "name": "甲状腺左葉(Left lobe of thyroid gland)",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Thyroid gland",
+    "order": 769
+  },
+  "FJ3672_BP51126_FMA13368_Right lobe of thyroid gland": {
+    "conceptId": "FMA13368",
+    "name": "甲状腺右葉(Right lobe of thyroid gland)",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Thyroid gland",
+    "order": 770
+  },
+  "FJ3673_BP51152_FMA55563_Left inferior parathyroid gland": {
+    "conceptId": "FMA55563",
+    "name": "左下副甲状腺(Left inferior parathyroid gland)",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Parathyroid gland",
+    "order": 771
+  },
+  "FJ3674_BP51154_FMA55561_Left superior parathyroid gland": {
+    "conceptId": "FMA55561",
+    "name": "左上副甲状腺(Left superior parathyroid gland)",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Parathyroid gland",
+    "order": 772
+  },
+  "FJ3675_BP51144_FMA55562_Right inferior parathyroid gland": {
+    "conceptId": "FMA55562",
+    "name": "右下副甲状腺(Right inferior parathyroid gland)",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Parathyroid gland",
+    "order": 773
+  },
+  "FJ3676_BP51182_FMA55560_Right superior parathyroid gland": {
+    "conceptId": "FMA55560",
+    "name": "右上副甲状腺(Right superior parathyroid gland)",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Parathyroid gland",
+    "order": 774
+  },
+  "FJ3848_BP51161_FMA13889_Pituitary gland": {
+    "conceptId": "FMA13889",
+    "name": "下垂体(Pituitary gland)",
+    "parentName": "lobular organ",
+    "majorCategory": "Endocrine system",
+    "middleCategory": "Pituitary gland",
+    "order": 778
+  }
+}

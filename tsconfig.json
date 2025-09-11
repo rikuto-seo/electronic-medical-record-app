@@ -20,7 +20,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "types": ["react", "react-dom", "@react-three/fiber"]
+    "types": ["react", "react-dom", "@react-three/fiber","node"]
   },
   "include": [
     "src"

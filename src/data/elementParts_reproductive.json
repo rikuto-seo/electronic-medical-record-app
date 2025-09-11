@@ -1,0 +1,98 @@
+{
+  "FJ3132_BP48342_FMA19618_Corpus cavernosum of penis": {
+    "conceptId": "FMA19618",
+    "name": "陰茎海綿体(Corpus cavernosum of penis)",
+    "parentName": "zone of cavernous organ",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Penis",
+    "order": 345
+  },
+  "FJ3133_BP48353_FMA19617_Corpus spongiosum of penis": {
+    "conceptId": "FMA19617",
+    "name": "陰茎海綿体尿道部(Corpus spongiosum of penis)",
+    "parentName": "cavernous organ",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Penis",
+    "order": 346
+  },
+  "FJ3134_BP48010_FMA18247_Glans penis": {
+    "conceptId": "FMA18247",
+    "name": "亀頭(Glans penis)",
+    "parentName": "zone of corpus spongiosum of penis",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Penis",
+    "order": 347
+  },
+  "FJ3135_BP48175_FMA19236_Left deferent duct": {
+    "conceptId": "FMA19236",
+    "name": "左精管(Left deferent duct)",
+    "parentName": "deferent duct",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Ductus deferens",
+    "order": 348
+  },
+  "FJ3136_BP48139_FMA18257_Left epididymis": {
+    "conceptId": "FMA18257",
+    "name": "左精巣上体(Left epididymis)",
+    "parentName": "epididymis",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Epididymis",
+    "order": 349
+  },
+  "FJ3137_BP48246_FMA19388_Left seminal vesicle": {
+    "conceptId": "FMA19388",
+    "name": "左精嚢(Left seminal vesicle)",
+    "parentName": "seminal vesicle",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Seminal vesicle",
+    "order": 350
+  },
+  "FJ3138_BP51185_FMA7212_Left testis": {
+    "conceptId": "FMA7212",
+    "name": "左精巣(Left testis)",
+    "parentName": "testis",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Testis",
+    "order": 351
+  },
+  "FJ3139_BP49328_FMA9600_Prostate": {
+    "conceptId": "FMA9600",
+    "name": "前立腺(Prostate)",
+    "parentName": "lobular organ",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Prostate",
+    "order": 352
+  },
+  "FJ3140_BP48146_FMA19235_Right deferent duct": {
+    "conceptId": "FMA19235",
+    "name": "右精管(Right deferent duct)",
+    "parentName": "deferent duct",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Ductus deferens",
+    "order": 353
+  },
+  "FJ3141_BP48075_FMA18256_Right epididymis": {
+    "conceptId": "FMA18256",
+    "name": "右精巣上体(Right epididymis)",
+    "parentName": "epididymis",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Epididymis",
+    "order": 354
+  },
+  "FJ3142_BP51136_FMA7211_Right testis": {
+    "conceptId": "FMA7211",
+    "name": "右精巣(Right testis)",
+    "parentName": "testis",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Testis",
+    "order": 355
+  },
+  "FJ3143_BP48240_FMA19387_Right seminal vesicle": {
+    "conceptId": "FMA19387",
+    "name": "右精嚢(Right seminal vesicle)",
+    "parentName": "seminal vesicle",
+    "majorCategory": "Reproductive system",
+    "middleCategory": "Seminal vesicle",
+    "order": 356
+  }
+}

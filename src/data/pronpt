@@ -1,0 +1,32 @@
+これから
+
+    "FJ1360_BP50085_FMA59545_Right lacrimal sac": {
+        "conceptId": "FMA59545",
+        "name": "Right lacrimal sac",
+        "parentName": "lacrimal sac",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Lacrimal apparatus",
+        "order": 120
+    },
+
+の形式で書かれたものをお渡しします。
+あなたはこれを受け取ったら、それぞれの
+"name":
+の中身を日本語に翻訳して
+"name":"日本語(翻訳前)",
+にしてください。
+
+上記の例だと
+
+    "FJ1360_BP50085_FMA59545_Right lacrimal sac": {
+        "conceptId": "FMA59545",
+        "name": "右涙嚢(Right lacrimal sac)",
+        "parentName": "lacrimal sac",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Lacrimal apparatus",
+        "order": 120
+    },
+
+のようにします
+重複して見える箇所があるかもしれませんが勝手に省略などしないでください。
+準備はいいですか？
