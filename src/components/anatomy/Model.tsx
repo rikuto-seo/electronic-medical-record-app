@@ -1,48 +1,77 @@
-import React, { useEffect } from 'react';
-import { useGLTF } from '@react-three/drei';
-import * as THREE from 'three';
+import React, { useLayoutEffect, useMemo, useRef } from "react";
+import { useGLTF } from "@react-three/drei";
+import { ThreeEvent, useThree } from "@react-three/fiber";
+import * as THREE from "three";
+import {
+  createDisplayScene,
+  retainModel,
+  updateAnatomyMaterial,
+} from "./anatomyScene";
 
 interface ModelProps {
+  id: string;
   url: string;
-  color?: THREE.ColorRepresentation;
-  onLoaded?: (box: THREE.Box3) => void;
-  onPointerDown?: (e: any) => void;
-  onClick?: (e: any) => void;
+  color: THREE.ColorRepresentation;
+  opacity: number;
+  focused: boolean;
+  pickable: boolean;
+  onLoaded: (id: string) => void;
+  onSelect: (id: string, additive: boolean) => void;
 }
 
-const Model: React.FC<ModelProps> = ({ url, color = 0xaaaaaa, onLoaded, onPointerDown, onClick }) => {
+const Model: React.FC<ModelProps> = ({
+  id,
+  url,
+  color,
+  opacity,
+  focused,
+  pickable,
+  onLoaded,
+  onSelect,
+}) => {
   const { scene } = useGLTF(url);
-
-  // モデル読み込み時にバウンディングボックスを通知
-  useEffect(() => {
-    if (onLoaded && scene) {
-      const box = new THREE.Box3().setFromObject(scene);
-      onLoaded(box);
-    }
-  }, [onLoaded, scene]);
-
-  // 色・マテリアル設定
-  useEffect(() => {
-    if (!scene) return;
-    scene.traverse((child) => {
+  const invalidate = useThree((state) => state.invalidate);
+  const display = useMemo(() => createDisplayScene(scene), [scene]);
+  const material = useRef<THREE.MeshStandardMaterial>();
+  useLayoutEffect(() => {
+    const release = retainModel(url, scene);
+    const owned = new THREE.MeshStandardMaterial({
+      roughness: 0.7,
+      metalness: 0,
+    });
+    material.current = owned;
+    display.traverse((child) => {
       if ((child as THREE.Mesh).isMesh) {
         const mesh = child as THREE.Mesh;
-        mesh.material = new THREE.MeshStandardMaterial({ color });
-        mesh.castShadow = true;
-        mesh.receiveShadow = true;
+        mesh.material = owned;
+        mesh.castShadow = false;
+        mesh.receiveShadow = false;
       }
     });
-  }, [scene, color]);
-
-  // 👇 ここでイベントを渡すのが重要
+    onLoaded(id);
+    return () => {
+      material.current = undefined;
+      owned.dispose();
+      release();
+    };
+  }, [display, scene, id, url, onLoaded]);
+  useLayoutEffect(() => {
+    if (material.current)
+      updateAnatomyMaterial(material.current, color, opacity, focused);
+    invalidate();
+  }, [display, color, opacity, focused, invalidate]);
+  const click = (event: ThreeEvent<MouseEvent>) => {
+    if (event.delta > 4 || event.button !== 0) return;
+    event.stopPropagation();
+    onSelect(id, event.shiftKey || event.ctrlKey || event.metaKey);
+  };
   return (
     <primitive
-      object={scene}
+      object={display}
       dispose={null}
-      onPointerDown={onPointerDown}
-      onClick={onClick}
+      onClick={pickable ? click : undefined}
     />
   );
 };
 
-export default Model;
+export default React.memo(Model);

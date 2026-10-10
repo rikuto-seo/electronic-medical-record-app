@@ -1,0 +1,129 @@
+.patient-history-totals {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.patient-history-totals > div {
+  background: white;
+  border: 1px solid #dce5eb;
+  border-radius: 8px;
+  padding: 16px;
+}
+.patient-history-totals span {
+  display: block;
+  color: #607986;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+.patient-history-totals strong {
+  font-size: 21px;
+  color: #216f75;
+  font-variant-numeric: tabular-nums;
+}
+.patient-history-totals small {
+  margin-left: 6px;
+  font-size: 12px;
+}
+.patient-section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 24px 0 14px;
+}
+.patient-section-heading h2 {
+  margin: 0;
+}
+.patient-visit-card {
+  background: white;
+  border: 1px solid #dce5eb;
+  border-radius: 8px;
+  padding: 18px;
+  margin: 14px 0;
+}
+.patient-visit-card > header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+.patient-visit-card header > div {
+  margin-right: auto;
+}
+.patient-visit-card h3 {
+  margin: 0 0 6px;
+  font-size: 16px;
+}
+.patient-visit-card header p,
+.visit-note,
+.visit-cancellation {
+  margin: 6px 0;
+  font-size: 13px;
+  white-space: pre-wrap;
+}
+.visit-status {
+  padding: 6px 10px;
+  border-radius: 6px;
+  background: #edf3f7;
+  color: #536f80;
+  font-size: 12px;
+}
+.visit-status-completed {
+  background: #e4f4ec;
+  color: #29674f;
+}
+.visit-status-cancelled,
+.visit-status-no_show {
+  background: #fff0e9;
+  color: #915633;
+}
+.visit-billing {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 12px 0;
+  color: #375567;
+  font-size: 13px;
+}
+.visit-records,
+.visit-changes {
+  border-top: 1px solid #e3ebef;
+  padding-top: 12px;
+  margin-top: 14px;
+}
+.visit-records summary,
+.visit-changes summary {
+  cursor: pointer;
+  font-size: 13px;
+  color: #216f75;
+}
+.visit-changes li {
+  padding: 8px;
+  margin: 6px 0;
+  color: #536f80;
+  background: #f5f8fa;
+  font-size: 12px;
+}
+.visit-changes li span {
+  display: block;
+  margin-top: 4px;
+}
+.patient-payments {
+  margin-top: 28px;
+}
+.payment-amount {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+@media (max-width: 850px) {
+  .patient-history-totals {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 480px) {
+  .patient-history-totals {
+    grid-template-columns: 1fr;
+  }
+}

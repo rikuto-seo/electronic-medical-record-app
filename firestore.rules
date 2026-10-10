@@ -1,0 +1,97 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isClinicStaff() {
+      // Approved clinic staff UIDs from Firebase Authentication > Users.
+      return request.auth != null && request.auth.uid in [
+        'khSrR6rwn2OjLAyVbeXqrSxBiGE3'
+      ];
+    }
+    function patientAvailable(patientId) {
+      let patient = /databases/$(database)/documents/patients/$(patientId);
+      return exists(patient) && get(patient).data.get('deletionOperation', '') == '';
+    }
+
+    function isNewNumber(patientId, number) {
+      let counter = getAfter(/databases/$(database)/documents/clinicSettings/patientNumberCounter).data;
+      return number is string && number.matches('([0-9]{6}|[1-9][0-9]{6,11})')
+        && counter.lastPatientNumber == number && counter.lastPatientId == patientId
+        && counter.lastNumber == int(number)
+        && getAfter(/databases/$(database)/documents/patientNumbers/$(number)).data.patientId == patientId;
+    }
+
+    function validCounter() {
+      let counter = request.resource.data;
+      let patientPath = /databases/$(database)/documents/patients/$(counter.lastPatientId);
+      return counter.keys().hasOnly(['lastNumber', 'lastPatientNumber', 'lastPatientId'])
+        && counter.lastNumber is int && counter.lastNumber > 0 && counter.lastNumber <= 999999999999
+        && counter.lastPatientId is string && counter.lastPatientId.size() > 0
+        && (!exists(patientPath) || get(patientPath).data.get('patientNumber', '') in ['', null])
+        && getAfter(patientPath).data.patientNumber == counter.lastPatientNumber
+        && isNewNumber(counter.lastPatientId, counter.lastPatientNumber);
+    }
+
+    match /patients/{patientId} {
+      allow read: if isClinicStaff();
+      allow create: if isClinicStaff() && !request.resource.data.keys().hasAny(['deletionOperation', 'deletionRecordIds']) && isNewNumber(patientId, request.resource.data.patientNumber);
+      allow update: if isClinicStaff() && patientAvailable(patientId)
+        && !request.resource.data.keys().hasAny(['deletionOperation', 'deletionRecordIds']) && (
+        request.resource.data.get('patientNumber', '') == resource.data.get('patientNumber', '')
+        || (resource.data.get('patientNumber', '') in ['', null]
+          && isNewNumber(patientId, request.resource.data.patientNumber))
+      );
+
+      match /{subcollection}/{documentId} {
+        allow read: if isClinicStaff()
+          && subcollection in ['encounters', 'addressHistory', 'contactHistory', 'insuranceHistory', 'timeline'];
+        allow create, update: if isClinicStaff() && patientAvailable(patientId)
+          && subcollection in [
+            'encounters', 'addressHistory', 'contactHistory',
+            'insuranceHistory', 'timeline'
+          ];
+      }
+    }
+
+    match /reservations/{reservationId} {
+      function keepsHistory() {
+        let oldPayments = resource.data.get('payments', []);
+        let newPayments = request.resource.data.get('payments', []);
+        let oldHistory = resource.data.get('statusHistory', []);
+        let newHistory = request.resource.data.get('statusHistory', []);
+        return newPayments is list && newPayments.hasAll(oldPayments) && newPayments.size() >= oldPayments.size()
+          && newHistory is list && newHistory.hasAll(oldHistory) && newHistory.size() >= oldHistory.size()
+          && (request.resource.data.get('status', '') == resource.data.get('status', '')
+              && request.resource.data.date == resource.data.date
+            || (newHistory.size() > oldHistory.size()
+              && newHistory[newHistory.size() - 1].status == request.resource.data.status));
+      }
+      allow read: if isClinicStaff();
+      allow create: if isClinicStaff() && patientAvailable(request.resource.data.patientId)
+        && !request.resource.data.keys().hasAny(['deletionOperation']) && request.resource.data.get('payments', []) is list
+        && request.resource.data.statusHistory is list && request.resource.data.statusHistory.size() > 0;
+      allow update: if isClinicStaff() && patientAvailable(resource.data.patientId)
+        && !request.resource.data.keys().hasAny(['deletionOperation'])
+        && request.resource.data.patientId == resource.data.patientId && keepsHistory();
+    }
+
+    match /clinicSettings/{settingId} {
+      allow read, create, update: if isClinicStaff()
+        && settingId in ['reservations', 'reservationRevision'];
+    }
+
+    match /clinicSettings/patientNumberCounter {
+      allow read: if isClinicStaff();
+      allow create: if isClinicStaff() && validCounter();
+      allow update: if isClinicStaff() && validCounter()
+        && request.resource.data.lastNumber > resource.data.lastNumber;
+    }
+
+    match /patientNumbers/{number} {
+      allow read: if isClinicStaff();
+      allow create: if isClinicStaff() && request.resource.data.keys().hasOnly(['patientId'])
+        && isNewNumber(request.resource.data.patientId, number)
+        && getAfter(/databases/$(database)/documents/patients/$(request.resource.data.patientId)).data.patientNumber == number;
+    }
+  }
+}

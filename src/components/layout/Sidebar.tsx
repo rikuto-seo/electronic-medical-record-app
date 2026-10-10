@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faList,
@@ -7,7 +7,6 @@ import {
   faCalendarAlt,
   faBrain,
   faHeartbeat,
-  faCalendarDays,
   faMicroscope,
   faLeaf,
   faStethoscope
@@ -25,58 +24,52 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
       <nav>
         <ul>
           <li>
-            <Link to="/patients" onClick={toggleSidebar}>
+            <NavLink end to="/patients" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faList} style={{ marginRight: '0.5em' }} />
               患者一覧
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/patients/new" onClick={toggleSidebar}>
+            <NavLink to="/patients/new" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faUserPlus} style={{ marginRight: '0.5em' }} />
               新規患者
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/reservations" onClick={toggleSidebar}>
+            <NavLink to="/reservations" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faCalendarAlt} style={{ marginRight: '0.5em' }} />
               予約管理
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/calendar" onClick={toggleSidebar}>
-              <FontAwesomeIcon icon={faCalendarDays} style={{ marginRight: '0.5em' }} />
-              カレンダー
-            </Link>
-          </li>
-          <li>
-            <Link to="/anatomy" onClick={toggleSidebar}>
+            <NavLink to="/anatomy" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faBrain} style={{ marginRight: '0.5em' }} />
               解剖学
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/physiology" onClick={toggleSidebar}>
+            <NavLink to="/physiology" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faHeartbeat} style={{ marginRight: '0.5em' }} />
               生理学
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/pathology" onClick={toggleSidebar}>
+            <NavLink to="/pathology" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faMicroscope} style={{ marginRight: '0.5em' }} />
               病理学
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/oriental-medicine" onClick={toggleSidebar}>
+            <NavLink to="/oriental-medicine" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faLeaf} style={{ marginRight: '0.5em' }} />
               東洋医学
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/clinical-medicine" onClick={toggleSidebar}>
+            <NavLink to="/clinical-medicine" onClick={toggleSidebar}>
               <FontAwesomeIcon icon={faStethoscope} style={{ marginRight: '0.5em' }} />
               臨床医学
-            </Link>
+            </NavLink>
           </li>
         </ul>
       </nav>

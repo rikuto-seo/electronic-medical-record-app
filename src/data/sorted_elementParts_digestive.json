@@ -1,0 +1,1209 @@
+{
+    "FJ1252_BP50280_FMA59763_Maxillary gingiva": {
+        "conceptId": "FMA59763",
+        "name": "上顎歯肉(Maxillary gingiva)",
+        "parentName": "gingiva",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Oral cavity",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1261_BP49550_FMA55699_Left first upper molar tooth": {
+        "conceptId": "FMA55699",
+        "name": "左上第一大臼歯(Left first upper molar tooth)",
+        "parentName": "upper first secondary molar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1262_BP49648_FMA55690_Left first upper premolar tooth": {
+        "conceptId": "FMA55690",
+        "name": "左上第一小臼歯(Left first upper premolar tooth)",
+        "parentName": "upper first secondary premolar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1263_BP49461_FMA55700_Left second upper molar tooth": {
+        "conceptId": "FMA55700",
+        "name": "左上第二大臼歯(Left second upper molar tooth)",
+        "parentName": "upper second secondary molar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1264_BP49630_FMA55691_Left second upper premolar tooth": {
+        "conceptId": "FMA55691",
+        "name": "左上第二小臼歯(Left second upper premolar tooth)",
+        "parentName": "upper second secondary premolar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1265_BP49521_FMA55682_Left upper central incisor tooth": {
+        "conceptId": "FMA55682",
+        "name": "左上中切歯(Left upper central incisor tooth)",
+        "parentName": "upper central secondary incisor tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1266_BP49585_FMA55683_Left upper lateral incisor tooth": {
+        "conceptId": "FMA55683",
+        "name": "左上側切歯(Left upper lateral incisor tooth)",
+        "parentName": "upper lateral secondary incisor tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1267_BP49563_FMA55799_Left upper canine tooth": {
+        "conceptId": "FMA55799",
+        "name": "左上犬歯(Left upper canine tooth)",
+        "parentName": "upper secondary canine tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1275_BP49715_FMA55697_Right second upper molar tooth": {
+        "conceptId": "FMA55697",
+        "name": "右上第二大臼歯(Right second upper molar tooth)",
+        "parentName": "upper second secondary molar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1276_BP49740_FMA55698_Right first upper molar tooth": {
+        "conceptId": "FMA55698",
+        "name": "右上第一大臼歯(Right first upper molar tooth)",
+        "parentName": "upper first secondary molar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1277_BP49750_FMA55689_Right first upper premolar tooth": {
+        "conceptId": "FMA55689",
+        "name": "右上第一小臼歯(Right first upper premolar tooth)",
+        "parentName": "upper first secondary premolar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1278_BP49472_FMA55688_Right second upper premolar tooth": {
+        "conceptId": "FMA55688",
+        "name": "右上第二小臼歯(Right second upper premolar tooth)",
+        "parentName": "upper second secondary premolar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1279_BP49457_FMA55681_Right upper central incisor tooth": {
+        "conceptId": "FMA55681",
+        "name": "右上中切歯(Right upper central incisor tooth)",
+        "parentName": "upper central secondary incisor tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1280_BP49413_FMA55680_Right upper lateral incisor tooth": {
+        "conceptId": "FMA55680",
+        "name": "右上側切歯(Right upper lateral incisor tooth)",
+        "parentName": "upper lateral secondary incisor tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1281_BP49514_FMA55798_Right upper canine tooth": {
+        "conceptId": "FMA55798",
+        "name": "右上犬歯(Right upper canine tooth)",
+        "parentName": "upper secondary canine tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (maxillary)",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1253_BP50293_FMA59764_Mandibular gingiva": {
+        "conceptId": "FMA59764",
+        "name": "下顎歯肉(Mandibular gingiva)",
+        "parentName": "gingiva",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Oral cavity",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1254_BP49769_FMA55704_Left first lower molar tooth": {
+        "conceptId": "FMA55704",
+        "name": "左下第一大臼歯(Left first lower molar tooth)",
+        "parentName": "lower first secondary molar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1255_BP49761_FMA55693_Left first lower premolar tooth": {
+        "conceptId": "FMA55693",
+        "name": "左下第一小臼歯(Left first lower premolar tooth)",
+        "parentName": "lower first secondary premolar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1256_BP49456_FMA55703_Left second lower molar tooth": {
+        "conceptId": "FMA55703",
+        "name": "左下第二大臼歯(Left second lower molar tooth)",
+        "parentName": "lower second secondary molar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1257_BP49542_FMA55692_Left second lower premolar tooth": {
+        "conceptId": "FMA55692",
+        "name": "左下第二小臼歯(Left second lower premolar tooth)",
+        "parentName": "lower second secondary premolar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1258_BP49722_FMA57143_Left lower central incisor tooth": {
+        "conceptId": "FMA57143",
+        "name": "左下中切歯(Left lower central incisor tooth)",
+        "parentName": "lower central secondary incisor tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1259_BP49486_FMA57141_Left lower lateral incisor tooth": {
+        "conceptId": "FMA57141",
+        "name": "左下側切歯(Left lower lateral incisor tooth)",
+        "parentName": "lower lateral secondary incisor tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1260_BP49519_FMA55687_Left lower canine tooth": {
+        "conceptId": "FMA55687",
+        "name": "左下犬歯(Left lower canine tooth)",
+        "parentName": "lower secondary canine tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1268_BP49764_FMA55705_Right first lower molar tooth": {
+        "conceptId": "FMA55705",
+        "name": "右下第一大臼歯(Right first lower molar tooth)",
+        "parentName": "lower first secondary molar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1269_BP49748_FMA55694_Right first lower premolar tooth": {
+        "conceptId": "FMA55694",
+        "name": "右下第一小臼歯(Right first lower premolar tooth)",
+        "parentName": "lower first secondary premolar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1270_BP49430_FMA55706_Right second lower molar tooth": {
+        "conceptId": "FMA55706",
+        "name": "右下第二大臼歯(Right second lower molar tooth)",
+        "parentName": "lower second secondary molar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1271_BP49434_FMA55695_Right second lower premolar tooth": {
+        "conceptId": "FMA55695",
+        "name": "右下第二小臼歯(Right second lower premolar tooth)",
+        "parentName": "lower second secondary premolar tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1272_BP49587_FMA57142_Right lower central incisor tooth": {
+        "conceptId": "FMA57142",
+        "name": "右下中切歯(Right lower central incisor tooth)",
+        "parentName": "lower central secondary incisor tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1273_BP49452_FMA57140_Right lower lateral incisor tooth": {
+        "conceptId": "FMA57140",
+        "name": "右下側切歯(Right lower lateral incisor tooth)",
+        "parentName": "lower lateral secondary incisor tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ1274_BP49725_FMA55686_Right lower canine tooth": {
+        "conceptId": "FMA55686",
+        "name": "右下犬歯(Right lower canine tooth)",
+        "parentName": "lower secondary canine tooth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Teeth (mandibular)",
+        "region": "頭部",
+        "order": 140
+    },
+    "FJ4643_BP50971_FMA59805_Left sublingual gland": {
+        "conceptId": "FMA59805",
+        "name": "左舌下腺(Left sublingual gland)",
+        "parentName": "sublingual gland",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Salivary glands",
+        "region": "頭部",
+        "order": 1004
+    },
+    "FJ2765_BP50971_FMA59805_Left sublingual gland": {
+        "conceptId": "FMA59805",
+        "name": "左舌下腺(Left sublingual gland)",
+        "parentName": "sublingual gland",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Salivary gland",
+        "region": "頭部"
+    },
+    "FJ2766_BP50774_FMA59803_Left submandibular gland": {
+        "conceptId": "FMA59803",
+        "name": "左顎下腺(Left submandibular gland)",
+        "parentName": "submandibular gland",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Salivary gland",
+        "region": "頭部"
+    },
+    "FJ2767_BP50797_FMA59804_Right sublingual gland": {
+        "conceptId": "FMA59804",
+        "name": "右舌下腺(Right sublingual gland)",
+        "parentName": "sublingual gland",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Salivary gland",
+        "region": "頭部"
+    },
+    "FJ2768_BP50792_FMA59802_Right submandibular gland": {
+        "conceptId": "FMA59802",
+        "name": "右顎下腺(Right submandibular gland)",
+        "parentName": "submandibular gland",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Salivary gland",
+        "region": "頭部"
+    },
+    "FJ2814_BP48308_FMA59816_Lip": {
+        "conceptId": "FMA59816",
+        "name": "口唇(Lip)",
+        "parentName": "subdivision of mouth",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Mouth",
+        "region": "頭部"
+    },
+    "FJ2567_BP49398_FMA14547_Descending colon": {
+        "conceptId": "FMA14547",
+        "name": "下行結腸(Descending colon)",
+        "parentName": "segment of colon",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Large intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2571_BP48348_FMA14544_Rectum": {
+        "conceptId": "FMA14544",
+        "name": "直腸(Rectum)",
+        "parentName": "segment of large intestine",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Rectum",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2573_BP49389_FMA7206_Duodenum": {
+        "conceptId": "FMA7206",
+        "name": "十二指腸(Duodenum)",
+        "parentName": "organ segment",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2617_BP48873_FMA16981_Proximal part of jejunum": {
+        "conceptId": "FMA16981",
+        "name": "空腸近位部(Proximal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2622_BP48873_FMA16981_Proximal part of jejunum": {
+        "conceptId": "FMA16981",
+        "name": "空腸近位部(Proximal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2623_BP48873_FMA16981_Proximal part of jejunum": {
+        "conceptId": "FMA16981",
+        "name": "空腸近位部(Proximal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2624_BP48873_FMA16981_Proximal part of jejunum": {
+        "conceptId": "FMA16981",
+        "name": "空腸近位部(Proximal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2625_BP48873_FMA16981_Proximal part of jejunum": {
+        "conceptId": "FMA16981",
+        "name": "空腸近位部(Proximal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2626_BP48873_FMA16981_Proximal part of jejunum": {
+        "conceptId": "FMA16981",
+        "name": "空腸近位部(Proximal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2627_BP48873_FMA16981_Proximal part of jejunum": {
+        "conceptId": "FMA16981",
+        "name": "空腸近位部(Proximal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2629_BP49293_FMA63120_Parenchyma of pancreas": {
+        "conceptId": "FMA63120",
+        "name": "膵実質(Parenchyma of pancreas)",
+        "parentName": "parenchyma",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Pancreas",
+        "region": "腹部",
+        "order": 1
+    },
+    "FJ2568_BP48751_FMA15044_Taenia libera": {
+        "conceptId": "FMA15044",
+        "name": "自由紐帯(Taenia libera)",
+        "parentName": "taenia coli",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Large intestine",
+        "region": "腹部",
+        "order": 2
+    },
+    "FJ2574_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 2
+    },
+    "FJ2575_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 2
+    },
+    "FJ2585_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 2
+    },
+    "FJ2628_BP49048_FMA16982_Middle part of jejunum": {
+        "conceptId": "FMA16982",
+        "name": "空腸中間部(Middle part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 2
+    },
+    "FJ2569_BP48753_FMA15042_Taenia mesocolica": {
+        "conceptId": "FMA15042",
+        "name": "腸間膜紐帯(Taenia mesocolica)",
+        "parentName": "taenia coli",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Large intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2576_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2577_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2578_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2579_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2580_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2581_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2582_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2583_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2584_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2586_BP48853_FMA14965_Middle part of ileum": {
+        "conceptId": "FMA14965",
+        "name": "回腸中部(Middle part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2615_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2616_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2618_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2619_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2620_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2621_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 3
+    },
+    "FJ2570_BP48765_FMA15043_Taenia omentalis": {
+        "conceptId": "FMA15043",
+        "name": "大網紐帯(Taenia omentalis)",
+        "parentName": "taenia coli",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Large intestine",
+        "region": "腹部",
+        "order": 4
+    },
+    "FJ2587_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 4
+    },
+    "FJ2588_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 4
+    },
+    "FJ2589_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 4
+    },
+    "FJ2590_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部",
+        "order": 4
+    },
+    "FJ2572_BP49263_FMA14546_Transverse colon": {
+        "conceptId": "FMA14546",
+        "name": "横行結腸(Transverse colon)",
+        "parentName": "segment of colon",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Large intestine",
+        "region": "腹部",
+        "order": 5
+    },
+    "FJ1858_BP48416_FMA15747_Hepatovenous segment IX": {
+        "conceptId": "FMA15747",
+        "name": "肝静脈区域IX(Hepatovenous segment IX)",
+        "parentName": "hepatovenous subsector",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部",
+        "order": 130
+    },
+    "FJ2563_BP50790_FMA7131_Esophagus": {
+        "conceptId": "FMA7131",
+        "name": "食道(Esophagus)",
+        "parentName": "organ with organ cavity",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Esophagus",
+        "region": "腹部",
+        "order": 200
+    },
+    "FJ3071_BP48676_FMA71867_Anterior superior tributary of right hepatic biliary tree": {
+        "conceptId": "FMA71867",
+        "name": "右肝胆管前上分枝(Anterior superior tributary of right hepatic biliary tree)",
+        "parentName": "segmental tributary of right hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部",
+        "order": 301
+    },
+    "FJ3072_BP48697_FMA71868_Anterior inferior tributary of right hepatic biliary tree": {
+        "conceptId": "FMA71868",
+        "name": "右肝胆管前下分枝(Anterior inferior tributary of right hepatic biliary tree)",
+        "parentName": "segmental tributary of right hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部",
+        "order": 302
+    },
+    "FJ3079_BP48880_FMA14668_Common hepatic duct": {
+        "conceptId": "FMA14668",
+        "name": "総肝管(Common hepatic duct)",
+        "parentName": "extrahepatic bile duct",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Bile ducts",
+        "region": "腹部",
+        "order": 309
+    },
+    "FJ3080_BP49167_FMA14539_Cystic duct": {
+        "conceptId": "FMA14539",
+        "name": "胆嚢管(Cystic duct)",
+        "parentName": "extrahepatic bile duct",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Bile ducts",
+        "region": "腹部",
+        "order": 310
+    },
+    "FJ3094_BP48352_FMA76903_Left duct of caudate lobe of liver": {
+        "conceptId": "FMA76903",
+        "name": "尾状葉左管(Left duct of caudate lobe of liver)",
+        "parentName": "segment of biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部",
+        "order": 313
+    },
+    "FJ3096_BP47929_FMA14670_Left hepatic duct": {
+        "conceptId": "FMA14670",
+        "name": "左肝管(Left hepatic duct)",
+        "parentName": "extrahepatic bile duct",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Bile ducts",
+        "region": "腹部",
+        "order": 315
+    },
+    "FJ1895_BP49293_FMA63120_Parenchyma of pancreas": {
+        "conceptId": "FMA63120",
+        "name": "膵実質(Parenchyma of pancreas)",
+        "parentName": "parenchyma",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Pancreas",
+        "region": "腹部",
+        "order": 320
+    },
+    "FJ1896_BP49251_FMA63103_Pancreatic duct tree": {
+        "conceptId": "FMA63103",
+        "name": "膵管樹(Pancreatic duct tree)",
+        "parentName": "organ component",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Pancreatic duct system",
+        "region": "腹部",
+        "order": 320
+    },
+    "FJ3103_BP48694_FMA71886_Medial inferior tributary of left hepatic biliary tree": {
+        "conceptId": "FMA71886",
+        "name": "左肝胆管内側下分枝(Medial inferior tributary of left hepatic biliary tree)",
+        "parentName": "segmental tributary of left hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部",
+        "order": 320
+    },
+    "FJ3104_BP48668_FMA71885_Medial superior tributary of left hepatic biliary tree": {
+        "conceptId": "FMA71885",
+        "name": "左肝胆管内側上分枝(Medial superior tributary of left hepatic biliary tree)",
+        "parentName": "segmental tributary of left hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部",
+        "order": 321
+    },
+    "FJ3108_BP48690_FMA71870_Posterior inferior tributary of right hepatic biliary tree": {
+        "conceptId": "FMA71870",
+        "name": "右肝胆管後下分枝(Posterior inferior tributary of right hepatic biliary tree)",
+        "parentName": "segmental tributary of right hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部",
+        "order": 324
+    },
+    "FJ3109_BP48691_FMA71869_Posterior superior tributary of right hepatic biliary tree": {
+        "conceptId": "FMA71869",
+        "name": "右肝胆管後上分枝(Posterior superior tributary of right hepatic biliary tree)",
+        "parentName": "segmental tributary of right hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部",
+        "order": 325
+    },
+    "FJ1883_BP48759_FMA71889_Caudate lobe tributary of left hepatic biliary tree": {
+        "conceptId": "FMA71889",
+        "name": "左肝胆道樹の尾状葉枝(Caudate lobe tributary of left hepatic biliary tree)",
+        "parentName": "segmental tributary of left hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部",
+        "order": 330
+    },
+    "FJ3123_BP48822_FMA14669_Right hepatic duct": {
+        "conceptId": "FMA14669",
+        "name": "右肝管(Right hepatic duct)",
+        "parentName": "extrahepatic bile duct",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Bile ducts",
+        "region": "腹部",
+        "order": 336
+    },
+    "FJ2564_BP49093_FMA7148_Stomach": {
+        "conceptId": "FMA7148",
+        "name": "胃(Stomach)",
+        "parentName": "organ with organ cavity",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Stomach",
+        "region": "腹部",
+        "order": 400
+    },
+    "FJ2565_BP50878_FMA14542_Appendix": {
+        "conceptId": "FMA14542",
+        "name": "虫垂(Appendix)",
+        "parentName": "organ with organ cavity",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Large intestine",
+        "region": "腹部",
+        "order": 400
+    },
+    "FJ2566_BP49137_FMA14545_Ascending colon": {
+        "conceptId": "FMA14545",
+        "name": "上行結腸(Ascending colon)",
+        "parentName": "segment of colon",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Large intestine",
+        "region": "腹部",
+        "order": 400
+    },
+    "FJ3396_BP48774_FMA14643_Mesentery of small intestine": {
+        "conceptId": "FMA14643",
+        "name": "小腸メセンテリー(Mesentery of small intestine)",
+        "parentName": "peritoneal mesentery",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Mesentery",
+        "region": "腹部",
+        "order": 602
+    },
+    "FJ3397_BP48715_FMA16549_Mesoappendix": {
+        "conceptId": "FMA16549",
+        "name": "虫垂間膜(Mesoappendix)",
+        "parentName": "mesentery of large intestine",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Mesentery",
+        "region": "腹部",
+        "order": 603
+    },
+    "FJ3398_BP48816_FMA14647_Transverse mesocolon": {
+        "conceptId": "FMA14647",
+        "name": "横行結腸間膜(Transverse mesocolon)",
+        "parentName": "mesentery of large intestine",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Mesentery",
+        "region": "腹部",
+        "order": 604
+    },
+    "FJ4526_BP49167_FMA14539_Cystic duct": {
+        "conceptId": "FMA14539",
+        "name": "胆嚢管(Cystic duct)",
+        "parentName": "extrahepatic bile duct",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary system",
+        "region": "腹部",
+        "order": 997
+    },
+    "FJ4649_BP48715_FMA16549_Mesoappendix": {
+        "conceptId": "FMA16549",
+        "name": "虫垂間膜(Mesoappendix)",
+        "parentName": "mesentery of large intestine",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Mesenteries",
+        "region": "腹部",
+        "order": 1005
+    },
+    "FJ4650_BP48774_FMA14643_Mesentery of small intestine": {
+        "conceptId": "FMA14643",
+        "name": "小腸メセンテリー(Mesentery of small intestine)",
+        "parentName": "peritoneal mesentery",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Mesenteries",
+        "region": "腹部",
+        "order": 1006
+    },
+    "FJ4651_BP48234_FMA19757_Posterior part of abdominal peritoneum": {
+        "conceptId": "FMA19757",
+        "name": "腹膜後部(Posterior part of abdominal peritoneum)",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Peritoneum",
+        "region": "腹部",
+        "order": 1007
+    },
+    "FJ2591_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2592_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2593_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2594_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2595_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2596_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2597_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2598_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2599_BP48953_FMA14966_Distal part of ileum": {
+        "conceptId": "FMA14966",
+        "name": "回腸遠位部(Distal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2600_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2601_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2602_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2603_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2604_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2605_BP48954_FMA14964_Proximal part of ileum": {
+        "conceptId": "FMA14964",
+        "name": "回腸近位部(Proximal part of ileum)",
+        "parentName": "zone of ileum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2606_BP48873_FMA16981_Proximal part of jejunum": {
+        "conceptId": "FMA16981",
+        "name": "空腸近位部(Proximal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2607_BP49048_FMA16982_Middle part of jejunum": {
+        "conceptId": "FMA16982",
+        "name": "空腸中間部(Middle part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2608_BP49048_FMA16982_Middle part of jejunum": {
+        "conceptId": "FMA16982",
+        "name": "空腸中間部(Middle part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2609_BP49048_FMA16982_Middle part of jejunum": {
+        "conceptId": "FMA16982",
+        "name": "空腸中間部(Middle part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2610_BP49048_FMA16982_Middle part of jejunum": {
+        "conceptId": "FMA16982",
+        "name": "空腸中間部(Middle part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2611_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2612_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2613_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2614_BP48969_FMA16983_Distal part of jejunum": {
+        "conceptId": "FMA16983",
+        "name": "空腸遠位部(Distal part of jejunum)",
+        "parentName": "zone of jejunum",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Small intestine",
+        "region": "腹部"
+    },
+    "FJ2816_BP48902_FMA13365_Caudate lobe of liver": {
+        "conceptId": "FMA13365",
+        "name": "尾状葉(Caudate lobe of liver)",
+        "parentName": "segment of liver",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部"
+    },
+    "FJ2817_BP49214_FMA7202_Gallbladder": {
+        "conceptId": "FMA7202",
+        "name": "胆嚢(Gallbladder)",
+        "parentName": "organ with organ cavity",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Gallbladder",
+        "region": "腹部"
+    },
+    "FJ2818_BP48259_FMA15739_Hepatovenous segment II": {
+        "conceptId": "FMA15739",
+        "name": "肝静脈区画II(Hepatovenous segment II)",
+        "parentName": "hepatovenous subsector",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部"
+    },
+    "FJ2819_BP48153_FMA15741_Hepatovenous segment III": {
+        "conceptId": "FMA15741",
+        "name": "肝静脈区画III(Hepatovenous segment III)",
+        "parentName": "region of anterior sector of left liver (in-vivo)",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部"
+    },
+    "FJ2820_BP48197_FMA15742_Hepatovenous segment IV": {
+        "conceptId": "FMA15742",
+        "name": "肝静脈区画IV(Hepatovenous segment IV)",
+        "parentName": "region of anterior sector of left liver (in-vivo)",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部"
+    },
+    "FJ2821_BP48135_FMA15743_Hepatovenous segment V": {
+        "conceptId": "FMA15743",
+        "name": "肝静脈区画V(Hepatovenous segment V)",
+        "parentName": "region of anterior sector of right liver (in-vivo)",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部"
+    },
+    "FJ2822_BP48000_FMA15744_Hepatovenous segment VI": {
+        "conceptId": "FMA15744",
+        "name": "肝静脈区画VI(Hepatovenous segment VI)",
+        "parentName": "region of posterior sector of right liver (in-vivo)",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部"
+    },
+    "FJ2823_BP48051_FMA15745_Hepatovenous segment VII": {
+        "conceptId": "FMA15745",
+        "name": "肝静脈区画VII(Hepatovenous segment VII)",
+        "parentName": "region of posterior sector of right liver (in-vivo)",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部"
+    },
+    "FJ2824_BP48056_FMA15746_Hepatovenous segment VIII": {
+        "conceptId": "FMA15746",
+        "name": "肝静脈区画VIII(Hepatovenous segment VIII)",
+        "parentName": "region of anterior sector of right liver (in-vivo)",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Liver",
+        "region": "腹部"
+    },
+    "FJ3088_BP48695_FMA71887_Lateral superior tributary of left hepatic biliary tree": {
+        "conceptId": "FMA71887",
+        "name": "左肝外側上枝胆管支(Lateral superior tributary of left hepatic biliary tree)",
+        "parentName": "segmental tributary of left hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部"
+    },
+    "FJ3089_BP48683_FMA71888_Lateral inferior tributary of left hepatic biliary tree": {
+        "conceptId": "FMA71888",
+        "name": "左肝外側下枝胆管支(Lateral inferior tributary of left hepatic biliary tree)",
+        "parentName": "segmental tributary of left hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部"
+    },
+    "FJ3090_BP48695_FMA71887_Lateral superior tributary of left hepatic biliary tree": {
+        "conceptId": "FMA71887",
+        "name": "左肝外側上枝胆管支(Lateral superior tributary of left hepatic biliary tree)",
+        "parentName": "segmental tributary of left hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部"
+    },
+    "FJ3105_BP48668_FMA71885_Medial superior tributary of left hepatic biliary tree": {
+        "conceptId": "FMA71885",
+        "name": "左肝内側上枝胆管支(Medial superior tributary of left hepatic biliary tree)",
+        "parentName": "segmental tributary of left hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部"
+    },
+    "FJ3110_BP48691_FMA71869_Posterior superior tributary of right hepatic biliary tree": {
+        "conceptId": "FMA71869",
+        "name": "右肝後上枝胆管支(Posterior superior tributary of right hepatic biliary tree)",
+        "parentName": "segmental tributary of right hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部"
+    }
+}

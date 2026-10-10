@@ -1,0 +1,535 @@
+:root {
+  --ui-ink: #172b3a;
+  --ui-muted: #607986;
+  --ui-line: #c8d5df;
+  --ui-primary: #23787c;
+  --ui-hover: #1b6165;
+  --ui-radius: 6px;
+}
+.delete-confirmation {
+  max-height: calc(100dvh - 32px);
+  overflow-y: auto;
+  width: min(540px, calc(100vw - 32px));
+  padding: 26px;
+  border: 1px solid var(--ui-line);
+  border-radius: 10px;
+  color: var(--ui-ink);
+  font-family: "Noto Sans JP", "Yu Gothic", sans-serif;
+}
+.delete-confirmation::backdrop {
+  background: rgb(16 35 48 / 0.5);
+}
+.delete-confirmation h2 {
+  font-size: 20px;
+  margin: 0 0 16px;
+}
+.delete-confirmation p {
+  line-height: 1.7;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.delete-target {
+  font-weight: 600;
+}
+.delete-warning {
+  color: #a53434;
+}
+.delete-confirmation .patient-actions {
+  justify-content: flex-end;
+  margin-top: 24px;
+}
+.delete-confirmation button {
+  font: inherit;
+  font-size: 13px;
+  padding: 10px 16px;
+  border: 1px solid var(--ui-line);
+  border-radius: 6px;
+  cursor: pointer;
+}
+.delete-confirmation button.record-secondary {
+  background: white;
+  color: var(--ui-ink);
+}
+.delete-confirmation button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.delete-confirmation button:focus-visible {
+  outline: 3px solid #7bb1b4;
+  outline-offset: 3px;
+}
+.app-shell button.ui-danger-secondary {
+  background: white;
+  border-color: #d8b2b2;
+  color: #a53434;
+}
+.app-shell button.ui-danger-secondary:hover {
+  background: #fff2f1;
+  border-color: #a53434;
+}
+.delete-confirmation button.ui-danger,
+.app-shell button.ui-danger {
+  background: #a53434;
+  border-color: #a53434;
+  color: white;
+}
+.delete-confirmation button.ui-danger:hover,
+.app-shell button.ui-danger:hover {
+  background: #842626;
+  border-color: #842626;
+}
+/* Imported last: shared controls cover every routed page, including dialogs. */
+:is(.app-shell, .login-workspace) {
+  font-family: "Noto Sans JP", "Yu Gothic", sans-serif;
+  color: var(--ui-ink);
+  line-height: 1.6;
+}
+:is(.app-shell, .login-workspace) :is(h1, h2, h3) {
+  color: var(--ui-ink);
+  line-height: 1.4;
+}
+.app-shell h1 {
+  font-size: 26px;
+}
+.app-shell h2 {
+  font-size: 20px;
+}
+:is(.app-shell, .login-workspace) :is(button, a) {
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  border: 1px solid var(--ui-line);
+  border-radius: var(--ui-radius);
+  padding: 9px 14px;
+  margin: 0;
+  text-decoration: none;
+  box-shadow: none;
+  line-height: 1.4;
+  transition:
+    background 0.15s,
+    border-color 0.15s;
+}
+:is(.app-shell, .login-workspace) button {
+  background: var(--ui-primary);
+  border-color: var(--ui-primary);
+  color: white;
+  cursor: pointer;
+}
+:is(.app-shell, .login-workspace) a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: white;
+  color: var(--ui-primary);
+  vertical-align: middle;
+  max-width: 100%;
+}
+:is(.app-shell, .login-workspace) button:hover {
+  background: var(--ui-hover);
+  border-color: var(--ui-hover);
+  box-shadow: none;
+  transform: none;
+}
+:is(.app-shell, .login-workspace) a:hover {
+  background: #edf5f5;
+  color: var(--ui-hover);
+  border-color: #98b9bc;
+  text-decoration: none;
+}
+:is(.app-shell, .login-workspace) :is(button, a):focus-visible {
+  outline: 3px solid #7bb1b4;
+  outline-offset: 3px;
+}
+:is(.app-shell, .login-workspace) button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.app-shell
+  button:is(
+    [class*="secondary"],
+    .menu-button,
+    .reservation-icon-button,
+    .reservation-text-button
+  ) {
+  color: var(--ui-ink);
+  background: white;
+  border-color: var(--ui-line);
+}
+.app-shell
+  button:is(
+    [class*="secondary"],
+    .menu-button,
+    .reservation-icon-button,
+    .reservation-text-button
+  ):hover {
+  background: #edf5f5;
+}
+.app-shell button[role="tab"] {
+  background: #edf3f6;
+  color: var(--ui-muted);
+  border-color: transparent;
+}
+.app-shell button[role="tab"][aria-selected="true"] {
+  background: var(--ui-primary);
+  color: white;
+  border-color: var(--ui-primary);
+}
+.app-shell .chart-main-tabs {
+  flex-wrap: wrap;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--ui-line);
+}
+.app-shell .chart-main-tabs button {
+  border-radius: var(--ui-radius);
+  padding: 10px 16px;
+}
+.app-shell .reservation-view-toggle button {
+  background: transparent;
+  color: var(--ui-muted);
+  border-color: transparent;
+}
+.app-shell .reservation-view-toggle button.is-active {
+  background: white;
+  color: var(--ui-primary);
+  border-color: var(--ui-line);
+}
+.app-shell .reservation-search input {
+  border: 0;
+  box-shadow: none;
+}
+.app-shell .reservation-search input:focus {
+  outline: none;
+}
+:is(.app-shell, .login-workspace)
+  :is(input, select, textarea):not(
+    :where([type="checkbox"], [type="radio"], [type="range"], [type="color"])
+  ) {
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--ui-ink);
+  background: white;
+  border: 1px solid var(--ui-line);
+  border-radius: var(--ui-radius);
+  padding: 10px 12px;
+  margin: 0;
+  min-width: 0;
+  box-shadow: none;
+}
+:is(.app-shell, .login-workspace) select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23607986' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  padding-right: 34px;
+}
+:is(.app-shell, .login-workspace) textarea {
+  resize: vertical;
+  min-height: 85px;
+}
+:is(.app-shell, .login-workspace) :is(input, select, textarea):focus {
+  outline: 2px solid #26878b;
+  outline-offset: 1px;
+  border-color: var(--ui-primary);
+  box-shadow: none;
+}
+:is(.app-shell, .login-workspace) input:read-only {
+  background: #f4f7f9;
+}
+:is(.app-shell, .login-workspace) :is(input, select, textarea):disabled {
+  background: #edf1f4;
+  color: #607986;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+:is(.app-shell, .login-workspace) input:is([type="checkbox"], [type="radio"]) {
+  width: 17px;
+  height: 17px;
+  accent-color: var(--ui-primary);
+  vertical-align: middle;
+  flex-shrink: 0;
+  margin: 0 6px 0 0;
+  cursor: pointer;
+}
+.app-shell input[type="range"] {
+  accent-color: var(--ui-primary);
+}
+.app-shell input[type="color"] {
+  width: 38px;
+  height: 32px;
+  padding: 3px;
+  border: 1px solid var(--ui-line);
+  border-radius: var(--ui-radius);
+  background: white;
+  cursor: pointer;
+}
+.app-shell input[type="file"]::file-selector-button {
+  background: #edf5f5;
+  color: var(--ui-primary);
+  border: 1px solid #bdd1d4;
+  border-radius: 5px;
+  padding: 7px 10px;
+  margin-right: 12px;
+  font: inherit;
+  cursor: pointer;
+}
+.app-shell .sidebar nav a {
+  display: block;
+  background: transparent;
+  color: #c2d1d9;
+  border-color: transparent;
+}
+.app-shell .sidebar nav a.active {
+  background: #274953;
+  color: white;
+  border-color: #426571;
+}
+.app-shell .sidebar nav a:hover {
+  background: #243d49;
+  color: white;
+}
+.app-shell .patient-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  font-size: 13px;
+}
+.app-shell .patient-table th {
+  text-align: left;
+  background: #eef3f6;
+  color: #456173;
+}
+.app-shell .patient-table td,
+.app-shell .patient-table th {
+  padding: 12px;
+  border-bottom: 1px solid #e5ecf0;
+}
+.app-shell .patient-table tbody tr:hover {
+  background: #f6fafb;
+}
+.app-shell .patient-row-actions {
+  gap: 7px;
+}
+.app-shell .patient-table .patient-row-actions a {
+  padding: 8px 10px;
+}
+.app-shell .chart-header-links,
+.app-shell .card-toolbar,
+.app-shell .pdf-buttons {
+  gap: 10px;
+}
+.app-shell .reservation-patient-hint {
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.app-shell .reservation-entry-title a {
+  font-size: 15px;
+}
+.app-shell .reservation-entry-money {
+  font-size: 12px;
+  color: var(--ui-muted);
+  margin: 10px 0 0;
+}
+.app-shell .reservation-fixed-patient {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+  background: #f4f7f9;
+  border: 1px solid #dce5eb;
+  border-radius: 6px;
+}
+.app-shell .reservation-fixed-patient small {
+  color: var(--ui-muted);
+}
+.app-shell .reservation-payment-editor {
+  border-top: 1px solid #dce5eb;
+  margin-top: 22px;
+  padding-top: 18px;
+}
+.app-shell .reservation-payment-summary {
+  color: var(--ui-primary);
+  font-size: 13px;
+  background: #edf5f5;
+  padding: 10px 12px;
+  border-radius: 6px;
+}
+.app-shell .reservation-payment-list {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0;
+}
+.app-shell .reservation-payment-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid #e3ebef;
+}
+.app-shell .reservation-payment-list span,
+.app-shell .reservation-payment-list small {
+  display: block;
+  font-size: 12px;
+  color: var(--ui-muted);
+  white-space: pre-wrap;
+}
+.learning-workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 18px;
+  align-items: start;
+  min-height: 0;
+}
+.anatomy-workspace {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+}
+.anatomy-controls {
+  max-height: 72dvh;
+  overflow: auto;
+  background: white;
+  border: 1px solid #dce5eb;
+  border-radius: 10px;
+  padding: 14px;
+  font-size: 12px;
+}
+.learning-content,
+.learning-navigation {
+  background: white;
+  border: 1px solid #dce5eb;
+  border-radius: 10px;
+  padding: 24px;
+  min-width: 0;
+}
+.learning-navigation {
+  padding: 16px;
+  max-height: 75dvh;
+  overflow: auto;
+}
+.app-shell .physio-sidebar .part-item,
+.app-shell .physio-sidebar .chapter-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  text-align: left;
+  padding: 12px;
+  margin: 10px 0 6px;
+  background: #edf3f6;
+  color: #375567;
+  border-color: #dce5eb;
+}
+.app-shell .physio-sidebar .chapter-item {
+  background: white;
+  margin-left: 8px;
+  width: calc(100% - 8px);
+  font-size: 12px;
+}
+.app-shell .physio-sidebar button[aria-expanded="true"] {
+  background: #e1eff0;
+  color: #216f75;
+  border-color: #b6d2d5;
+}
+.app-shell .physio-sidebar button:hover {
+  background: #edf5f5;
+}
+.physio-sidebar ul {
+  list-style: none;
+  padding: 0 0 0 14px;
+  margin: 8px 0;
+}
+.physio-sidebar li {
+  margin: 5px 0;
+}
+.app-shell .physio-sidebar .page-link {
+  width: 100%;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 400;
+}
+.physio-sidebar .chevron {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  transition: transform 0.2s;
+}
+.physio-sidebar .chevron.rotate-90 {
+  transform: rotate(90deg);
+}
+.physio-sidebar .chevron.rotate-0 {
+  transform: rotate(0deg);
+}
+.login-workspace {
+  width: min(460px, calc(100% - 32px));
+  margin: 12vh auto 0;
+  padding: 28px;
+  background: white;
+  border: 1px solid #dce5eb;
+  border-radius: 12px;
+}
+.login-workspace h2 {
+  font-size: 24px;
+  margin: 0 0 8px;
+}
+.login-workspace label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 13px;
+  color: #375567;
+  margin: 18px 0;
+}
+.login-workspace button {
+  width: 100%;
+  margin-top: 8px;
+}
+.login-workspace input,
+.learning-navigation input {
+  width: 100%;
+}
+.app-shell .reservation-modal .MuiAutocomplete-inputRoot input {
+  border: 0;
+  background: transparent;
+  padding: 7px 4px;
+}
+.app-shell .reservation-modal .MuiAutocomplete-inputRoot button {
+  padding: 4px;
+  background: transparent;
+  border: 0;
+  color: var(--ui-muted);
+}
+.app-shell .reservation-search input {
+  border: 0;
+  background: transparent;
+}
+@media (max-width: 1000px) {
+  .learning-workspace,
+  .anatomy-workspace {
+    grid-template-columns: 1fr;
+  }
+  .learning-navigation {
+    max-height: 450px;
+    order: -1;
+  }
+  .anatomy-controls {
+    max-height: 330px;
+  }
+}
+@media (max-width: 650px) {
+  .app-shell h1 {
+    font-size: 22px;
+  }
+  .learning-content {
+    padding: 16px;
+  }
+  .app-shell .reservation-payment-list li {
+    flex-wrap: wrap;
+  }
+}

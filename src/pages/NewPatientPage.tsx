@@ -6,9 +6,9 @@ import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 
 const NewPatientPage: React.FC = () => {
   return (
-    <div>
+    <div className="patient-workspace">
       <h2>
-        <FontAwesomeIcon icon={faUserPlus} style={{ marginRight: '0.5em', color: '#4A90E2' }} />
+        <FontAwesomeIcon icon={faUserPlus} style={{ marginRight: '0.5em', color: 'var(--ui-primary)' }} />
         新規患者登録
       </h2>
       <PatientForm />

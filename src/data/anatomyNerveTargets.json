@@ -1,0 +1,74 @@
+[
+  {
+    "name": "坐骨神経",
+    "english": "sciatic nerve",
+    "region": "下肢",
+    "aliases": []
+  },
+  {
+    "name": "大腿神経",
+    "english": "femoral nerve",
+    "region": "下肢",
+    "aliases": []
+  },
+  {
+    "name": "脛骨神経",
+    "english": "tibial nerve",
+    "region": "下肢",
+    "aliases": []
+  },
+  {
+    "name": "総腓骨神経",
+    "english": "common fibular nerve",
+    "region": "下肢",
+    "aliases": ["common peroneal nerve"]
+  },
+  {
+    "name": "閉鎖神経",
+    "english": "obturator nerve",
+    "region": "下肢",
+    "aliases": []
+  },
+  {
+    "name": "伏在神経",
+    "english": "saphenous nerve",
+    "region": "下肢",
+    "aliases": []
+  },
+  {
+    "name": "正中神経",
+    "english": "median nerve",
+    "region": "上肢",
+    "aliases": []
+  },
+  {
+    "name": "尺骨神経",
+    "english": "ulnar nerve",
+    "region": "上肢",
+    "aliases": []
+  },
+  {
+    "name": "橈骨神経",
+    "english": "radial nerve",
+    "region": "上肢",
+    "aliases": []
+  },
+  {
+    "name": "筋皮神経",
+    "english": "musculocutaneous nerve",
+    "region": "上肢",
+    "aliases": []
+  },
+  {
+    "name": "腋窩神経",
+    "english": "axillary nerve",
+    "region": "上肢",
+    "aliases": []
+  },
+  {
+    "name": "肩甲上神経",
+    "english": "suprascapular nerve",
+    "region": "上肢",
+    "aliases": []
+  }
+]

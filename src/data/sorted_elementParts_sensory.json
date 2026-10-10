@@ -1,0 +1,27 @@
+{
+  "FJ2811_BP48275_FMA52781_External ear": {
+    "conceptId": "FMA52781",
+    "name": "外耳(External ear)",
+    "parentName": "subdivision of auriculotemporal part of head",
+    "majorCategory": "Sensory system",
+    "middleCategory": "Ear",
+    "region": "頭部"
+  },
+  "FJ1382_BP49348_FMA58828_Right vitreous body": {
+    "conceptId": "FMA58828",
+    "name": "右硝子体(Right vitreous body)",
+    "parentName": "vitreous body",
+    "majorCategory": "Eye (Accessory structure)",
+    "middleCategory": "Eye (Vitreous body)",
+    "order": 140,
+    "region": "頭部"
+  },
+    "FJ1368_BP48849_FMA58271_Right sclera": {
+    "conceptId": "FMA58271",
+    "name": "右強膜(Right sclera)",
+    "parentName": "sclera",
+    "majorCategory": "Sensory system",
+    "middleCategory": "Eye structures",
+    "region": "頭部"
+  }
+}

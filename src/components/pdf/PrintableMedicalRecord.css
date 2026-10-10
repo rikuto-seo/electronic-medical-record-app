@@ -1,107 +1,21 @@
-/* src/components/pdf/PrintableMedicalRecord.css */
-
-/* 全体 */
-#print-area {
-  width: 210mm;
-  min-height: 297mm;
-  padding: 20mm;
-  margin: 0 auto;
-  box-sizing: border-box;
-  font-family: 'Noto Serif JP', serif;
-  background-color: #fff;
-  color: #000;
-}
-
-/* 見出し */
-.print-record h1 {
-  text-align: center;
-  font-size: 24px;
-  margin-bottom: 20px;
-  border-bottom: 2px solid #000;
-  padding-bottom: 4px;
-}
-
-/* 各セクション */
-.section {
-  margin-bottom: 18px;
-  page-break-inside: avoid;
-}
-
-/* セクションタイトル */
-.section>h2 {
-  font-size: 16px;
-  font-weight: bold;
-  margin-bottom: 8px;
-  border-left: 4px solid #333;
-  padding-left: 6px;
-}
-
-/* 項目 */
-.field {
-  display: flex;
-  margin-bottom: 6px;
-}
-
-.field>strong {
-  width: 30%;
-  font-weight: bold;
-  color: #333;
-}
-
-.field-value {
-  width: 70%;
-  border: 1px solid #888;
-  padding: 6px 8px;
-  white-space: pre-wrap;
-  font-size: 13px;
-  color: #111;
-}
-
-/* 緊急連絡先などアイコン付きは視覚的余白調整 */
-.section h2::before {
-  content: '';
-  margin-right: 4px;
-}
-
-/* 署名 */
-.signature-area {
-  margin-top: 30px;
-  text-align: right;
-  font-size: 14px;
-  font-style: italic;
-  border-top: 1px solid #000;
-  padding-top: 6px;
-}
-
-/* 印刷調整 */
-@media print {
-  body {
-    margin: 0;
-    background: #fff;
-  }
-
-  .print-hidden {
-    display: none !important;
-  }
-}
-
-.meta-info {
-  position: relative;
-  text-align: right;
-  font-size: 0.9rem;
-  color: #555;
-  margin-bottom: 1rem;
-}
-
-/* 各ページの分離 */
-.page {
-  page-break-after: always;
-  break-after: page;
-  padding-bottom: 10mm;
-}
-
-/* 最後のページでは改ページしない */
-.page:last-child {
-  page-break-after: auto;
-  break-after: auto;
-}
+.pdf-workspace { color: #172b3a; }
+.pdf-controls { max-width: 900px; margin: 0 auto 28px; background: white; border: 1px solid #dce5eb; border-radius: 10px; padding: 22px; }
+.pdf-controls h2 { margin-top: 0; }
+.pdf-help,.pdf-meta { color: #607986; font-size: 12px; line-height: 1.7; }
+.pdf-controls .pdf-check { display: flex; align-items: center; gap: 9px; font-size: 14px; margin: 8px 0; font-weight: 400; }
+.pdf-controls input[type=checkbox] { width: 17px; height: 17px; margin: 0; flex-shrink: 0; }
+.pdf-record-selector { margin: 18px 0; border: 1px solid #dce5eb; border-radius: 6px; max-height: 280px; overflow: auto; }
+.pdf-record-selector legend { font-size: 13px; }
+.pdf-error { padding: 12px; background: #fff2f1; color: #9e302b; border-radius: 6px; }
+.pdf-buttons { display: flex; flex-wrap: wrap; align-items: center; gap: 18px; }
+.pdf-buttons button { background: #1d777b; padding: 10px 16px; font-size: 14px; box-shadow: none; margin: 0; }
+.pdf-buttons button:disabled { opacity: .5; }
+.pdf-preview-sheet { background: white; max-width: 794px; margin: 20px auto; padding: 40px 46px; border: 1px solid #dce5eb; box-shadow: 0 3px 12px #172b3a09; }
+.pdf-preview-sheet > h2 { text-align: left; font-size: 24px; color: #172b3a; border-bottom: 2px solid #27777c; padding-bottom: 12px; margin-top: 0; }
+.pdf-section { margin: 20px 0; }
+.pdf-section h3 { font-size: 14px; color: #18404e; padding: 8px 12px; background: #e7eff2; margin: 0; }
+.pdf-row { display: flex; }
+.pdf-cell { flex: 1; min-width: 0; display: grid; grid-template-columns: 30% 70%; border: 1px solid #ccd7dd; font-size: 12px; }
+.pdf-cell strong { background: #f7f9fa; font-size: 11px; padding: 8px 10px; color: #4d606a; }
+.pdf-cell span { padding: 8px 10px; white-space: pre-wrap; overflow-wrap: anywhere; }
+@media(max-width:650px) { .pdf-preview-sheet { padding: 22px 12px; } .pdf-row { flex-direction: column; } .pdf-controls { padding: 16px; } }

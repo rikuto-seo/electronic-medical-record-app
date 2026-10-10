@@ -1,0 +1,420 @@
+.anatomy-tool {
+  min-width: 0;
+}
+.anatomy-search-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background: white;
+  border: 1px solid var(--ui-line);
+  border-radius: 10px;
+}
+.anatomy-search-bar > label {
+  display: grid;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  min-width: 135px;
+}
+.anatomy-search-bar > .anatomy-search {
+  flex: 1;
+  min-width: min(280px, 100%);
+}
+.anatomy-search-bar > p {
+  flex-basis: 100%;
+  margin: 0;
+}
+.anatomy-list-title {
+  margin: 0;
+  font-size: 16px;
+}
+.anatomy-region-search {
+  display: grid;
+  gap: 6px;
+  padding: 8px 4px;
+  font-size: 11px;
+}
+.anatomy-coverage {
+  padding: 14px 16px;
+  margin-bottom: 16px;
+  background: #fff8e9;
+  border: 1px solid #e4d6b9;
+  border-radius: 10px;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.anatomy-coverage p {
+  margin: 5px 0;
+}
+.anatomy-coverage summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.anatomy-coverage ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  padding-left: 20px;
+}
+.anatomy-coverage li span {
+  margin-left: 8px;
+  color: #7e6436;
+  font-size: 10px;
+}
+.anatomy-preset-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: flex-end;
+  padding: 16px;
+  margin-bottom: 16px;
+  background: white;
+  border: 1px solid var(--ui-line);
+  border-radius: 10px;
+}
+.anatomy-preset-bar label {
+  display: grid;
+  gap: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  min-width: 145px;
+}
+.anatomy-preset-bar select {
+  min-height: 38px;
+}
+.anatomy-tool .anatomy-workspace {
+  grid-template-columns: 300px minmax(0, 1fr);
+}
+.anatomy-tool .anatomy-controls {
+  position: sticky;
+  top: 16px;
+  max-height: 84dvh;
+  padding: 16px;
+}
+.anatomy-main {
+  min-width: 0;
+}
+.anatomy-search {
+  display: grid;
+  gap: 7px;
+  font-weight: 600;
+}
+.anatomy-help {
+  color: var(--ui-muted);
+  font-size: 12px;
+  line-height: 1.7;
+}
+.anatomy-list-actions {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.anatomy-system {
+  border-top: 1px solid #e3ebef;
+  padding: 12px 0 4px;
+}
+.anatomy-system-heading {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin-bottom: 8px;
+}
+.anatomy-system-heading strong {
+  flex: 1;
+  font-size: 13px;
+}
+.anatomy-tool input[type="color"] {
+  width: 32px;
+  height: 29px;
+  padding: 2px;
+  min-height: 0;
+  flex: 0 0 auto;
+  border: 1px solid var(--ui-line);
+  border-radius: 5px;
+  background: white;
+}
+.anatomy-controls details > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 8px 9px;
+  border-radius: 5px;
+  background: #f5f8fa;
+  margin: 4px 0;
+  font-weight: 600;
+}
+.anatomy-controls details > summary::before {
+  content: "›";
+  margin-right: 7px;
+}
+.anatomy-controls details[open] > summary::before {
+  content: "⌄";
+}
+.anatomy-controls summary > span {
+  flex: 1;
+}
+.anatomy-controls summary > small {
+  color: var(--ui-muted);
+  font-weight: 400;
+}
+.anatomy-select-region {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+  padding: 8px 4px;
+  font-size: 11px;
+  color: var(--ui-muted);
+}
+.anatomy-part-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px;
+  border-radius: 6px;
+}
+.anatomy-part-row.is-focused {
+  background: #e5f1f0;
+}
+.anatomy-part-row > label {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  gap: 7px;
+  min-width: 0;
+  font-size: 12px;
+  line-height: 1.5;
+  cursor: pointer;
+}
+.anatomy-part-row label span {
+  overflow-wrap: anywhere;
+}
+.anatomy-part-row label small {
+  display: block;
+  color: #a53434;
+}
+.anatomy-tool button.anatomy-focus-button {
+  padding: 4px 7px;
+  min-width: 29px;
+  height: 29px;
+  background: white;
+  color: var(--ui-primary);
+  font-size: 15px;
+  border-color: #c8d5df;
+  flex: 0 0 auto;
+}
+.anatomy-tool button.anatomy-focus-button[aria-pressed="true"] {
+  background: var(--ui-primary);
+  color: white;
+}
+.anatomy-view-controls {
+  display: grid;
+  gap: 12px;
+  background: white;
+  padding: 15px;
+  border: 1px solid var(--ui-line);
+  border-radius: 10px 10px 0 0;
+}
+.anatomy-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  align-items: center;
+}
+.anatomy-actions label {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 12px;
+}
+.anatomy-tool button[aria-pressed="false"] {
+  background: white;
+  color: var(--ui-primary);
+  border-color: var(--ui-line);
+}
+.anatomy-transparency {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  align-items: center;
+  font-size: 12px;
+}
+.anatomy-transparency > label:first-child {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-weight: 600;
+}
+.anatomy-transparency input[type="range"] {
+  width: 130px;
+  height: 25px;
+  accent-color: var(--ui-primary);
+}
+.anatomy-transparency small {
+  color: var(--ui-muted);
+}
+.anatomy-canvas-wrap {
+  height: clamp(380px, 58dvh, 680px);
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--ui-line);
+  border-top: 0;
+  border-radius: 0 0 10px 10px;
+  background: #eef3f5;
+}
+.anatomy-progress {
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+  pointer-events: none;
+  background: rgb(255 255 255 / 0.9);
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 11px;
+  color: #48616e;
+}
+.anatomy-label {
+  display: block;
+  background: rgb(255 255 255 / 0.94);
+  padding: 5px 8px;
+  border: 1px solid #97b1b8;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgb(20 40 50 / 0.1);
+  font-size: 11px;
+  color: #172b3a;
+  white-space: nowrap;
+}
+.anatomy-empty {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  text-align: center;
+  background: #eef3f5;
+}
+.anatomy-empty p {
+  font-size: 13px;
+  color: var(--ui-muted);
+}
+.anatomy-focus-list,
+.anatomy-info {
+  background: white;
+  border: 1px solid var(--ui-line);
+  border-radius: 10px;
+  padding: 16px 18px;
+  margin-top: 14px;
+}
+.anatomy-focus-list h2,
+.anatomy-info h2 {
+  margin: 0 0 10px;
+  font-size: 17px;
+}
+.anatomy-focus-list h2 small {
+  color: var(--ui-muted);
+  font-size: 12px;
+  font-weight: 400;
+}
+.anatomy-focus-chip {
+  display: inline-flex;
+  gap: 2px;
+}
+.anatomy-info-heading {
+  display: flex;
+  gap: 12px;
+  align-items: start;
+  justify-content: space-between;
+}
+.anatomy-info-heading p {
+  margin: 0;
+  color: var(--ui-muted);
+  font-size: 12px;
+}
+.anatomy-info dl {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  margin: 16px 0;
+  font-size: 12px;
+}
+.anatomy-info dl > div {
+  display: flex;
+  gap: 8px;
+}
+.anatomy-info dt {
+  color: var(--ui-muted);
+}
+.anatomy-info dd {
+  margin: 0;
+}
+.anatomy-info > p {
+  line-height: 1.8;
+  font-size: 13px;
+}
+.anatomy-load-errors {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 14px;
+  background: #fff3ef;
+  border: 1px solid #e2b6a9;
+  border-radius: 8px;
+  font-size: 12px;
+}
+.anatomy-load-errors ul {
+  flex-basis: 100%;
+  margin: 0;
+  padding-left: 20px;
+}
+.anatomy-credit {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-top: 22px;
+  font-size: 10px;
+  color: var(--ui-muted);
+}
+@media (max-width: 1000px) {
+  .anatomy-tool .anatomy-workspace {
+    grid-template-columns: 260px minmax(0, 1fr);
+    gap: 12px;
+  }
+  .anatomy-transparency {
+    display: grid;
+  }
+}
+@media (max-width: 760px) {
+  .anatomy-tool .anatomy-workspace {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .anatomy-main {
+    grid-row: 1;
+  }
+  .anatomy-tool .anatomy-controls {
+    position: static;
+    max-height: 430px;
+  }
+  .anatomy-preset-bar label {
+    min-width: 110px;
+    flex: 1;
+  }
+  .anatomy-preset-bar {
+    padding: 12px;
+  }
+  .anatomy-actions button {
+    flex-grow: 1;
+  }
+  .anatomy-canvas-wrap {
+    height: 440px;
+    max-height: 64dvh;
+    min-height: 320px;
+  }
+}

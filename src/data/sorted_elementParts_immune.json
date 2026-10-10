@@ -1,0 +1,11 @@
+{
+  "FJ2561_BP49182_FMA7196_Spleen": {
+    "conceptId": "FMA7196",
+    "name": "脾臓(Spleen)",
+    "parentName": "corticomedullary organ",
+    "majorCategory": "Lymphatic system",
+    "middleCategory": "Spleen",
+    "region": "腹部",
+    "order": 400
+  }
+}

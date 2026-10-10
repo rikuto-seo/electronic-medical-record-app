@@ -1,0 +1,4929 @@
+{
+    "FJ4654_BP49115_FMA50994_Right great cerebral vein": {
+        "conceptId": "FMA50994",
+        "name": "右大大脳静脈(Right great cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1008
+    },
+    "FJ4679_BP45187_FMA50986_Inferior cerebral vein": {
+        "conceptId": "FMA50986",
+        "name": "下大脳静脈(Inferior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1009
+    },
+    "FJ4680_BP44869_FMA51307_Right anterior cerebral vein": {
+        "conceptId": "FMA51307",
+        "name": "右前大脳静脈(Right anterior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1010
+    },
+    "FJ4681_BP44869_FMA51307_Right anterior cerebral vein": {
+        "conceptId": "FMA51307",
+        "name": "右前大脳静脈(Right anterior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1011
+    },
+    "FJ4682_BP44869_FMA51307_Right anterior cerebral vein": {
+        "conceptId": "FMA51307",
+        "name": "右前大脳静脈(Right anterior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1012
+    },
+    "FJ4683_BP44869_FMA51307_Right anterior cerebral vein": {
+        "conceptId": "FMA51307",
+        "name": "右前大脳静脈(Right anterior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1013
+    },
+    "FJ4684_BP44869_FMA51307_Right anterior cerebral vein": {
+        "conceptId": "FMA51307",
+        "name": "右前大脳静脈(Right anterior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1014
+    },
+    "FJ4685_BP44869_FMA51307_Right anterior cerebral vein": {
+        "conceptId": "FMA51307",
+        "name": "右前大脳静脈(Right anterior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1015
+    },
+    "FJ4686_BP45187_FMA50986_Inferior cerebral vein": {
+        "conceptId": "FMA50986",
+        "name": "下大脳静脈(Inferior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1016
+    },
+    "FJ4687_BP48287_FMA71578_Set of inferior veins of cerebellar hemisphere": {
+        "conceptId": "FMA71578",
+        "name": "小脳半球下部静脈群(Set of inferior veins of cerebellar hemisphere)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1017
+    },
+    "FJ4688_BP48287_FMA71578_Set of inferior veins of cerebellar hemisphere": {
+        "conceptId": "FMA71578",
+        "name": "小脳半球下部静脈群(Set of inferior veins of cerebellar hemisphere)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1018
+    },
+    "FJ4689_BP48287_FMA71578_Set of inferior veins of cerebellar hemisphere": {
+        "conceptId": "FMA71578",
+        "name": "小脳半球下部静脈群(Set of inferior veins of cerebellar hemisphere)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1019
+    },
+    "FJ4690_BP44861_FMA51004_Right internal cerebral vein": {
+        "conceptId": "FMA51004",
+        "name": "右内大脳静脈(Right internal cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1020
+    },
+    "FJ4691_BP45320_FMA51378_Right interpeduncular vein": {
+        "conceptId": "FMA51378",
+        "name": "右脚間静脈(Right interpeduncular vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1021
+    },
+    "FJ4692_BP45320_FMA51378_Right interpeduncular vein": {
+        "conceptId": "FMA51378",
+        "name": "右脚間静脈(Right interpeduncular vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1022
+    },
+    "FJ4693_BP48406_FMA71571_Set of lateral direct veins of lateral ventricle": {
+        "conceptId": "FMA71571",
+        "name": "側脳室外側直静脈群(Set of lateral direct veins of lateral ventricle)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1023
+    },
+    "FJ4694_BP49215_FMA50978_Superior cerebral vein": {
+        "conceptId": "FMA50978",
+        "name": "上大脳静脈(Superior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1024
+    },
+    "FJ4695_BP44902_FMA51240_Right superior anastomotic vein": {
+        "conceptId": "FMA51240",
+        "name": "右上交通静脈(Right superior anastomotic vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1025
+    },
+    "FJ4696_BP49215_FMA50978_Superior cerebral vein": {
+        "conceptId": "FMA50978",
+        "name": "上大脳静脈(Superior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1026
+    },
+    "FJ4697_BP49215_FMA50978_Superior cerebral vein": {
+        "conceptId": "FMA50978",
+        "name": "上大脳静脈(Superior cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1027
+    },
+    "FJ4698_BP49384_FMA52452_Right superior cerebellar vein": {
+        "conceptId": "FMA52452",
+        "name": "右上小脳静脈(Right superior cerebellar vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1028
+    },
+    "FJ4699_BP49384_FMA52452_Right superior cerebellar vein": {
+        "conceptId": "FMA52452",
+        "name": "右上小脳静脈(Right superior cerebellar vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1029
+    },
+    "FJ4700_BP49384_FMA52452_Right superior cerebellar vein": {
+        "conceptId": "FMA52452",
+        "name": "右上小脳静脈(Right superior cerebellar vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1030
+    },
+    "FJ4701_BP45059_FMA51400_Right transverse medullary vein": {
+        "conceptId": "FMA51400",
+        "name": "右延髄横静脈(Right transverse medullary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1031
+    },
+    "FJ4702_BP44896_FMA51355_Right transverse pontine vein": {
+        "conceptId": "FMA51355",
+        "name": "右横橋静脈(Right transverse pontine vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1032
+    },
+    "FJ4704_BP47802_FMA50784_Sinus confluence": {
+        "conceptId": "FMA50784",
+        "name": "静脈洞交会(Sinus confluence)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1033
+    },
+    "FJ4705_BP49597_FMA50769_Straight sinus": {
+        "conceptId": "FMA50769",
+        "name": "直静脈洞(Straight sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1034
+    },
+    "FJ4707_BP45028_FMA50774_Anterior intercavernous sinus": {
+        "conceptId": "FMA50774",
+        "name": "前海綿間静脈洞(Anterior intercavernous sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1036
+    },
+    "FJ4708_BP45350_FMA51390_Anteromedian medullary vein": {
+        "conceptId": "FMA51390",
+        "name": "前正中延髄静脈(Anteromedian medullary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1037
+    },
+    "FJ4709_BP45190_FMA51346_Anteromedian pontine vein": {
+        "conceptId": "FMA51346",
+        "name": "前正中橋静脈(Anteromedian pontine vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1038
+    },
+    "FJ4714_BP50105_FMA50783_Basilar venous plexus": {
+        "conceptId": "FMA50783",
+        "name": "脳底静脈叢(Basilar venous plexus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1041
+    },
+    "FJ4716_BP49373_FMA50768_Inferior sagittal sinus": {
+        "conceptId": "FMA50768",
+        "name": "下矢状静脈洞(Inferior sagittal sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1043
+    },
+    "FJ4717_BP45559_FMA51231_Inferior vein of vermis": {
+        "conceptId": "FMA51231",
+        "name": "小脳虫部下静脈(Inferior vein of vermis)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1044
+    },
+    "FJ4979_BP44886_FMA50775_Posterior intercavernous sinus": {
+        "conceptId": "FMA50775",
+        "name": "後海綿間静脈洞(Posterior intercavernous sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1050
+    },
+    "FJ4980_BP45112_FMA51394_Posteromedian medullary vein": {
+        "conceptId": "FMA51394",
+        "name": "後正中延髄静脈(Posteromedian medullary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1051
+    },
+    "FJ4985_BP49103_FMA51884_Right central retinal vein": {
+        "conceptId": "FMA51884",
+        "name": "右中心網膜静脈(Right central retinal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of eye",
+        "region": "頭部",
+        "order": 1056
+    },
+    "FJ4988_BP44823_FMA51311_Right deep middle cerebral vein": {
+        "conceptId": "FMA51311",
+        "name": "右深中大脳静脈(Right deep middle cerebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1059
+    },
+    "FJ4990_BP50268_FMA50876_Right facial vein": {
+        "conceptId": "FMA50876",
+        "name": "右顔面静脈(Right facial vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of face",
+        "region": "頭部",
+        "order": 1061
+    },
+    "FJ5194_BP49372_FMA51402_Right cavernous sinus": {
+        "conceptId": "FMA51402",
+        "name": "右海綿静脈洞(Right cavernous sinus)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous sinuses",
+        "region": "頭部"
+    },
+    "FJ5195_BP49372_FMA51402_Right cavernous sinus": {
+        "conceptId": "FMA51402",
+        "name": "右海綿静脈洞(Right cavernous sinus)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous sinuses",
+        "region": "頭部"
+    },
+    "FJ5196_BP49372_FMA51402_Right cavernous sinus": {
+        "conceptId": "FMA51402",
+        "name": "右海綿静脈洞(Right cavernous sinus)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous sinuses",
+        "region": "頭部"
+    },
+    "FJ5211_BP45564_FMA51230_Superior vein of vermis": {
+        "conceptId": "FMA51230",
+        "name": "小脳虫部上静脈(Superior vein of vermis)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部"
+    },
+    "FJ4991_BP48302_FMA70847_Set of inferior palpebral veins": {
+        "conceptId": "FMA70847",
+        "name": "下眼瞼静脈群(Set of inferior palpebral veins)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of eye",
+        "region": "頭部",
+        "order": 1062
+    },
+    "FJ4992_BP49372_FMA51402_Right cavernous sinus": {
+        "conceptId": "FMA51402",
+        "name": "右海綿静脈洞(Right cavernous sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1063
+    },
+    "FJ4994_BP49294_FMA51902_Right lacrimal vein": {
+        "conceptId": "FMA51902",
+        "name": "右涙静脈(Right lacrimal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of eye",
+        "region": "頭部",
+        "order": 1065
+    },
+    "FJ4995_BP44733_FMA51016_Lateral vein of right lateral ventricle": {
+        "conceptId": "FMA51016",
+        "name": "右側脳室外側静脈(Lateral vein of right lateral ventricle)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1066
+    },
+    "FJ4996_BP50299_FMA52565_Right lingual vein": {
+        "conceptId": "FMA52565",
+        "name": "右舌静脈(Right lingual vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of tongue",
+        "region": "頭部",
+        "order": 1067
+    },
+    "FJ4997_BP49375_FMA52005_Right mastoid emissary vein": {
+        "conceptId": "FMA52005",
+        "name": "右乳突導出静脈(Right mastoid emissary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Emissary veins",
+        "region": "頭部",
+        "order": 1068
+    },
+    "FJ4998_BP44737_FMA51018_Medial vein of right lateral ventricle": {
+        "conceptId": "FMA51018",
+        "name": "右側脳室内側静脈(Medial vein of right lateral ventricle)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1069
+    },
+    "FJ5000_BP49283_FMA51882_Right nasofrontal vein": {
+        "conceptId": "FMA51882",
+        "name": "右鼻前頭静脈(Right nasofrontal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of face",
+        "region": "頭部",
+        "order": 1071
+    },
+    "FJ5001_BP49085_FMA52003_Right parietal emissary vein": {
+        "conceptId": "FMA52003",
+        "name": "右頭頂導出静脈(Right parietal emissary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Emissary veins",
+        "region": "頭部",
+        "order": 1072
+    },
+    "FJ5002_BP49375_FMA52005_Right mastoid emissary vein": {
+        "conceptId": "FMA52005",
+        "name": "右乳突導出静脈(Right mastoid emissary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Emissary veins",
+        "region": "頭部",
+        "order": 1073
+    },
+    "FJ5004_BP49505_FMA51123_Right pterygoid plexus": {
+        "conceptId": "FMA51123",
+        "name": "右翼突静脈叢(Right pterygoid plexus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Venous plexuses",
+        "region": "頭部",
+        "order": 1075
+    },
+    "FJ5005_BP50679_FMA51293_Right sigmoid sinus": {
+        "conceptId": "FMA51293",
+        "name": "右S状静脈洞(Right sigmoid sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1076
+    },
+    "FJ5007_BP44902_FMA51240_Right superior anastomotic vein": {
+        "conceptId": "FMA51240",
+        "name": "右上吻合静脈(Right superior anastomotic vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1078
+    },
+    "FJ5009_BP49738_FMA50908_Right superior palpebral vein": {
+        "conceptId": "FMA50908",
+        "name": "右上眼瞼静脈(Right superior palpebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of eye",
+        "region": "頭部",
+        "order": 1080
+    },
+    "FJ5010_BP49372_FMA51402_Right cavernous sinus": {
+        "conceptId": "FMA51402",
+        "name": "右海綿静脈洞(Right cavernous sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1081
+    },
+    "FJ5012_BP49513_FMA50905_Right supra-orbital vein": {
+        "conceptId": "FMA50905",
+        "name": "右眼窩上静脈(Right supra-orbital vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of eye",
+        "region": "頭部",
+        "order": 1083
+    },
+    "FJ5013_BP49726_FMA50900_Right supratrochlear vein": {
+        "conceptId": "FMA50900",
+        "name": "右滑車上静脈(Right supratrochlear vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of eye",
+        "region": "頭部",
+        "order": 1084
+    },
+    "FJ5020_BP49907_FMA50895_Right angular vein": {
+        "conceptId": "FMA50895",
+        "name": "右角静脈(Right angular vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of face",
+        "region": "頭部",
+        "order": 1091
+    },
+    "FJ5030_BP44736_FMA51012_Anterior vein of right septum pellucidum": {
+        "conceptId": "FMA51012",
+        "name": "右透明中隔前静脈(Anterior vein of right septum pellucidum)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1101
+    },
+    "FJ5034_BP45052_FMA51635_Right anterolateral pontine vein": {
+        "conceptId": "FMA51635",
+        "name": "右前外側橋静脈(Right anterolateral pontine vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Brainstem veins",
+        "region": "頭部",
+        "order": 1105
+    },
+    "FJ5046_BP44892_FMA50991_Right basal vein": {
+        "conceptId": "FMA50991",
+        "name": "右基底静脈(Right basal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1118
+    },
+    "FJ5064_BP49372_FMA51402_Right cavernous sinus": {
+        "conceptId": "FMA51402",
+        "name": "右海綿静脈洞(Right cavernous sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1127
+    },
+    "FJ5075_BP49933_FMA50831_Right deep lingual vein": {
+        "conceptId": "FMA50831",
+        "name": "右深舌静脈(Right deep lingual vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of tongue",
+        "region": "頭部",
+        "order": 1138
+    },
+    "FJ5083_BP49426_FMA50911_Right external nasal vein": {
+        "conceptId": "FMA50911",
+        "name": "右外鼻静脈(Right external nasal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of face",
+        "region": "頭部",
+        "order": 1146
+    },
+    "FJ5090_BP49661_FMA51242_Right inferior anastomotic vein": {
+        "conceptId": "FMA51242",
+        "name": "右下吻合静脈(Right inferior anastomotic vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1153
+    },
+    "FJ5091_BP49661_FMA51242_Right inferior anastomotic vein": {
+        "conceptId": "FMA51242",
+        "name": "右下吻合静脈(Right inferior anastomotic vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1154
+    },
+    "FJ5093_BP44826_FMA51001_Right inferior choroid vein": {
+        "conceptId": "FMA51001",
+        "name": "右下脈絡叢静脈(Right inferior choroid vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1156
+    },
+    "FJ5096_BP45040_FMA52542_Right inferior labial vein": {
+        "conceptId": "FMA52542",
+        "name": "右下唇静脈(Right inferior labial vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of lips",
+        "region": "頭部",
+        "order": 1159
+    },
+    "FJ5098_BP50414_FMA51291_Right inferior petrosal sinus": {
+        "conceptId": "FMA51291",
+        "name": "右下岩静脈洞(Right inferior petrosal sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1161
+    },
+    "FJ5101_BP45559_FMA51231_Inferior vein of vermis": {
+        "conceptId": "FMA51231",
+        "name": "虫部下静脈(Inferior vein of vermis)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1164
+    },
+    "FJ5123_BP45057_FMA77908_Trunk of right maxillary vein": {
+        "conceptId": "FMA77908",
+        "name": "右上顎静脈幹(Trunk of right maxillary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of face",
+        "region": "頭部",
+        "order": 1185
+    },
+    "FJ5136_BP49558_FMA50936_Right middle temporal vein": {
+        "conceptId": "FMA50936",
+        "name": "右中側頭静脈(Right middle temporal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of temporal region",
+        "region": "頭部",
+        "order": 1197
+    },
+    "FJ5141_BP48744_FMA52113_Right occipital diploic vein": {
+        "conceptId": "FMA52113",
+        "name": "右後頭骨髄静脈(Right occipital diploic vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Diploic veins",
+        "region": "頭部",
+        "order": 1202
+    },
+    "FJ5174_BP44738_FMA51020_Posterior vein of right septum pellucidum": {
+        "conceptId": "FMA51020",
+        "name": "右透明中隔後静脈(Posterior vein of right septum pellucidum)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1229
+    },
+    "FJ5177_BP45424_FMA51234_Precentral cerebellar vein": {
+        "conceptId": "FMA51234",
+        "name": "前中心小脳静脈(Precentral cerebellar vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1232
+    },
+    "FJ5183_BP50013_FMA50929_Right retromandibular vein": {
+        "conceptId": "FMA50929",
+        "name": "右下顎後静脈(Right retromandibular vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of face",
+        "region": "頭部",
+        "order": 1238
+    },
+    "FJ5186_BP49372_FMA51402_Right cavernous sinus": {
+        "conceptId": "FMA51402",
+        "name": "右海綿静脈洞(Right cavernous sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1240
+    },
+    "FJ5191_BP49155_FMA50837_Right sublingual vein": {
+        "conceptId": "FMA50837",
+        "name": "右舌下静脈(Right sublingual vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of tongue",
+        "region": "頭部",
+        "order": 1245
+    },
+    "FJ5193_BP50200_FMA50926_Right submental vein": {
+        "conceptId": "FMA50926",
+        "name": "右オトガイ下静脈(Right submental vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of chin",
+        "region": "頭部",
+        "order": 1247
+    },
+    "FJ5198_BP49436_FMA50933_Right superficial temporal vein": {
+        "conceptId": "FMA50933",
+        "name": "右浅側頭静脈(Right superficial temporal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of temporal region",
+        "region": "頭部",
+        "order": 1249
+    },
+    "FJ5200_BP44765_FMA51330_Right superior choroid vein": {
+        "conceptId": "FMA51330",
+        "name": "右上脈絡静脈(Right superior choroid vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1251
+    },
+    "FJ5203_BP45001_FMA52539_Right superior labial vein": {
+        "conceptId": "FMA52539",
+        "name": "右上唇静脈(Right superior labial vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of lip",
+        "region": "頭部",
+        "order": 1254
+    },
+    "FJ5207_BP49573_FMA51289_Right superior petrosal sinus": {
+        "conceptId": "FMA51289",
+        "name": "右上岩静脈洞(Right superior petrosal sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1258
+    },
+    "FJ5210_BP45564_FMA51230_Superior vein of vermis": {
+        "conceptId": "FMA51230",
+        "name": "小脳虫部上静脈(Superior vein of vermis)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar veins",
+        "region": "頭部",
+        "order": 1260
+    },
+    "FJ5219_BP44761_FMA50999_Right superior thalamostriate vein": {
+        "conceptId": "FMA50999",
+        "name": "右上視床線条体静脈(Right superior thalamostriate vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1268
+    },
+    "FJ5222_BP49968_FMA50764_Right transverse sinus": {
+        "conceptId": "FMA50764",
+        "name": "右横静脈洞(Right transverse sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1271
+    },
+    "FJ5232_BP49498_FMA50767_Superior sagittal sinus": {
+        "conceptId": "FMA50767",
+        "name": "上矢状静脈洞(Superior sagittal sinus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Dural sinuses",
+        "region": "頭部",
+        "order": 1275
+    },
+    "FJ5234_BP44734_FMA51014_Vein of right caudate nucleus": {
+        "conceptId": "FMA51014",
+        "name": "右尾状核静脈(Vein of right caudate nucleus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral veins",
+        "region": "頭部",
+        "order": 1276
+    },
+    "FJ3485_BP50950_FMA4762_Left internal jugular vein": {
+        "conceptId": "FMA4762",
+        "name": "左内頸静脈(Left internal jugular vein)",
+        "parentName": "internal jugular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 653,
+        "region": "頸部"
+    },
+    "FJ3585_BP50737_FMA4754_Right internal jugular vein": {
+        "conceptId": "FMA4754",
+        "name": "右内頸静脈(Right internal jugular vein)",
+        "parentName": "internal jugular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "頸部",
+        "order": 694
+    },
+    "FJ4718_BP49754_FMA50856_Right jugular venous arch": {
+        "conceptId": "FMA50856",
+        "name": "右頸静脈弓(Right jugular venous arch)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of head and neck",
+        "region": "頸部",
+        "order": 1045
+    },
+    "FJ4983_BP45859_FMA14297_Right anterior vertebral vein": {
+        "conceptId": "FMA14297",
+        "name": "右前椎骨静脈(Right anterior vertebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of head and neck",
+        "region": "頸部",
+        "order": 1054
+    },
+    "FJ4987_BP50898_FMA4760_Right deep cervical vein": {
+        "conceptId": "FMA4760",
+        "name": "右深頸静脈(Right deep cervical vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1058
+    },
+    "FJ4999_BP50377_FMA50824_Right middle thyroid vein": {
+        "conceptId": "FMA50824",
+        "name": "右中甲状腺静脈(Right middle thyroid vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1070
+    },
+    "FJ5008_BP50669_FMA50816_Superior bulb of right internal jugular vein": {
+        "conceptId": "FMA50816",
+        "name": "右内頸静脈上球部(Superior bulb of right internal jugular vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1079
+    },
+    "FJ5014_BP49858_FMA50861_Right transverse cervical vein": {
+        "conceptId": "FMA50861",
+        "name": "右頸横静脈(Right transverse cervical vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1085
+    },
+    "FJ5016_BP50924_FMA4756_Right vertebral vein": {
+        "conceptId": "FMA4756",
+        "name": "右椎骨静脈(Right vertebral vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1087
+    },
+    "FJ5025_BP50073_FMA13319_Right anterior jugular vein": {
+        "conceptId": "FMA13319",
+        "name": "右前頸静脈(Right anterior jugular vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1096
+    },
+    "FJ5033_BP44908_FMA51637_Right anterolateral medullary vein": {
+        "conceptId": "FMA51637",
+        "name": "右前外側延髄静脈(Right anterolateral medullary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Spinal veins",
+        "region": "頸部",
+        "order": 1104
+    },
+    "FJ5082_BP50542_FMA13111_Right external jugular vein": {
+        "conceptId": "FMA13111",
+        "name": "右外頸静脈(Right external jugular vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1145
+    },
+    "FJ5092_BP50276_FMA50820_Inferior bulb of right internal jugular vein": {
+        "conceptId": "FMA50820",
+        "name": "右内頸静脈下球(Inferior bulb of right internal jugular vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1155
+    },
+    "FJ5099_BP50893_FMA4757_Right inferior thyroid vein": {
+        "conceptId": "FMA4757",
+        "name": "右下甲状腺静脈(Right inferior thyroid vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1162
+    },
+    "FJ5105_BP46850_FMA50818_Right internal jugular vein proper": {
+        "conceptId": "FMA50818",
+        "name": "右内頸静脈本幹(Right internal jugular vein proper)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1168
+    },
+    "FJ5154_BP50053_FMA50822_Pharyngeal venous plexus": {
+        "conceptId": "FMA50822",
+        "name": "咽頭静脈叢(Pharyngeal venous plexus)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of pharynx",
+        "region": "頸部",
+        "order": 1212
+    },
+    "FJ5155_BP50621_FMA50846_Right pharyngeal vein": {
+        "conceptId": "FMA50846",
+        "name": "右咽頭静脈(Right pharyngeal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of pharynx",
+        "region": "頸部",
+        "order": 1213
+    },
+    "FJ5187_BP50709_FMA50814_Right sternocleidomastoid vein": {
+        "conceptId": "FMA50814",
+        "name": "右胸鎖乳突筋静脈(Right sternocleidomastoid vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1241
+    },
+    "FJ5205_BP50083_FMA50812_Right superior laryngeal vein": {
+        "conceptId": "FMA50812",
+        "name": "右上喉頭静脈(Right superior laryngeal vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of larynx",
+        "region": "頸部",
+        "order": 1256
+    },
+    "FJ5231_BP50633_FMA50808_Right superior thyroid vein": {
+        "conceptId": "FMA50808",
+        "name": "右上甲状腺静脈(Right superior thyroid vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of neck",
+        "region": "頸部",
+        "order": 1274
+    },
+    "FJ2285_BP50011_FMA71211_Right lateral thoracic vein": {
+        "conceptId": "FMA71211",
+        "name": "右外側胸静脈(Right lateral thoracic vein)",
+        "parentName": "lateral thoracic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of thorax",
+        "order": 210,
+        "region": "胸部"
+    },
+    "FJ3020_BP48669_FMA50302_Trunk of right superior pulmonary vein": {
+        "conceptId": "FMA50302",
+        "name": "右上肺静脈幹(Trunk of right superior pulmonary vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ3031_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖分節静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ3042_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ3053_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ3064_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ3067_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ3068_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1981_BP48896_FMA4838_Azygos vein": {
+        "conceptId": "FMA4838",
+        "name": "奇静脈(Azygos vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of thorax",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1985_BP48323_FMA70839_Set of anterior intercostal veins": {
+        "conceptId": "FMA70839",
+        "name": "前肋間静脈群(Set of anterior intercostal veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Intercostal veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1986_BP49165_FMA4797_Left superior intercostal vein": {
+        "conceptId": "FMA4797",
+        "name": "左上肋間静脈(Left superior intercostal vein)",
+        "parentName": "subdivision of brachiocephalic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of thorax",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1987_BP48896_FMA4838_Azygos vein": {
+        "conceptId": "FMA4838",
+        "name": "奇静脈(Azygos vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of thorax",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1988_BP50092_FMA4786_Left musculophrenic vein": {
+        "conceptId": "FMA4786",
+        "name": "左筋横隔静脈(Left musculophrenic vein)",
+        "parentName": "musculophrenic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of thorax",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1991_BP48896_FMA4838_Azygos vein": {
+        "conceptId": "FMA4838",
+        "name": "奇静脈(Azygos vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of thorax",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1993_BP49349_FMA4758_Right internal thoracic vein": {
+        "conceptId": "FMA4758",
+        "name": "右内胸静脈(Right internal thoracic vein)",
+        "parentName": "internal thoracic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of thorax",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1994_BP48323_FMA70839_Set of anterior intercostal veins": {
+        "conceptId": "FMA70839",
+        "name": "前肋間静脈群(Set of anterior intercostal veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Intercostal veins",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1995_BP48896_FMA4838_Azygos vein": {
+        "conceptId": "FMA4838",
+        "name": "奇静脈(Azygos vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of thorax",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ1996_BP49349_FMA4758_Right internal thoracic vein": {
+        "conceptId": "FMA4758",
+        "name": "右内胸静脈(Right internal thoracic vein)",
+        "parentName": "internal thoracic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of thorax",
+        "region": "胸部",
+        "order": 210
+    },
+    "FJ3021_BP48763_FMA8662_Right anterior segmental vein": {
+        "conceptId": "FMA8662",
+        "name": "右前分節静脈(Right anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 211
+    },
+    "FJ3027_BP48763_FMA8662_Right anterior segmental vein": {
+        "conceptId": "FMA8662",
+        "name": "右前分節静脈(Right anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 211
+    },
+    "FJ3050_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 211
+    },
+    "FJ3051_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 211
+    },
+    "FJ3052_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 211
+    },
+    "FJ3063_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 211
+    },
+    "FJ3065_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 211
+    },
+    "FJ3066_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 211
+    },
+    "FJ3022_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後分節静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 212
+    },
+    "FJ3023_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後分節静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 212
+    },
+    "FJ3024_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後分節静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 212
+    },
+    "FJ3025_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後分節静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 212
+    },
+    "FJ3026_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後分節静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 212
+    },
+    "FJ3069_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後区域静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 212
+    },
+    "FJ3070_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後区域静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 212
+    },
+    "FJ3040_BP48701_FMA50303_Trunk of right inferior pulmonary vein": {
+        "conceptId": "FMA50303",
+        "name": "右下肺静脈幹部(Trunk of right inferior pulmonary vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 213
+    },
+    "FJ3041_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3043_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3044_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3045_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3046_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3047_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3048_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3057_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3058_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 214
+    },
+    "FJ3049_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前下区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 215
+    },
+    "FJ3056_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前下区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 215
+    },
+    "FJ3054_BP46771_FMA13289_Medial basal segmental vein": {
+        "conceptId": "FMA13289",
+        "name": "内下区域静脈(Medial basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 216
+    },
+    "FJ3055_BP46771_FMA13289_Medial basal segmental vein": {
+        "conceptId": "FMA13289",
+        "name": "内下区域静脈(Medial basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 216
+    },
+    "FJ3059_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 217
+    },
+    "FJ3060_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 217
+    },
+    "FJ3061_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 217
+    },
+    "FJ3062_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 217
+    },
+    "FJ2233_BP49810_FMA71212_Left lateral thoracic vein": {
+        "conceptId": "FMA71212",
+        "name": "左外側胸静脈(Left lateral thoracic vein)",
+        "parentName": "lateral thoracic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of thorax",
+        "order": 220,
+        "region": "胸部"
+    },
+    "FJ3028_BP48762_FMA8667_Left anterior segmental vein": {
+        "conceptId": "FMA8667",
+        "name": "左前分節静脈(Left anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 221
+    },
+    "FJ3029_BP48762_FMA8667_Left anterior segmental vein": {
+        "conceptId": "FMA8667",
+        "name": "左前分節静脈(Left anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 221
+    },
+    "FJ3030_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側分節静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 222
+    },
+    "FJ3032_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側区域静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 222
+    },
+    "FJ3033_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側区域静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 222
+    },
+    "FJ3034_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 223
+    },
+    "FJ3035_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 223
+    },
+    "FJ3036_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 223
+    },
+    "FJ3037_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 223
+    },
+    "FJ3038_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 223
+    },
+    "FJ3039_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 223
+    },
+    "FJ5994_BP48681_FMA50305_Trunk of left superior pulmonary vein": {
+        "conceptId": "FMA50305",
+        "name": "左上肺静脈幹(Trunk of left superior pulmonary vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 373
+    },
+    "FJ5995_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 374
+    },
+    "FJ5996_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 375
+    },
+    "FJ5997_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 376
+    },
+    "FJ5998_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 377
+    },
+    "FJ5999_BP48762_FMA8667_Left anterior segmental vein": {
+        "conceptId": "FMA8667",
+        "name": "左前区域静脈(Left anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 378
+    },
+    "FJ6000_BP48762_FMA8667_Left anterior segmental vein": {
+        "conceptId": "FMA8667",
+        "name": "左前区域静脈(Left anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 379
+    },
+    "FJ6001_BP48762_FMA8667_Left anterior segmental vein": {
+        "conceptId": "FMA8667",
+        "name": "左前区域静脈(Left anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 380
+    },
+    "FJ6002_BP48681_FMA50305_Trunk of left superior pulmonary vein": {
+        "conceptId": "FMA50305",
+        "name": "左上肺静脈幹(Trunk of left superior pulmonary vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 381
+    },
+    "FJ6003_BP48793_FMA8669_Inferior lingular vein": {
+        "conceptId": "FMA8669",
+        "name": "下舌区域静脈(Inferior lingular vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 382
+    },
+    "FJ6004_BP48793_FMA8669_Inferior lingular vein": {
+        "conceptId": "FMA8669",
+        "name": "下舌区域静脈(Inferior lingular vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 383
+    },
+    "FJ6005_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 384
+    },
+    "FJ6006_BP48728_FMA8668_Superior lingular vein": {
+        "conceptId": "FMA8668",
+        "name": "上舌区域静脈(Superior lingular vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 385
+    },
+    "FJ6007_BP48728_FMA8668_Superior lingular vein": {
+        "conceptId": "FMA8668",
+        "name": "上舌区域静脈(Superior lingular vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 386
+    },
+    "FJ6008_BP48826_FMA8675_Left superior segmental vein": {
+        "conceptId": "FMA8675",
+        "name": "左上区域静脈(Left superior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 387
+    },
+    "FJ6009_BP48826_FMA8675_Left superior segmental vein": {
+        "conceptId": "FMA8675",
+        "name": "左上区域静脈(Left superior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 388
+    },
+    "FJ6010_BP48826_FMA8675_Left superior segmental vein": {
+        "conceptId": "FMA8675",
+        "name": "左上区域静脈(Left superior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 389
+    },
+    "FJ6011_BP48826_FMA8675_Left superior segmental vein": {
+        "conceptId": "FMA8675",
+        "name": "左上区域静脈(Left superior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 390
+    },
+    "FJ6012_BP48826_FMA8675_Left superior segmental vein": {
+        "conceptId": "FMA8675",
+        "name": "左上区域静脈(Left superior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 391
+    },
+    "FJ6013_BP48688_FMA50306_Trunk of left inferior pulmonary vein": {
+        "conceptId": "FMA50306",
+        "name": "左下肺静脈幹(Trunk of left inferior pulmonary vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 392
+    },
+    "FJ6014_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 393
+    },
+    "FJ6015_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 394
+    },
+    "FJ6016_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 395
+    },
+    "FJ6017_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 396
+    },
+    "FJ6018_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 397
+    },
+    "FJ6019_BP48688_FMA50306_Trunk of left inferior pulmonary vein": {
+        "conceptId": "FMA50306",
+        "name": "左下肺静脈幹(Trunk of left inferior pulmonary vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 398
+    },
+    "FJ6020_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 399
+    },
+    "FJ6021_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 400
+    },
+    "FJ6022_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前下区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 401
+    },
+    "FJ6023_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前下区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 402
+    },
+    "FJ6024_BP48688_FMA50306_Trunk of left inferior pulmonary vein": {
+        "conceptId": "FMA50306",
+        "name": "左下肺静脈幹(Trunk of left inferior pulmonary vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 403
+    },
+    "FJ6025_BP46771_FMA13289_Medial basal segmental vein": {
+        "conceptId": "FMA13289",
+        "name": "内側下区域静脈(Medial basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 404
+    },
+    "FJ6026_BP46771_FMA13289_Medial basal segmental vein": {
+        "conceptId": "FMA13289",
+        "name": "内側下区域静脈(Medial basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 405
+    },
+    "FJ6027_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 406
+    },
+    "FJ6028_BP46771_FMA13289_Medial basal segmental vein": {
+        "conceptId": "FMA13289",
+        "name": "内側下区域静脈(Medial basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 407
+    },
+    "FJ6029_BP46771_FMA13289_Medial basal segmental vein": {
+        "conceptId": "FMA13289",
+        "name": "内側下区域静脈(Medial basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 408
+    },
+    "FJ6030_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 409
+    },
+    "FJ6031_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 410
+    },
+    "FJ6034_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 410
+    },
+    "FJ6094_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 411
+    },
+    "FJ6032_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 411
+    },
+    "FJ6095_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 412
+    },
+    "FJ6033_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "頂後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 412
+    },
+    "FJ6100_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 413
+    },
+    "FJ6111_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 414
+    },
+    "FJ6123_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 415
+    },
+    "FJ6124_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 416
+    },
+    "FJ6133_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 417
+    },
+    "FJ6136_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 418
+    },
+    "FJ6137_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 419
+    },
+    "FJ6096_BP48763_FMA8662_Right anterior segmental vein": {
+        "conceptId": "FMA8662",
+        "name": "右前区域静脈(Right anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 420
+    },
+    "FJ6138_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 420
+    },
+    "FJ6097_BP48763_FMA8662_Right anterior segmental vein": {
+        "conceptId": "FMA8662",
+        "name": "右前区域静脈(Right anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 421
+    },
+    "FJ6139_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 421
+    },
+    "FJ6098_BP48763_FMA8662_Right anterior segmental vein": {
+        "conceptId": "FMA8662",
+        "name": "右前区域静脈(Right anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 422
+    },
+    "FJ6099_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側区域静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 430
+    },
+    "FJ6101_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側区域静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 431
+    },
+    "FJ6102_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側区域静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 432
+    },
+    "FJ6106_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側区域静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 433
+    },
+    "FJ6107_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側区域静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 434
+    },
+    "FJ6108_BP48783_FMA8665_Medial segmental vein": {
+        "conceptId": "FMA8665",
+        "name": "内側区域静脈(Medial segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 435
+    },
+    "FJ6103_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 440
+    },
+    "FJ6104_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 441
+    },
+    "FJ6105_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 442
+    },
+    "FJ6109_BP50743_FMA31529_Trunk of right common basal vein": {
+        "conceptId": "FMA31529",
+        "name": "右総基底静脈幹(Trunk of right common basal vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 450
+    },
+    "FJ6110_BP50504_FMA31525_Trunk of right inferior basal vein": {
+        "conceptId": "FMA31525",
+        "name": "右下基底静脈幹(Trunk of right inferior basal vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 460
+    },
+    "FJ6112_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後基底区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 470
+    },
+    "FJ6125_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後基底区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 471
+    },
+    "FJ6126_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後基底区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 472
+    },
+    "FJ6127_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後基底区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 473
+    },
+    "FJ6132_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後基底区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 474
+    },
+    "FJ6134_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後基底区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 475
+    },
+    "FJ6128_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側基底区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 480
+    },
+    "FJ6135_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側基底区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 481
+    },
+    "FJ6129_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前基底区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 490
+    },
+    "FJ6130_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前基底区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 491
+    },
+    "FJ6131_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前基底区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部",
+        "order": 492
+    },
+    "FJ3416_BP48896_FMA4838_Azygos vein": {
+        "conceptId": "FMA4838",
+        "name": "奇静脈(Azygos vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 614
+    },
+    "FJ3447_BP47004_FMA68068_Inferior phrenic vein": {
+        "conceptId": "FMA68068",
+        "name": "下横隔静脈(Inferior phrenic vein)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 636,
+        "region": "胸部"
+    },
+    "FJ3482_BP51036_FMA4761_Left brachiocephalic vein": {
+        "conceptId": "FMA4761",
+        "name": "左腕頭静脈(Left brachiocephalic vein)",
+        "parentName": "brachiocephalic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 651,
+        "region": "胸部"
+    },
+    "FJ3486_BP50932_FMA4763_Left subclavian vein": {
+        "conceptId": "FMA4763",
+        "name": "左鎖骨下静脈(Left subclavian vein)",
+        "parentName": "subclavian vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 654,
+        "region": "胸部"
+    },
+    "FJ3583_BP49246_FMA66647_Trunk of right brachiocephalic vein": {
+        "conceptId": "FMA66647",
+        "name": "右腕頭静脈幹(Trunk of right brachiocephalic vein)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 692
+    },
+    "FJ3587_BP50751_FMA4755_Right subclavian vein": {
+        "conceptId": "FMA4755",
+        "name": "右鎖骨下静脈(Right subclavian vein)",
+        "parentName": "subclavian vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 696
+    },
+    "FJ3615_BP49349_FMA4758_Right internal thoracic vein": {
+        "conceptId": "FMA4758",
+        "name": "右内胸静脈(Right internal thoracic vein)",
+        "parentName": "internal thoracic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 718
+    },
+    "FJ3645_BP51090_FMA4720_Superior vena cava": {
+        "conceptId": "FMA4720",
+        "name": "上大静脈(Superior vena cava)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 740
+    },
+    "FJ3648_BP51133_FMA78121_Superior phrenic vein": {
+        "conceptId": "FMA78121",
+        "name": "上横隔静脈(Superior phrenic vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 743
+    },
+    "FJ3649_BP51133_FMA78121_Superior phrenic vein": {
+        "conceptId": "FMA78121",
+        "name": "上横隔静脈(Superior phrenic vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 744
+    },
+    "FJ3650_BP51133_FMA78121_Superior phrenic vein": {
+        "conceptId": "FMA78121",
+        "name": "上横隔静脈(Superior phrenic vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 745
+    },
+    "FJ3651_BP51133_FMA78121_Superior phrenic vein": {
+        "conceptId": "FMA78121",
+        "name": "上横隔静脈(Superior phrenic vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 746
+    },
+    "FJ3652_BP51133_FMA78121_Superior phrenic vein": {
+        "conceptId": "FMA78121",
+        "name": "上横隔静脈(Superior phrenic vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 747
+    },
+    "FJ3653_BP51133_FMA78121_Superior phrenic vein": {
+        "conceptId": "FMA78121",
+        "name": "上横隔静脈(Superior phrenic vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 748
+    },
+    "FJ3654_BP51133_FMA78121_Superior phrenic vein": {
+        "conceptId": "FMA78121",
+        "name": "上横隔静脈(Superior phrenic vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "胸部",
+        "order": 749
+    },
+    "FJ4984_BP49246_FMA66647_Trunk of right brachiocephalic vein": {
+        "conceptId": "FMA66647",
+        "name": "右腕頭静脈幹(Trunk of right brachiocephalic vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of thorax",
+        "region": "胸部",
+        "order": 1055
+    },
+    "FJ5152_BP51104_FMA4943_Pericardial vein": {
+        "conceptId": "FMA4943",
+        "name": "心膜静脈(Pericardial vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of heart",
+        "region": "胸部",
+        "order": 1210
+    },
+    "FJ5221_BP50835_FMA4747_Thymic vein": {
+        "conceptId": "FMA4747",
+        "name": "胸腺静脈(Thymic vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of thorax",
+        "region": "胸部",
+        "order": 1270
+    },
+    "FJ2925_BP48681_FMA50305_Trunk of left superior pulmonary vein": {
+        "conceptId": "FMA50305",
+        "name": "左上肺静脈幹(Trunk of left superior pulmonary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2926_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "肺尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2930_BP48762_FMA8667_Left anterior segmental vein": {
+        "conceptId": "FMA8667",
+        "name": "左前区域静脈(Left anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2934_BP48793_FMA8669_Inferior lingular vein": {
+        "conceptId": "FMA8669",
+        "name": "下舌葉静脈(Inferior lingular vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2936_BP48722_FMA9437_Left apical segmental vein": {
+        "conceptId": "FMA9437",
+        "name": "左肺尖区域静脈(Left apical segmental vein)",
+        "parentName": "apical segmental vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2937_BP48728_FMA8668_Superior lingular vein": {
+        "conceptId": "FMA8668",
+        "name": "上舌葉静脈(Superior lingular vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2944_BP48688_FMA50306_Trunk of left inferior pulmonary vein": {
+        "conceptId": "FMA50306",
+        "name": "左下肺静脈幹(Trunk of left inferior pulmonary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2945_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後基底区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2951_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側基底区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2956_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前基底区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2958_BP48722_FMA9437_Left apical segmental vein": {
+        "conceptId": "FMA9437",
+        "name": "左肺尖区域静脈(Left apical segmental vein)",
+        "parentName": "apical segmental vein",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2965_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "肺尖後区域静脈(Apicoposterior segmental vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Pulmonary vein",
+        "region": "胸部"
+    },
+    "FJ2655_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2656_BP48920_FMA4707_Great cardiac vein": {
+        "conceptId": "FMA4707",
+        "name": "大心静脈(Great cardiac vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2657_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2658_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2659_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2660_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2661_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2662_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2663_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2664_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2665_BP46537_FMA66403_Anterior interventricular vein": {
+        "conceptId": "FMA66403",
+        "name": "前室間静脈(Anterior interventricular vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2701_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2702_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2703_BP48920_FMA4707_Great cardiac vein": {
+        "conceptId": "FMA4707",
+        "name": "大心静脈(Great cardiac vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2704_BP48920_FMA4707_Great cardiac vein": {
+        "conceptId": "FMA4707",
+        "name": "大心静脈(Great cardiac vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2705_BP48920_FMA4707_Great cardiac vein": {
+        "conceptId": "FMA4707",
+        "name": "大心静脈(Great cardiac vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2706_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2707_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2708_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2709_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2710_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2711_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2712_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2713_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2724_BP48995_FMA4714_Small cardiac vein": {
+        "conceptId": "FMA4714",
+        "name": "小心静脈(Small cardiac vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2725_BP46691_FMA76767_Anterior cardiac vein": {
+        "conceptId": "FMA76767",
+        "name": "前心静脈(Anterior cardiac vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2727_BP48872_FMA4716_Right marginal vein": {
+        "conceptId": "FMA4716",
+        "name": "右辺縁静脈(Right marginal vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2728_BP48872_FMA4716_Right marginal vein": {
+        "conceptId": "FMA4716",
+        "name": "右辺縁静脈(Right marginal vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2729_BP48872_FMA4716_Right marginal vein": {
+        "conceptId": "FMA4716",
+        "name": "右辺縁静脈(Right marginal vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2730_BP46691_FMA76767_Anterior cardiac vein": {
+        "conceptId": "FMA76767",
+        "name": "前心静脈(Anterior cardiac vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2731_BP48995_FMA4714_Small cardiac vein": {
+        "conceptId": "FMA4714",
+        "name": "小心静脈(Small cardiac vein)",
+        "parentName": "cardiac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2678_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2679_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2680_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2681_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2682_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2683_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2684_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2685_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2686_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2687_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2688_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2689_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2690_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2691_BP49100_FMA4706_Coronary sinus": {
+        "conceptId": "FMA4706",
+        "name": "冠状静脈洞(Coronary sinus)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Cardiac vein",
+        "region": "胸部"
+    },
+    "FJ2927_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2928_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2929_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2931_BP48762_FMA8667_Left anterior segmental vein": {
+        "conceptId": "FMA8667",
+        "name": "左前区域静脈(Left anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2932_BP48762_FMA8667_Left anterior segmental vein": {
+        "conceptId": "FMA8667",
+        "name": "左前区域静脈(Left anterior segmental vein)",
+        "parentName": "anterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2933_BP48681_FMA50305_Trunk of left superior pulmonary vein": {
+        "conceptId": "FMA50305",
+        "name": "左上肺静脈幹(Trunk of left superior pulmonary vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2935_BP48793_FMA8669_Inferior lingular vein": {
+        "conceptId": "FMA8669",
+        "name": "下舌区域静脈(Inferior lingular vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2938_BP48728_FMA8668_Superior lingular vein": {
+        "conceptId": "FMA8668",
+        "name": "上舌区域静脈(Superior lingular vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2939_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2940_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2941_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2942_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2943_BP48779_FMA8666_Apicoposterior segmental vein": {
+        "conceptId": "FMA8666",
+        "name": "尖後区域静脈(Apicoposterior segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2946_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2947_BP48722_FMA9437_Left apical segmental vein": {
+        "conceptId": "FMA9437",
+        "name": "左尖区域静脈(Left apical segmental vein)",
+        "parentName": "apical segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2948_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2949_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2950_BP48688_FMA50306_Trunk of left inferior pulmonary vein": {
+        "conceptId": "FMA50306",
+        "name": "左下肺静脈幹(Trunk of left inferior pulmonary vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2952_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2953_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2954_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2955_BP48688_FMA50306_Trunk of left inferior pulmonary vein": {
+        "conceptId": "FMA50306",
+        "name": "左下肺静脈幹(Trunk of left inferior pulmonary vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2957_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前下区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2959_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前下区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2960_BP46967_FMA13290_Anterior basal segmental vein": {
+        "conceptId": "FMA13290",
+        "name": "前下区域静脈(Anterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2961_BP48722_FMA9437_Left apical segmental vein": {
+        "conceptId": "FMA9437",
+        "name": "左尖区域静脈(Left apical segmental vein)",
+        "parentName": "apical segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2962_BP48722_FMA9437_Left apical segmental vein": {
+        "conceptId": "FMA9437",
+        "name": "左尖区域静脈(Left apical segmental vein)",
+        "parentName": "apical segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2963_BP48722_FMA9437_Left apical segmental vein": {
+        "conceptId": "FMA9437",
+        "name": "左尖区域静脈(Left apical segmental vein)",
+        "parentName": "apical segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2964_BP48722_FMA9437_Left apical segmental vein": {
+        "conceptId": "FMA9437",
+        "name": "左尖区域静脈(Left apical segmental vein)",
+        "parentName": "apical segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6089_BP48669_FMA50302_Trunk of right superior pulmonary vein": {
+        "conceptId": "FMA50302",
+        "name": "右上肺静脈幹(Trunk of right superior pulmonary vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6090_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6091_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後区域静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6092_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後区域静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6093_BP48824_FMA8663_Right posterior segmental vein": {
+        "conceptId": "FMA8663",
+        "name": "右後区域静脈(Right posterior segmental vein)",
+        "parentName": "posterior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6113_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6114_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6115_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6116_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6117_BP46686_FMA13291_Lateral basal segmental vein": {
+        "conceptId": "FMA13291",
+        "name": "外側下区域静脈(Lateral basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6118_BP46600_FMA13292_Posterior basal segmental vein": {
+        "conceptId": "FMA13292",
+        "name": "後下区域静脈(Posterior basal segmental vein)",
+        "parentName": "segmental pulmonary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6119_BP50624_FMA31528_Trunk of right superior basal vein": {
+        "conceptId": "FMA31528",
+        "name": "右上下区域静脈幹(Trunk of right superior basal vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6120_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6121_BP48799_FMA8670_Right superior segmental vein": {
+        "conceptId": "FMA8670",
+        "name": "右上区域静脈(Right superior segmental vein)",
+        "parentName": "superior segmental vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ6122_BP48729_FMA8661_Right apical segmental vein": {
+        "conceptId": "FMA8661",
+        "name": "右肺尖区域静脈(Right apical segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pulmonary veins",
+        "region": "胸部"
+    },
+    "FJ2122_BP49875_FMA44341_Left superficial epigastric vein": {
+        "conceptId": "FMA44341",
+        "name": "左浅腹壁静脈(Left superficial epigastric vein)",
+        "parentName": "superficial epigastric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Abdominal veins",
+        "order": 280,
+        "region": "腹部"
+    },
+    "FJ3097_BP50814_FMA15804_Lateral inferior segmental tributary of left hepatic vein": {
+        "conceptId": "FMA15804",
+        "name": "左肝静脈外下区域支(Lateral inferior segmental tributary of left hepatic vein)",
+        "parentName": "tributary of left hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部",
+        "order": 316
+    },
+    "FJ3098_BP50754_FMA15803_Lateral superior segmental tributary of left hepatic vein": {
+        "conceptId": "FMA15803",
+        "name": "左肝静脈外上区域支(Lateral superior segmental tributary of left hepatic vein)",
+        "parentName": "tributary of left hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部",
+        "order": 317
+    },
+    "FJ3101_BP50853_FMA15802_Medial superior segmental tributary of left hepatic vein": {
+        "conceptId": "FMA15802",
+        "name": "左肝静脈内上区域支(Medial superior segmental tributary of left hepatic vein)",
+        "parentName": "tributary of left hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部",
+        "order": 318
+    },
+    "FJ5816_BP50814_FMA15804_Lateral inferior segmental tributary of left hepatic vein": {
+        "conceptId": "FMA15804",
+        "name": "左肝静脈外側下区域枝(Lateral inferior segmental tributary of left hepatic vein)",
+        "parentName": "tributary of left hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部",
+        "order": 320
+    },
+    "FJ1867_BP46272_FMA15793_Tributary of middle hepatic vein": {
+        "conceptId": "FMA15793",
+        "name": "中肝静脈支流(Tributary of middle hepatic vein)",
+        "parentName": "tributary of hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Venous system of liver",
+        "region": "腹部",
+        "order": 330
+    },
+    "FJ3118_BP50763_FMA15797_Posterior inferior segmental tributary of right hepatic vein": {
+        "conceptId": "FMA15797",
+        "name": "右肝静脈後下区域支(Posterior inferior segmental tributary of right hepatic vein)",
+        "parentName": "tributary of right hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部",
+        "order": 332
+    },
+    "FJ3119_BP50759_FMA15796_Posterior superior segmental tributary of right hepatic vein": {
+        "conceptId": "FMA15796",
+        "name": "右肝静脈後上区域支(Posterior superior segmental tributary of right hepatic vein)",
+        "parentName": "tributary of right hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部",
+        "order": 333
+    },
+    "FJ3121_BP50980_FMA15798_Anterior superior segmental tributary of right hepatic vein": {
+        "conceptId": "FMA15798",
+        "name": "右肝静脈前上区域支(Anterior superior segmental tributary of right hepatic vein)",
+        "parentName": "tributary of right hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部",
+        "order": 334
+    },
+    "FJ3400_BP49777_FMA15394_Left colic vein": {
+        "conceptId": "FMA15394",
+        "name": "左結腸静脈(Left colic vein)",
+        "parentName": "tributary of inferior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 606
+    },
+    "FJ3415_BP50657_FMA15408_Ileocolic vein": {
+        "conceptId": "FMA15408",
+        "name": "回結腸静脈(Ileocolic vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 613
+    },
+    "FJ3438_BP50509_FMA15405_Ileal vein": {
+        "conceptId": "FMA15405",
+        "name": "回腸静脈(Ileal vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 628,
+        "region": "腹部"
+    },
+    "FJ3440_BP50657_FMA15408_Ileocolic vein": {
+        "conceptId": "FMA15408",
+        "name": "回結腸静脈(Ileocolic vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 630,
+        "region": "腹部"
+    },
+    "FJ3441_BP51044_FMA10951_Inferior vena cava": {
+        "conceptId": "FMA10951",
+        "name": "下大静脈(Inferior vena cava)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 631,
+        "region": "腹部"
+    },
+    "FJ3443_BP50270_FMA15391_Inferior mesenteric vein": {
+        "conceptId": "FMA15391",
+        "name": "下腸間膜静脈(Inferior mesenteric vein)",
+        "parentName": "tributary of splenic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 633,
+        "region": "腹部"
+    },
+    "FJ3477_BP50720_FMA14336_Left renal vein": {
+        "conceptId": "FMA14336",
+        "name": "左腎静脈(Left renal vein)",
+        "parentName": "renal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 647,
+        "region": "腹部"
+    },
+    "FJ3480_BP51112_FMA14349_Left suprarenal vein": {
+        "conceptId": "FMA14349",
+        "name": "左副腎静脈(Left suprarenal vein)",
+        "parentName": "suprarenal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 649,
+        "region": "腹部"
+    },
+    "FJ3495_BP49777_FMA15394_Left colic vein": {
+        "conceptId": "FMA15394",
+        "name": "左結腸静脈(Left colic vein)",
+        "parentName": "tributary of inferior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 657,
+        "region": "腹部"
+    },
+    "FJ3500_BP50304_FMA15399_Left gastric vein": {
+        "conceptId": "FMA15399",
+        "name": "左胃静脈(Left gastric vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 660
+    },
+    "FJ3502_BP50432_FMA15390_Left gastroepiploic vein": {
+        "conceptId": "FMA15390",
+        "name": "左胃大網静脈(Left gastroepiploic vein)",
+        "parentName": "tributary of splenic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 662
+    },
+    "FJ3530_BP49846_FMA4785_Left superior epigastric vein": {
+        "conceptId": "FMA4785",
+        "name": "左上腹壁静脈(Left superior epigastric vein)",
+        "parentName": "superior epigastric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 667
+    },
+    "FJ3533_BP50770_FMA14345_Left testicular vein": {
+        "conceptId": "FMA14345",
+        "name": "左精巣静脈(Left testicular vein)",
+        "parentName": "testicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 669
+    },
+    "FJ3541_BP46302_FMA77168_Median sacral vein": {
+        "conceptId": "FMA77168",
+        "name": "正中仙骨静脈(Median sacral vein)",
+        "parentName": "tributary of internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 670
+    },
+    "FJ3543_BP50697_FMA15406_Middle colic vein": {
+        "conceptId": "FMA15406",
+        "name": "中結腸静脈(Middle colic vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 672
+    },
+    "FJ3545_BP50396_FMA15398_Pancreaticoduodenal vein": {
+        "conceptId": "FMA15398",
+        "name": "膵十二指腸静脈(Pancreaticoduodenal vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 674
+    },
+    "FJ3566_BP50860_FMA21387_Right common iliac vein": {
+        "conceptId": "FMA21387",
+        "name": "右総腸骨静脈(Right common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 681
+    },
+    "FJ3570_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 684
+    },
+    "FJ3577_BP50767_FMA14335_Right renal vein": {
+        "conceptId": "FMA14335",
+        "name": "右腎静脈(Right renal vein)",
+        "parentName": "renal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 687
+    },
+    "FJ3580_BP50772_FMA14343_Right suprarenal vein": {
+        "conceptId": "FMA14343",
+        "name": "右副腎静脈(Right suprarenal vein)",
+        "parentName": "suprarenal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 689
+    },
+    "FJ5812_BP48759_FMA71889_Caudate lobe tributary of left hepatic biliary tree": {
+        "conceptId": "FMA71889",
+        "name": "左肝尾状葉胆管支(Caudate lobe tributary of left hepatic biliary tree)",
+        "parentName": "segmental tributary of left hepatic biliary tree",
+        "majorCategory": "Digestive system",
+        "middleCategory": "Biliary tree",
+        "region": "腹部"
+    },
+    "FJ6054_BP48796_FMA8664_Lateral segmental vein": {
+        "conceptId": "FMA8664",
+        "name": "外側区域静脈(Lateral segmental vein)",
+        "parentName": "",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部"
+    },
+    "FJ3589_BP46247_FMA12858_Ascending lumbar vein": {
+        "conceptId": "FMA12858",
+        "name": "上行腰静脈(Ascending lumbar vein)",
+        "parentName": "tributary of azygos vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 698
+    },
+    "FJ3591_BP50337_FMA15407_Right colic vein": {
+        "conceptId": "FMA15407",
+        "name": "右結腸静脈(Right colic vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 700
+    },
+    "FJ3595_BP50459_FMA15400_Right gastric vein": {
+        "conceptId": "FMA15400",
+        "name": "右胃静脈(Right gastric vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 704
+    },
+    "FJ3597_BP50442_FMA15397_Right gastroepiploic vein": {
+        "conceptId": "FMA15397",
+        "name": "右胃大網静脈(Right gastroepiploic vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 706
+    },
+    "FJ3631_BP51001_FMA15370_Lumbar vein": {
+        "conceptId": "FMA15370",
+        "name": "腰静脈(Lumbar vein)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 730
+    },
+    "FJ3635_BP51001_FMA15370_Lumbar vein": {
+        "conceptId": "FMA15370",
+        "name": "腰静脈(Lumbar vein)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 732
+    },
+    "FJ3639_BP49880_FMA15395_Sigmoid vein": {
+        "conceptId": "FMA15395",
+        "name": "S状結腸静脈(Sigmoid vein)",
+        "parentName": "tributary of inferior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 736
+    },
+    "FJ3641_BP50793_FMA14331_Splenic vein": {
+        "conceptId": "FMA14331",
+        "name": "脾静脈(Splenic vein)",
+        "parentName": "subdivision of pre-hepatic portal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 738
+    },
+    "FJ3646_BP50396_FMA15398_Pancreaticoduodenal vein": {
+        "conceptId": "FMA15398",
+        "name": "膵十二指腸静脈(Pancreaticoduodenal vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 741
+    },
+    "FJ3647_BP50789_FMA14332_Superior mesenteric vein": {
+        "conceptId": "FMA14332",
+        "name": "上腸間膜静脈(Superior mesenteric vein)",
+        "parentName": "subdivision of pre-hepatic portal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 742
+    },
+    "FJ3655_BP50396_FMA15398_Pancreaticoduodenal vein": {
+        "conceptId": "FMA15398",
+        "name": "膵十二指腸静脈(Pancreaticoduodenal vein)",
+        "parentName": "tributary of superior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 750
+    },
+    "FJ3657_BP50219_FMA15393_Superior rectal vein": {
+        "conceptId": "FMA15393",
+        "name": "上直腸静脈(Superior rectal vein)",
+        "parentName": "tributary of inferior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 752
+    },
+    "FJ3658_BP46247_FMA12858_Ascending lumbar vein": {
+        "conceptId": "FMA12858",
+        "name": "腰椎上行静脈(Ascending lumbar vein)",
+        "parentName": "tributary of azygos vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 753
+    },
+    "FJ3659_BP51044_FMA10951_Inferior vena cava": {
+        "conceptId": "FMA10951",
+        "name": "下大静脈(Inferior vena cava)",
+        "parentName": "trunk of systemic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "腹部",
+        "order": 754
+    },
+    "FJ2409_BP48000_FMA15744_Hepatovenous segment VI": {
+        "conceptId": "FMA15744",
+        "name": "右肝後区域VI静脈(Hepatovenous segment VI)",
+        "parentName": "region of posterior sector of right liver (in-vivo)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of liver",
+        "order": 810,
+        "region": "腹部"
+    },
+    "FJ4541_BP50814_FMA15804_Lateral inferior segmental tributary of left hepatic vein": {
+        "conceptId": "FMA15804",
+        "name": "左肝静脈外側下区域枝(Lateral inferior segmental tributary of left hepatic vein)",
+        "parentName": "左肝静脈の枝(tributary of left hepatic vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部",
+        "order": 999
+    },
+    "FJ3082_BP51055_FMA71904_Pre-hepatic portal vein": {
+        "conceptId": "FMA71904",
+        "name": "肝前門脈(Pre-hepatic portal vein)",
+        "parentName": "portal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Portal vein",
+        "region": "腹部"
+    },
+    "FJ3083_BP46272_FMA15793_Tributary of middle hepatic vein": {
+        "conceptId": "FMA15793",
+        "name": "中肝静脈支(Tributary of middle hepatic vein)",
+        "parentName": "tributary of hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部"
+    },
+    "FJ3084_BP46272_FMA15793_Tributary of middle hepatic vein": {
+        "conceptId": "FMA15793",
+        "name": "中肝静脈支(Tributary of middle hepatic vein)",
+        "parentName": "tributary of hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部"
+    },
+    "FJ3085_BP46272_FMA15793_Tributary of middle hepatic vein": {
+        "conceptId": "FMA15793",
+        "name": "中肝静脈支(Tributary of middle hepatic vein)",
+        "parentName": "tributary of hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部"
+    },
+    "FJ3086_BP46272_FMA15793_Tributary of middle hepatic vein": {
+        "conceptId": "FMA15793",
+        "name": "中肝静脈支(Tributary of middle hepatic vein)",
+        "parentName": "tributary of hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部"
+    },
+    "FJ3429_BP49777_FMA15394_Left colic vein": {
+        "conceptId": "FMA15394",
+        "name": "左結腸静脈(Left colic vein)",
+        "parentName": "tributary of inferior mesenteric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Inferior mesenteric vein",
+        "region": "腹部"
+    },
+    "FJ3448_BP47004_FMA68068_Inferior phrenic vein": {
+        "conceptId": "FMA68068",
+        "name": "下横隔静脈(Inferior phrenic vein)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Inferior vena cava tributaries",
+        "region": "腹部"
+    },
+    "FJ3449_BP47004_FMA68068_Inferior phrenic vein": {
+        "conceptId": "FMA68068",
+        "name": "下横隔静脈(Inferior phrenic vein)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Inferior vena cava tributaries",
+        "region": "腹部"
+    },
+    "FJ3450_BP47004_FMA68068_Inferior phrenic vein": {
+        "conceptId": "FMA68068",
+        "name": "下横隔静脈(Inferior phrenic vein)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Inferior vena cava tributaries",
+        "region": "腹部"
+    },
+    "FJ3451_BP47004_FMA68068_Inferior phrenic vein": {
+        "conceptId": "FMA68068",
+        "name": "下横隔静脈(Inferior phrenic vein)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Inferior vena cava tributaries",
+        "region": "腹部"
+    },
+    "FJ3452_BP47004_FMA68068_Inferior phrenic vein": {
+        "conceptId": "FMA68068",
+        "name": "下横隔静脈(Inferior phrenic vein)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Inferior vena cava tributaries",
+        "region": "腹部"
+    },
+    "FJ3478_BP50720_FMA14336_Left renal vein": {
+        "conceptId": "FMA14336",
+        "name": "左腎静脈(Left renal vein)",
+        "parentName": "renal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Renal vein",
+        "region": "腹部"
+    },
+    "FJ3578_BP50767_FMA14335_Right renal vein": {
+        "conceptId": "FMA14335",
+        "name": "右腎静脈(Right renal vein)",
+        "parentName": "renal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Renal vein",
+        "region": "腹部"
+    },
+    "FJ3113_BP50077_FMA15423_Posterior superior segmental branch of right portal vein": {
+        "conceptId": "FMA15423",
+        "name": "右門脈後上区域枝(Posterior superior segmental branch of right portal vein)",
+        "parentName": "subdivision of right hepatic portal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Portal vein",
+        "region": "腹部"
+    },
+    "FJ3120_BP50763_FMA15797_Posterior inferior segmental tributary of right hepatic vein": {
+        "conceptId": "FMA15797",
+        "name": "右肝後下区域静脈支(Posterior inferior segmental tributary of right hepatic vein)",
+        "parentName": "tributary of right hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部"
+    },
+    "FJ3099_BP50814_FMA15804_Lateral inferior segmental tributary of left hepatic vein": {
+        "conceptId": "FMA15804",
+        "name": "左肝外側下区域静脈支(Lateral inferior segmental tributary of left hepatic vein)",
+        "parentName": "tributary of left hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部"
+    },
+    "FJ3100_BP50814_FMA15804_Lateral inferior segmental tributary of left hepatic vein": {
+        "conceptId": "FMA15804",
+        "name": "左肝外側下区域静脈支(Lateral inferior segmental tributary of left hepatic vein)",
+        "parentName": "tributary of left hepatic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hepatic veins",
+        "region": "腹部"
+    },
+    "FJ2306_BP50090_FMA71214_Right thoracodorsal vein": {
+        "conceptId": "FMA71214",
+        "name": "右胸背静脈(Right thoracodorsal vein)",
+        "parentName": "thoracodorsal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of back",
+        "region": "背部",
+        "order": 220
+    },
+    "FJ3493_BP46247_FMA12858_Ascending lumbar vein": {
+        "conceptId": "FMA12858",
+        "name": "上行腰静脈(Ascending lumbar vein)",
+        "parentName": "tributary of azygos vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 655,
+        "region": "背部"
+    },
+    "FJ5062_BP45098_FMA51393_Dorsal medullary vein": {
+        "conceptId": "FMA51393",
+        "name": "背側髄静脈(Dorsal medullary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Spinal veins",
+        "region": "背部",
+        "order": 1125
+    },
+    "FJ5081_BP45098_FMA51393_Dorsal medullary vein": {
+        "conceptId": "FMA51393",
+        "name": "背側髄静脈(Dorsal medullary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Spinal veins",
+        "region": "背部",
+        "order": 1144
+    },
+    "FJ5176_BP45098_FMA51393_Dorsal medullary vein": {
+        "conceptId": "FMA51393",
+        "name": "背髄静脈(Dorsal medullary vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Spinal veins",
+        "region": "背部",
+        "order": 1231
+    },
+    "FJ3434_BP48896_FMA4838_Azygos vein": {
+        "conceptId": "FMA4838",
+        "name": "奇静脈(Azygos vein)",
+        "parentName": "subdivision of superior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Superior vena cava system",
+        "region": "背部"
+    },
+    "FJ2198_BP48282_FMA70917_Set of dorsal digital veins": {
+        "conceptId": "FMA70917",
+        "name": "背側指静脈群(Set of dorsal digital veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Sets of veins of hand",
+        "order": 310,
+        "region": "上肢"
+    },
+    "FJ2217_BP50662_FMA13331_Left axillary vein": {
+        "conceptId": "FMA13331",
+        "name": "左腋窩静脈(Left axillary vein)",
+        "parentName": "axillary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "order": 310,
+        "region": "上肢"
+    },
+    "FJ2222_BP50149_FMA77950_Left circumflex scapular vein": {
+        "conceptId": "FMA77950",
+        "name": "左肩甲回旋静脈(Left circumflex scapular vein)",
+        "parentName": "circumflex scapular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "order": 310,
+        "region": "上肢"
+    },
+    "FJ2247_BP50042_FMA23115_Left subscapular vein": {
+        "conceptId": "FMA23115",
+        "name": "左肩甲下静脈(Left subscapular vein)",
+        "parentName": "subscapular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "order": 310,
+        "region": "上肢"
+    },
+    "FJ2250_BP49834_FMA50860_Left suprascapular vein": {
+        "conceptId": "FMA50860",
+        "name": "左肩甲上静脈(Left suprascapular vein)",
+        "parentName": "suprascapular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "order": 310,
+        "region": "上肢"
+    },
+    "FJ2254_BP49995_FMA71215_Left thoracodorsal vein": {
+        "conceptId": "FMA71215",
+        "name": "左胸背静脈(Left thoracodorsal vein)",
+        "parentName": "thoracodorsal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "order": 310,
+        "region": "上肢"
+    },
+    "FJ2265_BP44862_FMA77954_Right anterior circumflex humeral vein": {
+        "conceptId": "FMA77954",
+        "name": "右前上腕回旋静脈(Right anterior circumflex humeral vein)",
+        "parentName": "anterior circumflex humeral vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "order": 310,
+        "region": "上肢"
+    },
+    "FJ2302_BP49872_FMA50859_Right suprascapular vein": {
+        "conceptId": "FMA50859",
+        "name": "右肩甲上静脈(Right suprascapular vein)",
+        "parentName": "suprascapular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "region": "上肢",
+        "order": 310
+    },
+    "FJ2299_BP49791_FMA23114_Right subscapular vein": {
+        "conceptId": "FMA23114",
+        "name": "右肩甲下静脈(Right subscapular vein)",
+        "parentName": "subscapular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "region": "上肢",
+        "order": 310
+    },
+    "FJ2274_BP50193_FMA77949_Right circumflex scapular vein": {
+        "conceptId": "FMA77949",
+        "name": "右肩甲回旋静脈(Right circumflex scapular vein)",
+        "parentName": "circumflex scapular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "region": "上肢",
+        "order": 310
+    },
+    "FJ2269_BP50702_FMA13330_Right axillary vein": {
+        "conceptId": "FMA13330",
+        "name": "右腋窩静脈(Right axillary vein)",
+        "parentName": "axillary vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of shoulder",
+        "region": "上肢",
+        "order": 310
+    },
+    "FJ2199_BP46589_FMA22954_Dorsal metacarpal vein": {
+        "conceptId": "FMA22954",
+        "name": "手背中手静脈(Dorsal metacarpal vein)",
+        "parentName": "tributary of deep palmar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "order": 320,
+        "region": "上肢"
+    },
+    "FJ2213_BP44809_FMA77955_Left anterior circumflex humeral vein": {
+        "conceptId": "FMA77955",
+        "name": "左前上腕回旋静脈(Left anterior circumflex humeral vein)",
+        "parentName": "anterior circumflex humeral vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of arm",
+        "order": 320,
+        "region": "上肢"
+    },
+    "FJ2218_BP49915_FMA22910_Left basilic vein": {
+        "conceptId": "FMA22910",
+        "name": "左尺側皮静脈(Left basilic vein)",
+        "parentName": "basilic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of arm",
+        "order": 320,
+        "region": "上肢"
+    },
+    "FJ2220_BP49850_FMA13326_Left cephalic vein": {
+        "conceptId": "FMA13326",
+        "name": "左橈側皮静脈(Left cephalic vein)",
+        "parentName": "cephalic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of arm",
+        "order": 320,
+        "region": "上肢"
+    },
+    "FJ2287_BP49643_FMA22964_Right median cubital vein": {
+        "conceptId": "FMA22964",
+        "name": "右肘正中皮静脈(Right median cubital vein)",
+        "parentName": "median cubital vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of arm",
+        "order": 320,
+        "region": "上肢"
+    },
+    "FJ2313_BP50153_FMA22936_Left medial brachial vein": {
+        "conceptId": "FMA22936",
+        "name": "左上腕内側静脈(Left medial brachial vein)",
+        "parentName": "medial brachial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of arm",
+        "region": "上肢",
+        "order": 320
+    },
+    "FJ2270_BP49840_FMA22909_Right basilic vein": {
+        "conceptId": "FMA22909",
+        "name": "右尺側皮静脈(Right basilic vein)",
+        "parentName": "basilic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of arm",
+        "region": "上肢",
+        "order": 320
+    },
+    "FJ2272_BP50003_FMA13325_Right cephalic vein": {
+        "conceptId": "FMA13325",
+        "name": "右橈側皮静脈(Right cephalic vein)",
+        "parentName": "cephalic vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of arm",
+        "region": "上肢",
+        "order": 320
+    },
+    "FJ2228_BP48185_FMA62507_Dorsal venous network of left hand": {
+        "conceptId": "FMA62507",
+        "name": "左手背静脈網(Dorsal venous network of left hand)",
+        "parentName": "dorsal venous network of hand",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "order": 330,
+        "region": "上肢"
+    },
+    "FJ2229_BP49386_FMA22913_Left deep palmar venous arch": {
+        "conceptId": "FMA22913",
+        "name": "左深掌静脈弓(Left deep palmar venous arch)",
+        "parentName": "deep palmar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "order": 330,
+        "region": "上肢"
+    },
+    "FJ2238_BP49142_FMA22921_Left palmar metacarpal vein": {
+        "conceptId": "FMA22921",
+        "name": "左掌中手静脈(Left palmar metacarpal vein)",
+        "parentName": "palmar metacarpal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "order": 330,
+        "region": "上肢"
+    },
+    "FJ2249_BP49113_FMA22916_Left superficial palmar venous arch": {
+        "conceptId": "FMA22916",
+        "name": "左浅掌静脈弓(Left superficial palmar venous arch)",
+        "parentName": "superficial palmar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "order": 330,
+        "region": "上肢"
+    },
+    "FJ2301_BP49174_FMA22915_Right superficial palmar venous arch": {
+        "conceptId": "FMA22915",
+        "name": "右浅掌静脈弓(Right superficial palmar venous arch)",
+        "parentName": "superficial palmar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 330
+    },
+    "FJ2290_BP49329_FMA22920_Right palmar metacarpal vein": {
+        "conceptId": "FMA22920",
+        "name": "右掌側中手静脈(Right palmar metacarpal vein)",
+        "parentName": "palmar metacarpal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 330
+    },
+    "FJ2280_BP47944_FMA62506_Dorsal venous network of right hand": {
+        "conceptId": "FMA62506",
+        "name": "右手背静脈網(Dorsal venous network of right hand)",
+        "parentName": "dorsal venous network of hand",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 330
+    },
+    "FJ2281_BP49309_FMA22912_Right deep palmar venous arch": {
+        "conceptId": "FMA22912",
+        "name": "右深掌静脈弓(Right deep palmar venous arch)",
+        "parentName": "deep palmar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 330
+    },
+    "FJ2234_BP49608_FMA22969_Left median antebrachial vein": {
+        "conceptId": "FMA22969",
+        "name": "左前腕正中皮静脈(Left median antebrachial vein)",
+        "parentName": "median antebrachial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of forearm",
+        "order": 340,
+        "region": "上肢"
+    },
+    "FJ2244_BP49412_FMA22949_Left radial vein": {
+        "conceptId": "FMA22949",
+        "name": "左橈骨静脈(Left radial vein)",
+        "parentName": "radial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of forearm",
+        "order": 340,
+        "region": "上肢"
+    },
+    "FJ2260_BP49668_FMA22952_Left ulnar vein": {
+        "conceptId": "FMA22952",
+        "name": "左尺骨静脈(Left ulnar vein)",
+        "parentName": "ulnar vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of forearm",
+        "order": 340,
+        "region": "上肢"
+    },
+    "FJ2286_BP49595_FMA22968_Right median antebrachial vein": {
+        "conceptId": "FMA22968",
+        "name": "右前腕正中皮静脈(Right median antebrachial vein)",
+        "parentName": "median antebrachial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of forearm",
+        "order": 340,
+        "region": "上肢"
+    },
+    "FJ2341_BP50051_FMA22935_Right medial brachial vein": {
+        "conceptId": "FMA22935",
+        "name": "右上腕内側静脈(Right medial brachial vein)",
+        "parentName": "medial brachial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of upper arm",
+        "region": "上肢",
+        "order": 340
+    },
+    "FJ2312_BP49626_FMA22951_Right ulnar vein": {
+        "conceptId": "FMA22951",
+        "name": "右尺骨静脈(Right ulnar vein)",
+        "parentName": "ulnar vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of forearm",
+        "region": "上肢",
+        "order": 340
+    },
+    "FJ2296_BP49712_FMA22948_Right radial vein": {
+        "conceptId": "FMA22948",
+        "name": "右橈骨静脈(Right radial vein)",
+        "parentName": "radial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of forearm",
+        "region": "上肢",
+        "order": 340
+    },
+    "FJ2235_BP49716_FMA22965_Left median cubital vein": {
+        "conceptId": "FMA22965",
+        "name": "左肘正中皮静脈(Left median cubital vein)",
+        "parentName": "median cubital vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of elbow",
+        "order": 350,
+        "region": "上肢"
+    },
+    "FJ2352_BP46635_FMA22923_Common palmar digital vein": {
+        "conceptId": "FMA22923",
+        "name": "総掌指静脈(Common palmar digital vein)",
+        "parentName": "tributary of superficial palmar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 474
+    },
+    "FJ2322_BP46635_FMA22923_Common palmar digital vein": {
+        "conceptId": "FMA22923",
+        "name": "総掌指静脈(Common palmar digital vein)",
+        "parentName": "tributary of superficial palmar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 474
+    },
+    "FJ2350_BP49329_FMA22920_Right palmar metacarpal vein": {
+        "conceptId": "FMA22920",
+        "name": "右掌中手静脈(Right palmar metacarpal vein)",
+        "parentName": "palmar metacarpal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 475
+    },
+    "FJ2320_BP49142_FMA22921_Left palmar metacarpal vein": {
+        "conceptId": "FMA22921",
+        "name": "左掌側中手静脈(Left palmar metacarpal vein)",
+        "parentName": "palmar metacarpal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 475
+    },
+    "FJ2349_BP45716_FMA85102_Proper palmar digital vein of right little finger": {
+        "conceptId": "FMA85102",
+        "name": "右小指正掌指静脈(Proper palmar digital vein of right little finger)",
+        "parentName": "proper palmar digital vein of little finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 480
+    },
+    "FJ2319_BP45814_FMA85103_Proper palmar digital vein of left little finger": {
+        "conceptId": "FMA85103",
+        "name": "左小指固有掌側指静脈(Proper palmar digital vein of left little finger)",
+        "parentName": "proper palmar digital vein of little finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of hand",
+        "region": "上肢",
+        "order": 480
+    },
+    "FJ5189_BP46238_FMA66650_Trunk of right subclavian vein": {
+        "conceptId": "FMA66650",
+        "name": "右鎖骨下静脈幹(Trunk of right subclavian vein)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Veins of upper limb",
+        "region": "上肢",
+        "order": 1243
+    },
+    "FJ2186_BP46589_FMA22954_Dorsal metacarpal vein": {
+        "conceptId": "FMA22954",
+        "name": "背側中手静脈(Dorsal metacarpal vein)",
+        "parentName": "tributary of deep palmar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2321_BP45814_FMA85103_Proper palmar digital vein of left little finger": {
+        "conceptId": "FMA85103",
+        "name": "左小指手掌固有静脈(Proper palmar digital vein of left little finger)",
+        "parentName": "proper palmar digital vein of little finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2323_BP49142_FMA22921_Left palmar metacarpal vein": {
+        "conceptId": "FMA22921",
+        "name": "左手掌中手静脈(Left palmar metacarpal vein)",
+        "parentName": "palmar metacarpal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2324_BP45504_FMA85097_Proper palmar digital vein of left index finger": {
+        "conceptId": "FMA85097",
+        "name": "左示指手掌固有静脈(Proper palmar digital vein of left index finger)",
+        "parentName": "proper palmar digital vein of index finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2325_BP45504_FMA85097_Proper palmar digital vein of left index finger": {
+        "conceptId": "FMA85097",
+        "name": "左示指手掌固有静脈(Proper palmar digital vein of left index finger)",
+        "parentName": "proper palmar digital vein of index finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2326_BP45848_FMA85099_Proper palmar digital vein of left middle finger": {
+        "conceptId": "FMA85099",
+        "name": "左中指手掌固有静脈(Proper palmar digital vein of left middle finger)",
+        "parentName": "proper palmar digital vein of middle finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2327_BP45411_FMA85101_Proper palmar digital vein of left ring finger": {
+        "conceptId": "FMA85101",
+        "name": "左環指手掌固有静脈(Proper palmar digital vein of left ring finger)",
+        "parentName": "proper palmar digital vein of ring finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2328_BP45411_FMA85101_Proper palmar digital vein of left ring finger": {
+        "conceptId": "FMA85101",
+        "name": "左環指手掌固有静脈(Proper palmar digital vein of left ring finger)",
+        "parentName": "proper palmar digital vein of ring finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2329_BP45814_FMA85103_Proper palmar digital vein of left little finger": {
+        "conceptId": "FMA85103",
+        "name": "左小指手掌固有静脈(Proper palmar digital vein of left little finger)",
+        "parentName": "proper palmar digital vein of little finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Hand veins",
+        "region": "上肢"
+    },
+    "FJ2351_BP45716_FMA85102_Proper palmar digital vein of right little finger": {
+        "conceptId": "FMA85102",
+        "name": "右小指正中掌側静脈(Proper palmar digital vein of right little finger)",
+        "parentName": "proper palmar digital vein of little finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2353_BP49329_FMA22920_Right palmar metacarpal vein": {
+        "conceptId": "FMA22920",
+        "name": "右掌側中手静脈(Right palmar metacarpal vein)",
+        "parentName": "palmar metacarpal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Metacarpal veins",
+        "region": "上肢"
+    },
+    "FJ2354_BP45438_FMA85096_Proper palmar digital vein of right index finger": {
+        "conceptId": "FMA85096",
+        "name": "右示指正中掌側静脈(Proper palmar digital vein of right index finger)",
+        "parentName": "proper palmar digital vein of index finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2355_BP45438_FMA85096_Proper palmar digital vein of right index finger": {
+        "conceptId": "FMA85096",
+        "name": "右示指正中掌側静脈(Proper palmar digital vein of right index finger)",
+        "parentName": "proper palmar digital vein of index finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2356_BP45817_FMA85098_Proper palmar digital vein of right middle finger": {
+        "conceptId": "FMA85098",
+        "name": "右中指正中掌側静脈(Proper palmar digital vein of right middle finger)",
+        "parentName": "proper palmar digital vein of middle finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2357_BP45817_FMA85098_Proper palmar digital vein of right middle finger": {
+        "conceptId": "FMA85098",
+        "name": "右中指正中掌側静脈(Proper palmar digital vein of right middle finger)",
+        "parentName": "proper palmar digital vein of middle finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2358_BP45706_FMA85100_Proper palmar digital vein of right ring finger": {
+        "conceptId": "FMA85100",
+        "name": "右薬指正中掌側静脈(Proper palmar digital vein of right ring finger)",
+        "parentName": "proper palmar digital vein of ring finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2359_BP45706_FMA85100_Proper palmar digital vein of right ring finger": {
+        "conceptId": "FMA85100",
+        "name": "右薬指正中掌側静脈(Proper palmar digital vein of right ring finger)",
+        "parentName": "proper palmar digital vein of ring finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2360_BP45716_FMA85102_Proper palmar digital vein of right little finger": {
+        "conceptId": "FMA85102",
+        "name": "右小指正中掌側静脈(Proper palmar digital vein of right little finger)",
+        "parentName": "proper palmar digital vein of little finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2340_BP45848_FMA85099_Proper palmar digital vein of left middle finger": {
+        "conceptId": "FMA85099",
+        "name": "左中指正中掌側静脈(Proper palmar digital vein of left middle finger)",
+        "parentName": "proper palmar digital vein of middle finger",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Digital veins",
+        "region": "上肢"
+    },
+    "FJ2102_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pelvic veins",
+        "order": 290,
+        "region": "下肢"
+    },
+    "FJ2144_BP50860_FMA21387_Right common iliac vein": {
+        "conceptId": "FMA21387",
+        "name": "右総腸骨静脈(Right common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pelvic veins",
+        "order": 290,
+        "region": "下肢"
+    },
+    "FJ2103_BP50259_FMA21380_Left great saphenous vein": {
+        "conceptId": "FMA21380",
+        "name": "左大伏在静脈(Left great saphenous vein)",
+        "parentName": "great saphenous vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Thigh veins",
+        "order": 295,
+        "region": "下肢"
+    },
+    "FJ2135_BP50604_FMA51042_Right deep femoral vein": {
+        "conceptId": "FMA51042",
+        "name": "右大腿深静脈(Right deep femoral vein)",
+        "parentName": "deep femoral vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Thigh veins",
+        "order": 295,
+        "region": "下肢"
+    },
+    "FJ2145_BP50515_FMA21379_Right great saphenous vein": {
+        "conceptId": "FMA21379",
+        "name": "右大伏在静脈(Right great saphenous vein)",
+        "parentName": "great saphenous vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Thigh veins",
+        "order": 295,
+        "region": "下肢"
+    },
+    "FJ2099_BP50263_FMA51043_Left deep femoral vein": {
+        "conceptId": "FMA51043",
+        "name": "左大腿深静脈(Left deep femoral vein)",
+        "parentName": "deep femoral vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Thigh veins",
+        "order": 300,
+        "region": "下肢"
+    },
+    "FJ2107_BP49406_FMA44888_Left genicular vein": {
+        "conceptId": "FMA44888",
+        "name": "左膝静脈(Left genicular vein)",
+        "parentName": "genicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Knee veins",
+        "order": 305,
+        "region": "下肢"
+    },
+    "FJ2117_BP49865_FMA44329_Left popliteal vein": {
+        "conceptId": "FMA44329",
+        "name": "左膝窩静脈(Left popliteal vein)",
+        "parentName": "popliteal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Knee veins",
+        "order": 305,
+        "region": "下肢"
+    },
+    "FJ2151_BP49736_FMA44887_Right genicular vein": {
+        "conceptId": "FMA44887",
+        "name": "右膝静脈(Right genicular vein)",
+        "parentName": "genicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Knee veins",
+        "order": 305,
+        "region": "下肢"
+    },
+    "FJ2153_BP49736_FMA44887_Right genicular vein": {
+        "conceptId": "FMA44887",
+        "name": "右膝静脈(Right genicular vein)",
+        "parentName": "genicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Knee veins",
+        "order": 305,
+        "region": "下肢"
+    },
+    "FJ2097_BP49405_FMA44337_Left anterior tibial vein": {
+        "conceptId": "FMA44337",
+        "name": "左前脛骨静脈(Left anterior tibial vein)",
+        "parentName": "anterior tibial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Lower leg veins",
+        "order": 310,
+        "region": "下肢"
+    },
+    "FJ2100_BP48273_FMA70922_Set of perforating veins": {
+        "conceptId": "FMA70922",
+        "name": "穿通静脈の集合(Set of perforating veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Lower leg veins",
+        "order": 310,
+        "region": "下肢"
+    },
+    "FJ2118_BP49451_FMA44339_Left posterior tibial vein": {
+        "conceptId": "FMA44339",
+        "name": "左後脛骨静脈(Left posterior tibial vein)",
+        "parentName": "posterior tibial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Lower leg veins",
+        "order": 310,
+        "region": "下肢"
+    },
+    "FJ2132_BP49553_FMA44336_Right anterior tibial vein": {
+        "conceptId": "FMA44336",
+        "name": "右前脛骨静脈(Right anterior tibial vein)",
+        "parentName": "anterior tibial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Lower leg veins",
+        "order": 310,
+        "region": "下肢"
+    },
+    "FJ2138_BP48273_FMA70922_Set of perforating veins": {
+        "conceptId": "FMA70922",
+        "name": "穿通静脈群(Set of perforating veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Lower leg veins",
+        "order": 310,
+        "region": "下肢"
+    },
+    "FJ2056_BP45660_FMA21354_Deep dorsal vein of penis": {
+        "conceptId": "FMA21354",
+        "name": "陰茎深背静脈(Deep dorsal vein of penis)",
+        "parentName": "tributary of internal pudendal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Pelvic veins",
+        "region": "下肢",
+        "order": 310
+    },
+    "FJ2121_BP49484_FMA44335_Left small saphenous vein": {
+        "conceptId": "FMA44335",
+        "name": "左小伏在静脈(Left small saphenous vein)",
+        "parentName": "small saphenous vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Lower leg veins",
+        "order": 315,
+        "region": "下肢"
+    },
+    "FJ2059_BP49235_FMA44882_Dorsal venous arch of left foot": {
+        "conceptId": "FMA44882",
+        "name": "左足背静脈弓(Dorsal venous arch of left foot)",
+        "parentName": "dorsal venous arch of foot",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "region": "下肢",
+        "order": 330
+    },
+    "FJ2061_BP49118_FMA44881_Dorsal venous arch of right foot": {
+        "conceptId": "FMA44881",
+        "name": "右足背静脈弓(Dorsal venous arch of right foot)",
+        "parentName": "dorsal venous arch of foot",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "region": "下肢",
+        "order": 330
+    },
+    "FJ2113_BP46751_FMA44499_Tributary of plantar venous arch": {
+        "conceptId": "FMA44499",
+        "name": "足底静脈弓の分枝(Tributary of plantar venous arch)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "order": 345,
+        "region": "下肢"
+    },
+    "FJ2120_BP48376_FMA70919_Set of plantar digital veins": {
+        "conceptId": "FMA70919",
+        "name": "足底指静脈の集合(Set of plantar digital veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "order": 345,
+        "region": "下肢"
+    },
+    "FJ2128_BP48936_FMA44884_Plantar venous arch of left foot": {
+        "conceptId": "FMA44884",
+        "name": "左足底静脈弓(Plantar venous arch of left foot)",
+        "parentName": "plantar venous arch of foot",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "order": 345,
+        "region": "下肢"
+    },
+    "FJ2129_BP49021_FMA44883_Plantar venous arch of right foot": {
+        "conceptId": "FMA44883",
+        "name": "右足底静脈弓(Plantar venous arch of right foot)",
+        "parentName": "plantar venous arch of foot",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "order": 345,
+        "region": "下肢"
+    },
+    "FJ2160_BP46751_FMA44499_Tributary of plantar venous arch": {
+        "conceptId": "FMA44499",
+        "name": "足底静脈弓の枝(Tributary of plantar venous arch)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "order": 345,
+        "region": "下肢"
+    },
+    "FJ2165_BP46751_FMA44499_Tributary of plantar venous arch": {
+        "conceptId": "FMA44499",
+        "name": "足底静脈弓の枝(Tributary of plantar venous arch)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "order": 345,
+        "region": "下肢"
+    },
+    "FJ2208_BP44973_FMA21384_Superficial dorsal vein of penis": {
+        "conceptId": "FMA21384",
+        "name": "陰茎浅背静脈(Superficial dorsal vein of penis)",
+        "parentName": "tributary of superficial external pudendal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of pelvis and external genitalia",
+        "order": 520,
+        "region": "下肢"
+    },
+    "FJ3426_BP44973_FMA21384_Superficial dorsal vein of penis": {
+        "conceptId": "FMA21384",
+        "name": "陰茎背側浅静脈(Superficial dorsal vein of penis)",
+        "parentName": "tributary of superficial external pudendal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 620,
+        "region": "下肢"
+    },
+    "FJ2201_BP50650_FMA44920_Right lateral circumflex femoral vein": {
+        "conceptId": "FMA44920",
+        "name": "右外側大腿回旋静脈(Right lateral circumflex femoral vein)",
+        "parentName": "lateral circumflex femoral vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of thigh",
+        "order": 630,
+        "region": "下肢"
+    },
+    "FJ2202_BP50703_FMA44918_Right medial circumflex femoral vein": {
+        "conceptId": "FMA44918",
+        "name": "右内側大腿回旋静脈(Right medial circumflex femoral vein)",
+        "parentName": "medial circumflex femoral vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of thigh",
+        "order": 635,
+        "region": "下肢"
+    },
+    "FJ3465_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 639,
+        "region": "下肢"
+    },
+    "FJ3470_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "order": 643,
+        "region": "下肢"
+    },
+    "FJ3513_BP50735_FMA18913_Left inferior gluteal vein": {
+        "conceptId": "FMA18913",
+        "name": "左下殿静脈(Left inferior gluteal vein)",
+        "parentName": "inferior gluteal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 664
+    },
+    "FJ2192_BP48273_FMA70922_Set of perforating veins": {
+        "conceptId": "FMA70922",
+        "name": "穿通静脈群(Set of perforating veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Sets of veins",
+        "order": 700,
+        "region": "下肢"
+    },
+    "FJ3603_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 707
+    },
+    "FJ3605_BP50860_FMA21387_Right common iliac vein": {
+        "conceptId": "FMA21387",
+        "name": "右総腸骨静脈(Right common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 709
+    },
+    "FJ3606_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 710
+    },
+    "FJ2193_BP49553_FMA44336_Right anterior tibial vein": {
+        "conceptId": "FMA44336",
+        "name": "右前脛骨静脈(Right anterior tibial vein)",
+        "parentName": "anterior tibial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of lower leg",
+        "order": 710,
+        "region": "下肢"
+    },
+    "FJ3607_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 711
+    },
+    "FJ3608_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 712
+    },
+    "FJ3609_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 713
+    },
+    "FJ3610_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 714
+    },
+    "FJ3611_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 715
+    },
+    "FJ3612_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 716
+    },
+    "FJ3616_BP50719_FMA18909_Right superior gluteal vein": {
+        "conceptId": "FMA18909",
+        "name": "右上殿静脈(Right superior gluteal vein)",
+        "parentName": "superior gluteal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 719
+    },
+    "FJ2194_BP49508_FMA44885_Right fibular vein": {
+        "conceptId": "FMA44885",
+        "name": "右腓骨静脈(Right fibular vein)",
+        "parentName": "fibular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of lower leg",
+        "order": 720,
+        "region": "下肢"
+    },
+    "FJ2200_BP49508_FMA44885_Right fibular vein": {
+        "conceptId": "FMA44885",
+        "name": "右腓骨静脈(Right fibular vein)",
+        "parentName": "fibular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of lower leg",
+        "order": 720,
+        "region": "下肢"
+    },
+    "FJ3618_BP50963_FMA14341_Right testicular vein": {
+        "conceptId": "FMA14341",
+        "name": "右精巣静脈(Right testicular vein)",
+        "parentName": "testicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 721
+    },
+    "FJ3637_BP44973_FMA21384_Superficial dorsal vein of penis": {
+        "conceptId": "FMA21384",
+        "name": "陰茎背浅静脈(Superficial dorsal vein of penis)",
+        "parentName": "tributary of superficial external pudendal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins",
+        "region": "下肢",
+        "order": 734
+    },
+    "FJ2207_BP46101_FMA44504_Plantar metatarsal vein": {
+        "conceptId": "FMA44504",
+        "name": "足底中足静脈(Plantar metatarsal vein)",
+        "parentName": "tributary of plantar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Veins of foot",
+        "order": 810,
+        "region": "下肢"
+    },
+    "FJ2060_BP49235_FMA44882_Dorsal venous arch of left foot": {
+        "conceptId": "FMA44882",
+        "name": "左足背静脈弓(Dorsal venous arch of left foot)",
+        "parentName": "dorsal venous arch of foot",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "region": "下肢"
+    },
+    "FJ2062_BP49118_FMA44881_Dorsal venous arch of right foot": {
+        "conceptId": "FMA44881",
+        "name": "右足背静脈弓(Dorsal venous arch of right foot)",
+        "parentName": "dorsal venous arch of foot",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "region": "下肢"
+    },
+    "FJ2108_BP49406_FMA44888_Left genicular vein": {
+        "conceptId": "FMA44888",
+        "name": "左膝静脈(Left genicular vein)",
+        "parentName": "genicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2115_BP46751_FMA44499_Tributary of plantar venous arch": {
+        "conceptId": "FMA44499",
+        "name": "足底静脈弓の分枝(Tributary of plantar venous arch)",
+        "parentName": "subdivision of inferior vena caval tree",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "region": "下肢"
+    },
+    "FJ2119_BP48273_FMA70922_Set of perforating veins": {
+        "conceptId": "FMA70922",
+        "name": "貫通静脈群(Set of perforating veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2124_BP49406_FMA44888_Left genicular vein": {
+        "conceptId": "FMA44888",
+        "name": "左膝静脈(Left genicular vein)",
+        "parentName": "genicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2125_BP49406_FMA44888_Left genicular vein": {
+        "conceptId": "FMA44888",
+        "name": "左膝静脈(Left genicular vein)",
+        "parentName": "genicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2171_BP49964_FMA44328_Right popliteal vein": {
+        "conceptId": "FMA44328",
+        "name": "右膝窩静脈(Right popliteal vein)",
+        "parentName": "popliteal vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2173_BP49642_FMA44338_Right posterior tibial vein": {
+        "conceptId": "FMA44338",
+        "name": "右後脛骨静脈(Right posterior tibial vein)",
+        "parentName": "posterior tibial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2174_BP48273_FMA70922_Set of perforating veins": {
+        "conceptId": "FMA70922",
+        "name": "貫通静脈群(Set of perforating veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2175_BP48376_FMA70919_Set of plantar digital veins": {
+        "conceptId": "FMA70919",
+        "name": "足底指静脈群(Set of plantar digital veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "region": "下肢"
+    },
+    "FJ2176_BP49465_FMA44334_Right small saphenous vein": {
+        "conceptId": "FMA44334",
+        "name": "右小伏在静脈(Right small saphenous vein)",
+        "parentName": "small saphenous vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2178_BP49845_FMA44340_Right superficial epigastric vein": {
+        "conceptId": "FMA44340",
+        "name": "右浅腹壁静脈(Right superficial epigastric vein)",
+        "parentName": "superficial epigastric vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Abdominal veins",
+        "region": "下肢"
+    },
+    "FJ2181_BP49736_FMA44887_Right genicular vein": {
+        "conceptId": "FMA44887",
+        "name": "右膝静脈(Right genicular vein)",
+        "parentName": "genicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2182_BP49736_FMA44887_Right genicular vein": {
+        "conceptId": "FMA44887",
+        "name": "右膝静脈(Right genicular vein)",
+        "parentName": "genicular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2183_BP49405_FMA44337_Left anterior tibial vein": {
+        "conceptId": "FMA44337",
+        "name": "左前脛骨静脈(Left anterior tibial vein)",
+        "parentName": "anterior tibial vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2184_BP49437_FMA44886_Left fibular vein": {
+        "conceptId": "FMA44886",
+        "name": "左腓骨静脈(Left fibular vein)",
+        "parentName": "fibular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2185_BP48282_FMA70917_Set of dorsal digital veins": {
+        "conceptId": "FMA70917",
+        "name": "背側指静脈群(Set of dorsal digital veins)",
+        "parentName": "set of veins",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "region": "下肢"
+    },
+    "FJ2187_BP49437_FMA44886_Left fibular vein": {
+        "conceptId": "FMA44886",
+        "name": "左腓骨静脈(Left fibular vein)",
+        "parentName": "fibular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2188_BP50444_FMA44922_Left lateral circumflex femoral vein": {
+        "conceptId": "FMA44922",
+        "name": "左大腿外側回旋静脈(Left lateral circumflex femoral vein)",
+        "parentName": "lateral circumflex femoral vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Thigh veins",
+        "region": "下肢"
+    },
+    "FJ2189_BP50520_FMA44919_Left medial circumflex femoral vein": {
+        "conceptId": "FMA44919",
+        "name": "左大腿内側回旋静脈(Left medial circumflex femoral vein)",
+        "parentName": "medial circumflex femoral vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Thigh veins",
+        "region": "下肢"
+    },
+    "FJ2190_BP49508_FMA44885_Right fibular vein": {
+        "conceptId": "FMA44885",
+        "name": "右腓骨静脈(Right fibular vein)",
+        "parentName": "fibular vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Leg veins",
+        "region": "下肢"
+    },
+    "FJ2191_BP46101_FMA44504_Plantar metatarsal vein": {
+        "conceptId": "FMA44504",
+        "name": "足底中足静脈(Plantar metatarsal vein)",
+        "parentName": "tributary of plantar venous arch",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Foot veins",
+        "region": "下肢"
+    },
+    "FJ3469_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3471_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3484_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3510_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3512_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3522_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3523_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3524_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3525_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3526_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3527_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3531_BP50739_FMA21388_Left common iliac vein": {
+        "conceptId": "FMA21388",
+        "name": "左総腸骨静脈(Left common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3568_BP50860_FMA21387_Right common iliac vein": {
+        "conceptId": "FMA21387",
+        "name": "右総腸骨静脈(Right common iliac vein)",
+        "parentName": "common iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "下肢"
+    },
+    "FJ3571_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "骨盤部"
+    },
+    "FJ3572_BP50761_FMA18887_Right internal iliac vein": {
+        "conceptId": "FMA18887",
+        "name": "右内腸骨静脈(Right internal iliac vein)",
+        "parentName": "internal iliac vein",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Iliac veins",
+        "region": "骨盤部"
+    }
+}

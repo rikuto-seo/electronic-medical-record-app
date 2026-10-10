@@ -7,6 +7,11 @@
 
 # testing
 /coverage
+/tmp/pdfs/
+/tmp/firebase-qa/
+/tmp/anatomy-qa/
+/firestore-debug.log
+/firebase-debug.log
 
 # production
 /build

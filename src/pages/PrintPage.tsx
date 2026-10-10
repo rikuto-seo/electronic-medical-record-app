@@ -1,188 +1,66 @@
-// src/pages/PrintPage.tsx
-import React from 'react';
-import { useParams } from 'react-router-dom';
+import React, { useEffect, useRef, useState } from 'react';
+import { Link, useParams } from 'react-router-dom';
 import { usePatientContext } from '../hooks/usePatientContext';
-import { exportToPDF } from '../utils/pdfUtils';
-import { formatJST } from '../utils/dateUtils';
+import { downloadMedicalRecordsPdf, downloadPatientSummaryPdf } from '../utils/pdfUtils';
+import { PdfSection, medicalRecordSections, patientSummarySections, pdfDate, selectedMedicalRecords } from '../utils/patientPdfData';
 import '../components/pdf/PrintableMedicalRecord.css';
 
-const PrintPage: React.FC = () => {
-  const { patientId, recordId } = useParams<{ patientId: string; recordId?: string }>();
-  const { patients } = usePatientContext();
+const Sections: React.FC<{ sections: PdfSection[] }> = ({ sections }) => <>
+  {sections.map(section => <section className="pdf-section" key={section.title}>
+    <h3>{section.title}</h3>
+    {section.rows.map((row,index) => <div className="pdf-row" key={index}>
+      {row.map(cell => <div className="pdf-cell" key={cell.label}><strong>{cell.label}</strong><span>{cell.value}</span></div>)}
+    </div>)}
+  </section>)}
+</>;
 
-  const patient = patients.find((p) => p.id === patientId);
-  if (!patient) {
-    return <div className="p-6 text-red-600">患者が見つかりません。</div>;
-  }
-
-  // recordId がなければ全記録、あれば該当ID群の記録のみを抽出
-  const recordsToShow = recordId ? recordId.split('_') : patient.records.map(r => r.id);
-  const records = patient.records.filter((r) => recordsToShow.includes(r.id));
-
-  if (records.length === 0) {
-    return <div className="p-6 text-red-600">診療記録が見つかりません。</div>;
-  }
-
-  // PDFファイル名は「氏名_最初の記録日_診療録.pdf」
-  const firstRecordDate = formatJST(records[0].date).replace(/[\/: ]/g, '');
-  const pdfFileName = `${patient.name}_${firstRecordDate}_診療録.pdf`;
-
-  const printDateTime = new Date().toLocaleString('ja-JP', {
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-    hour: '2-digit',
-    minute: '2-digit',
-  });
-
-  return (
-    <div className="p-8 bg-gray-100 min-h-screen">
-      <div className="text-center mb-4 print-hidden">
-        <button
-          onClick={() => exportToPDF('print-area', pdfFileName)}
-          className="pdf-export-button bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
-        >
-          PDF出力
-        </button>
-      </div>
-
-      <div id="print-area">
-        {records.map((record, index) => (
-          <div key={record.id} className="print-record page">
-            <div className="meta-info">
-              <div><strong>記録日時：</strong>{formatJST(record.date)}</div>
-              <div><strong>印刷日時：</strong>{printDateTime}</div>
-            </div>
-
-            <h1>診療録</h1>
-
-            {/* 基本情報 */}
-            <div className="section">
-              <h2>基本情報</h2>
-              <div className="field"><strong>氏名：</strong> <span className="field-value">{patient.name}</span></div>
-              <div className="field"><strong>性別：</strong> <span className="field-value">{patient.gender}</span></div>
-              <div className="field"><strong>年齢：</strong> <span className="field-value">{patient.age}歳</span></div>
-              <div className="field"><strong>生年月日：</strong> <span className="field-value">{patient.birthDate}</span></div>
-              <div className="field"><strong>初診日：</strong> <span className="field-value">{patient.firstVisitDate}</span></div>
-              {patient.occupation && <div className="field"><strong>職業：</strong> <span className="field-value">{patient.occupation}</span></div>}
-              {patient.address && <div className="field"><strong>住所：</strong> <span className="field-value">{patient.address}</span></div>}
-              {patient.phoneNumber && <div className="field"><strong>電話番号：</strong> <span className="field-value">{patient.phoneNumber}</span></div>}
-              {patient.email && <div className="field"><strong>Email：</strong> <span className="field-value">{patient.email}</span></div>}
-            </div>
-
-            {/* 保険情報 */}
-            {patient.insuranceInfo && (
-              <div className="section">
-                <h2>保険情報</h2>
-                <div className="field"><span className="field-value">{patient.insuranceInfo}</span></div>
-              </div>
-            )}
-
-            {/* 緊急連絡先 */}
-            {patient.emergencyContact && (
-              <div className="section">
-                <h2>緊急連絡先</h2>
-                <div className="field"><strong>氏名：</strong> <span className="field-value">{patient.emergencyContact.name}</span></div>
-                <div className="field"><strong>続柄：</strong> <span className="field-value">{patient.emergencyContact.relationship}</span></div>
-                <div className="field"><strong>電話番号：</strong> <span className="field-value">{patient.emergencyContact.phoneNumber}</span></div>
-              </div>
-            )}
-
-            {/* 生活習慣 */}
-            {patient.lifestyle && (
-              <div className="section">
-                <h2>生活習慣</h2>
-                {patient.lifestyle.smoking && <div className="field"><strong>喫煙：</strong> <span className="field-value">{patient.lifestyle.smoking}</span></div>}
-                {patient.lifestyle.drinking && <div className="field"><strong>飲酒：</strong> <span className="field-value">{patient.lifestyle.drinking}</span></div>}
-                {patient.lifestyle.exercise && <div className="field"><strong>運動：</strong> <span className="field-value">{patient.lifestyle.exercise}</span></div>}
-              </div>
-            )}
-
-            {/* 身体測定 */}
-            {patient.physicalMeasurements && (
-              <div className="section">
-                <h2>身体測定</h2>
-                {patient.physicalMeasurements.height && <div className="field"><strong>身長：</strong> <span className="field-value">{patient.physicalMeasurements.height} cm</span></div>}
-                {patient.physicalMeasurements.weight && <div className="field"><strong>体重：</strong> <span className="field-value">{patient.physicalMeasurements.weight} kg</span></div>}
-                {patient.physicalMeasurements.bmi && <div className="field"><strong>BMI：</strong> <span className="field-value">{patient.physicalMeasurements.bmi}</span></div>}
-              </div>
-            )}
-
-            {/* 家族歴・既往歴・アレルギー・服薬 */}
-            {patient.familyHistory && (
-              <div className="section">
-                <h2>家族歴</h2>
-                <div className="field"><span className="field-value">{patient.familyHistory}</span></div>
-              </div>
-            )}
-            {patient.medicalHistory && (
-              <div className="section">
-                <h2>既往歴</h2>
-                <div className="field"><span className="field-value">{patient.medicalHistory}</span></div>
-              </div>
-            )}
-            {patient.allergies && (
-              <div className="section">
-                <h2>アレルギー</h2>
-                <div className="field"><span className="field-value">{patient.allergies}</span></div>
-              </div>
-            )}
-            {patient.currentMedications && (
-              <div className="section">
-                <h2>服薬中の薬</h2>
-                <div className="field"><span className="field-value">{patient.currentMedications}</span></div>
-              </div>
-            )}
-
-            {/* 初回診療記録 */}
-            <div className="section">
-              <h2>初回診療記録</h2>
-              <div className="field"><strong>記録日：</strong> <span className="field-value">{formatJST(record.date)}</span></div>
-              <div className="field"><strong>主訴：</strong> <span className="field-value">{record.chiefComplaint || '—'}</span></div>
-              <div className="field"><strong>現病歴：</strong> <span className="field-value">{record.currentCondition || '—'}</span></div>
-              <div className="field"><strong>治療方針：</strong> <span className="field-value">{record.treatmentPlan || '—'}</span></div>
-              <div className="field"><strong>診断：</strong> <span className="field-value">{record.diagnosis || '—'}</span></div>
-              <div className="field"><strong>備考：</strong> <span className="field-value">{record.notes || '—'}</span></div>
-            </div>
-
-            {/* 詳細記録 */}
-            <div className="section">
-              <h2>詳細記録</h2>
-              {[
-                ['症状の出現日', record.symptomOnsetDate],
-                ['症状の持続期間', record.symptomDuration],
-                ['症状の部位', record.symptomLocation],
-                ['痛みの種類', record.painType],
-                ['痛みの強さ', record.painSeverity?.toString()],
-                ['可動域', record.rangeOfMotion],
-                ['筋力', record.muscleStrength],
-                ['触診所見', record.palpationFindings],
-                ['皮膚の状態', record.skinCondition],
-                ['画像検査所見', record.imagingResults],
-                ['神経学的所見', record.neurologicalExamResults],
-                ['その他の所見', record.otherExamResults],
-                ['鍼の種類', record.acupunctureType],
-                ['灸の種類', record.moxibustionType],
-                ['治療頻度', record.treatmentFrequency],
-                ['セルフケア指導', record.selfCareInstructions],
-                ['経過・備考', record.treatmentProgress],
-              ].map(([label, value], idx) =>
-                value ? (
-                  <div key={idx} className="field">
-                    <strong>{label}：</strong> <span className="field-value">{value}</span>
-                  </div>
-                ) : null
-              )}
-            </div>
-
-            <div className="signature-area">
-              医師署名：____________________
-            </div>
-          </div>
-        ))}
-      </div>
+const PrintPage: React.FC<{ mode?: 'summary' | 'chart' }> = ({ mode = 'chart' }) => {
+  const { patientId, recordId, recordIds } = useParams<{ patientId: string; recordId?: string; recordIds?: string }>();
+  const { patients, patientsLoading, patientsError, reloadPatients } = usePatientContext();
+  const [includeSummary, setIncludeSummary] = useState(true);
+  const [excluded, setExcluded] = useState<string[]>([]);
+  const [busy, setBusy] = useState(false);
+  const busyRef = useRef(false);
+  const [error, setError] = useState('');
+  const [exportedAt] = useState(() => new Date());
+  useEffect(() => { setExcluded([]); setError(''); }, [patientId,recordId,recordIds,mode]);
+  const patient = patients.find(item => item.id === patientId);
+  if (patientsLoading) return <p role="status">患者情報を読み込み中…</p>;
+  if (patientsError) return <div><p role="alert">{patientsError}</p><button onClick={reloadPatients}>再読み込み</button></div>;
+  if (!patient) return <div><p role="alert">患者が見つかりません。</p><Link to="/patients">患者一覧に戻る</Link></div>;
+  let records;
+  try { records = mode === 'summary' ? [] : selectedMedicalRecords(patient,recordId ?? recordIds); }
+  catch (selectionError) { return <div><p role="alert">{(selectionError as Error).message}</p><Link to={`/patients/${patient.id}`}>患者詳細に戻る</Link></div>; }
+  const selected = records.filter(record => !excluded.includes(record.id));
+  const download = async () => {
+    if (busyRef.current) return;
+    busyRef.current = true; setBusy(true); setError('');
+    try {
+      if (mode === 'summary') await downloadPatientSummaryPdf(patient,{exportedAt});
+      else await downloadMedicalRecordsPdf(patient,selected,{exportedAt,includeSummary});
+    } catch (downloadError) {
+      setError(downloadError instanceof Error ? downloadError.message : 'PDFを出力できませんでした。もう一度お試しください。');
+    } finally { busyRef.current = false; setBusy(false); }
+  };
+  return <div className="pdf-workspace">
+    <div className="pdf-controls">
+      <h2>{mode === 'summary' ? '患者情報PDF' : 'カルテPDF'}の出力</h2>
+      <p>{patient.name} / {mode === 'summary' ? 'A4・1ページの患者情報シート' : `診療記録 ${selected.length}件`}</p>
+      <p className="pdf-help">以下は出力内容です。PDFは日本語フォントを埋め込み、長い診療記録は自動で改ページします。</p>
+      {mode === 'chart' && <>
+        <label className="pdf-check"><input type="checkbox" checked={includeSummary} disabled={busy} onChange={event => setIncludeSummary(event.target.checked)} />患者情報シートを先頭に付ける</label>
+        <fieldset disabled={busy} className="pdf-record-selector"><legend>出力する診療記録</legend>
+          {!records.length && <p>診療記録はまだありません。</p>}
+          {records.map(record => <label className="pdf-check" key={record.id}><input type="checkbox" checked={!excluded.includes(record.id)} onChange={event => setExcluded(previous => event.target.checked ? previous.filter(id => id !== record.id) : [...previous,record.id])} />
+            {pdfDate(record.date,true)} {record.chiefComplaint || '主訴未記載'}
+          </label>)}
+        </fieldset>
+      </>}
+      {error && <p role="alert" className="pdf-error">{error}</p>}
+      <div className="pdf-buttons"><button onClick={download} disabled={busy || (mode === 'chart' && !selected.length)}>{busy ? 'PDFを作成中…' : 'PDFをダウンロード'}</button><Link to="/patients">患者一覧に戻る</Link></div>
     </div>
-  );
+    {(mode === 'summary' || includeSummary) && <article className="pdf-preview-sheet"><h2>患者情報シート</h2><p className="pdf-meta">出力日時: {pdfDate(exportedAt.toISOString(),true)} / 空欄は未記載</p><Sections sections={patientSummarySections(patient,exportedAt)} /></article>}
+    {mode === 'chart' && selected.map(record => <article className="pdf-preview-sheet" key={record.id}><h2>診療記録</h2><p className="pdf-meta">{patient.name} / 記録日時: {pdfDate(record.date,true)}</p><Sections sections={medicalRecordSections(record)} /></article>)}
+  </div>;
 };
-
 export default PrintPage;

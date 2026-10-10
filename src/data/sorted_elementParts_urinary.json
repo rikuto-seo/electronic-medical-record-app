@@ -1,0 +1,56 @@
+{
+  "FJ3144_BP51070_FMA15572_Left ureter": {
+    "conceptId": "FMA15572",
+    "name": "左尿管(Left ureter)",
+    "parentName": "ureter",
+    "majorCategory": "Urinary system",
+    "middleCategory": "Ureter",
+    "region": "腹部",
+    "order": 357
+  },
+  "FJ3145_BP49276_FMA7205_Left kidney": {
+    "conceptId": "FMA7205",
+    "name": "左腎臓(Left kidney)",
+    "parentName": "kidney",
+    "majorCategory": "Urinary system",
+    "middleCategory": "Kidney",
+    "region": "腹部",
+    "order": 358
+  },
+  "FJ3146_BP48295_FMA15571_Right ureter": {
+    "conceptId": "FMA15571",
+    "name": "右尿管(Right ureter)",
+    "parentName": "ureter",
+    "majorCategory": "Urinary system",
+    "middleCategory": "Ureter",
+    "region": "腹部",
+    "order": 359
+  },
+  "FJ3147_BP49290_FMA7204_Right kidney": {
+    "conceptId": "FMA7204",
+    "name": "右腎臓(Right kidney)",
+    "parentName": "kidney",
+    "majorCategory": "Urinary system",
+    "middleCategory": "Kidney",
+    "region": "腹部",
+    "order": 360
+  },
+  "FJ3148_BP51040_FMA19667_Urethra": {
+    "conceptId": "FMA19667",
+    "name": "尿道(Urethra)",
+    "parentName": "organ with organ cavity",
+    "majorCategory": "Urinary system",
+    "middleCategory": "Urethra",
+    "region": "腹部",
+    "order": 361
+  },
+  "FJ3149_BP49212_FMA15900_Urinary bladder": {
+    "conceptId": "FMA15900",
+    "name": "膀胱(Urinary bladder)",
+    "parentName": "organ with organ cavity",
+    "majorCategory": "Urinary system",
+    "middleCategory": "Urinary bladder",
+    "region": "腹部",
+    "order": 362
+  }
+}

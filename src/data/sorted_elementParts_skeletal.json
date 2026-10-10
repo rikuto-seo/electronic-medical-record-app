@@ -1,0 +1,3388 @@
+{
+    "FJ3200_BP50323_FMA52734_Frontal bone": {
+        "conceptId": "FMA52734",
+        "name": "前頭骨(Frontal bone)",
+        "parentName": "flat bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部",
+        "order": 412
+    },
+    "FJ3263_BP49408_FMA54738_Left inferior nasal concha": {
+        "conceptId": "FMA54738",
+        "name": "左下鼻甲介(Left inferior nasal concha)",
+        "parentName": "inferior nasal concha",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Nasal bones",
+        "region": "頭部",
+        "order": 474
+    },
+    "FJ3265_BP50707_FMA53646_Left lacrimal bone": {
+        "conceptId": "FMA53646",
+        "name": "左涙骨(Left lacrimal bone)",
+        "parentName": "lacrimal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 476
+    },
+    "FJ3269_BP50452_FMA53650_Left maxilla": {
+        "conceptId": "FMA53650",
+        "name": "左上顎骨(Left maxilla)",
+        "parentName": "maxilla",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 480
+    },
+    "FJ3273_BP50625_FMA53656_Left palatine bone": {
+        "conceptId": "FMA53656",
+        "name": "左口蓋骨(Left palatine bone)",
+        "parentName": "palatine bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 483
+    },
+    "FJ3274_BP47888_FMA52789_Left parietal bone": {
+        "conceptId": "FMA52789",
+        "name": "左頭頂骨(Left parietal bone)",
+        "parentName": "parietal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部",
+        "order": 484
+    },
+    "FJ3281_BP50407_FMA52739_Left temporal bone": {
+        "conceptId": "FMA52739",
+        "name": "左側頭骨(Left temporal bone)",
+        "parentName": "temporal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部",
+        "order": 491
+    },
+    "FJ3287_BP50539_FMA52893_Left zygomatic bone": {
+        "conceptId": "FMA52893",
+        "name": "左頬骨(Left zygomatic bone)",
+        "parentName": "zygomatic bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 497
+    },
+    "FJ3289_BP50330_FMA52748_Mandible": {
+        "conceptId": "FMA52748",
+        "name": "下顎骨(Mandible)",
+        "parentName": "irregular bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 499
+    },
+    "FJ3309_BP48085_FMA52735_Occipital bone": {
+        "conceptId": "FMA52735",
+        "name": "後頭骨(Occipital bone)",
+        "parentName": "flat bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部",
+        "order": 519
+    },
+    "FJ3369_BP49632_FMA54737_Right inferior nasal concha": {
+        "conceptId": "FMA54737",
+        "name": "右下鼻甲介(Right inferior nasal concha)",
+        "parentName": "inferior nasal concha",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Nasal bones",
+        "region": "頭部",
+        "order": 578
+    },
+    "FJ3371_BP50481_FMA53645_Right lacrimal bone": {
+        "conceptId": "FMA53645",
+        "name": "右涙骨(Right lacrimal bone)",
+        "parentName": "lacrimal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 580
+    },
+    "FJ3375_BP50505_FMA53649_Right maxilla": {
+        "conceptId": "FMA53649",
+        "name": "右上顎骨(Right maxilla)",
+        "parentName": "maxilla",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 584
+    },
+    "FJ3379_BP50482_FMA53655_Right palatine bone": {
+        "conceptId": "FMA53655",
+        "name": "右口蓋骨(Right palatine bone)",
+        "parentName": "palatine bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 586
+    },
+    "FJ3380_BP50417_FMA52788_Right parietal bone": {
+        "conceptId": "FMA52788",
+        "name": "右頭頂骨(Right parietal bone)",
+        "parentName": "parietal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部",
+        "order": 587
+    },
+    "FJ3386_BP50640_FMA52738_Right temporal bone": {
+        "conceptId": "FMA52738",
+        "name": "右側頭骨(Right temporal bone)",
+        "parentName": "temporal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部",
+        "order": 593
+    },
+    "FJ3392_BP50261_FMA52892_Right zygomatic bone": {
+        "conceptId": "FMA52892",
+        "name": "右頬骨(Right zygomatic bone)",
+        "parentName": "zygomatic bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部",
+        "order": 599
+    },
+    "FJ3394_BP50491_FMA52736_Sphenoid bone": {
+        "conceptId": "FMA52736",
+        "name": "蝶形骨(Sphenoid bone)",
+        "parentName": "pneumatized bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部",
+        "order": 601
+    },
+    "FJ7248_BP50004_FMA57086_Left stylomandibular ligament": {
+        "conceptId": "FMA57086",
+        "name": "左茎突下顎靱帯(Left stylomandibular ligament)",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligaments",
+        "region": "頭部"
+    },
+    "FJ7347_BP49825_FMA57084_Right stylomandibular ligament": {
+        "conceptId": "FMA57084",
+        "name": "右茎突下顎靱帯(Right stylomandibular ligament)",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligaments",
+        "region": "頭部"
+    },
+    "FJ2763_BP47637_FMA72311_Left stylohyoid ligament": {
+        "conceptId": "FMA72311",
+        "name": "左茎突舌骨靱帯(Left stylohyoid ligament)",
+        "parentName": "stylohyoid ligament",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2764_BP47733_FMA72309_Right stylohyoid ligament": {
+        "conceptId": "FMA72309",
+        "name": "右茎突舌骨靱帯(Right stylohyoid ligament)",
+        "parentName": "stylohyoid ligament",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2769_BP47999_FMA9615_Cricoid cartilage": {
+        "conceptId": "FMA9615",
+        "name": "輪状軟骨(Cricoid cartilage)",
+        "parentName": "laryngeal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ2770_BP48256_FMA55130_Epiglottis": {
+        "conceptId": "FMA55130",
+        "name": "喉頭蓋(Epiglottis)",
+        "parentName": "subdivision of laryngopharynx",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ2771_BP47214_FMA55227_Hyo-epiglottic ligament": {
+        "conceptId": "FMA55227",
+        "name": "舌骨喉頭蓋靱帯(Hyo-epiglottic ligament)",
+        "parentName": "extrinsic ligament of larynx",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2772_BP50511_FMA52749_Hyoid bone": {
+        "conceptId": "FMA52749",
+        "name": "舌骨(Hyoid bone)",
+        "parentName": "irregular bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Bone",
+        "region": "頭部"
+    },
+    "FJ2773_BP47806_FMA55118_Left cuneiform cartilage": {
+        "conceptId": "FMA55118",
+        "name": "左楔状軟骨(Left cuneiform cartilage)",
+        "parentName": "cuneiform cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ2775_BP47562_FMA55114_Left arytenoid cartilage": {
+        "conceptId": "FMA55114",
+        "name": "左披裂軟骨(Left arytenoid cartilage)",
+        "parentName": "arytenoid cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ2776_BP47801_FMA55116_Left corniculate cartilage": {
+        "conceptId": "FMA55116",
+        "name": "左小角軟骨(Left corniculate cartilage)",
+        "parentName": "corniculate cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ2777_BP48380_FMA55252_Left conus elasticus": {
+        "conceptId": "FMA55252",
+        "name": "左弾性円錐(Left conus elasticus)",
+        "parentName": "conus elasticus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal ligament",
+        "region": "頭部"
+    },
+    "FJ2779_BP47238_FMA55141_Left lateral thyrohyoid ligament": {
+        "conceptId": "FMA55141",
+        "name": "左外側甲状舌骨靱帯(Left lateral thyrohyoid ligament)",
+        "parentName": "lateral thyrohyoid ligament",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2786_BP48064_FMA55134_Left thyrohyoid membrane": {
+        "conceptId": "FMA55134",
+        "name": "左甲状舌骨膜(Left thyrohyoid membrane)",
+        "parentName": "thyrohyoid membrane",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2787_BP48262_FMA55246_Left vocal ligament": {
+        "conceptId": "FMA55246",
+        "name": "左声帯靱帯(Left vocal ligament)",
+        "parentName": "vocal ligament",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal ligament",
+        "region": "頭部"
+    },
+    "FJ2789_BP48361_FMA55237_Median cricothyroid ligament": {
+        "conceptId": "FMA55237",
+        "name": "正中輪状甲状靱帯(Median cricothyroid ligament)",
+        "parentName": "cricothyroid ligament",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2790_BP47886_FMA55138_Median thyrohyoid ligament": {
+        "conceptId": "FMA55138",
+        "name": "正中甲状舌骨靱帯(Median thyrohyoid ligament)",
+        "parentName": "thyrohyoid ligament",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2792_BP47828_FMA55113_Right arytenoid cartilage": {
+        "conceptId": "FMA55113",
+        "name": "右披裂軟骨(Right arytenoid cartilage)",
+        "parentName": "arytenoid cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ2793_BP47611_FMA55115_Right corniculate cartilage": {
+        "conceptId": "FMA55115",
+        "name": "右小角軟骨(Right corniculate cartilage)",
+        "parentName": "corniculate cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ2794_BP48303_FMA55251_Right conus elasticus": {
+        "conceptId": "FMA55251",
+        "name": "右弾性円錐(Right conus elasticus)",
+        "parentName": "conus elasticus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal ligament",
+        "region": "頭部"
+    },
+    "FJ2795_BP47803_FMA55117_Right cuneiform cartilage": {
+        "conceptId": "FMA55117",
+        "name": "右楔状軟骨(Right cuneiform cartilage)",
+        "parentName": "cuneiform cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ2797_BP47285_FMA55140_Right lateral thyrohyoid ligament": {
+        "conceptId": "FMA55140",
+        "name": "右外側甲状舌骨靱帯(Right lateral thyrohyoid ligament)",
+        "parentName": "lateral thyrohyoid ligament",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2804_BP47960_FMA55133_Right thyrohyoid membrane": {
+        "conceptId": "FMA55133",
+        "name": "右甲状舌骨膜(Right thyrohyoid membrane)",
+        "parentName": "thyrohyoid membrane",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2805_BP48341_FMA55245_Right vocal ligament": {
+        "conceptId": "FMA55245",
+        "name": "右声帯靱帯(Right vocal ligament)",
+        "parentName": "vocal ligament",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal ligament",
+        "region": "頭部"
+    },
+    "FJ2807_BP47478_FMA55230_Thyro-epiglottic ligament": {
+        "conceptId": "FMA55230",
+        "name": "甲状喉頭蓋靱帯(Thyro-epiglottic ligament)",
+        "parentName": "intrinsic ligament of larynx",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligament",
+        "region": "頭部"
+    },
+    "FJ2808_BP48173_FMA55099_Thyroid cartilage": {
+        "conceptId": "FMA55099",
+        "name": "甲状軟骨(Thyroid cartilage)",
+        "parentName": "laryngeal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilage",
+        "region": "頭部"
+    },
+    "FJ6613_BP49775_FMA59513_Left lateral nasal cartilage": {
+        "conceptId": "FMA59513",
+        "name": "左外側鼻軟骨(Left lateral nasal cartilage)",
+        "parentName": "lateral nasal cartilage",
+        "majorCategory": "Head & Neck",
+        "middleCategory": "Nasal cartilage",
+        "region": "頭部"
+    },
+    "FJ6614_BP49918_FMA59506_Left major alar cartilage": {
+        "conceptId": "FMA59506",
+        "name": "左大翼鼻軟骨(Left major alar cartilage)",
+        "parentName": "major alar cartilage",
+        "majorCategory": "Head & Neck",
+        "middleCategory": "Nasal cartilage",
+        "region": "頭部"
+    },
+    "FJ6615_BP50170_FMA59512_Right lateral nasal cartilage": {
+        "conceptId": "FMA59512",
+        "name": "右外側鼻軟骨(Right lateral nasal cartilage)",
+        "parentName": "lateral nasal cartilage",
+        "majorCategory": "Head & Neck",
+        "middleCategory": "Nasal cartilage",
+        "region": "頭部"
+    },
+    "FJ6616_BP50072_FMA59505_Right major alar cartilage": {
+        "conceptId": "FMA59505",
+        "name": "右大翼鼻軟骨(Right major alar cartilage)",
+        "parentName": "major alar cartilage",
+        "majorCategory": "Head & Neck",
+        "middleCategory": "Nasal cartilage",
+        "region": "頭部"
+    },
+    "FJ6617_BP49745_FMA59503_Septal nasal cartilage": {
+        "conceptId": "FMA59503",
+        "name": "鼻中隔軟骨(Septal nasal cartilage)",
+        "parentName": "nasal cartilage",
+        "majorCategory": "Head & Neck",
+        "middleCategory": "Nasal cartilage",
+        "region": "頭部"
+    },
+    "FJ6309_BP50192_FMA52740_Ethmoid": {
+        "conceptId": "FMA52740",
+        "name": "篩骨(Ethmoid)",
+        "parentName": "pneumatized bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6310_BP50323_FMA52734_Frontal bone": {
+        "conceptId": "FMA52734",
+        "name": "前頭骨(Frontal bone)",
+        "parentName": "flat bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6374_BP49408_FMA54738_Left inferior nasal concha": {
+        "conceptId": "FMA54738",
+        "name": "左下鼻甲介(Left inferior nasal concha)",
+        "parentName": "inferior nasal concha",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6376_BP50707_FMA53646_Left lacrimal bone": {
+        "conceptId": "FMA53646",
+        "name": "左涙骨(Left lacrimal bone)",
+        "parentName": "lacrimal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6380_BP50452_FMA53650_Left maxilla": {
+        "conceptId": "FMA53650",
+        "name": "左上顎骨(Left maxilla)",
+        "parentName": "maxilla",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6383_BP49463_FMA53648_Left nasal bone": {
+        "conceptId": "FMA53648",
+        "name": "左鼻骨(Left nasal bone)",
+        "parentName": "nasal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6384_BP50625_FMA53656_Left palatine bone": {
+        "conceptId": "FMA53656",
+        "name": "左口蓋骨(Left palatine bone)",
+        "parentName": "palatine bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6385_BP47888_FMA52789_Left parietal bone": {
+        "conceptId": "FMA52789",
+        "name": "左頭頂骨(Left parietal bone)",
+        "parentName": "parietal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6391_BP50407_FMA52739_Left temporal bone": {
+        "conceptId": "FMA52739",
+        "name": "左側頭骨(Left temporal bone)",
+        "parentName": "temporal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6397_BP50539_FMA52893_Left zygomatic bone": {
+        "conceptId": "FMA52893",
+        "name": "左頬骨(Left zygomatic bone)",
+        "parentName": "zygomatic bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6399_BP50330_FMA52748_Mandible": {
+        "conceptId": "FMA52748",
+        "name": "下顎骨(Mandible)",
+        "parentName": "irregular bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6411_BP48085_FMA52735_Occipital bone": {
+        "conceptId": "FMA52735",
+        "name": "後頭骨(Occipital bone)",
+        "parentName": "flat bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6412_BP49203_FMA52891_Perpendicular plate of ethmoid": {
+        "conceptId": "FMA52891",
+        "name": "篩骨垂直板(Perpendicular plate of ethmoid)",
+        "parentName": "",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6463_BP49632_FMA54737_Right inferior nasal concha": {
+        "conceptId": "FMA54737",
+        "name": "右下鼻甲介(Right inferior nasal concha)",
+        "parentName": "inferior nasal concha",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Nasal bones",
+        "region": "頭部"
+    },
+    "FJ6465_BP50481_FMA53645_Right lacrimal bone": {
+        "conceptId": "FMA53645",
+        "name": "右涙骨(Right lacrimal bone)",
+        "parentName": "lacrimal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6468_BP50505_FMA53649_Right maxilla": {
+        "conceptId": "FMA53649",
+        "name": "右上顎骨(Right maxilla)",
+        "parentName": "maxilla",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6470_BP49469_FMA53647_Right nasal bone": {
+        "conceptId": "FMA53647",
+        "name": "右鼻骨(Right nasal bone)",
+        "parentName": "nasal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6471_BP50482_FMA53655_Right palatine bone": {
+        "conceptId": "FMA53655",
+        "name": "右口蓋骨(Right palatine bone)",
+        "parentName": "palatine bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6472_BP50417_FMA52788_Right parietal bone": {
+        "conceptId": "FMA52788",
+        "name": "右頭頂骨(Right parietal bone)",
+        "parentName": "parietal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6478_BP50640_FMA52738_Right temporal bone": {
+        "conceptId": "FMA52738",
+        "name": "右側頭骨(Right temporal bone)",
+        "parentName": "temporal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6483_BP50261_FMA52892_Right zygomatic bone": {
+        "conceptId": "FMA52892",
+        "name": "右頬骨(Right zygomatic bone)",
+        "parentName": "zygomatic bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ6485_BP50491_FMA52736_Sphenoid bone": {
+        "conceptId": "FMA52736",
+        "name": "蝶形骨(Sphenoid bone)",
+        "parentName": "pneumatized bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頭部"
+    },
+    "FJ6486_BP49199_FMA9710_Vomer": {
+        "conceptId": "FMA9710",
+        "name": "鋤骨(Vomer)",
+        "parentName": "irregular bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Facial bones",
+        "region": "頭部"
+    },
+    "FJ3161_BP50307_FMA12521_Third cervical vertebra": {
+        "conceptId": "FMA12521",
+        "name": "第3頸椎(Third cervical vertebra)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部",
+        "order": 374
+    },
+    "FJ3164_BP50443_FMA12522_Fourth cervical vertebra": {
+        "conceptId": "FMA12522",
+        "name": "第4頸椎(Fourth cervical vertebra)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部",
+        "order": 377
+    },
+    "FJ3167_BP50342_FMA12523_Fifth cervical vertebra": {
+        "conceptId": "FMA12523",
+        "name": "第5頸椎(Fifth cervical vertebra)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部",
+        "order": 380
+    },
+    "FJ3170_BP50345_FMA12524_Sixth cervical vertebra": {
+        "conceptId": "FMA12524",
+        "name": "第6頸椎(Sixth cervical vertebra)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部",
+        "order": 383
+    },
+    "FJ3172_BP50475_FMA12525_Seventh cervical vertebra": {
+        "conceptId": "FMA12525",
+        "name": "第7頸椎(Seventh cervical vertebra)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部",
+        "order": 385
+    },
+    "FJ3176_BP50447_FMA12519_Atlas": {
+        "conceptId": "FMA12519",
+        "name": "環椎(Atlas)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部",
+        "order": 389
+    },
+    "FJ3177_BP50266_FMA12520_Axis": {
+        "conceptId": "FMA12520",
+        "name": "軸椎(Axis)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部",
+        "order": 390
+    },
+    "FJ3201_BP50511_FMA52749_Hyoid bone": {
+        "conceptId": "FMA52749",
+        "name": "舌骨(Hyoid bone)",
+        "parentName": "irregular bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cranial bones",
+        "region": "頸部",
+        "order": 413
+    },
+    "FJ3202_BP50089_FMA25058_Intervertebral disk of axis": {
+        "conceptId": "FMA25058",
+        "name": "軸椎椎間板(Intervertebral disk of axis)",
+        "parentName": "intervertebral disk of cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical intervertebral disks",
+        "region": "頸部",
+        "order": 414
+    },
+    "FJ3213_BP49973_FMA13896_Intervertebral disk of third cervical vertebra": {
+        "conceptId": "FMA13896",
+        "name": "第3頸椎椎間板(Intervertebral disk of third cervical vertebra)",
+        "parentName": "intervertebral disk of cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical intervertebral disks",
+        "region": "頸部",
+        "order": 425
+    },
+    "FJ3218_BP49796_FMA13897_Intervertebral disk of fourth cervical vertebra": {
+        "conceptId": "FMA13897",
+        "name": "第4頸椎椎間板(Intervertebral disk of fourth cervical vertebra)",
+        "parentName": "intervertebral disk of cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical intervertebral disks",
+        "region": "頸部",
+        "order": 430
+    },
+    "FJ3219_BP49824_FMA13898_Intervertebral disk of fifth cervical vertebra": {
+        "conceptId": "FMA13898",
+        "name": "第5頸椎椎間板(Intervertebral disk of fifth cervical vertebra)",
+        "parentName": "intervertebral disk of cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical intervertebral disks",
+        "region": "頸部",
+        "order": 431
+    },
+    "FJ3220_BP50165_FMA13899_Intervertebral disk of sixth cervical vertebra": {
+        "conceptId": "FMA13899",
+        "name": "第6頸椎椎間板(Intervertebral disk of sixth cervical vertebra)",
+        "parentName": "intervertebral disk of cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical intervertebral disks",
+        "region": "頸部",
+        "order": 432
+    },
+    "FJ3221_BP49853_FMA13900_Intervertebral disk of seventh cervical vertebra": {
+        "conceptId": "FMA13900",
+        "name": "第7頸椎椎間板(Intervertebral disk of seventh cervical vertebra)",
+        "parentName": "intervertebral disk of cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical intervertebral disks",
+        "region": "頸部",
+        "order": 433
+    },
+    "FJ6295_BP50447_FMA12519_Atlas": {
+        "conceptId": "FMA12519",
+        "name": "環椎(Atlas)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部"
+    },
+    "FJ6296_BP50266_FMA12520_Axis": {
+        "conceptId": "FMA12520",
+        "name": "軸椎(Axis)",
+        "parentName": "cervical vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cervical vertebrae",
+        "region": "頸部"
+    },
+    "FJ6487_BP47999_FMA9615_Cricoid cartilage": {
+        "conceptId": "FMA9615",
+        "name": "輪状軟骨(Cricoid cartilage)",
+        "parentName": "laryngeal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Cartilages of larynx",
+        "region": "頸部"
+    },
+    "FJ2440_BP47999_FMA9615_Cricoid cartilage": {
+        "conceptId": "FMA9615",
+        "name": "輪状軟骨(Cricoid cartilage)",
+        "parentName": "laryngeal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Laryngeal cartilages",
+        "region": "頸部"
+    },
+    "FJ3131_BP49147_FMA13295_Diaphragm": {
+        "conceptId": "FMA13295",
+        "name": "横隔膜(Diaphragm)",
+        "parentName": "muscle of thorax",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic muscles",
+        "region": "胸部",
+        "order": 344
+    },
+    "FJ3153_BP48378_FMA7488_Xiphoid process": {
+        "conceptId": "FMA7488",
+        "name": "剣状突起(Xiphoid process)",
+        "parentName": "process of organ",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Sternum",
+        "region": "胸部",
+        "order": 366
+    },
+    "FJ3178_BP48899_FMA7487_Body of sternum": {
+        "conceptId": "FMA7487",
+        "name": "胸骨体(Body of sternum)",
+        "parentName": "body of organ",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Sternum",
+        "region": "胸部",
+        "order": 391
+    },
+    "FJ3225_BP49008_FMA8472_Left tenth rib": {
+        "conceptId": "FMA8472",
+        "name": "左第10肋骨(Left tenth rib)",
+        "parentName": "tenth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 437
+    },
+    "FJ3226_BP49029_FMA8532_Left eleventh rib": {
+        "conceptId": "FMA8532",
+        "name": "左第11肋骨(Left eleventh rib)",
+        "parentName": "eleventh rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 438
+    },
+    "FJ3227_BP48983_FMA8534_Left twelfth rib": {
+        "conceptId": "FMA8534",
+        "name": "左第12肋骨(Left twelfth rib)",
+        "parentName": "twelfth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 439
+    },
+    "FJ3228_BP48940_FMA7987_Left first rib": {
+        "conceptId": "FMA7987",
+        "name": "左第1肋骨(Left first rib)",
+        "parentName": "first rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 440
+    },
+    "FJ3229_BP48906_FMA8012_Left second rib": {
+        "conceptId": "FMA8012",
+        "name": "左第2肋骨(Left second rib)",
+        "parentName": "second rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 441
+    },
+    "FJ3230_BP48885_FMA8039_Left third rib": {
+        "conceptId": "FMA8039",
+        "name": "左第3肋骨(Left third rib)",
+        "parentName": "third rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 442
+    },
+    "FJ3231_BP49080_FMA8148_Left fourth rib": {
+        "conceptId": "FMA8148",
+        "name": "左第4肋骨(Left fourth rib)",
+        "parentName": "fourth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 443
+    },
+    "FJ3232_BP49007_FMA8093_Left fifth rib": {
+        "conceptId": "FMA8093",
+        "name": "左第5肋骨(Left fifth rib)",
+        "parentName": "fifth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 444
+    },
+    "FJ3233_BP48879_FMA8202_Left sixth rib": {
+        "conceptId": "FMA8202",
+        "name": "左第6肋骨(Left sixth rib)",
+        "parentName": "sixth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 445
+    },
+    "FJ3234_BP48875_FMA8256_Left seventh rib": {
+        "conceptId": "FMA8256",
+        "name": "左第7肋骨(Left seventh rib)",
+        "parentName": "seventh rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 446
+    },
+    "FJ3235_BP49005_FMA8310_Left eighth rib": {
+        "conceptId": "FMA8310",
+        "name": "左第8肋骨(Left eighth rib)",
+        "parentName": "eighth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 447
+    },
+    "FJ3236_BP48988_FMA8391_Left ninth rib": {
+        "conceptId": "FMA8391",
+        "name": "左第9肋骨(Left ninth rib)",
+        "parentName": "ninth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 448
+    },
+    "FJ3239_BP48946_FMA8005_Left first costal cartilage": {
+        "conceptId": "FMA8005",
+        "name": "左第1肋軟骨(Left first costal cartilage)",
+        "parentName": "first costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 450
+    },
+    "FJ3242_BP49062_FMA8031_Left second costal cartilage": {
+        "conceptId": "FMA8031",
+        "name": "左第2肋軟骨(Left second costal cartilage)",
+        "parentName": "second costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 453
+    },
+    "FJ3245_BP48914_FMA8058_Left third costal cartilage": {
+        "conceptId": "FMA8058",
+        "name": "左第3肋軟骨(Left third costal cartilage)",
+        "parentName": "third costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 456
+    },
+    "FJ3248_BP49049_FMA8167_Left fourth costal cartilage": {
+        "conceptId": "FMA8167",
+        "name": "左第4肋軟骨(Left fourth costal cartilage)",
+        "parentName": "fourth costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 459
+    },
+    "FJ3251_BP49037_FMA8112_Left fifth costal cartilage": {
+        "conceptId": "FMA8112",
+        "name": "左第5肋軟骨(Left fifth costal cartilage)",
+        "parentName": "fifth costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 462
+    },
+    "FJ3254_BP48867_FMA8221_Left sixth costal cartilage": {
+        "conceptId": "FMA8221",
+        "name": "左第6肋軟骨(Left sixth costal cartilage)",
+        "parentName": "sixth costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 465
+    },
+    "FJ3255_BP48883_FMA8275_Left seventh costal cartilage": {
+        "conceptId": "FMA8275",
+        "name": "左第7肋軟骨(Left seventh costal cartilage)",
+        "parentName": "seventh costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 466
+    },
+    "FJ3290_BP48924_FMA7486_Manubrium": {
+        "conceptId": "FMA7486",
+        "name": "胸骨柄(Manubrium)",
+        "parentName": "zone of sternum",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Sternum",
+        "region": "胸部",
+        "order": 500
+    },
+    "FJ3330_BP48858_FMA8445_Right tenth rib": {
+        "conceptId": "FMA8445",
+        "name": "右第10肋骨(Right tenth rib)",
+        "parentName": "tenth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 540
+    },
+    "FJ3331_BP48984_FMA8531_Right eleventh rib": {
+        "conceptId": "FMA8531",
+        "name": "右第11肋骨(Right eleventh rib)",
+        "parentName": "eleventh rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 541
+    },
+    "FJ3332_BP48934_FMA8533_Right twelfth rib": {
+        "conceptId": "FMA8533",
+        "name": "右第12肋骨(Right twelfth rib)",
+        "parentName": "twelfth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 542
+    },
+    "FJ3333_BP48908_FMA7875_Right first costal cartilage": {
+        "conceptId": "FMA7875",
+        "name": "右第1肋軟骨(Right first costal cartilage)",
+        "parentName": "first costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 543
+    },
+    "FJ3334_BP49056_FMA7857_Right first rib": {
+        "conceptId": "FMA7857",
+        "name": "右第1肋骨(Right first rib)",
+        "parentName": "first rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 544
+    },
+    "FJ3335_BP49018_FMA7886_Right second costal cartilage": {
+        "conceptId": "FMA7886",
+        "name": "右第2肋軟骨(Right second costal cartilage)",
+        "parentName": "second costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 545
+    },
+    "FJ3336_BP48878_FMA7882_Right second rib": {
+        "conceptId": "FMA7882",
+        "name": "右第2肋骨(Right second rib)",
+        "parentName": "second rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 546
+    },
+    "FJ3337_BP48980_FMA7913_Right third costal cartilage": {
+        "conceptId": "FMA7913",
+        "name": "右第3肋軟骨(Right third costal cartilage)",
+        "parentName": "third costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 547
+    },
+    "FJ3338_BP48972_FMA7909_Right third rib": {
+        "conceptId": "FMA7909",
+        "name": "右第3肋骨(Right third rib)",
+        "parentName": "third rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 548
+    },
+    "FJ3339_BP48937_FMA7976_Right fourth costal cartilage": {
+        "conceptId": "FMA7976",
+        "name": "右第4肋軟骨(Right fourth costal cartilage)",
+        "parentName": "fourth costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 549
+    },
+    "FJ3340_BP48866_FMA7957_Right fourth rib": {
+        "conceptId": "FMA7957",
+        "name": "右第4肋骨(Right fourth rib)",
+        "parentName": "fourth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 550
+    },
+    "FJ3341_BP48932_FMA8070_Right fifth costal cartilage": {
+        "conceptId": "FMA8070",
+        "name": "右第5肋軟骨(Right fifth costal cartilage)",
+        "parentName": "fifth costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 551
+    },
+    "FJ3342_BP48928_FMA8066_Right fifth rib": {
+        "conceptId": "FMA8066",
+        "name": "右第5肋骨(Right fifth rib)",
+        "parentName": "fifth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 552
+    },
+    "FJ3343_BP49045_FMA8194_Right sixth costal cartilage": {
+        "conceptId": "FMA8194",
+        "name": "右第6肋軟骨(Right sixth costal cartilage)",
+        "parentName": "sixth costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 553
+    },
+    "FJ3344_BP48930_FMA8175_Right sixth rib": {
+        "conceptId": "FMA8175",
+        "name": "右第6肋骨(Right sixth rib)",
+        "parentName": "sixth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 554
+    },
+    "FJ3345_BP49060_FMA8248_Right seventh costal cartilage": {
+        "conceptId": "FMA8248",
+        "name": "右第7肋軟骨(Right seventh costal cartilage)",
+        "parentName": "seventh costal cartilage",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Costal cartilages",
+        "region": "胸部",
+        "order": 555
+    },
+    "FJ3346_BP48935_FMA8229_Right seventh rib": {
+        "conceptId": "FMA8229",
+        "name": "右第7肋骨(Right seventh rib)",
+        "parentName": "seventh rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 556
+    },
+    "FJ3347_BP48959_FMA8283_Right eighth rib": {
+        "conceptId": "FMA8283",
+        "name": "右第8肋骨(Right eighth rib)",
+        "parentName": "eighth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 557
+    },
+    "FJ3348_BP48948_FMA8364_Right ninth rib": {
+        "conceptId": "FMA8364",
+        "name": "右第9肋骨(Right ninth rib)",
+        "parentName": "ninth rib",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ribs",
+        "region": "胸部",
+        "order": 558
+    },
+    "FJ3667M_BP48997_FMA8464_Right tenth costal cartilage": {
+        "conceptId": "FMA8464",
+        "name": "右第10肋軟骨(Right tenth costal cartilage)",
+        "parentName": "costal cartilage",
+        "majorCategory": "Skeletal system",
+        "middleCategory": "Thoracic cage",
+        "region": "胸部"
+    },
+    "FJ3667_BP48993_FMA8491_Left tenth costal cartilage": {
+        "conceptId": "FMA8491",
+        "name": "左第10肋軟骨(Left tenth costal cartilage)",
+        "parentName": "costal cartilage",
+        "majorCategory": "Skeletal system",
+        "middleCategory": "Thoracic cage",
+        "region": "胸部"
+    },
+    "FJ3668M_BP48931_FMA8302_Right eighth costal cartilage": {
+        "conceptId": "FMA8302",
+        "name": "右第8肋軟骨(Right eighth costal cartilage)",
+        "parentName": "costal cartilage",
+        "majorCategory": "Skeletal system",
+        "middleCategory": "Thoracic cage",
+        "region": "胸部"
+    },
+    "FJ3668_BP48886_FMA8329_Left eighth costal cartilage": {
+        "conceptId": "FMA8329",
+        "name": "左第8肋軟骨(Left eighth costal cartilage)",
+        "parentName": "costal cartilage",
+        "majorCategory": "Skeletal system",
+        "middleCategory": "Thoracic cage",
+        "region": "胸部"
+    },
+    "FJ3669M_BP49042_FMA8383_Right ninth costal cartilage": {
+        "conceptId": "FMA8383",
+        "name": "右第9肋軟骨(Right ninth costal cartilage)",
+        "parentName": "costal cartilage",
+        "majorCategory": "Skeletal system",
+        "middleCategory": "Thoracic cage",
+        "region": "胸部"
+    },
+    "FJ3669_BP48918_FMA8410_Left ninth costal cartilage": {
+        "conceptId": "FMA8410",
+        "name": "左第9肋軟骨(Left ninth costal cartilage)",
+        "parentName": "",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Rib cartilages",
+        "region": "胸部"
+    },
+    "FJ6272_BP48378_FMA7488_Xiphoid process": {
+        "conceptId": "FMA7488",
+        "name": "剣状突起(Xiphoid process)",
+        "parentName": "process of organ",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic skeleton",
+        "region": "胸部"
+    },
+    "FJ6297_BP48899_FMA7487_Body of sternum": {
+        "conceptId": "FMA7487",
+        "name": "胸骨体(Body of sternum)",
+        "parentName": "body of organ",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic bones",
+        "region": "胸部"
+    },
+    "FJ6400_BP48924_FMA7486_Manubrium": {
+        "conceptId": "FMA7486",
+        "name": "胸骨柄(Manubrium)",
+        "parentName": "zone of sternum",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Sternum",
+        "region": "胸部"
+    },
+    "FJ3154_BP49223_FMA10037_Tenth thoracic vertebra": {
+        "conceptId": "FMA10037",
+        "name": "第10胸椎(Tenth thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 367
+    },
+    "FJ3155_BP49397_FMA10059_Eleventh thoracic vertebra": {
+        "conceptId": "FMA10059",
+        "name": "第11胸椎(Eleventh thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 368
+    },
+    "FJ3156_BP49141_FMA10081_Twelfth thoracic vertebra": {
+        "conceptId": "FMA10081",
+        "name": "第12胸椎(Twelfth thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 369
+    },
+    "FJ3157_BP50183_FMA13072_First lumbar vertebra": {
+        "conceptId": "FMA13072",
+        "name": "第1腰椎(First lumbar vertebra)",
+        "parentName": "lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar vertebrae",
+        "region": "背部",
+        "order": 370
+    },
+    "FJ3158_BP49306_FMA9165_First thoracic vertebra": {
+        "conceptId": "FMA9165",
+        "name": "第1胸椎(First thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 371
+    },
+    "FJ3159_BP49922_FMA13073_Second lumbar vertebra": {
+        "conceptId": "FMA13073",
+        "name": "第2腰椎(Second lumbar vertebra)",
+        "parentName": "lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar vertebrae",
+        "region": "背部",
+        "order": 372
+    },
+    "FJ3160_BP49344_FMA9187_Second thoracic vertebra": {
+        "conceptId": "FMA9187",
+        "name": "第2胸椎(Second thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 373
+    },
+    "FJ3162_BP49984_FMA13074_Third lumbar vertebra": {
+        "conceptId": "FMA13074",
+        "name": "第3腰椎(Third lumbar vertebra)",
+        "parentName": "lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar vertebrae",
+        "region": "背部",
+        "order": 375
+    },
+    "FJ3163_BP49153_FMA9209_Third thoracic vertebra": {
+        "conceptId": "FMA9209",
+        "name": "第3胸椎(Third thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 376
+    },
+    "FJ3165_BP50210_FMA13075_Fourth lumbar vertebra": {
+        "conceptId": "FMA13075",
+        "name": "第4腰椎(Fourth lumbar vertebra)",
+        "parentName": "lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar vertebrae",
+        "region": "背部",
+        "order": 378
+    },
+    "FJ3166_BP49376_FMA9248_Fourth thoracic vertebra": {
+        "conceptId": "FMA9248",
+        "name": "第4胸椎(Fourth thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 379
+    },
+    "FJ3168_BP49826_FMA13076_Fifth lumbar vertebra": {
+        "conceptId": "FMA13076",
+        "name": "第5腰椎(Fifth lumbar vertebra)",
+        "parentName": "lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar vertebrae",
+        "region": "背部",
+        "order": 381
+    },
+    "FJ3169_BP49178_FMA9922_Fifth thoracic vertebra": {
+        "conceptId": "FMA9922",
+        "name": "第5胸椎(Fifth thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 382
+    },
+    "FJ3171_BP49381_FMA9945_Sixth thoracic vertebra": {
+        "conceptId": "FMA9945",
+        "name": "第6胸椎(Sixth thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 384
+    },
+    "FJ3173_BP49390_FMA9968_Seventh thoracic vertebra": {
+        "conceptId": "FMA9968",
+        "name": "第7胸椎(Seventh thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 386
+    },
+    "FJ3174_BP49196_FMA9991_Eighth thoracic vertebra": {
+        "conceptId": "FMA9991",
+        "name": "第8胸椎(Eighth thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 387
+    },
+    "FJ3175_BP49280_FMA10014_Ninth thoracic vertebra": {
+        "conceptId": "FMA10014",
+        "name": "第9胸椎(Ninth thoracic vertebra)",
+        "parentName": "thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic vertebrae",
+        "region": "背部",
+        "order": 388
+    },
+    "FJ3203_BP49615_FMA13501_Intervertebral disk of fourth thoracic vertebra": {
+        "conceptId": "FMA13501",
+        "name": "第4胸椎椎間板(Intervertebral disk of fourth thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 415
+    },
+    "FJ3204_BP49535_FMA13502_Intervertebral disk of fifth thoracic vertebra": {
+        "conceptId": "FMA13502",
+        "name": "第5胸椎椎間板(Intervertebral disk of fifth thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 416
+    },
+    "FJ3205_BP49718_FMA13503_Intervertebral disk of sixth thoracic vertebra": {
+        "conceptId": "FMA13503",
+        "name": "第6胸椎椎間板(Intervertebral disk of sixth thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 417
+    },
+    "FJ3206_BP49490_FMA13504_Intervertebral disk of seventh thoracic vertebra": {
+        "conceptId": "FMA13504",
+        "name": "第7胸椎椎間板(Intervertebral disk of seventh thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 418
+    },
+    "FJ3207_BP49419_FMA13505_Intervertebral disk of eighth thoracic vertebra": {
+        "conceptId": "FMA13505",
+        "name": "第8胸椎椎間板(Intervertebral disk of eighth thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 419
+    },
+    "FJ3208_BP49493_FMA13506_Intervertebral disk of ninth thoracic vertebra": {
+        "conceptId": "FMA13506",
+        "name": "第9胸椎椎間板(Intervertebral disk of ninth thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 420
+    },
+    "FJ3209_BP49495_FMA13507_Intervertebral disk of tenth thoracic vertebra": {
+        "conceptId": "FMA13507",
+        "name": "第10胸椎椎間板(Intervertebral disk of tenth thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 421
+    },
+    "FJ3210_BP49707_FMA13508_Intervertebral disk of eleventh thoracic vertebra": {
+        "conceptId": "FMA13508",
+        "name": "第11胸椎椎間板(Intervertebral disk of eleventh thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 422
+    },
+    "FJ3211_BP49654_FMA13509_Intervertebral disk of twelfth thoracic vertebra": {
+        "conceptId": "FMA13509",
+        "name": "第12胸椎椎間板(Intervertebral disk of twelfth thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 423
+    },
+    "FJ3212_BP49533_FMA16033_Intervertebral disk of first lumbar vertebra": {
+        "conceptId": "FMA16033",
+        "name": "第1腰椎椎間板(Intervertebral disk of first lumbar vertebra)",
+        "parentName": "intervertebral disk of lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar intervertebral disks",
+        "region": "背部",
+        "order": 424
+    },
+    "FJ3214_BP49737_FMA16034_Intervertebral disk of second lumbar vertebra": {
+        "conceptId": "FMA16034",
+        "name": "第2腰椎椎間板(Intervertebral disk of second lumbar vertebra)",
+        "parentName": "intervertebral disk of lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar intervertebral disks",
+        "region": "背部",
+        "order": 426
+    },
+    "FJ3215_BP49617_FMA16035_Intervertebral disk of third lumbar vertebra": {
+        "conceptId": "FMA16035",
+        "name": "第3腰椎椎間板(Intervertebral disk of third lumbar vertebra)",
+        "parentName": "intervertebral disk of lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar intervertebral disks",
+        "region": "背部",
+        "order": 427
+    },
+    "FJ3216_BP49554_FMA16036_Intervertebral disk of fourth lumbar vertebra": {
+        "conceptId": "FMA16036",
+        "name": "第4腰椎椎間板(Intervertebral disk of fourth lumbar vertebra)",
+        "parentName": "intervertebral disk of lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar intervertebral disks",
+        "region": "背部",
+        "order": 428
+    },
+    "FJ3217_BP49771_FMA16037_Intervertebral disk of fifth lumbar vertebra": {
+        "conceptId": "FMA16037",
+        "name": "第5腰椎椎間板(Intervertebral disk of fifth lumbar vertebra)",
+        "parentName": "intervertebral disk of lumbar vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lumbar intervertebral disks",
+        "region": "背部",
+        "order": 429
+    },
+    "FJ3222_BP49485_FMA10458_Intervertebral disk of first thoracic vertebra": {
+        "conceptId": "FMA10458",
+        "name": "第1胸椎椎間板(Intervertebral disk of first thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 434
+    },
+    "FJ3223_BP49523_FMA13495_Intervertebral disk of second thoracic vertebra": {
+        "conceptId": "FMA13495",
+        "name": "第2胸椎椎間板(Intervertebral disk of second thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 435
+    },
+    "FJ3224_BP49727_FMA13500_Intervertebral disk of third thoracic vertebra": {
+        "conceptId": "FMA13500",
+        "name": "第3胸椎椎間板(Intervertebral disk of third thoracic vertebra)",
+        "parentName": "intervertebral disk of thoracic vertebra",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thoracic intervertebral disks",
+        "region": "背部",
+        "order": 436
+    },
+    "FJ6484_BP49216_FMA16202_Sacrum": {
+        "conceptId": "FMA16202",
+        "name": "仙骨(Sacrum)",
+        "parentName": "irregular bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Spinal bones",
+        "region": "背部"
+    },
+    "FJ3183_BP49923_FMA23953_Distal phalanx of left index finger": {
+        "conceptId": "FMA23953",
+        "name": "左示指遠位指骨(Distal phalanx of left index finger)",
+        "parentName": "distal phalanx of index finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 396
+    },
+    "FJ3184_BP50062_FMA23959_Distal phalanx of left little finger": {
+        "conceptId": "FMA23959",
+        "name": "左小指遠位指骨(Distal phalanx of left little finger)",
+        "parentName": "distal phalanx of little finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 397
+    },
+    "FJ3186_BP49783_FMA23955_Distal phalanx of left middle finger": {
+        "conceptId": "FMA23955",
+        "name": "左中指遠位指骨(Distal phalanx of left middle finger)",
+        "parentName": "distal phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 399
+    },
+    "FJ3187_BP50071_FMA23957_Distal phalanx of left ring finger": {
+        "conceptId": "FMA23957",
+        "name": "左環指遠位指骨(Distal phalanx of left ring finger)",
+        "parentName": "distal phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 400
+    },
+    "FJ3188_BP50044_FMA23951_Distal phalanx of left thumb": {
+        "conceptId": "FMA23951",
+        "name": "左母指遠位指骨(Distal phalanx of left thumb)",
+        "parentName": "distal phalanx of thumb",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 401
+    },
+    "FJ3193_BP50074_FMA24460_Distal phalanx of right index finger": {
+        "conceptId": "FMA24460",
+        "name": "右示指遠位指骨(Distal phalanx of right index finger)",
+        "parentName": "distal phalanx of index finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 406
+    },
+    "FJ3194_BP50142_FMA24463_Distal phalanx of right little finger": {
+        "conceptId": "FMA24463",
+        "name": "右小指遠位指骨(Distal phalanx of right little finger)",
+        "parentName": "distal phalanx of little finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 407
+    },
+    "FJ3196_BP50126_FMA24461_Distal phalanx of right middle finger": {
+        "conceptId": "FMA24461",
+        "name": "右中指遠位指骨(Distal phalanx of right middle finger)",
+        "parentName": "distal phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 409
+    },
+    "FJ3197_BP49781_FMA24462_Distal phalanx of right ring finger": {
+        "conceptId": "FMA24462",
+        "name": "右環指遠位指骨(Distal phalanx of right ring finger)",
+        "parentName": "distal phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 410
+    },
+    "FJ3198_BP50216_FMA24459_Distal phalanx of right thumb": {
+        "conceptId": "FMA24459",
+        "name": "右母指遠位指骨(Distal phalanx of right thumb)",
+        "parentName": "distal phalanx of thumb",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger phalanges",
+        "region": "上肢",
+        "order": 411
+    },
+    "FJ3237_BP49030_FMA13323_Left clavicle": {
+        "conceptId": "FMA13323",
+        "name": "左鎖骨(Left clavicle)",
+        "parentName": "clavicle",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Clavicle",
+        "region": "上肢",
+        "order": 449
+    },
+    "FJ3240_BP49938_FMA24465_Left first metacarpal bone": {
+        "conceptId": "FMA24465",
+        "name": "左第1中上肢骨(Left first metacarpal bone)",
+        "parentName": "first metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 451
+    },
+    "FJ3243_BP49917_FMA24467_Left second metacarpal bone": {
+        "conceptId": "FMA24467",
+        "name": "左第2中上肢骨(Left second metacarpal bone)",
+        "parentName": "second metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 454
+    },
+    "FJ3246_BP50098_FMA24469_Left third metacarpal bone": {
+        "conceptId": "FMA24469",
+        "name": "左第3中上肢骨(Left third metacarpal bone)",
+        "parentName": "third metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 457
+    },
+    "FJ3249_BP49931_FMA24471_Left fourth metacarpal bone": {
+        "conceptId": "FMA24471",
+        "name": "左第4中上肢骨(Left fourth metacarpal bone)",
+        "parentName": "fourth metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 460
+    },
+    "FJ3252_BP49921_FMA24473_Left fifth metacarpal bone": {
+        "conceptId": "FMA24473",
+        "name": "左第5中上肢骨(Left fifth metacarpal bone)",
+        "parentName": "fifth metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 463
+    },
+    "FJ3257_BP50173_FMA24447_Left capitate": {
+        "conceptId": "FMA24447",
+        "name": "左有頭骨(Left capitate)",
+        "parentName": "capitate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 468
+    },
+    "FJ3261_BP50027_FMA24449_Left hamate": {
+        "conceptId": "FMA24449",
+        "name": "左有鈎骨(Left hamate)",
+        "parentName": "hamate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 472
+    },
+    "FJ3262_BP50594_FMA23131_Left humerus": {
+        "conceptId": "FMA23131",
+        "name": "左上腕骨(Left humerus)",
+        "parentName": "humerus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Arm bones",
+        "region": "上肢",
+        "order": 473
+    },
+    "FJ3268_BP50214_FMA24438_Left lunate": {
+        "conceptId": "FMA24438",
+        "name": "左月状骨(Left lunate)",
+        "parentName": "lunate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 479
+    },
+    "FJ3276_BP49892_FMA24442_Left pisiform": {
+        "conceptId": "FMA24442",
+        "name": "左豆状骨(Left pisiform)",
+        "parentName": "pisiform",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 486
+    },
+    "FJ3277_BP50617_FMA23465_Left radius": {
+        "conceptId": "FMA23465",
+        "name": "左橈骨(Left radius)",
+        "parentName": "radius",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm bones",
+        "region": "上肢",
+        "order": 487
+    },
+    "FJ3278_BP49899_FMA24436_Left scaphoid": {
+        "conceptId": "FMA24436",
+        "name": "左舟状骨(Left scaphoid)",
+        "parentName": "scaphoid",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 488
+    },
+    "FJ3279_BP49237_FMA13396_Left scapula": {
+        "conceptId": "FMA13396",
+        "name": "左肩甲骨(Left scapula)",
+        "parentName": "scapula",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Shoulder bones",
+        "region": "上肢",
+        "order": 489
+    },
+    "FJ3283_BP50119_FMA24444_Left trapezium": {
+        "conceptId": "FMA24444",
+        "name": "左大菱形骨(Left trapezium)",
+        "parentName": "trapezium",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 493
+    },
+    "FJ3284_BP50233_FMA24445_Left trapezoid": {
+        "conceptId": "FMA24445",
+        "name": "左小菱形骨(Left trapezoid)",
+        "parentName": "trapezoid",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 494
+    },
+    "FJ3285_BP50026_FMA24440_Left triquetral": {
+        "conceptId": "FMA24440",
+        "name": "左三角骨(Left triquetral)",
+        "parentName": "triquetral",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 495
+    },
+    "FJ3286_BP50365_FMA23468_Left ulna": {
+        "conceptId": "FMA23468",
+        "name": "左尺骨(Left ulna)",
+        "parentName": "ulna",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm bones",
+        "region": "上肢",
+        "order": 496
+    },
+    "FJ3291_BP49792_FMA23942_Middle phalanx of left ring finger": {
+        "conceptId": "FMA23942",
+        "name": "左薬指中節骨(Middle phalanx of left ring finger)",
+        "parentName": "middle phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 501
+    },
+    "FJ3292_BP50131_FMA24457_Middle phalanx of right ring finger": {
+        "conceptId": "FMA24457",
+        "name": "右薬指中節骨(Middle phalanx of right ring finger)",
+        "parentName": "middle phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 502
+    },
+    "FJ3296_BP50043_FMA23938_Middle phalanx of left index finger": {
+        "conceptId": "FMA23938",
+        "name": "左示指中節骨(Middle phalanx of left index finger)",
+        "parentName": "middle phalanx of index finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 506
+    },
+    "FJ3297_BP50102_FMA23944_Middle phalanx of left little finger": {
+        "conceptId": "FMA23944",
+        "name": "左小指中節骨(Middle phalanx of left little finger)",
+        "parentName": "middle phalanx of little finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 507
+    },
+    "FJ3299_BP49843_FMA23940_Middle phalanx of left middle finger": {
+        "conceptId": "FMA23940",
+        "name": "左中指中節骨(Middle phalanx of left middle finger)",
+        "parentName": "middle phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 509
+    },
+    "FJ3303_BP50099_FMA24455_Middle phalanx of right index finger": {
+        "conceptId": "FMA24455",
+        "name": "右示指中節骨(Middle phalanx of right index finger)",
+        "parentName": "middle phalanx of index finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 513
+    },
+    "FJ3304_BP49993_FMA24458_Middle phalanx of right little finger": {
+        "conceptId": "FMA24458",
+        "name": "右小指中節骨(Middle phalanx of right little finger)",
+        "parentName": "middle phalanx of little finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 514
+    },
+    "FJ3306_BP50065_FMA24456_Middle phalanx of right middle finger": {
+        "conceptId": "FMA24456",
+        "name": "右中指中節骨(Middle phalanx of right middle finger)",
+        "parentName": "middle phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 516
+    },
+    "FJ3313_BP50145_FMA71915_Proximal phalanx of left index finger": {
+        "conceptId": "FMA71915",
+        "name": "左示指近位骨(Proximal phalanx of left index finger)",
+        "parentName": "proximal phalanx of index finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 523
+    },
+    "FJ3314_BP49966_FMA66791_Proximal phalanx of left little finger": {
+        "conceptId": "FMA66791",
+        "name": "左小指近位骨(Proximal phalanx of left little finger)",
+        "parentName": "proximal phalanx of little finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 524
+    },
+    "FJ3316_BP50035_FMA71908_Proximal phalanx of left middle finger": {
+        "conceptId": "FMA71908",
+        "name": "左中指近位骨(Proximal phalanx of left middle finger)",
+        "parentName": "proximal phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 526
+    },
+    "FJ3317_BP49894_FMA71916_Proximal phalanx of left ring finger": {
+        "conceptId": "FMA71916",
+        "name": "左環指近位骨(Proximal phalanx of left ring finger)",
+        "parentName": "proximal phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 527
+    },
+    "FJ3318_BP49957_FMA65470_Proximal phalanx of left thumb": {
+        "conceptId": "FMA65470",
+        "name": "左母指近位骨(Proximal phalanx of left thumb)",
+        "parentName": "proximal phalanx of thumb",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 528
+    },
+    "FJ3322_BP50163_FMA24451_Proximal phalanx of right index finger": {
+        "conceptId": "FMA24451",
+        "name": "右示指近位骨(Proximal phalanx of right index finger)",
+        "parentName": "proximal phalanx of index finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 532
+    },
+    "FJ3323_BP50080_FMA24454_Proximal phalanx of right little finger": {
+        "conceptId": "FMA24454",
+        "name": "右小指近位骨(Proximal phalanx of right little finger)",
+        "parentName": "proximal phalanx of little finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 533
+    },
+    "FJ3325_BP49779_FMA24452_Proximal phalanx of right middle finger": {
+        "conceptId": "FMA24452",
+        "name": "右中指近位骨(Proximal phalanx of right middle finger)",
+        "parentName": "proximal phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 535
+    },
+    "FJ3326_BP50018_FMA24453_Proximal phalanx of right ring finger": {
+        "conceptId": "FMA24453",
+        "name": "右環指近位骨(Proximal phalanx of right ring finger)",
+        "parentName": "proximal phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 536
+    },
+    "FJ3327_BP50025_FMA24450_Proximal phalanx of right thumb": {
+        "conceptId": "FMA24450",
+        "name": "右母指近位骨(Proximal phalanx of right thumb)",
+        "parentName": "proximal phalanx of thumb",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 537
+    },
+    "FJ3349_BP50368_FMA23464_Right radius": {
+        "conceptId": "FMA23464",
+        "name": "右橈骨(Right radius)",
+        "parentName": "radius",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm bones",
+        "region": "上肢",
+        "order": 559
+    },
+    "FJ3350_BP49803_FMA24464_Right first metacarpal bone": {
+        "conceptId": "FMA24464",
+        "name": "右第1中上肢骨(Right first metacarpal bone)",
+        "parentName": "first metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 560
+    },
+    "FJ3352_BP49897_FMA24466_Right second metacarpal bone": {
+        "conceptId": "FMA24466",
+        "name": "右第2中上肢骨(Right second metacarpal bone)",
+        "parentName": "second metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 562
+    },
+    "FJ3354_BP50137_FMA24468_Right third metacarpal bone": {
+        "conceptId": "FMA24468",
+        "name": "右第3中上肢骨(Right third metacarpal bone)",
+        "parentName": "third metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 564
+    },
+    "FJ3356_BP49945_FMA24470_Right fourth metacarpal bone": {
+        "conceptId": "FMA24470",
+        "name": "右第4中上肢骨(Right fourth metacarpal bone)",
+        "parentName": "fourth metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 566
+    },
+    "FJ3358_BP49936_FMA24472_Right fifth metacarpal bone": {
+        "conceptId": "FMA24472",
+        "name": "右第5中上肢骨(Right fifth metacarpal bone)",
+        "parentName": "fifth metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 568
+    },
+    "FJ3361_BP49862_FMA24446_Right capitate": {
+        "conceptId": "FMA24446",
+        "name": "右有頭骨(Right capitate)",
+        "parentName": "capitate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 571
+    },
+    "FJ3362_BP49034_FMA13322_Right clavicle": {
+        "conceptId": "FMA13322",
+        "name": "右鎖骨(Right clavicle)",
+        "parentName": "clavicle",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Shoulder bones",
+        "region": "上肢",
+        "order": 572
+    },
+    "FJ3367_BP50067_FMA24448_Right hamate": {
+        "conceptId": "FMA24448",
+        "name": "右有鈎骨(Right hamate)",
+        "parentName": "hamate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 576
+    },
+    "FJ3368_BP50400_FMA23130_Right humerus": {
+        "conceptId": "FMA23130",
+        "name": "右上腕骨(Right humerus)",
+        "parentName": "humerus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Upper arm bones",
+        "region": "上肢",
+        "order": 577
+    },
+    "FJ3374_BP49794_FMA24437_Right lunate": {
+        "conceptId": "FMA24437",
+        "name": "右月状骨(Right lunate)",
+        "parentName": "lunate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 583
+    },
+    "FJ3382_BP49829_FMA24441_Right pisiform": {
+        "conceptId": "FMA24441",
+        "name": "右豆状骨(Right pisiform)",
+        "parentName": "pisiform",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 589
+    },
+    "FJ3383_BP49860_FMA24435_Right scaphoid": {
+        "conceptId": "FMA24435",
+        "name": "右舟状骨(Right scaphoid)",
+        "parentName": "scaphoid",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 590
+    },
+    "FJ3384_BP49365_FMA13395_Right scapula": {
+        "conceptId": "FMA13395",
+        "name": "右肩甲骨(Right scapula)",
+        "parentName": "scapula",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Shoulder bones",
+        "region": "上肢",
+        "order": 591
+    },
+    "FJ3388_BP50055_FMA24443_Right trapezium": {
+        "conceptId": "FMA24443",
+        "name": "右大菱形骨(Right trapezium)",
+        "parentName": "trapezium",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 595
+    },
+    "FJ3389_BP50167_FMA23725_Right trapezoid": {
+        "conceptId": "FMA23725",
+        "name": "右小菱形骨(Right trapezoid)",
+        "parentName": "trapezoid",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 596
+    },
+    "FJ3390_BP49814_FMA24439_Right triquetral": {
+        "conceptId": "FMA24439",
+        "name": "右三角骨(Right triquetral)",
+        "parentName": "triquetral",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢",
+        "order": 597
+    },
+    "FJ3391_BP50269_FMA23467_Right ulna": {
+        "conceptId": "FMA23467",
+        "name": "右尺骨(Right ulna)",
+        "parentName": "ulna",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm bones",
+        "region": "上肢",
+        "order": 598
+    },
+    "FJ6298_BP50044_FMA23951_Distal phalanx of left thumb": {
+        "conceptId": "FMA23951",
+        "name": "左母指末節骨(Distal phalanx of left thumb)",
+        "parentName": "distal phalanx of thumb",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6303_BP50074_FMA24460_Distal phalanx of right index finger": {
+        "conceptId": "FMA24460",
+        "name": "右示指末節骨(Distal phalanx of right index finger)",
+        "parentName": "distal phalanx of index finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6306_BP50126_FMA24461_Distal phalanx of right middle finger": {
+        "conceptId": "FMA24461",
+        "name": "右中指末節骨(Distal phalanx of right middle finger)",
+        "parentName": "distal phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6307_BP49781_FMA24462_Distal phalanx of right ring finger": {
+        "conceptId": "FMA24462",
+        "name": "右環指末節骨(Distal phalanx of right ring finger)",
+        "parentName": "distal phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6308_BP50216_FMA24459_Distal phalanx of right thumb": {
+        "conceptId": "FMA24459",
+        "name": "右母指末節骨(Distal phalanx of right thumb)",
+        "parentName": "distal phalanx of thumb",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6347_BP49030_FMA13323_Left clavicle": {
+        "conceptId": "FMA13323",
+        "name": "左鎖骨(Left clavicle)",
+        "parentName": "clavicle",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Pectoral girdle bones",
+        "region": "上肢"
+    },
+    "FJ6349_BP50617_FMA23465_Left radius": {
+        "conceptId": "FMA23465",
+        "name": "左橈骨(Left radius)",
+        "parentName": "radius",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm bones",
+        "region": "上肢"
+    },
+    "FJ6354_BP49917_FMA24467_Left second metacarpal bone": {
+        "conceptId": "FMA24467",
+        "name": "左第2中手骨(Left second metacarpal bone)",
+        "parentName": "second metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6357_BP50098_FMA24469_Left third metacarpal bone": {
+        "conceptId": "FMA24469",
+        "name": "左第3中手骨(Left third metacarpal bone)",
+        "parentName": "third metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6360_BP49931_FMA24471_Left fourth metacarpal bone": {
+        "conceptId": "FMA24471",
+        "name": "左第4中手骨(Left fourth metacarpal bone)",
+        "parentName": "fourth metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6363_BP49921_FMA24473_Left fifth metacarpal bone": {
+        "conceptId": "FMA24473",
+        "name": "左第5中手骨(Left fifth metacarpal bone)",
+        "parentName": "fifth metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6368_BP50173_FMA24447_Left capitate": {
+        "conceptId": "FMA24447",
+        "name": "左有頭骨(Left capitate)",
+        "parentName": "capitate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6372_BP50027_FMA24449_Left hamate": {
+        "conceptId": "FMA24449",
+        "name": "左有鈎骨(Left hamate)",
+        "parentName": "hamate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6373_BP50594_FMA23131_Left humerus": {
+        "conceptId": "FMA23131",
+        "name": "左上腕骨(Left humerus)",
+        "parentName": "humerus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Arm bones",
+        "region": "上肢"
+    },
+    "FJ6379_BP50214_FMA24438_Left lunate": {
+        "conceptId": "FMA24438",
+        "name": "左月状骨(Left lunate)",
+        "parentName": "lunate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Carpal bones",
+        "region": "上肢"
+    },
+    "FJ6387_BP49892_FMA24442_Left pisiform": {
+        "conceptId": "FMA24442",
+        "name": "左豆状骨(Left pisiform)",
+        "parentName": "pisiform",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Carpal bones",
+        "region": "上肢"
+    },
+    "FJ6393_BP50119_FMA24444_Left trapezium": {
+        "conceptId": "FMA24444",
+        "name": "左大菱形骨(Left trapezium)",
+        "parentName": "trapezium",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Carpal bones",
+        "region": "上肢"
+    },
+    "FJ6394_BP50233_FMA24445_Left trapezoid": {
+        "conceptId": "FMA24445",
+        "name": "左小菱形骨(Left trapezoid)",
+        "parentName": "trapezoid",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Carpal bones",
+        "region": "上肢"
+    },
+    "FJ6395_BP50026_FMA24440_Left triquetral": {
+        "conceptId": "FMA24440",
+        "name": "左三角骨(Left triquetral)",
+        "parentName": "triquetral",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Carpal bones",
+        "region": "上肢"
+    },
+    "FJ6396_BP50365_FMA23468_Left ulna": {
+        "conceptId": "FMA23468",
+        "name": "左尺骨(Left ulna)",
+        "parentName": "ulna",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm bones",
+        "region": "上肢"
+    },
+    "FJ6401_BP50131_FMA24457_Middle phalanx of right ring finger": {
+        "conceptId": "FMA24457",
+        "name": "右環指中節骨(Middle phalanx of right ring finger)",
+        "parentName": "middle phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6405_BP50099_FMA24455_Middle phalanx of right index finger": {
+        "conceptId": "FMA24455",
+        "name": "右示指中節骨(Middle phalanx of right index finger)",
+        "parentName": "middle phalanx of index finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6406_BP49993_FMA24458_Middle phalanx of right little finger": {
+        "conceptId": "FMA24458",
+        "name": "右小指中節骨(Middle phalanx of right little finger)",
+        "parentName": "middle phalanx of little finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6408_BP50065_FMA24456_Middle phalanx of right middle finger": {
+        "conceptId": "FMA24456",
+        "name": "右中指中節骨(Middle phalanx of right middle finger)",
+        "parentName": "middle phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6414_BP49957_FMA65470_Proximal phalanx of left thumb": {
+        "conceptId": "FMA65470",
+        "name": "左母指基節骨(Proximal phalanx of left thumb)",
+        "parentName": "proximal phalanx of thumb",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6419_BP50080_FMA24454_Proximal phalanx of right little finger": {
+        "conceptId": "FMA24454",
+        "name": "右小指基節骨(Proximal phalanx of right little finger)",
+        "parentName": "proximal phalanx of little finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6421_BP49779_FMA24452_Proximal phalanx of right middle finger": {
+        "conceptId": "FMA24452",
+        "name": "右中指基節骨(Proximal phalanx of right middle finger)",
+        "parentName": "proximal phalanx of middle finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6422_BP50018_FMA24453_Proximal phalanx of right ring finger": {
+        "conceptId": "FMA24453",
+        "name": "右環指基節骨(Proximal phalanx of right ring finger)",
+        "parentName": "proximal phalanx of ring finger",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6423_BP50025_FMA24450_Proximal phalanx of right thumb": {
+        "conceptId": "FMA24450",
+        "name": "右母指基節骨(Proximal phalanx of right thumb)",
+        "parentName": "proximal phalanx of thumb",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Finger bones",
+        "region": "上肢"
+    },
+    "FJ6443_BP50368_FMA23464_Right radius": {
+        "conceptId": "FMA23464",
+        "name": "右橈骨(Right radius)",
+        "parentName": "radius",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm bones",
+        "region": "上肢"
+    },
+    "FJ6444_BP49803_FMA24464_Right first metacarpal bone": {
+        "conceptId": "FMA24464",
+        "name": "右第1中手骨(Right first metacarpal bone)",
+        "parentName": "first metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6446_BP49897_FMA24466_Right second metacarpal bone": {
+        "conceptId": "FMA24466",
+        "name": "右第2中手骨(Right second metacarpal bone)",
+        "parentName": "second metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6450_BP49945_FMA24470_Right fourth metacarpal bone": {
+        "conceptId": "FMA24470",
+        "name": "右第4中手骨(Right fourth metacarpal bone)",
+        "parentName": "fourth metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6452_BP49936_FMA24472_Right fifth metacarpal bone": {
+        "conceptId": "FMA24472",
+        "name": "右第5中手骨(Right fifth metacarpal bone)",
+        "parentName": "fifth metacarpal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6455_BP49862_FMA24446_Right capitate": {
+        "conceptId": "FMA24446",
+        "name": "右有頭骨(Right capitate)",
+        "parentName": "capitate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Carpal bones",
+        "region": "上肢"
+    },
+    "FJ6461_BP50067_FMA24448_Right hamate": {
+        "conceptId": "FMA24448",
+        "name": "右有鈎骨(Right hamate)",
+        "parentName": "hamate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6462_BP50400_FMA23130_Right humerus": {
+        "conceptId": "FMA23130",
+        "name": "右上腕骨(Right humerus)",
+        "parentName": "humerus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Upper limb bones",
+        "region": "上肢"
+    },
+    "FJ6467_BP49794_FMA24437_Right lunate": {
+        "conceptId": "FMA24437",
+        "name": "右月状骨(Right lunate)",
+        "parentName": "lunate",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6474_BP49829_FMA24441_Right pisiform": {
+        "conceptId": "FMA24441",
+        "name": "右豆状骨(Right pisiform)",
+        "parentName": "pisiform",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6475_BP49860_FMA24435_Right scaphoid": {
+        "conceptId": "FMA24435",
+        "name": "右舟状骨(Right scaphoid)",
+        "parentName": "scaphoid",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6480_BP50055_FMA24443_Right trapezium": {
+        "conceptId": "FMA24443",
+        "name": "右大菱形骨(Right trapezium)",
+        "parentName": "trapezium",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6481_BP49814_FMA24439_Right triquetral": {
+        "conceptId": "FMA24439",
+        "name": "右三角骨(Right triquetral)",
+        "parentName": "triquetral",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ6482_BP50269_FMA23467_Right ulna": {
+        "conceptId": "FMA23467",
+        "name": "右尺骨(Right ulna)",
+        "parentName": "ulna",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Upper limb bones",
+        "region": "上肢"
+    },
+    "FJ1476M_BP47799_FMA23708_Interosseous membrane of left forearm": {
+        "conceptId": "FMA23708",
+        "name": "左前腕骨間膜(Interosseous membrane of left forearm)",
+        "parentName": "interosseous membrane of forearm",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm structures",
+        "region": "上肢"
+    },
+    "FJ1476_BP47613_FMA23707_Interosseous membrane of right forearm": {
+        "conceptId": "FMA23707",
+        "name": "右前腕骨間膜(Interosseous membrane of right forearm)",
+        "parentName": "interosseous membrane of forearm",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Forearm structures",
+        "region": "上肢"
+    },
+    "FJ1245_BP50167_FMA23725_Right trapezoid": {
+        "conceptId": "FMA23725",
+        "name": "右小菱形骨(Right trapezoid)",
+        "parentName": "trapezoid",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Hand bones",
+        "region": "上肢"
+    },
+    "FJ3152_BP49033_FMA16586_Right hip bone": {
+        "conceptId": "FMA16586",
+        "name": "右寛骨(Right hip bone)",
+        "parentName": "hip bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Pelvic bones",
+        "region": "下肢",
+        "order": 365
+    },
+    "FJ3179_BP49277_FMA32653_Distal phalanx of left second toe": {
+        "conceptId": "FMA32653",
+        "name": "左第2趾遠位指骨(Distal phalanx of left second toe)",
+        "parentName": "distal phalanx of second toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 392
+    },
+    "FJ3180_BP49265_FMA32655_Distal phalanx of left third toe": {
+        "conceptId": "FMA32655",
+        "name": "左第3趾遠位指骨(Distal phalanx of left third toe)",
+        "parentName": "distal phalanx of third toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 393
+    },
+    "FJ3181_BP49301_FMA32657_Distal phalanx of left fourth toe": {
+        "conceptId": "FMA32657",
+        "name": "左第4趾遠位指骨(Distal phalanx of left fourth toe)",
+        "parentName": "distal phalanx of fourth toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 394
+    },
+    "FJ3182_BP49350_FMA32651_Distal phalanx of left big toe": {
+        "conceptId": "FMA32651",
+        "name": "左母趾遠位指骨(Distal phalanx of left big toe)",
+        "parentName": "distal phalanx of big toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 395
+    },
+    "FJ3185_BP49236_FMA32659_Distal phalanx of left little toe": {
+        "conceptId": "FMA32659",
+        "name": "左第5趾遠位指骨(Distal phalanx of left little toe)",
+        "parentName": "distal phalanx of little toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 398
+    },
+    "FJ3189_BP49087_FMA32652_Distal phalanx of right second toe": {
+        "conceptId": "FMA32652",
+        "name": "右第2趾遠位指骨(Distal phalanx of right second toe)",
+        "parentName": "distal phalanx of second toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 402
+    },
+    "FJ3190_BP49107_FMA32654_Distal phalanx of right third toe": {
+        "conceptId": "FMA32654",
+        "name": "右第3趾遠位指骨(Distal phalanx of right third toe)",
+        "parentName": "distal phalanx of third toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 403
+    },
+    "FJ3191_BP46653_FMA32656_Distal phalanx of right fourth toe": {
+        "conceptId": "FMA32656",
+        "name": "右第4趾遠位指骨(Distal phalanx of right fourth toe)",
+        "parentName": "distal phalanx of fourth toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 404
+    },
+    "FJ3192_BP49220_FMA32650_Distal phalanx of right big toe": {
+        "conceptId": "FMA32650",
+        "name": "右母趾遠位指骨(Distal phalanx of right big toe)",
+        "parentName": "distal phalanx of big toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 405
+    },
+    "FJ3195_BP49352_FMA32658_Distal phalanx of right little toe": {
+        "conceptId": "FMA32658",
+        "name": "右第5趾遠位指骨(Distal phalanx of right little toe)",
+        "parentName": "distal phalanx of little toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe phalanges",
+        "region": "下肢",
+        "order": 408
+    },
+    "FJ3241_BP49731_FMA24508_Left first metatarsal bone": {
+        "conceptId": "FMA24508",
+        "name": "左第1中下肢骨(Left first metatarsal bone)",
+        "parentName": "first metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 452
+    },
+    "FJ3244_BP49447_FMA24510_Left second metatarsal bone": {
+        "conceptId": "FMA24510",
+        "name": "左第2中下肢骨(Left second metatarsal bone)",
+        "parentName": "second metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 455
+    },
+    "FJ3247_BP49422_FMA24512_Left third metatarsal bone": {
+        "conceptId": "FMA24512",
+        "name": "左第3中下肢骨(Left third metatarsal bone)",
+        "parentName": "third metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 458
+    },
+    "FJ3250_BP49755_FMA24514_Left fourth metatarsal bone": {
+        "conceptId": "FMA24514",
+        "name": "左第4中下肢骨(Left fourth metatarsal bone)",
+        "parentName": "fourth metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 461
+    },
+    "FJ3253_BP49506_FMA24516_Left fifth metatarsal bone": {
+        "conceptId": "FMA24516",
+        "name": "左第5中下肢骨(Left fifth metatarsal bone)",
+        "parentName": "fifth metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 464
+    },
+    "FJ3256_BP49522_FMA24498_Left calcaneus": {
+        "conceptId": "FMA24498",
+        "name": "左踵骨(Left calcaneus)",
+        "parentName": "calcaneus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 467
+    },
+    "FJ3258_BP49717_FMA24529_Left cuboid bone": {
+        "conceptId": "FMA24529",
+        "name": "左立方骨(Left cuboid bone)",
+        "parentName": "cuboid bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 469
+    },
+    "FJ3259_BP50557_FMA24475_Left femur": {
+        "conceptId": "FMA24475",
+        "name": "左大腿骨(Left femur)",
+        "parentName": "femur",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thigh bones",
+        "region": "下肢",
+        "order": 470
+    },
+    "FJ3260_BP50279_FMA24481_Left fibula": {
+        "conceptId": "FMA24481",
+        "name": "左腓骨(Left fibula)",
+        "parentName": "fibula",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Leg bones",
+        "region": "下肢",
+        "order": 471
+    },
+    "FJ3264_BP49758_FMA24524_Left intermediate cuneiform bone": {
+        "conceptId": "FMA24524",
+        "name": "左中楔状骨(Left intermediate cuneiform bone)",
+        "parentName": "intermediate cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 475
+    },
+    "FJ3266_BP50116_FMA45098_Sesamoid bone of left foot": {
+        "conceptId": "FMA45098",
+        "name": "左下肢種子骨(Sesamoid bone of left foot)",
+        "parentName": "sesamoid bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 477
+    },
+    "FJ3267_BP49620_FMA24526_Left lateral cuneiform bone": {
+        "conceptId": "FMA24526",
+        "name": "左外側楔状骨(Left lateral cuneiform bone)",
+        "parentName": "lateral cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 478
+    },
+    "FJ3270_BP50116_FMA45098_Sesamoid bone of left foot": {
+        "conceptId": "FMA45098",
+        "name": "左下肢種子骨(Sesamoid bone of left foot)",
+        "parentName": "sesamoid bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 481
+    },
+    "FJ3271_BP49749_FMA24522_Left medial cuneiform bone": {
+        "conceptId": "FMA24522",
+        "name": "左内側楔状骨(Left medial cuneiform bone)",
+        "parentName": "medial cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 482
+    },
+    "FJ3275_BP49813_FMA24487_Left patella": {
+        "conceptId": "FMA24487",
+        "name": "左膝蓋骨(Left patella)",
+        "parentName": "patella",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Knee bones",
+        "region": "下肢",
+        "order": 485
+    },
+    "FJ3280_BP49564_FMA24483_Left talus": {
+        "conceptId": "FMA24483",
+        "name": "左距骨(Left talus)",
+        "parentName": "talus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 490
+    },
+    "FJ3282_BP50616_FMA24478_Left tibia": {
+        "conceptId": "FMA24478",
+        "name": "左脛骨(Left tibia)",
+        "parentName": "tibia",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Leg bones",
+        "region": "下肢",
+        "order": 492
+    },
+    "FJ3288_BP49076_FMA16587_Left hip bone": {
+        "conceptId": "FMA16587",
+        "name": "左寛骨(Left hip bone)",
+        "parentName": "hip bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Pelvic bones",
+        "region": "下肢",
+        "order": 498
+    },
+    "FJ3293_BP49284_FMA32643_Middle phalanx of left second toe": {
+        "conceptId": "FMA32643",
+        "name": "左第2趾中節骨(Middle phalanx of left second toe)",
+        "parentName": "middle phalanx of second toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 503
+    },
+    "FJ3294_BP49247_FMA32645_Middle phalanx of left third toe": {
+        "conceptId": "FMA32645",
+        "name": "左第3趾中節骨(Middle phalanx of left third toe)",
+        "parentName": "middle phalanx of third toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 504
+    },
+    "FJ3295_BP49257_FMA32647_Middle phalanx of left fourth toe": {
+        "conceptId": "FMA32647",
+        "name": "左第4趾中節骨(Middle phalanx of left fourth toe)",
+        "parentName": "middle phalanx of fourth toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 505
+    },
+    "FJ3298_BP49285_FMA230988_Middle phalanx of left little toe": {
+        "conceptId": "FMA230988",
+        "name": "左第5趾中節骨(Middle phalanx of left little toe)",
+        "parentName": "middle phalanx of little toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 508
+    },
+    "FJ3300_BP49262_FMA32642_Middle phalanx of right second toe": {
+        "conceptId": "FMA32642",
+        "name": "右第2趾中節骨(Middle phalanx of right second toe)",
+        "parentName": "middle phalanx of second toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 510
+    },
+    "FJ3301_BP49184_FMA32644_Middle phalanx of right third toe": {
+        "conceptId": "FMA32644",
+        "name": "右第3趾中節骨(Middle phalanx of right third toe)",
+        "parentName": "middle phalanx of third toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 511
+    },
+    "FJ3302_BP49233_FMA32646_Middle phalanx of right fourth toe": {
+        "conceptId": "FMA32646",
+        "name": "右第4趾中節骨(Middle phalanx of right fourth toe)",
+        "parentName": "middle phalanx of fourth toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 512
+    },
+    "FJ3305_BP49185_FMA230986_Middle phalanx of right little toe": {
+        "conceptId": "FMA230986",
+        "name": "右第5趾中節骨(Middle phalanx of right little toe)",
+        "parentName": "middle phalanx of little toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 515
+    },
+    "FJ3307_BP49454_FMA24501_Navicular bone of left foot": {
+        "conceptId": "FMA24501",
+        "name": "左舟状骨(Navicular bone of left foot)",
+        "parentName": "navicular bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 517
+    },
+    "FJ3308_BP49774_FMA24500_Navicular bone of right foot": {
+        "conceptId": "FMA24500",
+        "name": "右舟状骨(Navicular bone of right foot)",
+        "parentName": "navicular bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 518
+    },
+    "FJ3310_BP49116_FMA43253_Proximal phalanx of right big toe": {
+        "conceptId": "FMA43253",
+        "name": "右母趾近位骨(Proximal phalanx of right big toe)",
+        "parentName": "proximal phalanx of big toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 520
+    },
+    "FJ3311_BP49207_FMA32637_Proximal phalanx of left third toe": {
+        "conceptId": "FMA32637",
+        "name": "左第3趾近位骨(Proximal phalanx of left third toe)",
+        "parentName": "proximal phalanx of third toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 521
+    },
+    "FJ3312_BP49274_FMA32639_Proximal phalanx of left fourth toe": {
+        "conceptId": "FMA32639",
+        "name": "左第4趾近位骨(Proximal phalanx of left fourth toe)",
+        "parentName": "proximal phalanx of fourth toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 522
+    },
+    "FJ3315_BP49122_FMA32641_Proximal phalanx of left little toe": {
+        "conceptId": "FMA32641",
+        "name": "左第5趾近位骨(Proximal phalanx of left little toe)",
+        "parentName": "proximal phalanx of little toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 525
+    },
+    "FJ3319_BP49143_FMA32634_Proximal phalanx of right second toe": {
+        "conceptId": "FMA32634",
+        "name": "右第2趾近位骨(Proximal phalanx of right second toe)",
+        "parentName": "proximal phalanx of second toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 529
+    },
+    "FJ3320_BP49179_FMA32636_Proximal phalanx of right third toe": {
+        "conceptId": "FMA32636",
+        "name": "右第3趾近位骨(Proximal phalanx of right third toe)",
+        "parentName": "proximal phalanx of third toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 530
+    },
+    "FJ3321_BP49310_FMA32638_Proximal phalanx of right fourth toe": {
+        "conceptId": "FMA32638",
+        "name": "右第4趾近位骨(Proximal phalanx of right fourth toe)",
+        "parentName": "proximal phalanx of fourth toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 531
+    },
+    "FJ3324_BP49089_FMA32640_Proximal phalanx of right little toe": {
+        "conceptId": "FMA32640",
+        "name": "右第5趾近位骨(Proximal phalanx of right little toe)",
+        "parentName": "proximal phalanx of little toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 534
+    },
+    "FJ3328_BP49289_FMA32635_Proximal phalanx of left second toe": {
+        "conceptId": "FMA32635",
+        "name": "左第2趾近位骨(Proximal phalanx of left second toe)",
+        "parentName": "proximal phalanx of second toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 538
+    },
+    "FJ3329_BP49105_FMA43254_Proximal phalanx of left big toe": {
+        "conceptId": "FMA43254",
+        "name": "左母趾近位骨(Proximal phalanx of left big toe)",
+        "parentName": "proximal phalanx of big toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 539
+    },
+    "FJ3351_BP49552_FMA24507_Right first metatarsal bone": {
+        "conceptId": "FMA24507",
+        "name": "右第1中下肢骨(Right first metatarsal bone)",
+        "parentName": "first metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 561
+    },
+    "FJ3353_BP49527_FMA24509_Right second metatarsal bone": {
+        "conceptId": "FMA24509",
+        "name": "右第2中下肢骨(Right second metatarsal bone)",
+        "parentName": "second metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 563
+    },
+    "FJ3355_BP49576_FMA24511_Right third metatarsal bone": {
+        "conceptId": "FMA24511",
+        "name": "右第3中下肢骨(Right third metatarsal bone)",
+        "parentName": "third metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 565
+    },
+    "FJ3357_BP49690_FMA24513_Right fourth metatarsal bone": {
+        "conceptId": "FMA24513",
+        "name": "右第4中下肢骨(Right fourth metatarsal bone)",
+        "parentName": "fourth metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 567
+    },
+    "FJ3359_BP49682_FMA24515_Right fifth metatarsal bone": {
+        "conceptId": "FMA24515",
+        "name": "右第5中下肢骨(Right fifth metatarsal bone)",
+        "parentName": "fifth metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 569
+    },
+    "FJ3360_BP49767_FMA24497_Right calcaneus": {
+        "conceptId": "FMA24497",
+        "name": "右踵骨(Right calcaneus)",
+        "parentName": "calcaneus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 570
+    },
+    "FJ3364_BP49512_FMA24528_Right cuboid bone": {
+        "conceptId": "FMA24528",
+        "name": "右立方骨(Right cuboid bone)",
+        "parentName": "cuboid bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 573
+    },
+    "FJ3365_BP50395_FMA24474_Right femur": {
+        "conceptId": "FMA24474",
+        "name": "右大腿骨(Right femur)",
+        "parentName": "femur",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thigh bones",
+        "region": "下肢",
+        "order": 574
+    },
+    "FJ3366_BP50350_FMA24480_Right fibula": {
+        "conceptId": "FMA24480",
+        "name": "右腓骨(Right fibula)",
+        "parentName": "fibula",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lower leg bones",
+        "region": "下肢",
+        "order": 575
+    },
+    "FJ3370_BP49429_FMA24523_Right intermediate cuneiform bone": {
+        "conceptId": "FMA24523",
+        "name": "右中楔骨(Right intermediate cuneiform bone)",
+        "parentName": "intermediate cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 579
+    },
+    "FJ3372_BP50206_FMA45097_Sesamoid bone of right foot": {
+        "conceptId": "FMA45097",
+        "name": "右下肢の種子骨(Sesamoid bone of right foot)",
+        "parentName": "sesamoid bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 581
+    },
+    "FJ3373_BP49735_FMA24525_Right lateral cuneiform bone": {
+        "conceptId": "FMA24525",
+        "name": "右外側楔骨(Right lateral cuneiform bone)",
+        "parentName": "lateral cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 582
+    },
+    "FJ3377_BP49659_FMA24521_Right medial cuneiform bone": {
+        "conceptId": "FMA24521",
+        "name": "右内側楔骨(Right medial cuneiform bone)",
+        "parentName": "medial cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 585
+    },
+    "FJ3381_BP50603_FMA24486_Right patella": {
+        "conceptId": "FMA24486",
+        "name": "右膝蓋骨(Right patella)",
+        "parentName": "patella",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Knee bones",
+        "region": "下肢",
+        "order": 588
+    },
+    "FJ3385_BP49489_FMA24482_Right talus": {
+        "conceptId": "FMA24482",
+        "name": "右距骨(Right talus)",
+        "parentName": "talus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢",
+        "order": 592
+    },
+    "FJ3387_BP50549_FMA24477_Right tibia": {
+        "conceptId": "FMA24477",
+        "name": "右脛骨(Right tibia)",
+        "parentName": "tibia",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lower leg bones",
+        "region": "下肢",
+        "order": 594
+    },
+    "FJ3393_BP49216_FMA16202_Sacrum": {
+        "conceptId": "FMA16202",
+        "name": "仙骨(Sacrum)",
+        "parentName": "irregular bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Vertebral bones",
+        "region": "下肢",
+        "order": 600
+    },
+    "FJ7211_BP48699_FMA21965_Left inguinal ligament": {
+        "conceptId": "FMA21965",
+        "name": "左鼠径靱帯(Left inguinal ligament)",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligaments",
+        "region": "下肢"
+    },
+    "FJ7307_BP48687_FMA21964_Right inguinal ligament": {
+        "conceptId": "FMA21964",
+        "name": "右鼠径靱帯(Right inguinal ligament)",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Ligaments",
+        "region": "下肢"
+    },
+    "FJ3376_BP50206_FMA45097_Sesamoid bone of right foot": {
+        "conceptId": "FMA45097",
+        "name": "右足種子骨(Sesamoid bone of right foot)",
+        "parentName": "sesamoid bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6305_BP49352_FMA32658_Distal phalanx of right little toe": {
+        "conceptId": "FMA32658",
+        "name": "右小趾末節骨(Distal phalanx of right little toe)",
+        "parentName": "distal phalanx of little toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6355_BP49447_FMA24510_Left second metatarsal bone": {
+        "conceptId": "FMA24510",
+        "name": "左第2中足骨(Left second metatarsal bone)",
+        "parentName": "second metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6358_BP49422_FMA24512_Left third metatarsal bone": {
+        "conceptId": "FMA24512",
+        "name": "左第3中足骨(Left third metatarsal bone)",
+        "parentName": "third metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6361_BP49755_FMA24514_Left fourth metatarsal bone": {
+        "conceptId": "FMA24514",
+        "name": "左第4中足骨(Left fourth metatarsal bone)",
+        "parentName": "fourth metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6364_BP49506_FMA24516_Left fifth metatarsal bone": {
+        "conceptId": "FMA24516",
+        "name": "左第5中足骨(Left fifth metatarsal bone)",
+        "parentName": "fifth metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6367_BP49522_FMA24498_Left calcaneus": {
+        "conceptId": "FMA24498",
+        "name": "左踵骨(Left calcaneus)",
+        "parentName": "calcaneus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6369_BP49717_FMA24529_Left cuboid bone": {
+        "conceptId": "FMA24529",
+        "name": "左立方骨(Left cuboid bone)",
+        "parentName": "cuboid bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6370_BP50557_FMA24475_Left femur": {
+        "conceptId": "FMA24475",
+        "name": "左大腿骨(Left femur)",
+        "parentName": "femur",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Thigh bones",
+        "region": "下肢"
+    },
+    "FJ6371_BP50279_FMA24481_Left fibula": {
+        "conceptId": "FMA24481",
+        "name": "左腓骨(Left fibula)",
+        "parentName": "fibula",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Leg bones",
+        "region": "下肢"
+    },
+    "FJ6375_BP49758_FMA24524_Left intermediate cuneiform bone": {
+        "conceptId": "FMA24524",
+        "name": "左中楔状骨(Left intermediate cuneiform bone)",
+        "parentName": "intermediate cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6377_BP50116_FMA45098_Sesamoid bone of left foot": {
+        "conceptId": "FMA45098",
+        "name": "左足種子骨(Sesamoid bone of left foot)",
+        "parentName": "sesamoid bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6378_BP49620_FMA24526_Left lateral cuneiform bone": {
+        "conceptId": "FMA24526",
+        "name": "左外側楔状骨(Left lateral cuneiform bone)",
+        "parentName": "lateral cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6381_BP50116_FMA45098_Sesamoid bone of left foot": {
+        "conceptId": "FMA45098",
+        "name": "左足種子骨(Sesamoid bone of left foot)",
+        "parentName": "sesamoid bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6382_BP49749_FMA24522_Left medial cuneiform bone": {
+        "conceptId": "FMA24522",
+        "name": "左内側楔状骨(Left medial cuneiform bone)",
+        "parentName": "medial cuneiform bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Tarsal bones",
+        "region": "下肢"
+    },
+    "FJ6386_BP49813_FMA24487_Left patella": {
+        "conceptId": "FMA24487",
+        "name": "左膝蓋骨(Left patella)",
+        "parentName": "patella",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Knee bones",
+        "region": "下肢"
+    },
+    "FJ6392_BP50616_FMA24478_Left tibia": {
+        "conceptId": "FMA24478",
+        "name": "左脛骨(Left tibia)",
+        "parentName": "tibia",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Leg bones",
+        "region": "下肢"
+    },
+    "FJ6398_BP48710_FMA236884_Bony part of left hip bone": {
+        "conceptId": "FMA236884",
+        "name": "左寛骨の骨部(Bony part of left hip bone)",
+        "parentName": "",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Pelvic bones",
+        "region": "下肢"
+    },
+    "FJ6403_BP49184_FMA32644_Middle phalanx of right third toe": {
+        "conceptId": "FMA32644",
+        "name": "右第3趾中節骨(Middle phalanx of right third toe)",
+        "parentName": "middle phalanx of third toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe bones",
+        "region": "下肢"
+    },
+    "FJ6404_BP49233_FMA32646_Middle phalanx of right fourth toe": {
+        "conceptId": "FMA32646",
+        "name": "右第4趾中節骨(Middle phalanx of right fourth toe)",
+        "parentName": "middle phalanx of fourth toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe bones",
+        "region": "下肢"
+    },
+    "FJ6407_BP49185_FMA230986_Middle phalanx of right little toe": {
+        "conceptId": "FMA230986",
+        "name": "右小趾中節骨(Middle phalanx of right little toe)",
+        "parentName": "middle phalanx of little toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe bones",
+        "region": "下肢"
+    },
+    "FJ6409_BP49454_FMA24501_Navicular bone of left foot": {
+        "conceptId": "FMA24501",
+        "name": "左舟状骨(Navicular bone of left foot)",
+        "parentName": "navicular bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Tarsal bones",
+        "region": "下肢"
+    },
+    "FJ6410_BP49774_FMA24500_Navicular bone of right foot": {
+        "conceptId": "FMA24500",
+        "name": "右舟状骨(Navicular bone of right foot)",
+        "parentName": "navicular bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Tarsal bones",
+        "region": "下肢"
+    },
+    "FJ6415_BP49143_FMA32634_Proximal phalanx of right second toe": {
+        "conceptId": "FMA32634",
+        "name": "右第2趾基節骨(Proximal phalanx of right second toe)",
+        "parentName": "proximal phalanx of second toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe bones",
+        "region": "下肢"
+    },
+    "FJ6416_BP49179_FMA32636_Proximal phalanx of right third toe": {
+        "conceptId": "FMA32636",
+        "name": "右第3趾基節骨(Proximal phalanx of right third toe)",
+        "parentName": "proximal phalanx of third toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe bones",
+        "region": "下肢"
+    },
+    "FJ6417_BP49310_FMA32638_Proximal phalanx of right fourth toe": {
+        "conceptId": "FMA32638",
+        "name": "右第4趾基節骨(Proximal phalanx of right fourth toe)",
+        "parentName": "proximal phalanx of fourth toe",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Toe bones",
+        "region": "下肢"
+    },
+    "FJ6445_BP49552_FMA24507_Right first metatarsal bone": {
+        "conceptId": "FMA24507",
+        "name": "右第1中足骨(Right first metatarsal bone)",
+        "parentName": "first metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6447_BP49527_FMA24509_Right second metatarsal bone": {
+        "conceptId": "FMA24509",
+        "name": "右第2中足骨(Right second metatarsal bone)",
+        "parentName": "second metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6449_BP49576_FMA24511_Right third metatarsal bone": {
+        "conceptId": "FMA24511",
+        "name": "右第3中足骨(Right third metatarsal bone)",
+        "parentName": "third metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6453_BP49682_FMA24515_Right fifth metatarsal bone": {
+        "conceptId": "FMA24515",
+        "name": "右第5中足骨(Right fifth metatarsal bone)",
+        "parentName": "fifth metatarsal bone",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6454_BP49767_FMA24497_Right calcaneus": {
+        "conceptId": "FMA24497",
+        "name": "右踵骨(Right calcaneus)",
+        "parentName": "calcaneus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Tarsal bones",
+        "region": "下肢"
+    },
+    "FJ6459_BP50395_FMA24474_Right femur": {
+        "conceptId": "FMA24474",
+        "name": "右大腿骨(Right femur)",
+        "parentName": "femur",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lower limb bones",
+        "region": "下肢"
+    },
+    "FJ6460_BP50350_FMA24480_Right fibula": {
+        "conceptId": "FMA24480",
+        "name": "右腓骨(Right fibula)",
+        "parentName": "fibula",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lower limb bones",
+        "region": "下肢"
+    },
+    "FJ6473_BP50603_FMA24486_Right patella": {
+        "conceptId": "FMA24486",
+        "name": "右膝蓋骨(Right patella)",
+        "parentName": "patella",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lower limb bones",
+        "region": "下肢"
+    },
+    "FJ6477_BP49489_FMA24482_Right talus": {
+        "conceptId": "FMA24482",
+        "name": "右距骨(Right talus)",
+        "parentName": "talus",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ6479_BP50549_FMA24477_Right tibia": {
+        "conceptId": "FMA24477",
+        "name": "右脛骨(Right tibia)",
+        "parentName": "tibia",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Lower limb bones",
+        "region": "下肢"
+    },
+    "FJ1392M_BP47790_FMA35193_Interosseous membrane of left leg": {
+        "conceptId": "FMA35193",
+        "name": "左下腿骨間膜(Interosseous membrane of left leg)",
+        "parentName": "interosseous membrane of leg",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Leg structures",
+        "region": "下肢"
+    },
+    "FJ1392_BP47554_FMA35192_Interosseous membrane of right leg": {
+        "conceptId": "FMA35192",
+        "name": "右下腿骨間膜(Interosseous membrane of right leg)",
+        "parentName": "interosseous membrane of leg",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Leg structures",
+        "region": "下肢"
+    },
+    "FJ1228_BP50206_FMA45097_Sesamoid bone of right foot": {
+        "conceptId": "FMA45097",
+        "name": "右足種子骨(Sesamoid bone of right foot)",
+        "parentName": "sesamoid bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    },
+    "FJ1232_BP50206_FMA45097_Sesamoid bone of right foot": {
+        "conceptId": "FMA45097",
+        "name": "右足種子骨(Sesamoid bone of right foot)",
+        "parentName": "sesamoid bone of foot",
+        "majorCategory": "Musculoskeletal system",
+        "middleCategory": "Foot bones",
+        "region": "下肢"
+    }
+}

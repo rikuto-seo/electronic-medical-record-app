@@ -1,0 +1,285 @@
+{
+  "checkedAt": "2026-10-10",
+  "metadataCount": 3210,
+  "modelCount": 3210,
+  "totalBytes": 192236556,
+  "totalTriangles": 8647172,
+  "categories": [
+    {
+      "group": "skeletal",
+      "count": 394
+    },
+    {
+      "group": "muscular",
+      "count": 465
+    },
+    {
+      "group": "nervous",
+      "count": 444
+    },
+    {
+      "group": "circulatory_artery",
+      "count": 919
+    },
+    {
+      "group": "circulatory_vein",
+      "count": 587
+    },
+    {
+      "group": "respiratory",
+      "count": 219
+    },
+    {
+      "group": "digestive",
+      "count": 139
+    },
+    {
+      "group": "urinary",
+      "count": 6
+    },
+    {
+      "group": "reproductive",
+      "count": 12
+    },
+    {
+      "group": "immune",
+      "count": 1
+    },
+    {
+      "group": "integumentary",
+      "count": 8
+    },
+    {
+      "group": "sensory",
+      "count": 3
+    },
+    {
+      "group": "misc",
+      "count": 13
+    }
+  ],
+  "nerveCoverage": {
+    "modelCount": 444,
+    "regions": {
+      "頭部": 367,
+      "頸部": 28,
+      "胸部": 16,
+      "背部": 4,
+      "上肢": 29
+    },
+    "sides": {
+      "left": 224,
+      "right": 171,
+      "bilateralOrUnspecified": 49
+    },
+    "missingMajorNerves": [
+      {
+        "name": "左坐骨神経",
+        "english": "left sciatic nerve",
+        "region": "下肢",
+        "side": "left"
+      },
+      {
+        "name": "右坐骨神経",
+        "english": "right sciatic nerve",
+        "region": "下肢",
+        "side": "right"
+      },
+      {
+        "name": "左大腿神経",
+        "english": "left femoral nerve",
+        "region": "下肢",
+        "side": "left"
+      },
+      {
+        "name": "右大腿神経",
+        "english": "right femoral nerve",
+        "region": "下肢",
+        "side": "right"
+      },
+      {
+        "name": "左脛骨神経",
+        "english": "left tibial nerve",
+        "region": "下肢",
+        "side": "left"
+      },
+      {
+        "name": "右脛骨神経",
+        "english": "right tibial nerve",
+        "region": "下肢",
+        "side": "right"
+      },
+      {
+        "name": "左総腓骨神経",
+        "english": "left common fibular nerve",
+        "region": "下肢",
+        "side": "left"
+      },
+      {
+        "name": "右総腓骨神経",
+        "english": "right common fibular nerve",
+        "region": "下肢",
+        "side": "right"
+      },
+      {
+        "name": "左閉鎖神経",
+        "english": "left obturator nerve",
+        "region": "下肢",
+        "side": "left"
+      },
+      {
+        "name": "右閉鎖神経",
+        "english": "right obturator nerve",
+        "region": "下肢",
+        "side": "right"
+      },
+      {
+        "name": "左伏在神経",
+        "english": "left saphenous nerve",
+        "region": "下肢",
+        "side": "left"
+      },
+      {
+        "name": "右伏在神経",
+        "english": "right saphenous nerve",
+        "region": "下肢",
+        "side": "right"
+      },
+      {
+        "name": "右正中神経",
+        "english": "right median nerve",
+        "region": "上肢",
+        "side": "right"
+      },
+      {
+        "name": "右尺骨神経",
+        "english": "right ulnar nerve",
+        "region": "上肢",
+        "side": "right"
+      },
+      {
+        "name": "右橈骨神経",
+        "english": "right radial nerve",
+        "region": "上肢",
+        "side": "right"
+      },
+      {
+        "name": "右筋皮神経",
+        "english": "right musculocutaneous nerve",
+        "region": "上肢",
+        "side": "right"
+      },
+      {
+        "name": "右腋窩神経",
+        "english": "right axillary nerve",
+        "region": "上肢",
+        "side": "right"
+      },
+      {
+        "name": "左肩甲上神経",
+        "english": "left suprascapular nerve",
+        "region": "上肢",
+        "side": "left"
+      },
+      {
+        "name": "右肩甲上神経",
+        "english": "right suprascapular nerve",
+        "region": "上肢",
+        "side": "right"
+      }
+    ],
+    "note": "Checked major nerve targets only; counts are model components, not unique complete nerves."
+  },
+  "officialComparison": {
+    "source": "https://lifesciencedb.jp/bp3d/get-info.cgi?version=4.3&cmd=concept-objfiles-list",
+    "version": "4.3",
+    "sha256": "613eb255d01f605878ad7d7da2525530e5fbbbcd26a0cda6c40929742278967e",
+    "officialCount": 3210,
+    "missingFileIds": [],
+    "extraFileIds": []
+  },
+  "duplicateIds": [],
+  "missingModels": [],
+  "unlistedModels": [],
+  "hiddenByRegion": [],
+  "regionsWithoutPreferredOrder": [],
+  "emptyNames": [],
+  "descriptionCount": 0,
+  "imageCount": 0,
+  "referenceCount": 0,
+  "invalidGlbs": [],
+  "largestModels": [
+    {
+      "file": "FJ2810_BP51176_FMA7163_Skin.glb",
+      "bytes": 4901256,
+      "triangles": 203382,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ1451_BP47191_FMA9756_External intercostal muscle.glb",
+      "bytes": 3247140,
+      "triangles": 98928,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ1451M_BP47191_FMA9756_External intercostal muscle.glb",
+      "bytes": 3246684,
+      "triangles": 98928,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ1455_BP47093_FMA9757_Internal intercostal muscle.glb",
+      "bytes": 2779660,
+      "triangles": 89838,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ1455M_BP47093_FMA9757_Internal intercostal muscle.glb",
+      "bytes": 2779348,
+      "triangles": 89838,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ1454_BP47392_FMA9758_Innermost intercostal muscle.glb",
+      "bytes": 2735348,
+      "triangles": 87218,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ1454M_BP47392_FMA9758_Innermost intercostal muscle.glb",
+      "bytes": 2734460,
+      "triangles": 87218,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ1452_BP49061_FMA13336_Right external oblique.glb",
+      "bytes": 2206112,
+      "triangles": 111826,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ1452M_BP48912_FMA13337_Left external oblique.glb",
+      "bytes": 2205768,
+      "triangles": 111826,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ3396_BP48774_FMA14643_Mesentery of small intestine.glb",
+      "bytes": 1597768,
+      "triangles": 38274,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ4650_BP48774_FMA14643_Mesentery of small intestine.glb",
+      "bytes": 1597384,
+      "triangles": 38274,
+      "meshCount": 1
+    },
+    {
+      "file": "FJ3131_BP49147_FMA13295_Diaphragm.glb",
+      "bytes": 1265176,
+      "triangles": 68522,
+      "meshCount": 1
+    }
+  ]
+}

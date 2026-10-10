@@ -1,0 +1,30 @@
+.patient-workspace { max-width: 1300px; margin: 0 auto; color: #172b3a; }
+.patient-workspace > h2 { color: #172b3a; }
+.patient-form { max-width: 980px; margin: 0 auto; }
+.patient-form-body { border: 0; padding: 0; margin: 0; min-width: 0; }
+.patient-panel { border: 1px solid #dce5eb; border-radius: 10px; padding: 18px 22px 22px; background: white; margin: 22px 0; min-width: 0; }
+.patient-panel legend { font-size: 16px; font-weight: 700; color: #172b3a; padding: 0 8px; }
+.patient-fields { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 16px 22px; }
+.patient-fields label { display: flex; flex-direction: column; gap: 7px; margin: 0; font-size: 13px; color: #314d5e; font-weight: 600; }
+.patient-fields input,.patient-fields select,.patient-fields textarea { width: 100%; margin: 0; border: 1px solid #c8d5df; border-radius: 6px; padding: 10px 12px; background: white; color: #172b3a; font: inherit; font-weight: 400; }
+.patient-fields textarea { resize: vertical; min-height: 82px; }
+.patient-fields input:read-only { background: #f4f7f9; }
+.patient-fields input:focus,.patient-fields select:focus,.patient-fields textarea:focus { outline: 2px solid #2a8b8c; outline-offset: 1px; }
+.patient-field-wide { grid-column: 1/-1; }
+.patient-required { font-size: 10px; color: #af4038; margin-left: 4px; }
+.patient-help { color: #607986; font-size: 13px; line-height: 1.7; margin: 8px 0 16px; }
+.patient-error { color: #9e302b; background: #fff2f1; border: 1px solid #efc7c3; padding: 12px; border-radius: 6px; font-size: 14px; }
+.patient-actions,.patient-toolbar { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin: 18px 0; }
+.patient-workspace button,.patient-actions button { background: #1d777b; border: 1px solid #1d777b; color: white; padding: 9px 14px; font-size: 13px; border-radius: 6px; box-shadow: none; margin: 0; }
+.patient-workspace button:disabled,.patient-actions button:disabled { opacity: .5; cursor: default; }
+.patient-workspace .patient-secondary-button { color: #315368; background: white; border-color: #c8d5df; }
+.patient-toolbar input { max-width: 440px; flex: 1; margin: 0; }
+.patient-table-wrap { overflow-x: auto; background: white; border: 1px solid #dce5eb; border-radius: 8px; }
+.patient-table { width: 100%; font-size: 13px; border-collapse: collapse; margin: 0; }
+.patient-table th { background: #eef3f6; color: #456173; text-align: left; white-space: nowrap; }
+.patient-table th,.patient-table td { border: 0; border-bottom: 1px solid #e5ecf0; padding: 14px 12px; vertical-align: middle; }
+.patient-table tbody tr:last-child td { border-bottom: 0; }
+.patient-table .patient-row-actions { display: flex; flex-wrap: wrap; gap: 6px; min-width: 260px; }
+.patient-table .patient-row-actions a { display: inline-flex; align-items: center; padding: 7px 8px; white-space: nowrap; }
+.patient-table small { display: block; color: #6a8190; margin-top: 4px; }
+@media (max-width:650px) { .patient-fields { grid-template-columns: 1fr; } .patient-panel { padding: 14px; } }

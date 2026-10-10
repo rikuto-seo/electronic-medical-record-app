@@ -1,0 +1,3665 @@
+{
+    "FJ1282_BP49171_FMA58082_Anterior chamber of left eyeball": {
+        "conceptId": "FMA58082",
+        "name": "左眼房(Anterior chamber of left eyeball)",
+        "parentName": "anterior chamber of eyeball",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1283_BP49530_FMA52677_Left anterior ethmoidal nerve": {
+        "conceptId": "FMA52677",
+        "name": "左前篩骨神経(Left anterior ethmoidal nerve)",
+        "parentName": "anterior ethmoidal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1285_BP48337_FMA58300_Left choroid": {
+        "conceptId": "FMA58300",
+        "name": "左脈絡膜(Left choroid)",
+        "parentName": "choroid",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1286_BP48337_FMA58300_Left choroid": {
+        "conceptId": "FMA58300",
+        "name": "左脈絡膜(Left choroid)",
+        "parentName": "choroid",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1287_BP48680_FMA58484_Left corona ciliaris": {
+        "conceptId": "FMA58484",
+        "name": "左毛様冠(Left corona ciliaris)",
+        "parentName": "corona ciliaris",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1288_BP46447_FMA53550_Left ciliary ganglion": {
+        "conceptId": "FMA53550",
+        "name": "左毛様体神経節(Left ciliary ganglion)",
+        "parentName": "ciliary ganglion",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Autonomic ganglia",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1289_BP48770_FMA58240_Left cornea": {
+        "conceptId": "FMA58240",
+        "name": "左角膜(Left cornea)",
+        "parentName": "cornea",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1290_BP50655_FMA52640_Left frontal nerve": {
+        "conceptId": "FMA52640",
+        "name": "左前頭神経(Left frontal nerve)",
+        "parentName": "frontal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1293_BP50749_FMA52577_Inferior branch of left oculomotor nerve": {
+        "conceptId": "FMA52577",
+        "name": "左動眼神経下枝(Inferior branch of left oculomotor nerve)",
+        "parentName": "inferior branch of oculomotor nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1296_BP49747_FMA52699_Left infratrochlear nerve": {
+        "conceptId": "FMA52699",
+        "name": "左滑車下神経(Left infratrochlear nerve)",
+        "parentName": "infratrochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1297_BP48311_FMA58237_Left iris": {
+        "conceptId": "FMA58237",
+        "name": "左虹彩(Left iris)",
+        "parentName": "iris",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1298_BP50068_FMA59583_Left lacrimal canaliculus": {
+        "conceptId": "FMA59583",
+        "name": "左涙小管(Left lacrimal canaliculus)",
+        "parentName": "lacrimal canaliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Lacrimal apparatus",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1299_BP49677_FMA59103_Left lacrimal gland": {
+        "conceptId": "FMA59103",
+        "name": "左涙腺(Left lacrimal gland)",
+        "parentName": "lacrimal gland",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Lacrimal apparatus",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1300_BP50462_FMA52630_Left lacrimal nerve": {
+        "conceptId": "FMA52630",
+        "name": "左涙腺神経(Left lacrimal nerve)",
+        "parentName": "lacrimal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1301_BP49884_FMA59542_Left lacrimal lake": {
+        "conceptId": "FMA59542",
+        "name": "左涙湖(Left lacrimal lake)",
+        "parentName": "lacrimal lake",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Lacrimal apparatus",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1302_BP50031_FMA59556_Left nasolacrimal duct": {
+        "conceptId": "FMA59556",
+        "name": "左鼻涙管(Left nasolacrimal duct)",
+        "parentName": "nasolacrimal duct",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Lacrimal apparatus",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1305_BP49377_FMA58243_Left lens": {
+        "conceptId": "FMA58243",
+        "name": "左水晶体(Left lens)",
+        "parentName": "lens",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1309_BP49989_FMA59546_Left lacrimal sac": {
+        "conceptId": "FMA59546",
+        "name": "左涙嚢(Left lacrimal sac)",
+        "parentName": "lacrimal sac",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Lacrimal apparatus",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1310_BP49979_FMA52670_Left nasociliary nerve": {
+        "conceptId": "FMA52670",
+        "name": "左鼻毛様体神経(Left nasociliary nerve)",
+        "parentName": "nasociliary nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1311_BP49537_FMA52674_Communicating branch of left nasociliary nerve with left ciliary ganglion": {
+        "conceptId": "FMA52674",
+        "name": "左鼻毛様神経と左毛様体神経節の交通枝(Communicating branch of left nasociliary nerve with left ciliary ganglion)",
+        "parentName": "communicating branch of nasociliary nerve with ciliary ganglion",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1315_BP49500_FMA52716_Left posterior ethmoidal nerve": {
+        "conceptId": "FMA52716",
+        "name": "左後篩骨神経(Left posterior ethmoidal nerve)",
+        "parentName": "posterior ethmoidal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1316_BP48811_FMA58608_Optic part of left retina": {
+        "conceptId": "FMA58608",
+        "name": "左網膜の視神経部(Optic part of left retina)",
+        "parentName": "optic part of retina",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1317_BP48741_FMA58272_Left sclera": {
+        "conceptId": "FMA58272",
+        "name": "左強膜(Left sclera)",
+        "parentName": "sclera",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1318_BP49446_FMA82735_Left long ciliary nerve": {
+        "conceptId": "FMA82735",
+        "name": "左長毛様神経(Left long ciliary nerve)",
+        "parentName": "long ciliary nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1319_BP48217_FMA7041_Short ciliary nerve": {
+        "conceptId": "FMA7041",
+        "name": "短毛様神経(Short ciliary nerve)",
+        "parentName": "branch of ciliary ganglion",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1321_BP50822_FMA52575_Superior branch of left oculomotor nerve": {
+        "conceptId": "FMA52575",
+        "name": "左動眼神経上枝(Superior branch of left oculomotor nerve)",
+        "parentName": "superior branch of oculomotor nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1326_BP50094_FMA52644_Left supratrochlear nerve": {
+        "conceptId": "FMA52644",
+        "name": "左滑車上神経(Left supratrochlear nerve)",
+        "parentName": "supratrochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1331_BP49229_FMA58829_Left vitreous body": {
+        "conceptId": "FMA58829",
+        "name": "左硝子体(Left vitreous body)",
+        "parentName": "vitreous body",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1332_BP49088_FMA58081_Anterior chamber of right eyeball": {
+        "conceptId": "FMA58081",
+        "name": "右眼房(Anterior chamber of right eyeball)",
+        "parentName": "anterior chamber of eyeball",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1333_BP49400_FMA52676_Right anterior ethmoidal nerve": {
+        "conceptId": "FMA52676",
+        "name": "右前篩骨神経(Right anterior ethmoidal nerve)",
+        "parentName": "anterior ethmoidal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1336_BP48709_FMA58299_Right choroid": {
+        "conceptId": "FMA58299",
+        "name": "右脈絡膜(Right choroid)",
+        "parentName": "choroid",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1337_BP48709_FMA58299_Right choroid": {
+        "conceptId": "FMA58299",
+        "name": "右脈絡膜(Right choroid)",
+        "parentName": "choroid",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1338_BP48679_FMA58483_Right corona ciliaris": {
+        "conceptId": "FMA58483",
+        "name": "右毛様冠(Right corona ciliaris)",
+        "parentName": "corona ciliaris",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1339_BP46152_FMA53549_Right ciliary ganglion": {
+        "conceptId": "FMA53549",
+        "name": "右毛様体神経節(Right ciliary ganglion)",
+        "parentName": "ciliary ganglion",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1340_BP48775_FMA58239_Right cornea": {
+        "conceptId": "FMA58239",
+        "name": "右角膜(Right cornea)",
+        "parentName": "cornea",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1341_BP50434_FMA52639_Right frontal nerve": {
+        "conceptId": "FMA52639",
+        "name": "右前頭神経(Right frontal nerve)",
+        "parentName": "frontal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1344_BP50983_FMA52576_Inferior branch of right oculomotor nerve": {
+        "conceptId": "FMA52576",
+        "name": "右動眼神経下枝(Inferior branch of right oculomotor nerve)",
+        "parentName": "inferior branch of oculomotor nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1347_BP49693_FMA52698_Right infratrochlear nerve": {
+        "conceptId": "FMA52698",
+        "name": "右滑車下神経(Right infratrochlear nerve)",
+        "parentName": "infratrochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1348_BP48349_FMA58236_Right iris": {
+        "conceptId": "FMA58236",
+        "name": "右虹彩(Right iris)",
+        "parentName": "iris",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1349_BP48022_FMA59582_Right lacrimal canaliculus": {
+        "conceptId": "FMA59582",
+        "name": "右涙小管(Right lacrimal canaliculus)",
+        "parentName": "lacrimal canaliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1350_BP49571_FMA59102_Right lacrimal gland": {
+        "conceptId": "FMA59102",
+        "name": "右涙腺(Right lacrimal gland)",
+        "parentName": "lacrimal gland",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1351_BP50701_FMA52629_Right lacrimal nerve": {
+        "conceptId": "FMA52629",
+        "name": "右涙腺神経(Right lacrimal nerve)",
+        "parentName": "lacrimal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1352_BP50087_FMA59541_Right lacrimal lake": {
+        "conceptId": "FMA59541",
+        "name": "右涙湖(Right lacrimal lake)",
+        "parentName": "lacrimal lake",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1353_BP50049_FMA59555_Right nasolacrimal duct": {
+        "conceptId": "FMA59555",
+        "name": "右鼻涙管(Right nasolacrimal duct)",
+        "parentName": "nasolacrimal duct",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1356_BP49082_FMA58242_Right lens": {
+        "conceptId": "FMA58242",
+        "name": "右水晶体(Right lens)",
+        "parentName": "lens",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1363_BP50738_FMA52622_Right ophthalmic nerve": {
+        "conceptId": "FMA52622",
+        "name": "右眼神経(Right ophthalmic nerve)",
+        "parentName": "ophthalmic nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Trigeminal nerve branches",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1730_BP50544_FMA78454_Third ventricle": {
+        "conceptId": "FMA78454",
+        "name": "第三脳室(Third ventricle)",
+        "parentName": "region of ventricular system of brain",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ventricular system of brain",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1731_BP51000_FMA78469_Fourth ventricle": {
+        "conceptId": "FMA78469",
+        "name": "第四脳室(Fourth ventricle)",
+        "parentName": "region of ventricular system of brain",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ventricular system of brain",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1732_BP49267_FMA72670_Left angular gyrus": {
+        "conceptId": "FMA72670",
+        "name": "左角回(Left angular gyrus)",
+        "parentName": "angular gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1733_BP49311_FMA72669_Right angular gyrus": {
+        "conceptId": "FMA72669",
+        "name": "右角回(Right angular gyrus)",
+        "parentName": "angular gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1734_BP48078_FMA61961_Anterior commissure": {
+        "conceptId": "FMA61961",
+        "name": "前交連(Anterior commissure)",
+        "parentName": "white matter of telencephalon",
+        "majorCategory": "Nervous system",
+        "middleCategory": "White matter of brain",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1741_BP48328_FMA61970_Commissure of fornix of forebrain": {
+        "conceptId": "FMA61970",
+        "name": "前脳穹窿交連(Commissure of fornix of forebrain)",
+        "parentName": "commissure of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Forebrain white matter",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1742_BP48169_FMA86464_Corpus callosum": {
+        "conceptId": "FMA86464",
+        "name": "脳梁(Corpus callosum)",
+        "parentName": "white matter of telencephalon",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Forebrain white matter",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1743_BP50190_FMA62032_Habenula": {
+        "conceptId": "FMA62032",
+        "name": "手綱(Habenula)",
+        "parentName": "zone of diencephalon",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1744_BP49694_FMA72658_Left inferior frontal gyrus": {
+        "conceptId": "FMA72658",
+        "name": "左下前頭回(Left inferior frontal gyrus)",
+        "parentName": "inferior frontal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1745_BP49699_FMA72657_Right inferior frontal gyrus": {
+        "conceptId": "FMA72657",
+        "name": "右下前頭回(Right inferior frontal gyrus)",
+        "parentName": "inferior frontal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1746_BP49665_FMA72688_Left inferior temporal gyrus": {
+        "conceptId": "FMA72688",
+        "name": "左下側頭回(Left inferior temporal gyrus)",
+        "parentName": "inferior temporal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1747_BP49455_FMA72687_Right inferior temporal gyrus": {
+        "conceptId": "FMA72687",
+        "name": "右下側頭回(Right inferior temporal gyrus)",
+        "parentName": "inferior temporal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1748_BP50076_FMA72978_Left insula": {
+        "conceptId": "FMA72978",
+        "name": "左島(Left insula)",
+        "parentName": "insula",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1749_BP50107_FMA72977_Right insula": {
+        "conceptId": "FMA72977",
+        "name": "右島(Right insula)",
+        "parentName": "insula",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1750_BP49195_FMA72907_Left internal capsule": {
+        "conceptId": "FMA72907",
+        "name": "左内包(Left internal capsule)",
+        "parentName": "internal capsule",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Forebrain white matter",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1751_BP49340_FMA72906_Right internal capsule": {
+        "conceptId": "FMA72906",
+        "name": "右内包(Right internal capsule)",
+        "parentName": "internal capsule",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Forebrain white matter",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1752_BP48607_FMA75351_Interventricular foramen": {
+        "conceptId": "FMA75351",
+        "name": "室間孔(Interventricular foramen)",
+        "parentName": "anatomical conduit space",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ventricular system of brain",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1753_BP49202_FMA72833_Left amygdala": {
+        "conceptId": "FMA72833",
+        "name": "左扁桃体(Left amygdala)",
+        "parentName": "amygdala",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Limbic system",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1754_BP48798_FMA72827_Left caudate nucleus": {
+        "conceptId": "FMA72827",
+        "name": "左尾状核(Left caudate nucleus)",
+        "parentName": "caudate nucleus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Basal ganglia",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1755_BP48535_FMA61934_Choroid plexus of cerebral hemisphere": {
+        "conceptId": "FMA61934",
+        "name": "大脳半球の脈絡叢(Choroid plexus of cerebral hemisphere)",
+        "parentName": "region of wall of ventricular system of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ventricular system of brain",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1757_BP48732_FMA72831_Left globus pallidus": {
+        "conceptId": "FMA72831",
+        "name": "左淡蒼球(Left globus pallidus)",
+        "parentName": "globus pallidus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Basal ganglia",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1758_BP49221_FMA261085_White matter of left temporal lobe": {
+        "conceptId": "FMA261085",
+        "name": "左側頭葉白質(White matter of left temporal lobe)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral white matter",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1759_BP48735_FMA72714_Left hippocampus proper": {
+        "conceptId": "FMA72714",
+        "name": "左海馬(Left hippocampus proper)",
+        "parentName": "hippocampus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Limbic system",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1760_BP50340_FMA62008_Hypothalamus": {
+        "conceptId": "FMA62008",
+        "name": "視床下部(Hypothalamus)",
+        "parentName": "organ component of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1764_BP47083_FMA61975_Lamina terminalis": {
+        "conceptId": "FMA61975",
+        "name": "終板(Lamina terminalis)",
+        "parentName": "lamina of cerebral hemisphere",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Forebrain structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1766_BP49226_FMA73304_Left lateral geniculate body": {
+        "conceptId": "FMA73304",
+        "name": "左外側膝状体(Left lateral geniculate body)",
+        "parentName": "lateral geniculate body",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1767_BP50134_FMA78450_Left lateral ventricle": {
+        "conceptId": "FMA78450",
+        "name": "左側脳室(Left lateral ventricle)",
+        "parentName": "lateral ventricle",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ventricular system of brain",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1776_BP48711_FMA72829_Left putamen": {
+        "conceptId": "FMA72829",
+        "name": "左被殻(Left putamen)",
+        "parentName": "putamen",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Basal ganglia",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1777_BP47159_FMA73414_Left stria medullaris of thalamus": {
+        "conceptId": "FMA73414",
+        "name": "左視床髄条(Left stria medullaris of thalamus)",
+        "parentName": "stria medullaris of thalamus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1778_BP46872_FMA72940_Left stria terminalis": {
+        "conceptId": "FMA72940",
+        "name": "左分界条(Left stria terminalis)",
+        "parentName": "stria terminalis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Limbic system",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1780_BP49581_FMA62327_Tuber cinereum": {
+        "conceptId": "FMA62327",
+        "name": "灰白隆起(Tuber cinereum)",
+        "parentName": "zone of diencephalon",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1782_BP50033_FMA258716_Left thalamus": {
+        "conceptId": "FMA258716",
+        "name": "左視床(Left thalamus)",
+        "parentName": "thalamus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1787_BP49627_FMA72656_Left middle frontal gyrus": {
+        "conceptId": "FMA72656",
+        "name": "左中前頭回(Left middle frontal gyrus)",
+        "parentName": "middle frontal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1788_BP49660_FMA72655_Right middle frontal gyrus": {
+        "conceptId": "FMA72655",
+        "name": "右中前頭回(Right middle frontal gyrus)",
+        "parentName": "middle frontal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1789_BP49579_FMA72686_Left middle temporal gyrus": {
+        "conceptId": "FMA72686",
+        "name": "左中側頭回(Left middle temporal gyrus)",
+        "parentName": "middle temporal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1790_BP49427_FMA72685_Right middle temporal gyrus": {
+        "conceptId": "FMA72685",
+        "name": "右中側頭回(Right middle temporal gyrus)",
+        "parentName": "middle temporal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1795_BP48434_FMA62033_Pineal body": {
+        "conceptId": "FMA62033",
+        "name": "松果体(Pineal body)",
+        "parentName": "circumventricular organ of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1797_BP49516_FMA72666_Left postcentral gyrus": {
+        "conceptId": "FMA72666",
+        "name": "左中心後回(Left postcentral gyrus)",
+        "parentName": "postcentral gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1798_BP49568_FMA72665_Right postcentral gyrus": {
+        "conceptId": "FMA72665",
+        "name": "右中心後回(Right postcentral gyrus)",
+        "parentName": "postcentral gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1799_BP49847_FMA62072_Posterior commissure": {
+        "conceptId": "FMA62072",
+        "name": "後交連(Posterior commissure)",
+        "parentName": "commissure of diencephalon",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1800_BP49629_FMA72662_Left precentral gyrus": {
+        "conceptId": "FMA72662",
+        "name": "左中心前回(Left precentral gyrus)",
+        "parentName": "precentral gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1801_BP49570_FMA72661_Right precentral gyrus": {
+        "conceptId": "FMA72661",
+        "name": "右中心前回(Right precentral gyrus)",
+        "parentName": "precentral gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1802_BP48823_FMA72826_Right caudate nucleus": {
+        "conceptId": "FMA72826",
+        "name": "右尾状核(Right caudate nucleus)",
+        "parentName": "caudate nucleus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Basal ganglia",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1803_BP48535_FMA61934_Choroid plexus of cerebral hemisphere": {
+        "conceptId": "FMA61934",
+        "name": "大脳半球の脈絡叢(Choroid plexus of cerebral hemisphere)",
+        "parentName": "region of wall of ventricular system of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ventricular system of brain",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1805_BP48802_FMA72830_Right globus pallidus": {
+        "conceptId": "FMA72830",
+        "name": "右淡蒼球(Right globus pallidus)",
+        "parentName": "globus pallidus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Basal ganglia",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1806_BP49347_FMA261083_White matter of right temporal lobe": {
+        "conceptId": "FMA261083",
+        "name": "右側頭葉白質(White matter of right temporal lobe)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral white matter",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1807_BP48713_FMA72713_Right hippocampus proper": {
+        "conceptId": "FMA72713",
+        "name": "右海馬(Right hippocampus proper)",
+        "parentName": "hippocampus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Limbic system",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1808_BP50340_FMA62008_Hypothalamus": {
+        "conceptId": "FMA62008",
+        "name": "視床下部(Hypothalamus)",
+        "parentName": "organ component of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1812_BP47083_FMA61975_Lamina terminalis": {
+        "conceptId": "FMA61975",
+        "name": "終板(Lamina terminalis)",
+        "parentName": "lamina of cerebral hemisphere",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Forebrain structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1813_BP49176_FMA73303_Right lateral geniculate body": {
+        "conceptId": "FMA73303",
+        "name": "右外側膝状体(Right lateral geniculate body)",
+        "parentName": "lateral geniculate body",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1814_BP50039_FMA78449_Right lateral ventricle": {
+        "conceptId": "FMA78449",
+        "name": "右側脳室(Right lateral ventricle)",
+        "parentName": "lateral ventricle",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ventricular system of brain",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1816M_BP49150_FMA73310_Left medial geniculate body": {
+        "conceptId": "FMA73310",
+        "name": "左内側膝状体(Left medial geniculate body)",
+        "parentName": "medial geniculate body",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1816_BP49197_FMA73309_Right medial geniculate body": {
+        "conceptId": "FMA73309",
+        "name": "右内側膝状体(Right medial geniculate body)",
+        "parentName": "medial geniculate body",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1823_BP48723_FMA72828_Right putamen": {
+        "conceptId": "FMA72828",
+        "name": "右被殻(Right putamen)",
+        "parentName": "putamen",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Basal ganglia",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1824_BP47099_FMA73413_Right stria medullaris of thalamus": {
+        "conceptId": "FMA73413",
+        "name": "右視床髄条(Right stria medullaris of thalamus)",
+        "parentName": "stria medullaris of thalamus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1825_BP46503_FMA72939_Right stria terminalis": {
+        "conceptId": "FMA72939",
+        "name": "右分界条(Right stria terminalis)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Limbic system",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1827_BP50213_FMA258714_Right thalamus": {
+        "conceptId": "FMA258714",
+        "name": "右視床(Right thalamus)",
+        "parentName": "thalamus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1828_BP49581_FMA62327_Tuber cinereum": {
+        "conceptId": "FMA62327",
+        "name": "灰白隆起(Tuber cinereum)",
+        "parentName": "zone of diencephalon",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1829_BP49112_FMA72832_Right amygdala": {
+        "conceptId": "FMA72832",
+        "name": "右扁桃体(Right amygdala)",
+        "parentName": "amygdala",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Limbic system",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1832_BP48382_FMA61842_Septum of telencephalon": {
+        "conceptId": "FMA61842",
+        "name": "大脳中隔(Septum of telencephalon)",
+        "parentName": "septum of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Forebrain structures",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1833_BP49721_FMA72654_Left superior frontal gyrus": {
+        "conceptId": "FMA72654",
+        "name": "左上前頭回(Left superior frontal gyrus)",
+        "parentName": "superior frontal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1834_BP49491_FMA72653_Right superior frontal gyrus": {
+        "conceptId": "FMA72653",
+        "name": "右上前頭回(Right superior frontal gyrus)",
+        "parentName": "superior frontal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1835_BP49562_FMA72672_Left superior parietal lobule": {
+        "conceptId": "FMA72672",
+        "name": "左上頭頂小葉(Left superior parietal lobule)",
+        "parentName": "superior parietal lobule",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1836_BP49460_FMA72671_Right superior parietal lobule": {
+        "conceptId": "FMA72671",
+        "name": "右上頭頂小葉(Right superior parietal lobule)",
+        "parentName": "superior parietal lobule",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1837_BP49149_FMA72801_Anterior part of left superior temporal gyrus": {
+        "conceptId": "FMA72801",
+        "name": "左上側頭回前部(Anterior part of left superior temporal gyrus)",
+        "parentName": "anterior part of superior temporal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1838_BP49388_FMA72800_Anterior part of right superior temporal gyrus": {
+        "conceptId": "FMA72800",
+        "name": "右上側頭回前部(Anterior part of right superior temporal gyrus)",
+        "parentName": "anterior part of superior temporal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1839_BP49307_FMA72805_Posterior part of left superior temporal gyrus": {
+        "conceptId": "FMA72805",
+        "name": "左上側頭回後部(Posterior part of left superior temporal gyrus)",
+        "parentName": "posterior part of superior temporal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1840_BP49098_FMA72804_Posterior part of right superior temporal gyrus": {
+        "conceptId": "FMA72804",
+        "name": "右上側頭回後部(Posterior part of right superior temporal gyrus)",
+        "parentName": "posterior part of superior temporal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1841_BP49339_FMA72668_Left supramarginal gyrus": {
+        "conceptId": "FMA72668",
+        "name": "左縁上回(Left supramarginal gyrus)",
+        "parentName": "supramarginal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1842_BP49269_FMA72667_Right supramarginal gyrus": {
+        "conceptId": "FMA72667",
+        "name": "右縁上回(Right supramarginal gyrus)",
+        "parentName": "supramarginal gyrus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部",
+        "order": 110
+    },
+    "FJ1361_BP49819_FMA52669_Right nasociliary nerve": {
+        "conceptId": "FMA52669",
+        "name": "右鼻毛様体神経(Right nasociliary nerve)",
+        "parentName": "nasociliary nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ophthalmic nerve branches",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1735_BP50230_FMA73462_Brachium of left superior colliculus": {
+        "conceptId": "FMA73462",
+        "name": "左上丘脚(Brachium of left superior colliculus)",
+        "parentName": "brachium of superior colliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1736_BP50217_FMA73461_Brachium of right superior colliculus": {
+        "conceptId": "FMA73461",
+        "name": "右上丘脚(Brachium of right superior colliculus)",
+        "parentName": "brachium of superior colliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1738_BP50732_FMA78467_Cerebral aqueduct": {
+        "conceptId": "FMA78467",
+        "name": "中脳水道(Cerebral aqueduct)",
+        "parentName": "region of ventricular system of brain",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1761_BP50146_FMA73464_Brachium of left inferior colliculus": {
+        "conceptId": "FMA73464",
+        "name": "左下丘脚(Brachium of left inferior colliculus)",
+        "parentName": "brachium of inferior colliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1762_BP50694_FMA73435_Left inferior colliculus": {
+        "conceptId": "FMA73435",
+        "name": "左下丘(Left inferior colliculus)",
+        "parentName": "inferior colliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1770_BP50639_FMA242162_Left cerebral crus": {
+        "conceptId": "FMA242162",
+        "name": "左大脳脚(Left cerebral crus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1779_BP50508_FMA73423_Left superior colliculus": {
+        "conceptId": "FMA73423",
+        "name": "左上丘(Left superior colliculus)",
+        "parentName": "superior colliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1809_BP49992_FMA73463_Brachium of right inferior colliculus": {
+        "conceptId": "FMA73463",
+        "name": "右下丘脚(Brachium of right inferior colliculus)",
+        "parentName": "brachium of inferior colliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1810_BP50464_FMA73434_Right inferior colliculus": {
+        "conceptId": "FMA73434",
+        "name": "右下丘(Right inferior colliculus)",
+        "parentName": "inferior colliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1817_BP50485_FMA242160_Right cerebral crus": {
+        "conceptId": "FMA242160",
+        "name": "右大脳脚(Right cerebral crus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1826_BP50523_FMA73422_Right superior colliculus": {
+        "conceptId": "FMA73422",
+        "name": "右上丘(Right superior colliculus)",
+        "parentName": "superior colliculus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain structures",
+        "region": "頭部",
+        "order": 115
+    },
+    "FJ1362_BP49686_FMA52673_Communicating branch of right nasociliary nerve with right ciliary ganglion": {
+        "conceptId": "FMA52673",
+        "name": "右鼻毛様神経と右毛様体神経節の交通枝(Communicating branch of right nasociliary nerve with right ciliary ganglion)",
+        "parentName": "communicating branch of nasociliary nerve with ciliary ganglion",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ophthalmic nerve branches",
+        "region": "頭部",
+        "order": 116
+    },
+    "FJ1366_BP49459_FMA52715_Right posterior ethmoidal nerve": {
+        "conceptId": "FMA52715",
+        "name": "右後篩骨神経(Right posterior ethmoidal nerve)",
+        "parentName": "posterior ethmoidal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ophthalmic nerve branches",
+        "region": "頭部",
+        "order": 117
+    },
+    "FJ1367_BP48840_FMA58607_Optic part of right retina": {
+        "conceptId": "FMA58607",
+        "name": "右網膜の視神経部(Optic part of right retina)",
+        "parentName": "optic part of retina",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Eye (Retina)",
+        "region": "頭部",
+        "order": 118
+    },
+    "FJ1775_BP50569_FMA67943_Pons": {
+        "conceptId": "FMA67943",
+        "name": "橋(Pons)",
+        "parentName": "segment of metencephalon",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Pons",
+        "region": "頭部",
+        "order": 118
+    },
+    "FJ1822_BP50569_FMA67943_Pons": {
+        "conceptId": "FMA67943",
+        "name": "橋(Pons)",
+        "parentName": "segment of metencephalon",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Pons",
+        "region": "頭部",
+        "order": 118
+    },
+    "FJ1830_BP50568_FMA67944_Cerebellum": {
+        "conceptId": "FMA67944",
+        "name": "小脳(Cerebellum)",
+        "parentName": "segment of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebellum",
+        "region": "頭部",
+        "order": 118
+    },
+    "FJ1831_BP50246_FMA62004_Medulla oblongata": {
+        "conceptId": "FMA62004",
+        "name": "延髄(Medulla oblongata)",
+        "parentName": "segment of hindbrain",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Medulla oblongata",
+        "region": "頭部",
+        "order": 118
+    },
+    "FJ1369_BP49623_FMA82734_Right long ciliary nerve": {
+        "conceptId": "FMA82734",
+        "name": "右長毛様神経(Right long ciliary nerve)",
+        "parentName": "long ciliary nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ophthalmic nerve branches",
+        "region": "頭部",
+        "order": 120
+    },
+    "FJ1370_BP48217_FMA7041_Short ciliary nerve": {
+        "conceptId": "FMA7041",
+        "name": "短毛様神経(Short ciliary nerve)",
+        "parentName": "branch of ciliary ganglion",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ophthalmic nerve branches",
+        "region": "頭部",
+        "order": 121
+    },
+    "FJ1372_BP50895_FMA52574_Superior branch of right oculomotor nerve": {
+        "conceptId": "FMA52574",
+        "name": "右動眼神経上枝(Superior branch of right oculomotor nerve)",
+        "parentName": "superior branch of oculomotor nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Oculomotor nerve branches",
+        "region": "頭部",
+        "order": 123
+    },
+    "FJ1376_BP50023_FMA52656_Right supra-orbital nerve": {
+        "conceptId": "FMA52656",
+        "name": "右眼窩上神経(Right supra-orbital nerve)",
+        "parentName": "supra-orbital nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ophthalmic nerve branches",
+        "region": "頭部",
+        "order": 126
+    },
+    "FJ1377_BP50066_FMA52643_Right supratrochlear nerve": {
+        "conceptId": "FMA52643",
+        "name": "右滑車上神経(Right supratrochlear nerve)",
+        "parentName": "supratrochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Ophthalmic nerve branches",
+        "region": "頭部",
+        "order": 127
+    },
+    "FJ1381_BP50809_FMA50881_Right trochlear nerve": {
+        "conceptId": "FMA50881",
+        "name": "右滑車神経(Right trochlear nerve)",
+        "parentName": "trochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 129
+    },
+    "FJ1781_BP50568_FMA67944_Cerebellum": {
+        "conceptId": "FMA67944",
+        "name": "小脳(Cerebellum)",
+        "parentName": "segment of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cerebellum",
+        "region": "頭部",
+        "order": 130
+    },
+    "FJ3855_BP47993_FMA242857_Choroid plexus of right lateral ventricle": {
+        "conceptId": "FMA242857",
+        "name": "右側脳室の脈絡叢(Choroid plexus of right lateral ventricle)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Brain",
+        "region": "頭部",
+        "order": 779
+    },
+    "FJ3889_BP48385_FMA266041_Right half of tentorium cerebelli": {
+        "conceptId": "FMA266041",
+        "name": "小脳テント右半分(Right half of tentorium cerebelli)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Meninges",
+        "region": "頭部",
+        "order": 780
+    },
+    "FJ3890_BP48290_FMA266056_Cerebral hemisphere segment of dura mater": {
+        "conceptId": "FMA266056",
+        "name": "大脳半球硬膜区(Cerebral hemisphere segment of dura mater)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Meninges",
+        "region": "頭部",
+        "order": 781
+    },
+    "FJ3891_BP50877_FMA50886_Right abducens nerve": {
+        "conceptId": "FMA50886",
+        "name": "右外転神経(Right abducens nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 782
+    },
+    "FJ3892_BP50652_FMA52941_Right anterior superior alveolar nerve": {
+        "conceptId": "FMA52941",
+        "name": "右上顎前上歯神経(Right anterior superior alveolar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 783
+    },
+    "FJ3893_BP46452_FMA80540_Trunk of right auriculotemporal nerve": {
+        "conceptId": "FMA80540",
+        "name": "右耳頬側頭神経幹(Trunk of right auriculotemporal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 784
+    },
+    "FJ3894_BP50942_FMA50890_Right vestibulocochlear nerve": {
+        "conceptId": "FMA50890",
+        "name": "右内耳神経(Right vestibulocochlear nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 785
+    },
+    "FJ3895_BP50441_FMA53072_Branch of right mandibular nerve to right otic ganglion": {
+        "conceptId": "FMA53072",
+        "name": "右下顎神経から右耳神経節への枝(Branch of right mandibular nerve to right otic ganglion)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 786
+    },
+    "FJ3896_BP50945_FMA53311_Buccal branch of right facial nerve": {
+        "conceptId": "FMA53311",
+        "name": "右顔面神経頬枝(Buccal branch of right facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 787
+    },
+    "FJ3897_BP50663_FMA53067_Right buccal nerve": {
+        "conceptId": "FMA53067",
+        "name": "右頬神経(Right buccal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 788
+    },
+    "FJ3898_BP50919_FMA53398_Cervical branch of right facial nerve": {
+        "conceptId": "FMA53398",
+        "name": "右顔面神経頸枝(Cervical branch of right facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 789
+    },
+    "FJ3899_BP47512_FMA65421_Trunk of right facial nerve": {
+        "conceptId": "FMA65421",
+        "name": "右顔面神経幹(Trunk of right facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 790
+    },
+    "FJ3900_BP50636_FMA52732_Ganglionic branch of right maxillary nerve to right pterygopalatine ganglion": {
+        "conceptId": "FMA52732",
+        "name": "右上顎神経から右翼口蓋神経節への神経節枝(Ganglionic branch of right maxillary nerve to right pterygopalatine ganglion)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 791
+    },
+    "FJ3902_BP50294_FMA52803_Right greater palatine nerve": {
+        "conceptId": "FMA52803",
+        "name": "右大口蓋神経(Right greater palatine nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 793
+    },
+    "FJ3903_BP45648_FMA80518_Trunk of right inferior alveolar nerve": {
+        "conceptId": "FMA80518",
+        "name": "右下歯槽神経幹(Trunk of right inferior alveolar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 794
+    },
+    "FJ3904_BP49990_FMA52990_External nasal branch of right infra-orbital nerve": {
+        "conceptId": "FMA52990",
+        "name": "右眼窩下神経外鼻枝(External nasal branch of right infra-orbital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 795
+    },
+    "FJ3905_BP50181_FMA52987_Inferior palpebral branch of right infra-orbital nerve": {
+        "conceptId": "FMA52987",
+        "name": "右眼窩下神経下眼瞼枝(Inferior palpebral branch of right infra-orbital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 796
+    },
+    "FJ3906_BP50160_FMA52992_Internal nasal branch of right infra-orbital nerve": {
+        "conceptId": "FMA52992",
+        "name": "右眼窩下神経内鼻枝(Internal nasal branch of right infra-orbital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 797
+    },
+    "FJ3907_BP50177_FMA52994_Superior labial branch of right infra-orbital nerve": {
+        "conceptId": "FMA52994",
+        "name": "右眼窩下神経上唇枝(Superior labial branch of right infra-orbital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 798
+    },
+    "FJ3908_BP49530_FMA52677_Left anterior ethmoidal nerve": {
+        "conceptId": "FMA52677",
+        "name": "左前篩骨神経(Left anterior ethmoidal nerve)",
+        "parentName": "anterior ethmoidal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 799
+    },
+    "FJ3909_BP49537_FMA52674_Communicating branch of left nasociliary nerve with left ciliary ganglion": {
+        "conceptId": "FMA52674",
+        "name": "左鼻毛様神経と左毛様体神経節の交通枝(Communicating branch of left nasociliary nerve with left ciliary ganglion)",
+        "parentName": "communicating branch of nasociliary nerve with ciliary ganglion",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 800
+    },
+    "FJ3910_BP50655_FMA52640_Left frontal nerve": {
+        "conceptId": "FMA52640",
+        "name": "左前頭神経(Left frontal nerve)",
+        "parentName": "frontal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 801
+    },
+    "FJ3911_BP49747_FMA52699_Left infratrochlear nerve": {
+        "conceptId": "FMA52699",
+        "name": "左滑車下神経(Left infratrochlear nerve)",
+        "parentName": "infratrochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 802
+    },
+    "FJ3912_BP50462_FMA52630_Left lacrimal nerve": {
+        "conceptId": "FMA52630",
+        "name": "左涙腺神経(Left lacrimal nerve)",
+        "parentName": "lacrimal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 803
+    },
+    "FJ3913_BP49979_FMA52670_Left nasociliary nerve": {
+        "conceptId": "FMA52670",
+        "name": "左鼻毛様体神経(Left nasociliary nerve)",
+        "parentName": "nasociliary nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 804
+    },
+    "FJ3914_BP46575_FMA223162_Left olfactory tract": {
+        "conceptId": "FMA223162",
+        "name": "左嗅索(Left olfactory tract)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Olfactory system",
+        "region": "頭部",
+        "order": 805
+    },
+    "FJ3915_BP50873_FMA52593_Left olfactory nerve": {
+        "conceptId": "FMA52593",
+        "name": "左嗅神経(Left olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 806
+    },
+    "FJ3916_BP50873_FMA52593_Left olfactory nerve": {
+        "conceptId": "FMA52593",
+        "name": "左嗅神経(Left olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 807
+    },
+    "FJ3917_BP50873_FMA52593_Left olfactory nerve": {
+        "conceptId": "FMA52593",
+        "name": "左嗅神経(Left olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 808
+    },
+    "FJ3918_BP50873_FMA52593_Left olfactory nerve": {
+        "conceptId": "FMA52593",
+        "name": "左嗅神経(Left olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 809
+    },
+    "FJ3919_BP50873_FMA52593_Left olfactory nerve": {
+        "conceptId": "FMA52593",
+        "name": "左嗅神経(Left olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 810
+    },
+    "FJ3920_BP50873_FMA52593_Left olfactory nerve": {
+        "conceptId": "FMA52593",
+        "name": "左嗅神経(Left olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 811
+    },
+    "FJ3921_BP50819_FMA52623_Left ophthalmic nerve": {
+        "conceptId": "FMA52623",
+        "name": "左眼神経(Left ophthalmic nerve)",
+        "parentName": "ophthalmic nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 812
+    },
+    "FJ3922_BP49500_FMA52716_Left posterior ethmoidal nerve": {
+        "conceptId": "FMA52716",
+        "name": "左後篩骨神経(Left posterior ethmoidal nerve)",
+        "parentName": "posterior ethmoidal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 813
+    },
+    "FJ3924_BP49919_FMA52657_Left supra-orbital nerve": {
+        "conceptId": "FMA52657",
+        "name": "左眼窩上神経(Left supra-orbital nerve)",
+        "parentName": "supra-orbital nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 815
+    },
+    "FJ3925_BP50094_FMA52644_Left supratrochlear nerve": {
+        "conceptId": "FMA52644",
+        "name": "左滑車上神経(Left supratrochlear nerve)",
+        "parentName": "supratrochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 816
+    },
+    "FJ3927_BP50823_FMA50887_Left abducens nerve": {
+        "conceptId": "FMA50887",
+        "name": "左外転神経(Left abducens nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 818
+    },
+    "FJ3929_BP50241_FMA52733_Ganglionic branch of left maxillary nerve to left pterygopalatine ganglion": {
+        "conceptId": "FMA52733",
+        "name": "左上顎神経から左翼口蓋神経節への神経節枝(Ganglionic branch of left maxillary nerve to left pterygopalatine ganglion)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 820
+    },
+    "FJ3930_BP50514_FMA52942_Left anterior superior alveolar nerve": {
+        "conceptId": "FMA52942",
+        "name": "左前上歯槽神経(Left anterior superior alveolar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 821
+    },
+    "FJ3931_BP46132_FMA80541_Trunk of left auriculotemporal nerve": {
+        "conceptId": "FMA80541",
+        "name": "左耳側頭神経幹(Trunk of left auriculotemporal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 822
+    },
+    "FJ3932_BP50834_FMA50891_Left vestibulocochlear nerve": {
+        "conceptId": "FMA50891",
+        "name": "左前庭蝸牛神経(Left vestibulocochlear nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 823
+    },
+    "FJ3933_BP50354_FMA53073_Branch of left mandibular nerve to left otic ganglion": {
+        "conceptId": "FMA53073",
+        "name": "左下顎神経から左耳神経節への枝(Branch of left mandibular nerve to left otic ganglion)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 824
+    },
+    "FJ3934_BP50922_FMA53312_Buccal branch of left facial nerve": {
+        "conceptId": "FMA53312",
+        "name": "左顔面神経頬枝(Buccal branch of left facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 825
+    },
+    "FJ3935_BP50427_FMA53068_Left buccal nerve": {
+        "conceptId": "FMA53068",
+        "name": "左頬神経(Left buccal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 826
+    },
+    "FJ3937_BP49110_FMA52690_Left external nasal nerve": {
+        "conceptId": "FMA52690",
+        "name": "左外鼻神経(Left external nasal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 828
+    },
+    "FJ3938_BP47479_FMA65422_Trunk of left facial nerve": {
+        "conceptId": "FMA65422",
+        "name": "左顔面神経幹(Trunk of left facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 829
+    },
+    "FJ3940_BP50698_FMA52804_Left greater palatine nerve": {
+        "conceptId": "FMA52804",
+        "name": "左大口蓋神経(Left greater palatine nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 831
+    },
+    "FJ3942_BP45860_FMA80519_Trunk of left inferior alveolar nerve": {
+        "conceptId": "FMA80519",
+        "name": "左下歯槽神経幹(Trunk of left inferior alveolar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 833
+    },
+    "FJ3943_BP49909_FMA52991_External nasal branch of left infra-orbital nerve": {
+        "conceptId": "FMA52991",
+        "name": "左眼窩下神経外鼻枝(External nasal branch of left infra-orbital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 834
+    },
+    "FJ3944_BP50007_FMA52988_Inferior palpebral branch of left infra-orbital nerve": {
+        "conceptId": "FMA52988",
+        "name": "左眼窩下神経下眼瞼枝(Inferior palpebral branch of left infra-orbital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 835
+    },
+    "FJ3945_BP49799_FMA52993_Internal nasal branch of left infra-orbital nerve": {
+        "conceptId": "FMA52993",
+        "name": "左眼窩下神経内鼻枝(Internal nasal branch of left infra-orbital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 836
+    },
+    "FJ3946_BP49960_FMA52995_Superior labial branch of left infra-orbital nerve": {
+        "conceptId": "FMA52995",
+        "name": "左眼窩下神経上唇枝(Superior labial branch of left infra-orbital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 837
+    },
+    "FJ3947_BP49358_FMA52687_Internal nasal branch of left anterior ethmoidal nerve": {
+        "conceptId": "FMA52687",
+        "name": "左前篩神経内鼻枝(Internal nasal branch of left anterior ethmoidal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 838
+    },
+    "FJ3948_BP49333_FMA52685_Lateral internal nasal branch of left anterior ethmoidal nerve": {
+        "conceptId": "FMA52685",
+        "name": "左前篩神経外側内鼻枝(Lateral internal nasal branch of left anterior ethmoidal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 839
+    },
+    "FJ3949_BP45873_FMA80512_Trunk of left lingual nerve": {
+        "conceptId": "FMA80512",
+        "name": "左舌神経幹(Trunk of left lingual nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 840
+    },
+    "FJ3950_BP49446_FMA82735_Left long ciliary nerve": {
+        "conceptId": "FMA82735",
+        "name": "左長毛様体神経(Left long ciliary nerve)",
+        "parentName": "long ciliary nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 841
+    },
+    "FJ3951_BP50818_FMA52998_Left mandibular nerve": {
+        "conceptId": "FMA52998",
+        "name": "左下顎神経(Left mandibular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 842
+    },
+    "FJ3952_BP50966_FMA53367_Marginal mandibular branch of left facial nerve": {
+        "conceptId": "FMA53367",
+        "name": "左顔面神経下顎縁枝(Marginal mandibular branch of left facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 843
+    },
+    "FJ3953_BP50476_FMA53105_Left masseteric nerve": {
+        "conceptId": "FMA53105",
+        "name": "左咬筋神経(Left masseteric nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 844
+    },
+    "FJ3954_BP46500_FMA80595_Trunk of left maxillary nerve": {
+        "conceptId": "FMA80595",
+        "name": "左上顎神経幹(Trunk of left maxillary nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 845
+    },
+    "FJ3955_BP50273_FMA52730_Left middle meningeal nerve": {
+        "conceptId": "FMA52730",
+        "name": "左中硬膜神経(Left middle meningeal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 846
+    },
+    "FJ3956_BP49633_FMA53252_Left mental nerve": {
+        "conceptId": "FMA53252",
+        "name": "左オトガイ神経(Left mental nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 847
+    },
+    "FJ3957_BP50513_FMA52940_Left middle superior alveolar nerve": {
+        "conceptId": "FMA52940",
+        "name": "左中上歯槽神経(Left middle superior alveolar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 848
+    },
+    "FJ3958_BP45165_FMA80524_Trunk of left mylohyoid nerve": {
+        "conceptId": "FMA80524",
+        "name": "左顎舌骨筋神経幹(Trunk of left mylohyoid nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 849
+    },
+    "FJ3959_BP50385_FMA52799_Left nasopalatine nerve": {
+        "conceptId": "FMA52799",
+        "name": "左鼻口蓋神経(Left nasopalatine nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 850
+    },
+    "FJ3960_BP50563_FMA53058_Left medial pterygoid nerve": {
+        "conceptId": "FMA53058",
+        "name": "左内側翼突筋神経(Left medial pterygoid nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 851
+    },
+    "FJ3961_BP49891_FMA53110_Left lateral pterygoid nerve": {
+        "conceptId": "FMA53110",
+        "name": "左外側翼突筋神経(Left lateral pterygoid nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 852
+    },
+    "FJ3962_BP46261_FMA80553_Trunk of branch of left mandibular nerve to tensor tympani": {
+        "conceptId": "FMA80553",
+        "name": "左下顎神経から鼓膜張筋への枝幹(Trunk of branch of left mandibular nerve to tensor tympani)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 853
+    },
+    "FJ3963_BP50461_FMA53077_Nerve to left tensor veli palatini": {
+        "conceptId": "FMA53077",
+        "name": "左口蓋帆張筋神経(Nerve to left tensor veli palatini)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 854
+    },
+    "FJ3964_BP50384_FMA53287_Occipital branch of left posterior auricular nerve": {
+        "conceptId": "FMA53287",
+        "name": "左後耳介神経後頭枝(Occipital branch of left posterior auricular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 855
+    },
+    "FJ3965_BP50534_FMA52580_Nerve to left ciliary ganglion": {
+        "conceptId": "FMA52580",
+        "name": "左毛様体神経節への神経(Nerve to left ciliary ganglion)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 856
+    },
+    "FJ3966_BP50480_FMA52606_Nerve to left inferior rectus": {
+        "conceptId": "FMA52606",
+        "name": "左下直筋神経(Nerve to left inferior rectus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 857
+    },
+    "FJ3967_BP50645_FMA52584_Nerve to left superior rectus": {
+        "conceptId": "FMA52584",
+        "name": "左上直筋神経(Nerve to left superior rectus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 858
+    },
+    "FJ3968_BP50825_FMA65426_Trunk of left oculomotor nerve": {
+        "conceptId": "FMA65426",
+        "name": "左動眼神経幹(Trunk of left oculomotor nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 859
+    },
+    "FJ3969_BP50506_FMA52604_Nerve to left inferior oblique": {
+        "conceptId": "FMA52604",
+        "name": "左下斜筋神経(Nerve to left inferior oblique)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 860
+    },
+    "FJ3970_BP50399_FMA52602_Nerve to left medial rectus": {
+        "conceptId": "FMA52602",
+        "name": "左内側直筋神経(Nerve to left medial rectus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 861
+    },
+    "FJ3971_BP50474_FMA52774_Orbital branch of left maxillary nerve to left orbitalis": {
+        "conceptId": "FMA52774",
+        "name": "左上顎神経眼窩枝(Orbital branch of left maxillary nerve to left orbitalis)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 862
+    },
+    "FJ3973_BP46672_FMA80806_Trunk of left posterior auricular nerve": {
+        "conceptId": "FMA80806",
+        "name": "左後耳介神経幹(Trunk of left posterior auricular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 864
+    },
+    "FJ3974_BP49975_FMA52825_Left posterior inferior nasal nerve": {
+        "conceptId": "FMA52825",
+        "name": "左後下鼻神経(Left posterior inferior nasal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 865
+    },
+    "FJ3975_BP50618_FMA52937_Left posterior superior alveolar nerve": {
+        "conceptId": "FMA52937",
+        "name": "左後上歯槽神経(Left posterior superior alveolar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 866
+    },
+    "FJ3976_BP50538_FMA52784_Left lateral posterior superior nasal nerve": {
+        "conceptId": "FMA52784",
+        "name": "左後上外側鼻神経(Left lateral posterior superior nasal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 867
+    },
+    "FJ3977_BP50303_FMA52596_Nerve to left levator palpebrae superioris": {
+        "conceptId": "FMA52596",
+        "name": "左上眼瞼挙筋神経(Nerve to left levator palpebrae superioris)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 868
+    },
+    "FJ3978_BP50533_FMA52787_Left medial posterior superior nasal nerve": {
+        "conceptId": "FMA52787",
+        "name": "左後上内側鼻神経(Left medial posterior superior nasal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 869
+    },
+    "FJ3979_BP46465_FMA80828_Trunk of temporal branch of left facial nerve": {
+        "conceptId": "FMA80828",
+        "name": "左顔面神経側頭枝幹(Trunk of temporal branch of left facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 870
+    },
+    "FJ3980_BP47116_FMA65424_Trunk of left trigeminal nerve": {
+        "conceptId": "FMA65424",
+        "name": "左三叉神経幹(Trunk of left trigeminal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 871
+    },
+    "FJ3981_BP50891_FMA50882_Left trochlear nerve": {
+        "conceptId": "FMA50882",
+        "name": "左滑車神経(Left trochlear nerve)",
+        "parentName": "trochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 872
+    },
+    "FJ3982_BP46939_FMA80847_Trunk of zygomatic branch of left facial nerve": {
+        "conceptId": "FMA80847",
+        "name": "左顔面神経頬骨枝幹(Trunk of zygomatic branch of left facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 873
+    },
+    "FJ3983_BP50302_FMA52969_Left zygomatic nerve": {
+        "conceptId": "FMA52969",
+        "name": "左頬骨神経(Left zygomatic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 874
+    },
+    "FJ3984_BP46290_FMA80511_Trunk of right lingual nerve": {
+        "conceptId": "FMA80511",
+        "name": "右舌神経幹(Trunk of right lingual nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 875
+    },
+    "FJ3985_BP50904_FMA52997_Right mandibular nerve": {
+        "conceptId": "FMA52997",
+        "name": "右下顎神経(Right mandibular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 876
+    },
+    "FJ3986_BP50990_FMA53366_Marginal mandibular branch of right facial nerve": {
+        "conceptId": "FMA53366",
+        "name": "右顔面神経下顎縁枝(Marginal mandibular branch of right facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 877
+    },
+    "FJ3987_BP50255_FMA53104_Right masseteric nerve": {
+        "conceptId": "FMA53104",
+        "name": "右咬筋神経(Right masseteric nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 878
+    },
+    "FJ3988_BP46509_FMA80594_Trunk of right maxillary nerve": {
+        "conceptId": "FMA80594",
+        "name": "右上顎神経幹(Trunk of right maxillary nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 879
+    },
+    "FJ3989_BP50593_FMA52729_Right middle meningeal nerve": {
+        "conceptId": "FMA52729",
+        "name": "右中硬膜神経(Right middle meningeal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 880
+    },
+    "FJ3990_BP49639_FMA53251_Right mental nerve": {
+        "conceptId": "FMA53251",
+        "name": "右オトガイ神経(Right mental nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 881
+    },
+    "FJ3991_BP50286_FMA52939_Right middle superior alveolar nerve": {
+        "conceptId": "FMA52939",
+        "name": "右中上歯槽神経(Right middle superior alveolar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 882
+    },
+    "FJ3992_BP45292_FMA80523_Trunk of right mylohyoid nerve": {
+        "conceptId": "FMA80523",
+        "name": "右顎舌骨筋神経幹(Trunk of right mylohyoid nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 883
+    },
+    "FJ3993_BP50310_FMA52798_Right nasopalatine nerve": {
+        "conceptId": "FMA52798",
+        "name": "右鼻口蓋神経(Right nasopalatine nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 884
+    },
+    "FJ3994_BP50578_FMA53057_Right medial pterygoid nerve": {
+        "conceptId": "FMA53057",
+        "name": "右内側翼突筋神経(Right medial pterygoid nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 885
+    },
+    "FJ3995_BP49788_FMA53109_Right lateral pterygoid nerve": {
+        "conceptId": "FMA53109",
+        "name": "右外側翼突筋神経(Right lateral pterygoid nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 886
+    },
+    "FJ3996_BP46127_FMA80552_Trunk of branch of right mandibular nerve to tensor tympani": {
+        "conceptId": "FMA80552",
+        "name": "右下顎神経耳小骨筋枝幹(Trunk of branch of right mandibular nerve to tensor tympani)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 887
+    },
+    "FJ3997_BP50560_FMA53076_Nerve to right tensor veli palatini": {
+        "conceptId": "FMA53076",
+        "name": "右口蓋帆張筋神経(Nerve to right tensor veli palatini)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 888
+    },
+    "FJ3998_BP50306_FMA53286_Occipital branch of right posterior auricular nerve": {
+        "conceptId": "FMA53286",
+        "name": "右後耳介神経後頭枝(Occipital branch of right posterior auricular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 889
+    },
+    "FJ3999_BP50688_FMA52773_Orbital branch of right maxillary nerve to right orbitalis": {
+        "conceptId": "FMA52773",
+        "name": "右上顎神経眼窩枝(Orbital branch of right maxillary nerve to right orbitalis)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 890
+    },
+    "FJ4001_BP46735_FMA80805_Trunk of right posterior auricular nerve": {
+        "conceptId": "FMA80805",
+        "name": "右後耳介神経幹(Trunk of right posterior auricular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 892
+    },
+    "FJ4002_BP50229_FMA52824_Right posterior inferior nasal nerve": {
+        "conceptId": "FMA52824",
+        "name": "右後下鼻神経(Right posterior inferior nasal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 893
+    },
+    "FJ4003_BP50676_FMA52936_Right posterior superior alveolar nerve": {
+        "conceptId": "FMA52936",
+        "name": "右後上歯槽神経(Right posterior superior alveolar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 894
+    },
+    "FJ4004_BP50524_FMA52785_Right lateral posterior superior nasal nerve": {
+        "conceptId": "FMA52785",
+        "name": "右外側後上鼻神経(Right lateral posterior superior nasal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 895
+    },
+    "FJ4005_BP50465_FMA52786_Right medial posterior superior nasal nerve": {
+        "conceptId": "FMA52786",
+        "name": "右内側後上鼻神経(Right medial posterior superior nasal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 896
+    },
+    "FJ4006_BP49400_FMA52676_Right anterior ethmoidal nerve": {
+        "conceptId": "FMA52676",
+        "name": "右前篩骨神経(Right anterior ethmoidal nerve)",
+        "parentName": "anterior ethmoidal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 897
+    },
+    "FJ4007_BP49686_FMA52673_Communicating branch of right nasociliary nerve with right ciliary ganglion": {
+        "conceptId": "FMA52673",
+        "name": "右鼻毛様体神経と毛様体神経節交通枝(Communicating branch of right nasociliary nerve with right ciliary ganglion)",
+        "parentName": "communicating branch of nasociliary nerve with ciliary ganglion",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 898
+    },
+    "FJ4008_BP50434_FMA52639_Right frontal nerve": {
+        "conceptId": "FMA52639",
+        "name": "右前頭神経(Right frontal nerve)",
+        "parentName": "frontal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 899
+    },
+    "FJ4009_BP49129_FMA52709_Palpebral branch of right infratrochlear nerve": {
+        "conceptId": "FMA52709",
+        "name": "右滑車下神経眼瞼枝(Palpebral branch of right infratrochlear nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 900
+    },
+    "FJ4010_BP50701_FMA52629_Right lacrimal nerve": {
+        "conceptId": "FMA52629",
+        "name": "右涙腺神経(Right lacrimal nerve)",
+        "parentName": "lacrimal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 901
+    },
+    "FJ4011_BP49693_FMA52698_Right infratrochlear nerve": {
+        "conceptId": "FMA52698",
+        "name": "右滑車下神経(Right infratrochlear nerve)",
+        "parentName": "infratrochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 902
+    },
+    "FJ4012_BP46505_FMA223163_Right olfactory tract": {
+        "conceptId": "FMA223163",
+        "name": "右嗅索(Right olfactory tract)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Olfactory system",
+        "region": "頭部",
+        "order": 903
+    },
+    "FJ4013_BP50750_FMA52592_Right olfactory nerve": {
+        "conceptId": "FMA52592",
+        "name": "右嗅神経(Right olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Olfactory system",
+        "region": "頭部",
+        "order": 904
+    },
+    "FJ4014_BP50750_FMA52592_Right olfactory nerve": {
+        "conceptId": "FMA52592",
+        "name": "右嗅神経(Right olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Olfactory system",
+        "region": "頭部",
+        "order": 905
+    },
+    "FJ4015_BP50750_FMA52592_Right olfactory nerve": {
+        "conceptId": "FMA52592",
+        "name": "右嗅神経(Right olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Olfactory system",
+        "region": "頭部",
+        "order": 906
+    },
+    "FJ4016_BP50750_FMA52592_Right olfactory nerve": {
+        "conceptId": "FMA52592",
+        "name": "右嗅神経(Right olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Olfactory system",
+        "region": "頭部",
+        "order": 907
+    },
+    "FJ4017_BP50750_FMA52592_Right olfactory nerve": {
+        "conceptId": "FMA52592",
+        "name": "右嗅神経(Right olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Olfactory system",
+        "region": "頭部",
+        "order": 908
+    },
+    "FJ4018_BP50750_FMA52592_Right olfactory nerve": {
+        "conceptId": "FMA52592",
+        "name": "右嗅神経(Right olfactory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Olfactory system",
+        "region": "頭部",
+        "order": 909
+    },
+    "FJ4019_BP50738_FMA52622_Right ophthalmic nerve": {
+        "conceptId": "FMA52622",
+        "name": "右眼神経(Right ophthalmic nerve)",
+        "parentName": "ophthalmic nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 910
+    },
+    "FJ4020_BP49459_FMA52715_Right posterior ethmoidal nerve": {
+        "conceptId": "FMA52715",
+        "name": "右後篩骨神経(Right posterior ethmoidal nerve)",
+        "parentName": "posterior ethmoidal nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 911
+    },
+    "FJ4022_BP50023_FMA52656_Right supra-orbital nerve": {
+        "conceptId": "FMA52656",
+        "name": "右眼窩上神経(Right supra-orbital nerve)",
+        "parentName": "supra-orbital nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 913
+    },
+    "FJ4023_BP50066_FMA52643_Right supratrochlear nerve": {
+        "conceptId": "FMA52643",
+        "name": "右滑車上神経(Right supratrochlear nerve)",
+        "parentName": "supratrochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 914
+    },
+    "FJ4026_BP49106_FMA52689_Right external nasal nerve": {
+        "conceptId": "FMA52689",
+        "name": "右外鼻神経(Right external nasal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 917
+    },
+    "FJ4028_BP49286_FMA52686_Internal nasal branch of right anterior ethmoidal nerve": {
+        "conceptId": "FMA52686",
+        "name": "右前篩骨神経内鼻枝(Internal nasal branch of right anterior ethmoidal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 919
+    },
+    "FJ4029_BP49259_FMA52684_Lateral internal nasal branch of right anterior ethmoidal nerve": {
+        "conceptId": "FMA52684",
+        "name": "右前篩骨神経外側内鼻枝(Lateral internal nasal branch of right anterior ethmoidal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 920
+    },
+    "FJ4030_BP50370_FMA52579_Nerve to right ciliary ganglion": {
+        "conceptId": "FMA52579",
+        "name": "右毛様体神経節枝(Nerve to right ciliary ganglion)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 921
+    },
+    "FJ4031_BP50494_FMA52605_Nerve to right inferior rectus": {
+        "conceptId": "FMA52605",
+        "name": "右下直筋枝(Nerve to right inferior rectus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 922
+    },
+    "FJ4032_BP50339_FMA52583_Nerve to right superior rectus": {
+        "conceptId": "FMA52583",
+        "name": "右上直筋枝(Nerve to right superior rectus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 923
+    },
+    "FJ4033_BP50752_FMA65425_Trunk of right oculomotor nerve": {
+        "conceptId": "FMA65425",
+        "name": "右動眼神経幹(Trunk of right oculomotor nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 924
+    },
+    "FJ4034_BP50752_FMA65425_Trunk of right oculomotor nerve": {
+        "conceptId": "FMA65425",
+        "name": "右動眼神経幹(Trunk of right oculomotor nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 925
+    },
+    "FJ4035_BP50516_FMA52601_Nerve to right medial rectus": {
+        "conceptId": "FMA52601",
+        "name": "右内直筋枝(Nerve to right medial rectus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 926
+    },
+    "FJ4037_BP50550_FMA52595_Nerve to right levator palpebrae superioris": {
+        "conceptId": "FMA52595",
+        "name": "右上眼瞼挙筋枝(Nerve to right levator palpebrae superioris)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 927
+    },
+    "FJ4038_BP47170_FMA65423_Trunk of right trigeminal nerve": {
+        "conceptId": "FMA65423",
+        "name": "右三叉神経幹(Trunk of right trigeminal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 928
+    },
+    "FJ4039_BP50809_FMA50881_Right trochlear nerve": {
+        "conceptId": "FMA50881",
+        "name": "右滑車神経(Right trochlear nerve)",
+        "parentName": "trochlear nerve",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 929
+    },
+    "FJ4040_BP46723_FMA80827_Trunk of temporal branch of right facial nerve": {
+        "conceptId": "FMA80827",
+        "name": "右顔面神経側頭枝幹(Trunk of temporal branch of right facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 930
+    },
+    "FJ4041_BP46919_FMA80846_Trunk of zygomatic branch of right facial nerve": {
+        "conceptId": "FMA80846",
+        "name": "右顔面神経頬骨枝幹(Trunk of zygomatic branch of right facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 931
+    },
+    "FJ4042_BP50623_FMA52968_Right zygomatic nerve": {
+        "conceptId": "FMA52968",
+        "name": "右頬骨神経(Right zygomatic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頭部",
+        "order": 932
+    },
+    "FJ7445_BP48331_FMA83967_Falx cerebri": {
+        "conceptId": "FMA83967",
+        "name": "大脳鎌(Falx cerebri)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Meninges",
+        "region": "頭部"
+    },
+    "FJ7446_BP48385_FMA266041_Right half of tentorium cerebelli": {
+        "conceptId": "FMA266041",
+        "name": "小脳テント右半分(Right half of tentorium cerebelli)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Meninges",
+        "region": "頭部"
+    },
+    "FJ7462M_BP49402_FMA72673_Right precuneus": {
+        "conceptId": "FMA72673",
+        "name": "右楔前部(Right precuneus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7462_BP49728_FMA72674_Left precuneus": {
+        "conceptId": "FMA72674",
+        "name": "左楔前部(Left precuneus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7463M_BP49460_FMA72671_Right superior parietal lobule": {
+        "conceptId": "FMA72671",
+        "name": "右上頭頂小葉(Right superior parietal lobule)",
+        "parentName": "superior parietal lobule",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7463_BP49562_FMA72672_Left superior parietal lobule": {
+        "conceptId": "FMA72672",
+        "name": "左上頭頂小葉(Left superior parietal lobule)",
+        "parentName": "superior parietal lobule",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7465M_BP49181_FMA256198_Right anterior orbital gyrus": {
+        "conceptId": "FMA256198",
+        "name": "右前眼窩回(Right anterior orbital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7465_BP49206_FMA256200_Left anterior orbital gyrus": {
+        "conceptId": "FMA256200",
+        "name": "左前眼窩回(Left anterior orbital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7466M_BP49140_FMA72756_Right lateral orbital gyrus": {
+        "conceptId": "FMA72756",
+        "name": "右外側眼窩回(Right lateral orbital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7466_BP49316_FMA72757_Left lateral orbital gyrus": {
+        "conceptId": "FMA72757",
+        "name": "左外側眼窩回(Left lateral orbital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7467M_BP49245_FMA72758_Right medial orbital gyrus": {
+        "conceptId": "FMA72758",
+        "name": "右内側眼窩回(Right medial orbital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7467_BP49096_FMA72759_Left medial orbital gyrus": {
+        "conceptId": "FMA72759",
+        "name": "左内側眼窩回(Left medial orbital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7468M_BP49133_FMA80187_Right posterior orbital gyrus": {
+        "conceptId": "FMA80187",
+        "name": "右後眼窩回(Right posterior orbital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7468_BP49095_FMA80188_Left posterior orbital gyrus": {
+        "conceptId": "FMA80188",
+        "name": "左後眼窩回(Left posterior orbital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7469M_BP49132_FMA72659_Right straight gyrus": {
+        "conceptId": "FMA72659",
+        "name": "右直回(Right straight gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7469_BP49164_FMA72660_Left straight gyrus": {
+        "conceptId": "FMA72660",
+        "name": "左直回(Left straight gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7470M_BP49600_FMA72717_Right cingulate gyrus": {
+        "conceptId": "FMA72717",
+        "name": "右帯状回(Right cingulate gyrus)",
+        "parentName": "cingulate gyrus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7470_BP49698_FMA72718_Left cingulate gyrus": {
+        "conceptId": "FMA72718",
+        "name": "左帯状回(Left cingulate gyrus)",
+        "parentName": "cingulate gyrus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7471M_BP49676_FMA72679_Right cuneus": {
+        "conceptId": "FMA72679",
+        "name": "右楔部(Right cuneus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7471_BP49424_FMA72680_Left cuneus": {
+        "conceptId": "FMA72680",
+        "name": "左楔部(Left cuneus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7472M_BP45352_FMA72689_Right fusiform gyrus": {
+        "conceptId": "FMA72689",
+        "name": "右紡錘状回(Right fusiform gyrus)",
+        "parentName": "fusiform gyrus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7472_BP45118_FMA72690_Left fusiform gyrus": {
+        "conceptId": "FMA72690",
+        "name": "左紡錘状回(Left fusiform gyrus)",
+        "parentName": "fusiform gyrus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7473M_BP49455_FMA72687_Right inferior temporal gyrus": {
+        "conceptId": "FMA72687",
+        "name": "右下側頭回(Right inferior temporal gyrus)",
+        "parentName": "inferior temporal gyrus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7473_BP49665_FMA72688_Left inferior temporal gyrus": {
+        "conceptId": "FMA72688",
+        "name": "左下側頭回(Left inferior temporal gyrus)",
+        "parentName": "inferior temporal gyrus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7474M_BP49409_FMA72677_Right lateral occipital gyrus": {
+        "conceptId": "FMA72677",
+        "name": "右外側後頭回(Right lateral occipital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7474_BP49603_FMA72678_Left lateral occipital gyrus": {
+        "conceptId": "FMA72678",
+        "name": "左外側後頭回(Left lateral occipital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7475M_BP49444_FMA72681_Right lingual gyrus": {
+        "conceptId": "FMA72681",
+        "name": "右舌状回(Right lingual gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7475_BP49601_FMA72682_Left lingual gyrus": {
+        "conceptId": "FMA72682",
+        "name": "左舌状回(Left lingual gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7476M_BP49541_FMA72705_Right parahippocampal gyrus": {
+        "conceptId": "FMA72705",
+        "name": "右海馬傍回(Right parahippocampal gyrus)",
+        "parentName": "parahippocampal gyrus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7476_BP49680_FMA72706_Left parahippocampal gyrus": {
+        "conceptId": "FMA72706",
+        "name": "左海馬傍回(Left parahippocampal gyrus)",
+        "parentName": "parahippocampal gyrus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7478M_BP49407_FMA72675_Right superior occipital gyrus": {
+        "conceptId": "FMA72675",
+        "name": "右上後頭回(Right superior occipital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7478_BP49425_FMA72676_Left superior occipital gyrus": {
+        "conceptId": "FMA72676",
+        "name": "左上後頭回(Left superior occipital gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7479M_BP49635_FMA72683_Right superior temporal gyrus": {
+        "conceptId": "FMA72683",
+        "name": "右上側頭回(Right superior temporal gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7479_BP49423_FMA72684_Left superior temporal gyrus": {
+        "conceptId": "FMA72684",
+        "name": "左上側頭回(Left superior temporal gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7481M_BP50322_FMA73540_Left substantia nigra": {
+        "conceptId": "FMA73540",
+        "name": "左黒質(Left substantia nigra)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Midbrain",
+        "region": "頭部"
+    },
+    "FJ7481_BP50651_FMA73539_Right substantia nigra": {
+        "conceptId": "FMA73539",
+        "name": "右黒質(Right substantia nigra)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Midbrain",
+        "region": "頭部"
+    },
+    "FJ7482M_BP46317_FMA73368_Left subthalamic nucleus": {
+        "conceptId": "FMA73368",
+        "name": "左視床下核(Left subthalamic nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7482_BP46096_FMA73367_Right subthalamic nucleus": {
+        "conceptId": "FMA73367",
+        "name": "右視床下核(Right subthalamic nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7483M_BP49253_FMA73333_Right anterior nucleus of hypothalamus": {
+        "conceptId": "FMA73333",
+        "name": "右視床下部前核(Right anterior nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7483_BP49125_FMA73334_Left anterior nucleus of hypothalamus": {
+        "conceptId": "FMA73334",
+        "name": "左視床下部前核(Left anterior nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7485M_BP47744_FMA74877_Mammillary body": {
+        "conceptId": "FMA74877",
+        "name": "乳頭体(Mammillary body)",
+        "parentName": "gray matter of hypothalamus",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7486M_BP49545_FMA73389_Right mammillothalamic tract of hypothalamus": {
+        "conceptId": "FMA73389",
+        "name": "右視床下部乳頭視床路(Right mammillothalamic tract of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7487M_BP50691_FMA73491_Right red nucleus": {
+        "conceptId": "FMA73491",
+        "name": "右赤核(Right red nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Midbrain",
+        "region": "頭部"
+    },
+    "FJ7488M_BP49772_FMA73337_Right arcuate nucleus of hypothalamus": {
+        "conceptId": "FMA73337",
+        "name": "右視床下部弓状核(Right arcuate nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7489M_BP49621_FMA73335_Right paraventricular nucleus of hypothalamus": {
+        "conceptId": "FMA73335",
+        "name": "右視床下部室傍核(Right paraventricular nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7490M_BP49675_FMA73341_Right ventromedial nucleus of hypothalamus": {
+        "conceptId": "FMA73341",
+        "name": "右視床下部腹内側核(Right ventromedial nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7491M_BP49414_FMA73359_Right lateral hypothalamic nucleus": {
+        "conceptId": "FMA73359",
+        "name": "右視床下部外側核(Right lateral hypothalamic nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7492M_BP46761_FMA73327_Right lateral preoptic nucleus": {
+        "conceptId": "FMA73327",
+        "name": "右外側視索前核(Right lateral preoptic nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7493M_BP49478_FMA73329_Right suprachiasmatic nucleus": {
+        "conceptId": "FMA73329",
+        "name": "右視交叉上核(Right suprachiasmatic nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7494M_BP46362_FMA73331_Right supraoptic nucleus": {
+        "conceptId": "FMA73331",
+        "name": "右視索上核(Right supraoptic nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7495M_BP49205_FMA73325_Right medial preoptic nucleus": {
+        "conceptId": "FMA73325",
+        "name": "右内側視索前核(Right medial preoptic nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7495_BP49303_FMA73326_Left medial preoptic nucleus": {
+        "conceptId": "FMA73326",
+        "name": "左内側視索前核(Left medial preoptic nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7496M_BP49650_FMA73353_Right posterior nucleus of hypothalamus": {
+        "conceptId": "FMA73353",
+        "name": "右視床下部後核(Right posterior nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7496_BP49733_FMA73354_Left posterior nucleus of hypothalamus": {
+        "conceptId": "FMA73354",
+        "name": "左視床下部後核(Left posterior nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7497M_BP49551_FMA73339_Right dorsomedial nucleus of hypothalamus": {
+        "conceptId": "FMA73339",
+        "name": "右視床下部背内側核(Right dorsomedial nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7497_BP49720_FMA73340_Left dorsomedial nucleus of hypothalamus": {
+        "conceptId": "FMA73340",
+        "name": "左視床下部背内側核(Left dorsomedial nucleus of hypothalamus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7498M_BP46066_FMA72924_Right fornix of forebrain": {
+        "conceptId": "FMA72924",
+        "name": "右大脳脳弓(Right fornix of forebrain)",
+        "parentName": "fornix of forebrain",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Limbic system",
+        "region": "頭部"
+    },
+    "FJ7498_BP46396_FMA72925_Left fornix of forebrain": {
+        "conceptId": "FMA72925",
+        "name": "左大脳脳弓(Left fornix of forebrain)",
+        "parentName": "fornix of forebrain",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Limbic system",
+        "region": "頭部"
+    },
+    "FJ7499M_BP47212_FMA84354_Periventricular nucleus": {
+        "conceptId": "FMA84354",
+        "name": "脳室周囲核(Periventricular nucleus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Diencephalon",
+        "region": "頭部"
+    },
+    "FJ7500M_BP49444_FMA72681_Right lingual gyrus": {
+        "conceptId": "FMA72681",
+        "name": "右舌状回(Right lingual gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7500_BP49601_FMA72682_Left lingual gyrus": {
+        "conceptId": "FMA72682",
+        "name": "左舌状回(Left lingual gyrus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Cerebral cortex",
+        "region": "頭部"
+    },
+    "FJ7501M_BP50890_FMA50878_Left optic nerve": {
+        "conceptId": "FMA50878",
+        "name": "左視神経(Left optic nerve)",
+        "parentName": "optic nerve",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Optic pathway",
+        "region": "頭部"
+    },
+    "FJ7501_BP50744_FMA50875_Right optic nerve": {
+        "conceptId": "FMA50875",
+        "name": "右視神経(Right optic nerve)",
+        "parentName": "optic nerve",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Optic pathway",
+        "region": "頭部"
+    },
+    "FJ7502M_BP50940_FMA67936_Left optic tract": {
+        "conceptId": "FMA67936",
+        "name": "左視索(Left optic tract)",
+        "parentName": "optic tract",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Optic pathway",
+        "region": "頭部"
+    },
+    "FJ7502_BP50879_FMA62382_Right optic tract": {
+        "conceptId": "FMA62382",
+        "name": "右視索(Right optic tract)",
+        "parentName": "optic tract",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Optic pathway",
+        "region": "頭部"
+    },
+    "FJ7503M_BP48015_FMA62045_Optic chiasm": {
+        "conceptId": "FMA62045",
+        "name": "視交叉(Optic chiasm)",
+        "parentName": "nerve trunk",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Optic pathway",
+        "region": "頭部"
+    },
+    "FJ7504M_BP50485_FMA242160_Right cerebral crus": {
+        "conceptId": "FMA242160",
+        "name": "右大脳脚(Right cerebral crus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Midbrain",
+        "region": "頭部"
+    },
+    "FJ7504_BP50639_FMA242162_Left cerebral crus": {
+        "conceptId": "FMA242162",
+        "name": "左大脳脚(Left cerebral crus)",
+        "majorCategory": "Central nervous system",
+        "middleCategory": "Midbrain",
+        "region": "頭部"
+    },
+    "FJ7484M_BP49253_FMA73333_Right anterior nucleus of hypothalamus": {
+        "conceptId": "FMA73333",
+        "name": "右視床下部前核(Right anterior nucleus of hypothalamus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7484_BP49125_FMA73334_Left anterior nucleus of hypothalamus": {
+        "conceptId": "FMA73334",
+        "name": "左視床下部前核(Left anterior nucleus of hypothalamus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7485_BP47744_FMA74877_Mammillary body": {
+        "conceptId": "FMA74877",
+        "name": "乳頭体(Mammillary body)",
+        "parentName": "gray matter of hypothalamus",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic structures",
+        "region": "頭部"
+    },
+    "FJ7486_BP49674_FMA73390_Left mammillothalamic tract of hypothalamus": {
+        "conceptId": "FMA73390",
+        "name": "左視床下部乳頭視床路(Left mammillothalamic tract of hypothalamus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic tracts",
+        "region": "頭部"
+    },
+    "FJ7487_BP50277_FMA73492_Left red nucleus": {
+        "conceptId": "FMA73492",
+        "name": "左赤核(Left red nucleus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Midbrain nuclei",
+        "region": "頭部"
+    },
+    "FJ7488_BP49560_FMA73338_Left arcuate nucleus of hypothalamus": {
+        "conceptId": "FMA73338",
+        "name": "左視床下部弓状核(Left arcuate nucleus of hypothalamus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7489_BP49524_FMA73336_Left paraventricular nucleus of hypothalamus": {
+        "conceptId": "FMA73336",
+        "name": "左視床下部室傍核(Left paraventricular nucleus of hypothalamus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7490_BP49438_FMA73342_Left ventromedial nucleus of hypothalamus": {
+        "conceptId": "FMA73342",
+        "name": "左視床下部腹内側核(Left ventromedial nucleus of hypothalamus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7491_BP49418_FMA73360_Left lateral hypothalamic nucleus": {
+        "conceptId": "FMA73360",
+        "name": "左視床下部外側核(Left lateral hypothalamic nucleus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7492_BP46665_FMA73328_Left lateral preoptic nucleus": {
+        "conceptId": "FMA73328",
+        "name": "左外側前視床下部核(Left lateral preoptic nucleus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7493_BP49468_FMA73330_Left suprachiasmatic nucleus": {
+        "conceptId": "FMA73330",
+        "name": "左視交叉上核(Left suprachiasmatic nucleus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7494_BP46326_FMA73332_Left supraoptic nucleus": {
+        "conceptId": "FMA73332",
+        "name": "左視索上核(Left supraoptic nucleus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7499_BP47212_FMA84354_Periventricular nucleus": {
+        "conceptId": "FMA84354",
+        "name": "室周核(Periventricular nucleus)",
+        "parentName": "",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Hypothalamic nuclei",
+        "region": "頭部"
+    },
+    "FJ7503_BP48015_FMA62045_Optic chiasm": {
+        "conceptId": "FMA62045",
+        "name": "視交叉(Optic chiasm)",
+        "parentName": "nerve trunk",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Optic pathway",
+        "region": "頭部"
+    },
+    "FJ7505M_BP48015_FMA62045_Optic chiasm": {
+        "conceptId": "FMA62045",
+        "name": "視交叉(Optic chiasm)",
+        "parentName": "nerve trunk",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Optic pathway",
+        "region": "頭部"
+    },
+    "FJ7505_BP48015_FMA62045_Optic chiasm": {
+        "conceptId": "FMA62045",
+        "name": "視交叉(Optic chiasm)",
+        "parentName": "nerve trunk",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Optic pathway",
+        "region": "頭部"
+    },
+    "FJ1769_BP50246_FMA62004_Medulla oblongata": {
+        "conceptId": "FMA62004",
+        "name": "延髄(Medulla oblongata)",
+        "parentName": "segment of hindbrain",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Medulla oblongata",
+        "region": "頸部",
+        "order": 120
+    },
+    "FJ3901_BP50854_FMA50894_Left glossopharyngeal nerve": {
+        "conceptId": "FMA50894",
+        "name": "左舌咽神経(Left glossopharyngeal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 792
+    },
+    "FJ3923_BP49249_FMA80695_Trunk of left recurrent laryngeal nerve": {
+        "conceptId": "FMA80695",
+        "name": "左反回喉頭神経幹(Trunk of left recurrent laryngeal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 814
+    },
+    "FJ3926_BP50929_FMA18157_Trunk of left vagus nerve": {
+        "conceptId": "FMA18157",
+        "name": "左迷走神経幹(Trunk of left vagus nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 817
+    },
+    "FJ3928_BP47813_FMA81015_Trunk of left accessory nerve": {
+        "conceptId": "FMA81015",
+        "name": "左副神経幹(Trunk of left accessory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 819
+    },
+    "FJ3936_BP50861_FMA53399_Cervical branch of left facial nerve": {
+        "conceptId": "FMA53399",
+        "name": "左顔面神経頸枝(Cervical branch of left facial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 827
+    },
+    "FJ3939_BP50854_FMA50894_Left glossopharyngeal nerve": {
+        "conceptId": "FMA50894",
+        "name": "左舌咽神経(Left glossopharyngeal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 830
+    },
+    "FJ3941_BP47475_FMA80483_Trunk of left hypoglossal nerve": {
+        "conceptId": "FMA80483",
+        "name": "左舌下神経幹(Trunk of left hypoglossal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 832
+    },
+    "FJ3972_BP46645_FMA77524_Pharyngeal nerve": {
+        "conceptId": "FMA77524",
+        "name": "咽頭神経(Pharyngeal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 863
+    },
+    "FJ4000_BP46645_FMA77524_Pharyngeal nerve": {
+        "conceptId": "FMA77524",
+        "name": "咽頭神経(Pharyngeal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 891
+    },
+    "FJ4021_BP46531_FMA80694_Trunk of right recurrent laryngeal nerve": {
+        "conceptId": "FMA80694",
+        "name": "右反回喉頭神経幹(Trunk of right recurrent laryngeal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 912
+    },
+    "FJ4024_BP47403_FMA18151_Trunk of right vagus nerve": {
+        "conceptId": "FMA18151",
+        "name": "右迷走神経幹(Trunk of right vagus nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 915
+    },
+    "FJ4025_BP47658_FMA81014_Trunk of right accessory nerve": {
+        "conceptId": "FMA81014",
+        "name": "右副神経幹(Trunk of right accessory nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 916
+    },
+    "FJ4027_BP47317_FMA80482_Trunk of right hypoglossal nerve": {
+        "conceptId": "FMA80482",
+        "name": "右舌下神経幹(Trunk of right hypoglossal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Cranial nerves",
+        "region": "頸部",
+        "order": 918
+    },
+    "FJ4173_BP45645_FMA65396_Trunk of left great auricular nerve": {
+        "conceptId": "FMA65396",
+        "name": "左大耳介神経幹(Trunk of left great auricular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 940
+    },
+    "FJ4221_BP50015_FMA65389_Left lesser occipital nerve": {
+        "conceptId": "FMA65389",
+        "name": "左小後頭神経(Left lesser occipital nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 947
+    },
+    "FJ4244_BP51007_FMA65416_Left supraclavicular nerve": {
+        "conceptId": "FMA65416",
+        "name": "左鎖骨上神経(Left supraclavicular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 957
+    },
+    "FJ4257_BP51054_FMA55173_Left transverse cervical nerve": {
+        "conceptId": "FMA55173",
+        "name": "左頸横神経(Left transverse cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 961
+    },
+    "FJ4260_BP50721_FMA6442_Left first cervical nerve": {
+        "conceptId": "FMA6442",
+        "name": "左第1頸神経(Left first cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 963
+    },
+    "FJ4261_BP46880_FMA7003_Trunk of left second cervical nerve": {
+        "conceptId": "FMA7003",
+        "name": "左第2頸神経幹(Trunk of left second cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 964
+    },
+    "FJ4262_BP47026_FMA7005_Trunk of left third cervical nerve": {
+        "conceptId": "FMA7005",
+        "name": "左第3頸神経幹(Trunk of left third cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 965
+    },
+    "FJ4263_BP46529_FMA7007_Trunk of left fourth cervical nerve": {
+        "conceptId": "FMA7007",
+        "name": "左第4頸神経幹(Trunk of left fourth cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 966
+    },
+    "FJ4264_BP46866_FMA24105_Trunk of left fifth cervical nerve": {
+        "conceptId": "FMA24105",
+        "name": "左第5頸神経幹(Trunk of left fifth cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 967
+    },
+    "FJ4265_BP46470_FMA7011_Trunk of left sixth cervical nerve": {
+        "conceptId": "FMA7011",
+        "name": "左第6頸神経幹(Trunk of left sixth cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 968
+    },
+    "FJ4266_BP46615_FMA7013_Trunk of left seventh cervical nerve": {
+        "conceptId": "FMA7013",
+        "name": "左第7頸神経幹(Trunk of left seventh cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 969
+    },
+    "FJ4267_BP46611_FMA7015_Trunk of left eighth cervical nerve": {
+        "conceptId": "FMA7015",
+        "name": "左第8頸神経幹(Trunk of left eighth cervical nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 970
+    },
+    "FJ4272_BP45946_FMA55150_Inferior root of left ansa cervicalis": {
+        "conceptId": "FMA55150",
+        "name": "左頸袢下根(Inferior root of left ansa cervicalis)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 975
+    },
+    "FJ4289_BP46171_FMA55148_Superior root of left ansa cervicalis": {
+        "conceptId": "FMA55148",
+        "name": "左頸袢上根(Superior root of left ansa cervicalis)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "頸部",
+        "order": 990
+    },
+    "FJ4156_BP47097_FMA6201_Pericardial branch of phrenic nerve": {
+        "conceptId": "FMA6201",
+        "name": "横隔神経心膜枝(Pericardial branch of phrenic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 933
+    },
+    "FJ4157_BP50909_FMA65387_Trunk of left phrenic nerve": {
+        "conceptId": "FMA65387",
+        "name": "左横隔神経幹(Trunk of left phrenic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 934
+    },
+    "FJ4159_BP49863_FMA8922_Anterior cutaneous branch of left first intercostal nerve": {
+        "conceptId": "FMA8922",
+        "name": "左第1肋間神経前皮枝(Anterior cutaneous branch of left first intercostal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 936
+    },
+    "FJ4163_BP50063_FMA6115_Anterior cutaneous branch of left second intercostal nerve": {
+        "conceptId": "FMA6115",
+        "name": "左第2肋間神経前皮枝(Anterior cutaneous branch of left second intercostal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 937
+    },
+    "FJ4174_BP46950_FMA85332_Trunk of left first intercostal nerve": {
+        "conceptId": "FMA85332",
+        "name": "左第1肋間神経幹(Trunk of left first intercostal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 941
+    },
+    "FJ4178_BP46649_FMA85334_Trunk of left second intercostal nerve": {
+        "conceptId": "FMA85334",
+        "name": "左第2肋間神経幹(Trunk of left second intercostal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 942
+    },
+    "FJ4197_BP49818_FMA6752_Lateral cutaneous branch of left first intercostal nerve": {
+        "conceptId": "FMA6752",
+        "name": "左第1肋間神経外側皮枝(Lateral cutaneous branch of left first intercostal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 944
+    },
+    "FJ4209_BP49863_FMA8922_Anterior cutaneous branch of left first intercostal nerve": {
+        "conceptId": "FMA8922",
+        "name": "左第1肋間神経前皮枝(Anterior cutaneous branch of left first intercostal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 945
+    },
+    "FJ4213_BP50063_FMA6115_Anterior cutaneous branch of left second intercostal nerve": {
+        "conceptId": "FMA6115",
+        "name": "左第2肋間神経前皮枝(Anterior cutaneous branch of left second intercostal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 946
+    },
+    "FJ4222_BP45902_FMA79667_Trunk of left long thoracic nerve": {
+        "conceptId": "FMA79667",
+        "name": "左長胸神経幹(Trunk of left long thoracic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 948
+    },
+    "FJ4223_BP51069_FMA65295_Left medial pectoral nerve": {
+        "conceptId": "FMA65295",
+        "name": "左内側胸神経(Left medial pectoral nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 949
+    },
+    "FJ4226_BP47097_FMA6201_Pericardial branch of phrenic nerve": {
+        "conceptId": "FMA6201",
+        "name": "横隔神経心膜枝(Pericardial branch of phrenic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 952
+    },
+    "FJ4245_BP50532_FMA7023_Trunk of left first thoracic nerve": {
+        "conceptId": "FMA7023",
+        "name": "左第1胸神経幹(Trunk of left first thoracic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 958
+    },
+    "FJ4248_BP50486_FMA7025_Trunk of left second thoracic nerve": {
+        "conceptId": "FMA7025",
+        "name": "左第2胸神経幹(Trunk of left second thoracic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 959
+    },
+    "FJ4279_BP50909_FMA65387_Trunk of left phrenic nerve": {
+        "conceptId": "FMA65387",
+        "name": "左横隔神経幹(Trunk of left phrenic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 981
+    },
+    "FJ4291_BP48452_FMA75533_Set of phrenico-abdominal branches of phrenic nerve": {
+        "conceptId": "FMA75533",
+        "name": "横隔神経の横隔腹枝群(Set of phrenico-abdominal branches of phrenic nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "胸部",
+        "order": 992
+    },
+    "FJ1737_BP51045_FMA78497_Central canal of spinal cord": {
+        "conceptId": "FMA78497",
+        "name": "脊髄中心管(Central canal of spinal cord)",
+        "parentName": "region of ventricular system of neuraxis",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Spinal cord",
+        "region": "背部",
+        "order": 300
+    },
+    "FJ4256_BP51059_FMA65292_Left thoracodorsal nerve": {
+        "conceptId": "FMA65292",
+        "name": "左胸背神経(Left thoracodorsal nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "背部",
+        "order": 960
+    },
+    "FJ4426_BP51016_FMA242005_Neural tissue of spinal cord": {
+        "conceptId": "FMA242005",
+        "name": "脊髄の神経組織(Neural tissue of spinal cord)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Central nervous system",
+        "region": "背部",
+        "order": 994
+    },
+    "FJ4158_BP50696_FMA37068_Left median nerve": {
+        "conceptId": "FMA37068",
+        "name": "左正中神経(Left median nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 935
+    },
+    "FJ4171_BP51084_FMA37074_Left axillary nerve": {
+        "conceptId": "FMA37074",
+        "name": "左腋窩神経(Left axillary nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 938
+    },
+    "FJ4172_BP50320_FMA37071_Left radial nerve": {
+        "conceptId": "FMA37071",
+        "name": "左橈骨神経(Left radial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 939
+    },
+    "FJ4185_BP45587_FMA65908_Left second intercostobrachial nerve": {
+        "conceptId": "FMA65908",
+        "name": "左第2肋間上腕神経(Left second intercostobrachial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 943
+    },
+    "FJ4224_BP50696_FMA37068_Left median nerve": {
+        "conceptId": "FMA37068",
+        "name": "左正中神経(Left median nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 950
+    },
+    "FJ4225_BP50780_FMA37066_Left musculocutaneous nerve": {
+        "conceptId": "FMA37066",
+        "name": "左筋皮神経(Left musculocutaneous nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 951
+    },
+    "FJ4240_BP50320_FMA37071_Left radial nerve": {
+        "conceptId": "FMA37071",
+        "name": "左橈骨神経(Left radial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 953
+    },
+    "FJ4241_BP46405_FMA79671_Trunk of left subclavian nerve": {
+        "conceptId": "FMA79671",
+        "name": "左鎖骨下神経幹(Trunk of left subclavian nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 954
+    },
+    "FJ4242_BP47302_FMA65306_Left superior subscapular nerve": {
+        "conceptId": "FMA65306",
+        "name": "左上肩甲下神経(Left superior subscapular nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 955
+    },
+    "FJ4243_BP51084_FMA37074_Left axillary nerve": {
+        "conceptId": "FMA37074",
+        "name": "左腋窩神経(Left axillary nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 956
+    },
+    "FJ4258_BP50647_FMA37321_Left ulnar nerve": {
+        "conceptId": "FMA37321",
+        "name": "左尺骨神経(Left ulnar nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 962
+    },
+    "FJ4268_BP50320_FMA37071_Left radial nerve": {
+        "conceptId": "FMA37071",
+        "name": "左橈骨神経(Left radial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 971
+    },
+    "FJ4269_BP46407_FMA44977_First dorsal digital branch of radial nerve": {
+        "conceptId": "FMA44977",
+        "name": "橈骨神経第1背側指枝(First dorsal digital branch of radial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 972
+    },
+    "FJ4270_BP46407_FMA44977_First dorsal digital branch of radial nerve": {
+        "conceptId": "FMA44977",
+        "name": "橈骨神経第1背側指枝(First dorsal digital branch of radial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 973
+    },
+    "FJ4271_BP50320_FMA37071_Left radial nerve": {
+        "conceptId": "FMA37071",
+        "name": "左橈骨神経(Left radial nerve)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 974
+    },
+    "FJ4273_BP46687_FMA65364_Inferior trunk of left brachial nerve plexus": {
+        "conceptId": "FMA65364",
+        "name": "左腕神経叢下幹(Inferior trunk of left brachial nerve plexus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 976
+    },
+    "FJ4274_BP46281_FMA45239_Lateral cord of left brachial nerve plexus": {
+        "conceptId": "FMA45239",
+        "name": "左腕神経叢外側神経束(Lateral cord of left brachial nerve plexus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 977
+    },
+    "FJ4275_BP46122_FMA45241_Medial cord of left brachial nerve plexus": {
+        "conceptId": "FMA45241",
+        "name": "左腕神経叢内側神経束(Medial cord of left brachial nerve plexus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 978
+    },
+    "FJ4276_BP46921_FMA65366_Middle trunk of left brachial nerve plexus": {
+        "conceptId": "FMA65366",
+        "name": "左腕神経叢中幹(Middle trunk of left brachial nerve plexus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 979
+    },
+    "FJ4278_BP45891_FMA44984_Lateral dorsal digital branch of radial nerve to index finger": {
+        "conceptId": "FMA44984",
+        "name": "示指への橈骨神経外側背側指枝(Lateral dorsal digital branch of radial nerve to index finger)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 980
+    },
+    "FJ4280_BP47012_FMA45243_Posterior cord of left brachial nerve plexus": {
+        "conceptId": "FMA45243",
+        "name": "左腕神経叢後神経束(Posterior cord of left brachial nerve plexus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 982
+    },
+    "FJ4281_BP50690_FMA65338_Lateral proper palmar digital branch of left median nerve to left thumb": {
+        "conceptId": "FMA65338",
+        "name": "左母指への左正中神経外側固有掌側指枝(Lateral proper palmar digital branch of left median nerve to left thumb)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 983
+    },
+    "FJ4282_BP45489_FMA65344_Medial proper palmar digital branch of left median nerve to left index finger": {
+        "conceptId": "FMA65344",
+        "name": "左示指への左正中神経内側固有掌側指枝(Medial proper palmar digital branch of left median nerve to left index finger)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 984
+    },
+    "FJ4283_BP45464_FMA65348_Medial proper palmar digital branch of left median nerve to left middle finger": {
+        "conceptId": "FMA65348",
+        "name": "左中指への左正中神経内側固有掌側指枝(Medial proper palmar digital branch of left median nerve to left middle finger)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 985
+    },
+    "FJ4284_BP50525_FMA65342_Lateral proper palmar digital branch of left median nerve to left index finger": {
+        "conceptId": "FMA65342",
+        "name": "左示指への左正中神経外側固有掌側指枝(Lateral proper palmar digital branch of left median nerve to left index finger)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 986
+    },
+    "FJ4285_BP46288_FMA44867_Lateral proper palmar digital branch of median nerve to middle finger": {
+        "conceptId": "FMA44867",
+        "name": "中指への正中神経外側固有掌側指枝(Lateral proper palmar digital branch of median nerve to middle finger)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 987
+    },
+    "FJ4286_BP46434_FMA44871_Lateral proper palmar digital branch of left median nerve to left ring finger": {
+        "conceptId": "FMA44871",
+        "name": "左環指への左正中神経外側固有掌側指枝(Lateral proper palmar digital branch of left median nerve to left ring finger)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 988
+    },
+    "FJ4287_BP50448_FMA65340_Medial proper palmar digital branch of left median nerve to left thumb": {
+        "conceptId": "FMA65340",
+        "name": "左母指への左正中神経内側固有掌側指枝(Medial proper palmar digital branch of left median nerve to left thumb)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 989
+    },
+    "FJ4290_BP46633_FMA65362_Superior trunk of left brachial nerve plexus": {
+        "conceptId": "FMA65362",
+        "name": "左腕神経叢上幹(Superior trunk of left brachial nerve plexus)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nerves",
+        "region": "上肢",
+        "order": 991
+    },
+    "FJ4425_BP48446_FMA52590_Cauda equina": {
+        "conceptId": "FMA52590",
+        "name": "馬尾(Cauda equina)",
+        "majorCategory": "Nervous system",
+        "middleCategory": "Peripheral nervous system",
+        "region": "背部",
+        "order": 993
+    }
+}

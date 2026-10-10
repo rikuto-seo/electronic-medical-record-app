@@ -1,21 +1,47 @@
 これから
 
+  "FJ1228_BP50206_FMA45097_Sesamoid bone of right foot": {
+    "conceptId": "FMA45097",
+    "name": "Sesamoid bone of right foot",
+    "parentName": "sesamoid bone of foot",
+    "majorCategory": "",
+    "middleCategory": "",
+    "region": "",
+    "order": 0
+  },
+
+の形式で書かれたものをお渡しします
+
+これを以下を参考にして修正してください
+
     "FJ1654M_BP50196_FMA50030_Left anterior cerebral artery": {
         "conceptId": "FMA50030",
-        "name": "Left anterior cerebral artery",
+        "name": "左前大脳動脈(Left anterior cerebral artery)",
         "parentName": "anterior cerebral artery",
         "majorCategory": "Circulatory system",
         "middleCategory": "Cerebral arteries",
+        "region": "頭部",
         "order": 100
     },
 
-の形式で書かれたものを10件ずつお渡しします。
-あなたはこれを受け取ったら　name　をもとに解剖的に正しい位置を検索し
+parentNameはそのままにしてください、訳す必要はありません
+nameは日本語訳したうえで原語をカッコ内に入れる形式
+majorCategory と middleCategoryはnameをもとに検索して推定し入力してください
+majorCategoryはいわゆる　系　です。
+regionは'頭部' | '頚部' | '胸部' | '腹部' | '背部' | '上肢' | '下肢';を参考にしてください
+orderは完全に消してください
 
-"regin":
+最初の例でいえば
 
-をそれぞれ追記してください。
+  "FJ1228_BP50206_FMA45097_Sesamoid bone of right foot": {
+    "conceptId": "FMA45097",
+    "name": "右足種子骨（Sesamoid bone of right foot）", 
+    "parentName": "sesamoid bone of foot",
+    "majorCategory": "Musculoskeletal system",
+    "middleCategory": "Foot bones",
+    "region": "下肢", 
+  },
 
-regionは '頭頚部' | '胸部' | '腹部' | '背部' | '上肢' | '下肢'
-
-から最も近しいものを入力してください。
+のようにします
+重複はありませんから勝手に圧縮しないでください
+準備はいいですか？

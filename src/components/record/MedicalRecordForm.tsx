@@ -1,219 +1,309 @@
-// src/components/record/MedicalRecordForm.tsx
-import React, { useEffect } from 'react';
-import { useForm } from 'react-hook-form';
-import { zodResolver } from '@hookform/resolvers/zod';
+import React, { useEffect, useRef, useState } from "react";
+import { FieldErrors, FieldPath, useForm } from "react-hook-form";
+import { zodResolver } from "@hookform/resolvers/zod";
 import {
   medicalRecordSchema,
   MedicalRecordFormData,
-} from '../../schema/medicalRecordSchema';
-
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFileImage, faFileVideo, faFileAlt, faFile } from '@fortawesome/free-solid-svg-icons';
+} from "../../schema/medicalRecordSchema";
+import { recordSections, RecordSection } from "./recordFields";
+import {
+  recordDateInput,
+  recordMediaUrls,
+} from "../../utils/medicalRecordUtils";
+import "./records.css";
 
 interface Props {
-  initialData?: MedicalRecordFormData;
-  onSubmit: (formData: FormData) => void;  // ここを変更
+  initialData: MedicalRecordFormData;
+  onSubmit: (data: MedicalRecordFormData, files: File[]) => Promise<void>;
   onCancel?: () => void;
+  editing?: boolean;
+  onDirtyChange?: (dirty: boolean) => void;
 }
-
-const isJapaneseOnly = (value: string) =>
-  /^[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}ー\s　]*$/u.test(value);
-
-const getLocalDateTimeString = (): string => {
-  const now = new Date();
-  now.setSeconds(0, 0);
-  const offset = now.getTimezoneOffset();
-  const local = new Date(now.getTime() - offset * 60000);
-  return local.toISOString().slice(0, 16);
-};
-
-// ファイルタイプに応じたアイコンを返す関数
-const getFileIcon = (file: File) => {
-  const type = file.type;
-  if (type.startsWith('image/')) return faFileImage;
-  if (type.startsWith('video/')) return faFileVideo;
-  if (type === 'text/plain') return faFileAlt;
-  return faFile; // その他のファイル
-};
-
 const MedicalRecordForm: React.FC<Props> = ({
   initialData,
   onSubmit,
   onCancel,
+  editing = false,
+  onDirtyChange,
 }) => {
+  const [section, setSection] = useState<RecordSection>("subjective");
+  const [mediaFiles, setMediaFiles] = useState<File[]>([]);
+  const [error, setError] = useState("");
+  const [focusError, setFocusError] =
+    useState<FieldPath<MedicalRecordFormData>>();
+  const fileInput = useRef<HTMLInputElement>(null);
   const {
     register,
     handleSubmit,
-    formState: { errors },
     reset,
+    setFocus,
+    formState: { errors, isSubmitting, isDirty },
   } = useForm<MedicalRecordFormData>({
     resolver: zodResolver(medicalRecordSchema),
-    defaultValues: initialData || {
-      id: crypto.randomUUID(),
-      date: getLocalDateTimeString(),
-      chiefComplaint: '',
-      symptomOnsetDate: '',
-      symptomDuration: '',
-      symptomLocation: '',
-      painType: '',
-      painSeverity: null,
-      rangeOfMotion: '',
-      muscleStrength: '',
-      palpationFindings: '',
-      skinCondition: '',
-      imagingResults: '',
-      neurologicalExamResults: '',
-      otherExamResults: '',
-      diagnosis: '',
-      acupunctureType: '',
-      acupunctureCount: null,
-      moxibustionType: '',
-      treatmentFrequency: '',
-      currentCondition: '',
-      treatmentPlan: '',
-      selfCareInstructions: '',
-      treatmentProgress: '',
-      notes: '',
+    defaultValues: {
+      ...initialData,
+      date: recordDateInput(initialData.date),
+      mediaUrls: recordMediaUrls(initialData.mediaUrls),
     },
+    shouldFocusError: false,
   });
-
-  const [mediaFiles, setMediaFiles] = React.useState<File[]>([]);
-
   useEffect(() => {
-    if (initialData) {
-      reset(initialData);
-    }
-  }, [initialData, reset]);
-
-  const onFormSubmit = (data: MedicalRecordFormData) => {
-    const localDate = new Date(data.date);
-    const jstDate = new Date(localDate.getTime() + localDate.getTimezoneOffset() * 60000);
-
-    const correctedData = {
-      ...data,
-      date: jstDate.toISOString(),
-    };
-
-    // FormDataで送る
-    const formData = new FormData();
-    formData.append('record', new Blob([JSON.stringify(correctedData)], { type: 'application/json' }));
-
-    mediaFiles.forEach((file) => {
-      formData.append('mediaFiles', file); // 複数ファイル送信
+    reset({
+      ...initialData,
+      date: recordDateInput(initialData.date),
+      mediaUrls: recordMediaUrls(initialData.mediaUrls),
     });
-
-    onSubmit(formData as any); // backendでFormDataを処理するように変更する必要あり
+    setMediaFiles([]);
+    setError("");
+    setSection("subjective");
+    if (fileInput.current) fileInput.current.value = "";
+  }, [initialData, reset]);
+  useEffect(() => {
+    if (focusError) {
+      setFocus(focusError);
+      setFocusError(undefined);
+    }
+  }, [section, focusError, setFocus]);
+  useEffect(() => {
+    onDirtyChange?.(isDirty || !!mediaFiles.length);
+  }, [isDirty, mediaFiles.length, onDirtyChange]);
+  useEffect(() => {
+    if (!isDirty && !mediaFiles.length) return;
+    const preventLeave = (event: BeforeUnloadEvent) => {
+      event.preventDefault();
+      event.returnValue = "";
+    };
+    window.addEventListener("beforeunload", preventLeave);
+    return () => window.removeEventListener("beforeunload", preventLeave);
+  }, [isDirty, mediaFiles.length]);
+  const save = async (data: MedicalRecordFormData) => {
+    setError("");
+    try {
+      await onSubmit(data, mediaFiles);
+    } catch (reason) {
+      setError(
+        reason instanceof Error
+          ? reason.message
+          : "診療記録を保存できませんでした。入力内容は保持されています。",
+      );
+    }
   };
-
-  const fieldDefinitions: {
-    name: keyof MedicalRecordFormData;
-    label: string;
-    type?: 'text' | 'textarea' | 'date' | 'datetime-local' | 'number';
-  }[] = [
-      { name: 'date', label: '日付と時刻', type: 'datetime-local' },
-      { name: 'chiefComplaint', label: '主訴' },
-      { name: 'symptomOnsetDate', label: '発症日', type: 'date' },
-      { name: 'symptomDuration', label: '症状の持続期間' },
-      { name: 'symptomLocation', label: '症状の部位' },
-      { name: 'painType', label: '痛みの種類' },
-      { name: 'painSeverity', label: '痛みの程度', type: 'number' },
-      { name: 'rangeOfMotion', label: '可動域' },
-      { name: 'muscleStrength', label: '筋力' },
-      { name: 'palpationFindings', label: '触診所見' },
-      { name: 'skinCondition', label: '皮膚の状態' },
-      { name: 'imagingResults', label: '画像診断結果' },
-      { name: 'neurologicalExamResults', label: '神経学的検査結果' },
-      { name: 'otherExamResults', label: 'その他の検査結果' },
-      { name: 'diagnosis', label: '診断名' },
-      { name: 'acupunctureType', label: '鍼の種類' },
-      { name: 'acupunctureCount', label: '鍼の本数', type: 'number' },
-      { name: 'moxibustionType', label: '灸の種類' },
-      { name: 'treatmentFrequency', label: '施術頻度' },
-      { name: 'currentCondition', label: '現症', type: 'textarea' },
-      { name: 'treatmentPlan', label: '治療方針', type: 'textarea' },
-      { name: 'selfCareInstructions', label: 'セルフケア指導', type: 'textarea' },
-      { name: 'treatmentProgress', label: '経過', type: 'textarea' },
-      { name: 'notes', label: '備考', type: 'textarea' },
-    ];
-
+  const invalid = (validationErrors: FieldErrors<MedicalRecordFormData>) => {
+    const first = recordSections.find((group) =>
+      group.fields.some((field) => {
+        const [key, nested] = field.name.split(".");
+        const entry = validationErrors[key];
+        return nested ? entry && (entry as any)[nested] : entry;
+      }),
+    );
+    if (first) {
+      setSection(first.id);
+      const field = first.fields.find((field) => {
+        const [key, nested] = field.name.split(".");
+        return nested
+          ? (validationErrors[key] as any)?.[nested]
+          : validationErrors[key];
+      });
+      setFocusError(field?.name);
+    } else setFocusError("date");
+  };
   return (
-    <form onSubmit={handleSubmit(onFormSubmit)} className="space-y-4">
-      {fieldDefinitions.map(({ name, label, type = 'text' }) => {
-        const validation =
-          type === 'number'
-            ? { valueAsNumber: true }
-            : {
-              validate: (value: unknown) =>
-                typeof value === 'string'
-                  ? isJapaneseOnly(value) || '日本語のみで入力してください。'
-                  : true,
-            };
-
-        return (
-          <div key={name}>
-            <label className="block font-medium">{label}</label>
-            {type === 'textarea' ? (
-              <textarea {...register(name, validation)} className="border px-2 py-1 w-full" />
-            ) : (
-              <input type={type} {...register(name, validation)} className="border px-2 py-1 w-full" />
-            )}
-            {errors[name] && (
-              <p className="text-red-500 text-sm">{errors[name]?.message?.toString()}</p>
-            )}
-          </div>
-        );
-      })}
-
-      <p className="block font-semibold text-blue-700 text-lg mb-2">
-        添付ファイル（画像・動画）
-      </p>
-
-      <div className="file-upload-box">
-        <label
-          htmlFor="mediaFiles"
-          className="file-upload-label block w-full h-full cursor-pointer"
-        >
-          <span className="inline-block px-3 py-1 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
-            ファイルを選択
-          </span>
-          <input
-            id="mediaFiles"
-            type="file"
-            accept="image/*,video/*,text/plain"
-            multiple
-            style={{ display: 'none' }}
-            onChange={(e) => {
-              const files = e.target.files;
-              if (files) {
-                setMediaFiles(Array.from(files));
-              }
-            }}
-          />
-        </label>
+    <form
+      className="record-editor"
+      noValidate
+      onSubmit={handleSubmit(save, invalid)}
+    >
+      <div className="record-editor-heading">
+        <div>
+          <h2>{editing ? "診療記録を編集" : "新しい診療記録を入力"}</h2>
+          <p>
+            確認・実施した内容を記録します。未確認の項目は空欄のまま保存できます。
+          </p>
+        </div>
+        <span className="record-draft-badge">
+          {isDirty || mediaFiles.length ? "未保存の変更あり" : "入力待ち"}
+        </span>
       </div>
-
-
-      {/* 選択ファイルのリスト表示 */}
-      {mediaFiles.length > 0 && (
-        <ul className="mt-2 space-y-1">
-          {mediaFiles.map((file, index) => (
-            <li key={index} className="flex items-center gap-2">
-              <FontAwesomeIcon icon={getFileIcon(file)} className="text-blue-600" />
-              <span>{file.name}</span>
-            </li>
+      <fieldset disabled={isSubmitting} className="record-editor-body">
+        <div className="record-metadata">
+          <label>
+            <span>
+              記録日時 <b>必須</b>
+            </span>
+            <input type="datetime-local" {...register("date")} />
+            {errors.date && (
+              <small role="alert">{String(errors.date.message)}</small>
+            )}
+          </label>
+          <label>
+            <span>診療区分</span>
+            <select {...register("visitType")}>
+              <option value="">未選択</option>
+              <option>初診</option>
+              <option>再診</option>
+              <option>相談</option>
+            </select>
+          </label>
+          <label>
+            <span>記録・施術担当</span>
+            <input
+              {...register("treatmentPerformedBy")}
+              placeholder="担当スタッフ名"
+            />
+          </label>
+        </div>
+        <div
+          className="record-section-tabs"
+          role="tablist"
+          aria-label="カルテ入力項目"
+        >
+          {recordSections.map((group, index) => (
+            <button
+              type="button"
+              role="tab"
+              aria-selected={section === group.id}
+              aria-controls={`record-${group.id}`}
+              id={`record-tab-${group.id}`}
+              key={group.id}
+              onClick={() => setSection(group.id)}
+            >
+              <span>{index + 1}</span>
+              {group.label}
+            </button>
           ))}
-        </ul>
+        </div>
+        {recordSections.map((group) => (
+          <section
+            role="tabpanel"
+            aria-labelledby={`record-tab-${group.id}`}
+            id={`record-${group.id}`}
+            key={group.id}
+            hidden={section !== group.id}
+          >
+            <p className="record-section-description">{group.description}</p>
+            <div className="record-fields">
+              {group.fields.map((field) => {
+                const [key, nested] = field.name.split(".");
+                const fieldError = nested
+                  ? (errors[key] as any)?.[nested]
+                  : errors[key];
+                const registration = register(
+                  field.name,
+                  field.type === "number"
+                    ? {
+                        setValueAs: (value) =>
+                          value === "" ? undefined : Number(value),
+                      }
+                    : {},
+                );
+                return (
+                  <label
+                    key={field.name}
+                    className={field.wide ? "record-field-wide" : ""}
+                  >
+                    <span>
+                      {field.label}
+                      {field.required && <b>必須</b>}
+                    </span>
+                    {field.type === "textarea" ? (
+                      <textarea
+                        {...registration}
+                        rows={3}
+                        aria-label={field.label}
+                        aria-invalid={!!fieldError}
+                      />
+                    ) : (
+                      <input
+                        {...registration}
+                        aria-label={field.label}
+                        type={field.type ?? "text"}
+                        min={field.min}
+                        max={field.max}
+                        step={field.step}
+                        aria-invalid={!!fieldError}
+                      />
+                    )}
+                    {field.hint && (
+                      <small className="record-field-hint">{field.hint}</small>
+                    )}
+                    {fieldError && (
+                      <small role="alert" className="record-field-error">
+                        {String(fieldError.message)}
+                      </small>
+                    )}
+                  </label>
+                );
+              })}
+            </div>
+          </section>
+        ))}
+        <details className="record-attachments">
+          <summary>
+            添付ファイル{" "}
+            {mediaFiles.length ? `（選択中 ${mediaFiles.length}件）` : ""}
+          </summary>
+          {!!recordMediaUrls(initialData.mediaUrls).length && (
+            <p>
+              保存済み添付: {recordMediaUrls(initialData.mediaUrls).length}
+              件（保持されます）
+            </p>
+          )}
+          <label>
+            画像・動画・PDFを追加
+            <input
+              ref={fileInput}
+              type="file"
+              accept="image/*,video/*,application/pdf,text/plain"
+              multiple
+              onChange={(event) => {
+                setMediaFiles(Array.from(event.target.files ?? []));
+              }}
+            />
+          </label>
+          <ul>
+            {mediaFiles.map((file, index) => (
+              <li key={`${file.name}-${index}`}>
+                <span>{file.name}</span>
+                <button
+                  type="button"
+                  onClick={() =>
+                    setMediaFiles((previous) =>
+                      previous.filter((_, i) => i !== index),
+                    )
+                  }
+                >
+                  外す
+                </button>
+              </li>
+            ))}
+          </ul>
+        </details>
+      </fieldset>
+      {error && (
+        <p role="alert" className="record-save-error">
+          {error} 入力内容は保持されています。
+        </p>
       )}
-
-      <br />
-
-      <div className="flex justify-end gap-4 pt-4">
-        <button type="submit" className="bg-blue-600 text-white px-4 py-2 rounded">
-          保存
+      {Object.keys(errors).length > 0 && (
+        <p className="record-save-error" role="alert">
+          必須項目・数値を確認してください。該当の入力項目を表示しました。
+        </p>
+      )}
+      <div className="record-save-bar">
+        <button type="submit" disabled={isSubmitting}>
+          {isSubmitting ? "保存中…" : editing ? "変更を保存" : "診療記録を保存"}
         </button>
+        <button
+          type="button"
+          className="record-secondary"
+          onClick={onCancel}
+          disabled={isSubmitting}
+        >
+          {editing ? "編集を終了" : "入力をクリア"}
+        </button>
+        <span>必須：記録日時・現症・治療方針</span>
       </div>
     </form>
   );
 };
-
 export default MedicalRecordForm;

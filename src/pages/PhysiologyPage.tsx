@@ -1,10 +1,12 @@
-import React from 'react';
+// src/pages/PhysiologyPage.tsx
+import React from "react";
+import PhysiologyLayout from "../components/physiology/PhysiologyLayout";
 
 const PhysiologyPage: React.FC = () => {
   return (
-    <div>
-      <h1>生理学ページ</h1>
-      <p>人体の機能や生命維持の仕組みを解説するページです。</p>
+    <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
+      <h1 style={{ margin: '1rem 0' }}>生理学ページ</h1>
+      <PhysiologyLayout />
     </div>
   );
 };

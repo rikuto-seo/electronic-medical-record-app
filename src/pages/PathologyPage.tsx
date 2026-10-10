@@ -1,10 +1,12 @@
-import React from 'react';
+// src/pages/PathologyPage.tsx
+import React from "react";
+import PathologyLayout from "../components/pathology/PathologyLayout";
 
 const PathologyPage: React.FC = () => {
   return (
-    <div>
-      <h1>病理学ページ</h1>
-      <p>病気の原因や症状、病態生理について学ぶページです。</p>
+    <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
+      <h1 style={{ margin: '1rem 0' }}>病理学ページ</h1>
+      <PathologyLayout />
     </div>
   );
 };

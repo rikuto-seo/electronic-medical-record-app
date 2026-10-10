@@ -1,0 +1,14 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    function isClinicStaff() {
+      return request.auth != null && request.auth.uid == 'khSrR6rwn2OjLAyVbeXqrSxBiGE3';
+    }
+    match /patients/{patientId}/{files=**} {
+      allow read: if isClinicStaff();
+      allow write: if isClinicStaff()
+        && firestore.exists(/databases/(default)/documents/patients/$(patientId))
+        && firestore.get(/databases/(default)/documents/patients/$(patientId)).data.get('deletionOperation', '') == '';
+    }
+  }
+}

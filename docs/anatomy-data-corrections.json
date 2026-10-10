@@ -1,0 +1,1609 @@
+{
+  "source": "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list.txt",
+  "additionalSources": [
+    "https://www.med.kobe-u.ac.jp/anato1/education/files_assets/2017_Osteoguide_%2032r.pdf",
+    "https://jams.med.or.jp/glossary_committee/doc/2021material_s1.pdf"
+  ],
+  "corrections": [
+    {
+      "id": "FJ1677M_BP48977_FMA50685_Left splenial artery",
+      "oldName": "左脳梁後部動脈(Left splenial artery)",
+      "newName": "左背側脳梁枝(Left splenial artery)"
+    },
+    {
+      "id": "FJ1677_BP48916_FMA50684_Right splenial artery",
+      "oldName": "右脳梁後部動脈(Right splenial artery)",
+      "newName": "右背側脳梁枝(Right splenial artery)"
+    },
+    {
+      "id": "FJ1678M_BP48977_FMA50685_Left splenial artery",
+      "oldName": "左脳梁後部動脈(Left splenial artery)",
+      "newName": "左背側脳梁枝(Left splenial artery)"
+    },
+    {
+      "id": "FJ1678_BP48916_FMA50684_Right splenial artery",
+      "oldName": "右脳梁後部動脈(Right splenial artery)",
+      "newName": "右背側脳梁枝(Right splenial artery)"
+    },
+    {
+      "id": "FJ5079_BP48916_FMA50684_Right splenial artery",
+      "oldName": "右脾状動脈(Right splenial artery)",
+      "newName": "右背側脳梁枝(Right splenial artery)"
+    },
+    {
+      "id": "FJ2255_BP50705_FMA4084_Left thyrocervical trunk",
+      "oldName": "左甲状頸動脈幹 (Left thyrocervical trunk)",
+      "newName": "左甲状頸動脈幹(Left thyrocervical trunk)"
+    },
+    {
+      "id": "FJ2256_BP49607_FMA10683_Left superficial cervical artery",
+      "oldName": "左浅頸動脈 (Left superficial cervical artery)",
+      "newName": "左浅頸動脈(Left superficial cervical artery)"
+    },
+    {
+      "id": "FJ2257_BP49499_FMA81009_Trunk of left transverse cervical artery",
+      "oldName": "左頸横動脈の幹 (Trunk of left transverse cervical artery)",
+      "newName": "左頸横動脈の幹(Trunk of left transverse cervical artery)"
+    },
+    {
+      "id": "FJ2276_BP50203_FMA5039_Right costocervical trunk",
+      "oldName": "右肋頚動脈幹(Right costocervical trunk)",
+      "newName": "右肋頸動脈幹(Right costocervical trunk)"
+    },
+    {
+      "id": "FJ2278_BP49532_FMA10660_Right deep cervical artery",
+      "oldName": "右深頚動脈(Right deep cervical artery)",
+      "newName": "右深頸動脈(Right deep cervical artery)"
+    },
+    {
+      "id": "FJ3077_BP49544_FMA70455_Caudate lobe branch of left hepatic artery",
+      "oldName": "尾状葉枝(左肝動脈)(Caudate lobe branch of left hepatic artery)",
+      "newName": "尾状葉枝(Caudate lobe branch of left hepatic artery)"
+    },
+    {
+      "id": "FJ3124_BP50502_FMA15425_Caudate lobe branch of left portal vein",
+      "oldName": "尾状葉枝(左門脈)(Caudate lobe branch of left portal vein)",
+      "newName": "尾状葉枝(Caudate lobe branch of left portal vein)"
+    },
+    {
+      "id": "FJ3125_BP50014_FMA15432_Lateral inferior segmental branch of left portal vein",
+      "oldName": "外下区域枝(左門脈)(Lateral inferior segmental branch of left portal vein)",
+      "newName": "外下区域枝(Lateral inferior segmental branch of left portal vein)"
+    },
+    {
+      "id": "FJ3126_BP50211_FMA15431_Lateral superior segmental branch of left portal vein",
+      "oldName": "外上区域枝(左門脈)(Lateral superior segmental branch of left portal vein)",
+      "newName": "外上区域枝(Lateral superior segmental branch of left portal vein)"
+    },
+    {
+      "id": "FJ3127_BP49811_FMA15428_Medial superior segmental branch of left portal vein",
+      "oldName": "内上区域枝(左門脈)(Medial superior segmental branch of left portal vein)",
+      "newName": "内上区域枝(Medial superior segmental branch of left portal vein)"
+    },
+    {
+      "id": "FJ3128_BP50061_FMA15429_Medial inferior segmental branch of left portal vein",
+      "oldName": "内下区域枝(左門脈)(Medial inferior segmental branch of left portal vein)",
+      "newName": "内下区域枝(Medial inferior segmental branch of left portal vein)"
+    },
+    {
+      "id": "FJ3399_BP50665_FMA14828_Ascending branch of left colic artery",
+      "oldName": "上行枝(左結腸動脈)(Ascending branch of left colic artery)",
+      "newName": "上行枝(Ascending branch of left colic artery)"
+    },
+    {
+      "id": "FJ3428_BP50258_FMA14829_Descending branch of left colic artery",
+      "oldName": "下行枝(左結腸動脈)(Descending branch of left colic artery)",
+      "newName": "下行枝(Descending branch of left colic artery)"
+    },
+    {
+      "id": "FJ2246_BP50352_FMA66551_Trunk of left subscapular artery",
+      "oldName": "左肩甲下動脈の幹 (Trunk of left subscapular artery)",
+      "newName": "左肩甲下動脈の幹(Trunk of left subscapular artery)"
+    },
+    {
+      "id": "FJ2251_BP50204_FMA10681_Left suprascapular artery",
+      "oldName": "左肩甲上動脈 (Left suprascapular artery)",
+      "newName": "左肩甲上動脈(Left suprascapular artery)"
+    },
+    {
+      "id": "FJ2252_BP50483_FMA66564_Trunk of left thoraco-acromial artery",
+      "oldName": "左胸肩峰動脈の幹 (Trunk of left thoraco-acromial artery)",
+      "newName": "左胸肩峰動脈の幹(Trunk of left thoraco-acromial artery)"
+    },
+    {
+      "id": "FJ2253_BP50418_FMA66322_Left thoracodorsal artery",
+      "oldName": "左胸背動脈 (Left thoracodorsal artery)",
+      "newName": "左胸背動脈(Left thoracodorsal artery)"
+    },
+    {
+      "id": "FJ2248_BP47245_FMA22837_Left superficial palmar arterial arch",
+      "oldName": "左浅掌動脈弓 (Left superficial palmar arterial arch)",
+      "newName": "左浅掌動脈弓(Left superficial palmar arterial arch)"
+    },
+    {
+      "id": "FJ2242_BP46808_FMA66626_Trunk of left radial artery",
+      "oldName": "左橈骨動脈の幹 (Trunk of left radial artery)",
+      "newName": "左橈骨動脈の幹(Trunk of left radial artery)"
+    },
+    {
+      "id": "FJ2245_BP45161_FMA268669_Left recurrent interosseous artery",
+      "oldName": "左骨間反回動脈 (Left recurrent interosseous artery)",
+      "newName": "左反回骨間動脈(Left recurrent interosseous artery)"
+    },
+    {
+      "id": "FJ2258_BP50677_FMA66624_Trunk of left ulnar artery",
+      "oldName": "左尺骨動脈の幹 (Trunk of left ulnar artery)",
+      "newName": "左尺骨動脈の幹(Trunk of left ulnar artery)"
+    },
+    {
+      "id": "FJ2373_BP50536_FMA22707_Right superior ulnar collateral artery",
+      "oldName": "右尺骨上側副動脈(Right superior ulnar collateral artery)",
+      "newName": "右上尺側側副動脈(Right superior ulnar collateral artery)"
+    },
+    {
+      "id": "FJ2374_BP50381_FMA22708_Left superior ulnar collateral artery",
+      "oldName": "左尺骨上側副動脈(Left superior ulnar collateral artery)",
+      "newName": "左上尺側側副動脈(Left superior ulnar collateral artery)"
+    },
+    {
+      "id": "FJ2215_BP50590_FMA22713_Left inferior ulnar collateral artery",
+      "oldName": "左尺側下側副動脈(Left inferior ulnar collateral artery)",
+      "newName": "左下尺側側副動脈(Left inferior ulnar collateral artery)"
+    },
+    {
+      "id": "FJ2241_BP50535_FMA22805_Left posterior ulnar recurrent artery",
+      "oldName": "左後尺骨反回動脈(Left posterior ulnar recurrent artery)",
+      "newName": "左後尺側反回動脈(Left posterior ulnar recurrent artery)"
+    },
+    {
+      "id": "FJ2243_BP50332_FMA22766_Left radial recurrent artery",
+      "oldName": "左橈骨反回動脈 (Left radial recurrent artery)",
+      "newName": "左橈側反回動脈(Left radial recurrent artery)"
+    },
+    {
+      "id": "FJ2259_BP50402_FMA22802_Left anterior ulnar recurrent artery",
+      "oldName": "左前尺骨反回動脈 (Left anterior ulnar recurrent artery)",
+      "newName": "左前尺側反回動脈(Left anterior ulnar recurrent artery)"
+    },
+    {
+      "id": "FJ2267_BP50507_FMA22712_Right inferior ulnar collateral artery",
+      "oldName": "右尺骨下側副動脈(Right inferior ulnar collateral artery)",
+      "newName": "右下尺側側副動脈(Right inferior ulnar collateral artery)"
+    },
+    {
+      "id": "FJ2293_BP50052_FMA22804_Right posterior ulnar recurrent artery",
+      "oldName": "右尺骨後反回動脈(Right posterior ulnar recurrent artery)",
+      "newName": "右後尺側反回動脈(Right posterior ulnar recurrent artery)"
+    },
+    {
+      "id": "FJ2295_BP50097_FMA22764_Right radial recurrent artery",
+      "oldName": "右橈骨反回動脈(Right radial recurrent artery)",
+      "newName": "右橈側反回動脈(Right radial recurrent artery)"
+    },
+    {
+      "id": "FJ2311_BP49893_FMA22801_Right anterior ulnar recurrent artery",
+      "oldName": "右尺骨前反回動脈(Right anterior ulnar recurrent artery)",
+      "newName": "右前尺側反回動脈(Right anterior ulnar recurrent artery)"
+    },
+    {
+      "id": "FJ2069_BP49540_FMA22508_Left descending genicular artery",
+      "oldName": "左下膝動脈(Left descending genicular artery)",
+      "newName": "左下行膝動脈(Left descending genicular artery)"
+    },
+    {
+      "id": "FJ2076_BP45979_FMA43893_Left inferior lateral genicular artery",
+      "oldName": "左下外側膝動脈(Left inferior lateral genicular artery)",
+      "newName": "左外側下膝動脈(Left inferior lateral genicular artery)"
+    },
+    {
+      "id": "FJ2077_BP45921_FMA43891_Left inferior medial genicular artery",
+      "oldName": "左下内側膝動脈(Left inferior medial genicular artery)",
+      "newName": "左内側下膝動脈(Left inferior medial genicular artery)"
+    },
+    {
+      "id": "FJ2137_BP49657_FMA22507_Right descending genicular artery",
+      "oldName": "右下膝動脈(Right descending genicular artery)",
+      "newName": "右下行膝動脈(Right descending genicular artery)"
+    },
+    {
+      "id": "FJ2150_BP46166_FMA43892_Right inferior lateral genicular artery",
+      "oldName": "右下外側膝動脈(Right inferior lateral genicular artery)",
+      "newName": "右外側下膝動脈(Right inferior lateral genicular artery)"
+    },
+    {
+      "id": "FJ2152_BP46230_FMA43890_Right inferior medial genicular artery",
+      "oldName": "右下内側膝動脈(Right inferior medial genicular artery)",
+      "newName": "右内側下膝動脈(Right inferior medial genicular artery)"
+    },
+    {
+      "id": "FJ2066_BP50037_FMA43908_Left anterior tibial recurrent artery",
+      "oldName": "左前脛骨回旋枝(Left anterior tibial recurrent artery)",
+      "newName": "左前脛骨反回動脈(Left anterior tibial recurrent artery)"
+    },
+    {
+      "id": "FJ2131_BP49986_FMA43907_Right anterior tibial recurrent artery",
+      "oldName": "右前脛骨再発動脈(Right anterior tibial recurrent artery)",
+      "newName": "右前脛骨反回動脈(Right anterior tibial recurrent artery)"
+    },
+    {
+      "id": "FJ3496_BP49625_FMA20819_Left dorsal artery of penis",
+      "oldName": "陰茎背動脈(左)(Left dorsal artery of penis)",
+      "newName": "陰茎背動脈(Left dorsal artery of penis)"
+    },
+    {
+      "id": "FJ2247_BP50042_FMA23115_Left subscapular vein",
+      "oldName": "左肩甲下静脈 (Left subscapular vein)",
+      "newName": "左肩甲下静脈(Left subscapular vein)"
+    },
+    {
+      "id": "FJ2250_BP49834_FMA50860_Left suprascapular vein",
+      "oldName": "左肩甲上静脈 (Left suprascapular vein)",
+      "newName": "左肩甲上静脈(Left suprascapular vein)"
+    },
+    {
+      "id": "FJ2254_BP49995_FMA71215_Left thoracodorsal vein",
+      "oldName": "左胸背静脈 (Left thoracodorsal vein)",
+      "newName": "左胸背静脈(Left thoracodorsal vein)"
+    },
+    {
+      "id": "FJ2270_BP49840_FMA22909_Right basilic vein",
+      "oldName": "右貴要静脈(Right basilic vein)",
+      "newName": "右尺側皮静脈(Right basilic vein)"
+    },
+    {
+      "id": "FJ2249_BP49113_FMA22916_Left superficial palmar venous arch",
+      "oldName": "左浅掌静脈弓 (Left superficial palmar venous arch)",
+      "newName": "左浅掌静脈弓(Left superficial palmar venous arch)"
+    },
+    {
+      "id": "FJ2234_BP49608_FMA22969_Left median antebrachial vein",
+      "oldName": "左前腕正中静脈(Left median antebrachial vein)",
+      "newName": "左前腕正中皮静脈(Left median antebrachial vein)"
+    },
+    {
+      "id": "FJ2244_BP49412_FMA22949_Left radial vein",
+      "oldName": "左橈骨静脈 (Left radial vein)",
+      "newName": "左橈骨静脈(Left radial vein)"
+    },
+    {
+      "id": "FJ2260_BP49668_FMA22952_Left ulnar vein",
+      "oldName": "左尺骨静脈 (Left ulnar vein)",
+      "newName": "左尺骨静脈(Left ulnar vein)"
+    },
+    {
+      "id": "FJ2286_BP49595_FMA22968_Right median antebrachial vein",
+      "oldName": "右前腕正中静脈(Right median antebrachial vein)",
+      "newName": "右前腕正中皮静脈(Right median antebrachial vein)"
+    },
+    {
+      "id": "FJ2135_BP50604_FMA51042_Right deep femoral vein",
+      "oldName": "右深大腿静脈(Right deep femoral vein)",
+      "newName": "右大腿深静脈(Right deep femoral vein)"
+    },
+    {
+      "id": "FJ2099_BP50263_FMA51043_Left deep femoral vein",
+      "oldName": "左深大腿静脈(Left deep femoral vein)",
+      "newName": "左大腿深静脈(Left deep femoral vein)"
+    },
+    {
+      "id": "FJ2178_BP49845_FMA44340_Right superficial epigastric vein",
+      "oldName": "右表在腹壁静脈(Right superficial epigastric vein)",
+      "newName": "右浅腹壁静脈(Right superficial epigastric vein)"
+    },
+    {
+      "id": "FJ1291_BP48310_FMA49073_Left common tendinous ring",
+      "oldName": "左共通腱輪(Left common tendinous ring)",
+      "newName": "左総腱輪(Left common tendinous ring)"
+    },
+    {
+      "id": "FJ1342_BP48396_FMA49072_Right common tendinous ring",
+      "oldName": "右共通腱輪(Right common tendinous ring)",
+      "newName": "右総腱輪(Right common tendinous ring)"
+    },
+    {
+      "id": "FJ2744_BP48292_FMA55620_Left pterygomandibular raphe",
+      "oldName": "左翼突下顎舌骨筋腱線(Left pterygomandibular raphe)",
+      "newName": "左翼突下顎縫線(Left pterygomandibular raphe)"
+    },
+    {
+      "id": "FJ2749_BP48469_FMA55077_Pharyngeal raphe",
+      "oldName": "咽頭腱弓(Pharyngeal raphe)",
+      "newName": "咽頭縫線(Pharyngeal raphe)"
+    },
+    {
+      "id": "FJ2756_BP48263_FMA55619_Right pterygomandibular raphe",
+      "oldName": "右翼突下顎舌骨筋腱線(Right pterygomandibular raphe)",
+      "newName": "右翼突下顎縫線(Right pterygomandibular raphe)"
+    },
+    {
+      "id": "FJ1587_BP47230_FMA45739_Right platysma",
+      "oldName": "右頸筋(Right platysma)",
+      "newName": "右広頸筋(Right platysma)"
+    },
+    {
+      "id": "FJ1566_BP46098_FMA46314_Left rectus capitis anterior",
+      "oldName": "左頭直筋前部(Left rectus capitis anterior)",
+      "newName": "左前頭直筋(Left rectus capitis anterior)"
+    },
+    {
+      "id": "FJ1567_BP45861_FMA32531_Left rectus capitis posterior major",
+      "oldName": "左頭直筋後頭大部(Left rectus capitis posterior major)",
+      "newName": "左大後頭直筋(Left rectus capitis posterior major)"
+    },
+    {
+      "id": "FJ1568_BP45449_FMA32533_Left rectus capitis posterior minor",
+      "oldName": "左頭直筋後頭小部(Left rectus capitis posterior minor)",
+      "newName": "左小後頭直筋(Left rectus capitis posterior minor)"
+    },
+    {
+      "id": "FJ1569_BP45940_FMA46318_Left rectus capitis lateralis",
+      "oldName": "左頭直筋外側部(Left rectus capitis lateralis)",
+      "newName": "左外側頭直筋(Left rectus capitis lateralis)"
+    },
+    {
+      "id": "FJ1588_BP46336_FMA46313_Right rectus capitis anterior",
+      "oldName": "右頭直筋前部(Right rectus capitis anterior)",
+      "newName": "右前頭直筋(Right rectus capitis anterior)"
+    },
+    {
+      "id": "FJ1589_BP45632_FMA32530_Right rectus capitis posterior major",
+      "oldName": "右頭直筋後頭大部(Right rectus capitis posterior major)",
+      "newName": "右大後頭直筋(Right rectus capitis posterior major)"
+    },
+    {
+      "id": "FJ1590_BP45638_FMA32532_Right rectus capitis posterior minor",
+      "oldName": "右頭直筋後頭小部(Right rectus capitis posterior minor)",
+      "newName": "右小後頭直筋(Right rectus capitis posterior minor)"
+    },
+    {
+      "id": "FJ1591_BP46193_FMA46317_Right rectus capitis lateralis",
+      "oldName": "右頭直筋外側部(Right rectus capitis lateralis)",
+      "newName": "右外側頭直筋(Right rectus capitis lateralis)"
+    },
+    {
+      "id": "FJ1600_BP48884_FMA46284_Superior oblique part of left longus colli",
+      "oldName": "左頭長筋上斜部(Superior oblique part of left longus colli)",
+      "newName": "左頸長筋上斜部(Superior oblique part of left longus colli)"
+    },
+    {
+      "id": "FJ1601_BP48870_FMA46286_Vertical intermediate part of left longus colli",
+      "oldName": "左頭長筋垂直中間部(Vertical intermediate part of left longus colli)",
+      "newName": "左頸長筋垂直中間部(Vertical intermediate part of left longus colli)"
+    },
+    {
+      "id": "FJ1598_BP47164_FMA45826_Right stylohyoid",
+      "oldName": "右茎状舌骨筋(Right stylohyoid)",
+      "newName": "右茎突舌骨筋(Right stylohyoid)"
+    },
+    {
+      "id": "FJ1524M_BP45586_FMA81753_Left cervical rotator",
+      "oldName": "左頚部回旋筋(Left cervical rotator)",
+      "newName": "左頸部回旋筋(Left cervical rotator)"
+    },
+    {
+      "id": "FJ1524_BP45682_FMA81752_Right cervical rotator",
+      "oldName": "右頚部回旋筋(Right cervical rotator)",
+      "newName": "右頸部回旋筋(Right cervical rotator)"
+    },
+    {
+      "id": "FJ1533_BP45404_FMA22754_Right longissimus capitis",
+      "oldName": "右頭長筋(Right longissimus capitis)",
+      "newName": "右頭最長筋(Right longissimus capitis)"
+    },
+    {
+      "id": "FJ1534M_BP45752_FMA22758_Left longissimus cervicis",
+      "oldName": "左頸長筋(Left longissimus cervicis)",
+      "newName": "左頸最長筋(Left longissimus cervicis)"
+    },
+    {
+      "id": "FJ1534_BP45728_FMA22757_Right longissimus cervicis",
+      "oldName": "右頸長筋(Right longissimus cervicis)",
+      "newName": "右頸最長筋(Right longissimus cervicis)"
+    },
+    {
+      "id": "FJ1526M_BP45470_FMA22745_Left iliocostalis cervicis",
+      "oldName": "左頸最長筋(Left iliocostalis cervicis)",
+      "newName": "左頸腸肋筋(Left iliocostalis cervicis)"
+    },
+    {
+      "id": "FJ1526_BP45380_FMA22744_Right iliocostalis cervicis",
+      "oldName": "右頸最長筋(Right iliocostalis cervicis)",
+      "newName": "右頸腸肋筋(Right iliocostalis cervicis)"
+    },
+    {
+      "id": "FJ1542M_BP46599_FMA13404_Left serratus posterior superior",
+      "oldName": "左後上鋸筋(Left serratus posterior superior)",
+      "newName": "左上後鋸筋(Left serratus posterior superior)"
+    },
+    {
+      "id": "FJ1542_BP46900_FMA13403_Right serratus posterior superior",
+      "oldName": "右後上鋸筋(Right serratus posterior superior)",
+      "newName": "右上後鋸筋(Right serratus posterior superior)"
+    },
+    {
+      "id": "FJ1535M_BP50179_FMA22753_Left longissimus thoracis",
+      "oldName": "左胸長筋(Left longissimus thoracis)",
+      "newName": "左胸最長筋(Left longissimus thoracis)"
+    },
+    {
+      "id": "FJ1535_BP49870_FMA22751_Right longissimus thoracis",
+      "oldName": "右胸長筋(Right longissimus thoracis)",
+      "newName": "右胸最長筋(Right longissimus thoracis)"
+    },
+    {
+      "id": "FJ1513M_BP47940_FMA34685_Spinal part of left deltoid",
+      "oldName": "左三角筋脊部(Spinal part of left deltoid)",
+      "newName": "左三角筋肩甲棘部(Spinal part of left deltoid)"
+    },
+    {
+      "id": "FJ1513_BP49606_FMA34684_Spinal part of right deltoid",
+      "oldName": "右三角筋脊部(Spinal part of right deltoid)",
+      "newName": "右三角筋肩甲棘部(Spinal part of right deltoid)"
+    },
+    {
+      "id": "FJ1483M_BP49359_FMA37387_Left abductor pollicis brevis",
+      "oldName": "左母指外転筋(Left abductor pollicis brevis)",
+      "newName": "左短母指外転筋(Left abductor pollicis brevis)"
+    },
+    {
+      "id": "FJ1483_BP49334_FMA37386_Right abductor pollicis brevis",
+      "oldName": "右母指外転筋(Right abductor pollicis brevis)",
+      "newName": "右短母指外転筋(Right abductor pollicis brevis)"
+    },
+    {
+      "id": "FJ1423M_BP49864_FMA58777_Left iliotibial tract",
+      "oldName": "左腸脛靭帯(Left iliotibial tract)",
+      "newName": "左腸脛靱帯(Left iliotibial tract)"
+    },
+    {
+      "id": "FJ1423_BP49780_FMA58776_Right iliotibial tract",
+      "oldName": "右腸脛靭帯(Right iliotibial tract)",
+      "newName": "右腸脛靱帯(Right iliotibial tract)"
+    },
+    {
+      "id": "FJ1393M_BP49974_FMA45974_Lateral head of left flexor hallucis brevis",
+      "oldName": "左足母指短屈筋外側頭(Lateral head of left flexor hallucis brevis)",
+      "newName": "左足母趾短屈筋外側頭(Lateral head of left flexor hallucis brevis)"
+    },
+    {
+      "id": "FJ1393_BP50202_FMA45973_Lateral head of right flexor hallucis brevis",
+      "oldName": "右足母指短屈筋外側頭(Lateral head of right flexor hallucis brevis)",
+      "newName": "右足母趾短屈筋外側頭(Lateral head of right flexor hallucis brevis)"
+    },
+    {
+      "id": "FJ1396M_BP50237_FMA45972_Medial head of left flexor hallucis brevis",
+      "oldName": "左足母指短屈筋内側頭(Medial head of left flexor hallucis brevis)",
+      "newName": "左足母趾短屈筋内側頭(Medial head of left flexor hallucis brevis)"
+    },
+    {
+      "id": "FJ1396_BP49816_FMA45971_Medial head of right flexor hallucis brevis",
+      "oldName": "右足母指短屈筋内側頭(Medial head of right flexor hallucis brevis)",
+      "newName": "右足母趾短屈筋内側頭(Medial head of right flexor hallucis brevis)"
+    },
+    {
+      "id": "FJ1441M_BP49946_FMA38935_Left vastus intermedius",
+      "oldName": "左大腿骨中間広筋(Left vastus intermedius)",
+      "newName": "左中間広筋(Left vastus intermedius)"
+    },
+    {
+      "id": "FJ1441_BP49798_FMA38934_Right vastus intermedius",
+      "oldName": "右大腿骨中間広筋(Right vastus intermedius)",
+      "newName": "右中間広筋(Right vastus intermedius)"
+    },
+    {
+      "id": "FJ1412M_BP50405_FMA37466_Left flexor accessorius",
+      "oldName": "左副屈筋(Left flexor accessorius)",
+      "newName": "左足底方形筋(Left flexor accessorius)"
+    },
+    {
+      "id": "FJ1412_BP50526_FMA37465_Right flexor accessorius",
+      "oldName": "右副屈筋(Right flexor accessorius)",
+      "newName": "右足底方形筋(Right flexor accessorius)"
+    },
+    {
+      "id": "FJ1401M_BP50422_FMA22454_Left adductor brevis",
+      "oldName": "左大腿短内転筋(Left adductor brevis)",
+      "newName": "左短内転筋(Left adductor brevis)"
+    },
+    {
+      "id": "FJ1401_BP50456_FMA22452_Right adductor brevis",
+      "oldName": "右大腿短内転筋(Right adductor brevis)",
+      "newName": "右短内転筋(Right adductor brevis)"
+    },
+    {
+      "id": "FJ1402M_BP50238_FMA22457_Left adductor longus",
+      "oldName": "左大腿長内転筋(Left adductor longus)",
+      "newName": "左長内転筋(Left adductor longus)"
+    },
+    {
+      "id": "FJ1402_BP50613_FMA22456_Right adductor longus",
+      "oldName": "右大腿長内転筋(Right adductor longus)",
+      "newName": "右長内転筋(Right adductor longus)"
+    },
+    {
+      "id": "FJ1453M_BP47775_FMA45859_Left iliococcygeus",
+      "oldName": "左腸尾骨筋(Left iliococcygeus)",
+      "newName": "左腸骨尾骨筋(Left iliococcygeus)"
+    },
+    {
+      "id": "FJ1403M_BP50251_FMA22460_Left adductor magnus",
+      "oldName": "左大腿大内転筋(Left adductor magnus)",
+      "newName": "左大内転筋(Left adductor magnus)"
+    },
+    {
+      "id": "FJ1403_BP50704_FMA22459_Right adductor magnus",
+      "oldName": "右大腿大内転筋(Right adductor magnus)",
+      "newName": "右大内転筋(Right adductor magnus)"
+    },
+    {
+      "id": "FJ1404M_BP50699_FMA43887_Left adductor minimus",
+      "oldName": "左大腿小内転筋(Left adductor minimus)",
+      "newName": "左小内転筋(Left adductor minimus)"
+    },
+    {
+      "id": "FJ1404_BP50297_FMA43886_Right adductor minimus",
+      "oldName": "右大腿小内転筋(Right adductor minimus)",
+      "newName": "右小内転筋(Right adductor minimus)"
+    },
+    {
+      "id": "FJ2544_BP47775_FMA45859_Left iliococcygeus",
+      "oldName": "左腸尾骨筋(Left iliococcygeus)",
+      "newName": "左腸骨尾骨筋(Left iliococcygeus)"
+    },
+    {
+      "id": "FJ2549_BP47925_FMA45858_Right iliococcygeus",
+      "oldName": "右腸尾骨筋(Right iliococcygeus)",
+      "newName": "右腸骨尾骨筋(Right iliococcygeus)"
+    },
+    {
+      "id": "FJ1424M_BP45576_FMA44250_Left long plantar ligament",
+      "oldName": "左長掌側靭帯(Left long plantar ligament)",
+      "newName": "左長足底靱帯(Left long plantar ligament)"
+    },
+    {
+      "id": "FJ1424_BP45715_FMA44249_Right long plantar ligament",
+      "oldName": "右長掌側靭帯(Right long plantar ligament)",
+      "newName": "右長足底靱帯(Right long plantar ligament)"
+    },
+    {
+      "id": "FJ1290_BP50655_FMA52640_Left frontal nerve",
+      "oldName": "左額神経(Left frontal nerve)",
+      "newName": "左前頭神経(Left frontal nerve)"
+    },
+    {
+      "id": "FJ1296_BP49747_FMA52699_Left infratrochlear nerve",
+      "oldName": "左下鼻瞼神経(Left infratrochlear nerve)",
+      "newName": "左滑車下神経(Left infratrochlear nerve)"
+    },
+    {
+      "id": "FJ1300_BP50462_FMA52630_Left lacrimal nerve",
+      "oldName": "左涙神経(Left lacrimal nerve)",
+      "newName": "左涙腺神経(Left lacrimal nerve)"
+    },
+    {
+      "id": "FJ1310_BP49979_FMA52670_Left nasociliary nerve",
+      "oldName": "左鼻毛様神経(Left nasociliary nerve)",
+      "newName": "左鼻毛様体神経(Left nasociliary nerve)"
+    },
+    {
+      "id": "FJ1326_BP50094_FMA52644_Left supratrochlear nerve",
+      "oldName": "左上滑車神経(Left supratrochlear nerve)",
+      "newName": "左滑車上神経(Left supratrochlear nerve)"
+    },
+    {
+      "id": "FJ1341_BP50434_FMA52639_Right frontal nerve",
+      "oldName": "右額神経(Right frontal nerve)",
+      "newName": "右前頭神経(Right frontal nerve)"
+    },
+    {
+      "id": "FJ1347_BP49693_FMA52698_Right infratrochlear nerve",
+      "oldName": "右下鼻瞼神経(Right infratrochlear nerve)",
+      "newName": "右滑車下神経(Right infratrochlear nerve)"
+    },
+    {
+      "id": "FJ1351_BP50701_FMA52629_Right lacrimal nerve",
+      "oldName": "右涙神経(Right lacrimal nerve)",
+      "newName": "右涙腺神経(Right lacrimal nerve)"
+    },
+    {
+      "id": "FJ1743_BP50190_FMA62032_Habenula",
+      "oldName": "核(Habenula)",
+      "newName": "手綱(Habenula)"
+    },
+    {
+      "id": "FJ1752_BP48607_FMA75351_Interventricular foramen",
+      "oldName": "脳室間孔(Interventricular foramen)",
+      "newName": "室間孔(Interventricular foramen)"
+    },
+    {
+      "id": "FJ1777_BP47159_FMA73414_Left stria medullaris of thalamus",
+      "oldName": "左視床髄索(Left stria medullaris of thalamus)",
+      "newName": "左視床髄条(Left stria medullaris of thalamus)"
+    },
+    {
+      "id": "FJ1778_BP46872_FMA72940_Left stria terminalis",
+      "oldName": "左終索(Left stria terminalis)",
+      "newName": "左分界条(Left stria terminalis)"
+    },
+    {
+      "id": "FJ1780_BP49581_FMA62327_Tuber cinereum",
+      "oldName": "灰白結節(Tuber cinereum)",
+      "newName": "灰白隆起(Tuber cinereum)"
+    },
+    {
+      "id": "FJ1797_BP49516_FMA72666_Left postcentral gyrus",
+      "oldName": "左後頭頂回(Left postcentral gyrus)",
+      "newName": "左中心後回(Left postcentral gyrus)"
+    },
+    {
+      "id": "FJ1798_BP49568_FMA72665_Right postcentral gyrus",
+      "oldName": "右後頭頂回(Right postcentral gyrus)",
+      "newName": "右中心後回(Right postcentral gyrus)"
+    },
+    {
+      "id": "FJ1800_BP49629_FMA72662_Left precentral gyrus",
+      "oldName": "左前頭前回(Left precentral gyrus)",
+      "newName": "左中心前回(Left precentral gyrus)"
+    },
+    {
+      "id": "FJ1801_BP49570_FMA72661_Right precentral gyrus",
+      "oldName": "右前頭前回(Right precentral gyrus)",
+      "newName": "右中心前回(Right precentral gyrus)"
+    },
+    {
+      "id": "FJ1824_BP47099_FMA73413_Right stria medullaris of thalamus",
+      "oldName": "右視床髄索(Right stria medullaris of thalamus)",
+      "newName": "右視床髄条(Right stria medullaris of thalamus)"
+    },
+    {
+      "id": "FJ1825_BP46503_FMA72939_Right stria terminalis",
+      "oldName": "右終索(Right stria terminalis)",
+      "newName": "右分界条(Right stria terminalis)"
+    },
+    {
+      "id": "FJ1828_BP49581_FMA62327_Tuber cinereum",
+      "oldName": "視床結節(Tuber cinereum)",
+      "newName": "灰白隆起(Tuber cinereum)"
+    },
+    {
+      "id": "FJ1361_BP49819_FMA52669_Right nasociliary nerve",
+      "oldName": "右鼻毛様神経(Right nasociliary nerve)",
+      "newName": "右鼻毛様体神経(Right nasociliary nerve)"
+    },
+    {
+      "id": "FJ1377_BP50066_FMA52643_Right supratrochlear nerve",
+      "oldName": "右上滑車神経(Right supratrochlear nerve)",
+      "newName": "右滑車上神経(Right supratrochlear nerve)"
+    },
+    {
+      "id": "FJ3908_BP49530_FMA52677_Left anterior ethmoidal nerve",
+      "oldName": "左前篩神経(Left anterior ethmoidal nerve)",
+      "newName": "左前篩骨神経(Left anterior ethmoidal nerve)"
+    },
+    {
+      "id": "FJ3910_BP50655_FMA52640_Left frontal nerve",
+      "oldName": "左額神経(Left frontal nerve)",
+      "newName": "左前頭神経(Left frontal nerve)"
+    },
+    {
+      "id": "FJ3911_BP49747_FMA52699_Left infratrochlear nerve",
+      "oldName": "左眼輪下神経(Left infratrochlear nerve)",
+      "newName": "左滑車下神経(Left infratrochlear nerve)"
+    },
+    {
+      "id": "FJ3913_BP49979_FMA52670_Left nasociliary nerve",
+      "oldName": "左鼻毛様神経(Left nasociliary nerve)",
+      "newName": "左鼻毛様体神経(Left nasociliary nerve)"
+    },
+    {
+      "id": "FJ3922_BP49500_FMA52716_Left posterior ethmoidal nerve",
+      "oldName": "左後篩神経(Left posterior ethmoidal nerve)",
+      "newName": "左後篩骨神経(Left posterior ethmoidal nerve)"
+    },
+    {
+      "id": "FJ3924_BP49919_FMA52657_Left supra-orbital nerve",
+      "oldName": "左上眼窩神経(Left supra-orbital nerve)",
+      "newName": "左眼窩上神経(Left supra-orbital nerve)"
+    },
+    {
+      "id": "FJ7503_BP48015_FMA62045_Optic chiasm",
+      "oldName": "視交差(Optic chiasm)",
+      "newName": "視交叉(Optic chiasm)"
+    },
+    {
+      "id": "FJ7505M_BP48015_FMA62045_Optic chiasm",
+      "oldName": "視交差(Optic chiasm)",
+      "newName": "視交叉(Optic chiasm)"
+    },
+    {
+      "id": "FJ7505_BP48015_FMA62045_Optic chiasm",
+      "oldName": "視交差(Optic chiasm)",
+      "newName": "視交叉(Optic chiasm)"
+    },
+    {
+      "id": "FJ3133_BP48353_FMA19617_Corpus spongiosum of penis",
+      "oldName": "陰茎海綿体尿道部(Corpus spongiosum of penis)",
+      "newName": "尿道海綿体(Corpus spongiosum of penis)"
+    },
+    {
+      "id": "FJ7248_BP50004_FMA57086_Left stylomandibular ligament",
+      "oldName": "左茎突下顎靭帯(Left stylomandibular ligament)",
+      "newName": "左茎突下顎靱帯(Left stylomandibular ligament)"
+    },
+    {
+      "id": "FJ7347_BP49825_FMA57084_Right stylomandibular ligament",
+      "oldName": "右茎突下顎靭帯(Right stylomandibular ligament)",
+      "newName": "右茎突下顎靱帯(Right stylomandibular ligament)"
+    },
+    {
+      "id": "FJ2763_BP47637_FMA72311_Left stylohyoid ligament",
+      "oldName": "左茎突舌骨靭帯(Left stylohyoid ligament)",
+      "newName": "左茎突舌骨靱帯(Left stylohyoid ligament)"
+    },
+    {
+      "id": "FJ2764_BP47733_FMA72309_Right stylohyoid ligament",
+      "oldName": "右茎突舌骨靭帯(Right stylohyoid ligament)",
+      "newName": "右茎突舌骨靱帯(Right stylohyoid ligament)"
+    },
+    {
+      "id": "FJ2771_BP47214_FMA55227_Hyo-epiglottic ligament",
+      "oldName": "舌骨喉頭蓋靭帯(Hyo-epiglottic ligament)",
+      "newName": "舌骨喉頭蓋靱帯(Hyo-epiglottic ligament)"
+    },
+    {
+      "id": "FJ2776_BP47801_FMA55116_Left corniculate cartilage",
+      "oldName": "左角状軟骨(Left corniculate cartilage)",
+      "newName": "左小角軟骨(Left corniculate cartilage)"
+    },
+    {
+      "id": "FJ2779_BP47238_FMA55141_Left lateral thyrohyoid ligament",
+      "oldName": "左外側甲状舌骨靭帯(Left lateral thyrohyoid ligament)",
+      "newName": "左外側甲状舌骨靱帯(Left lateral thyrohyoid ligament)"
+    },
+    {
+      "id": "FJ2787_BP48262_FMA55246_Left vocal ligament",
+      "oldName": "左声帯靭帯(Left vocal ligament)",
+      "newName": "左声帯靱帯(Left vocal ligament)"
+    },
+    {
+      "id": "FJ2789_BP48361_FMA55237_Median cricothyroid ligament",
+      "oldName": "正中輪状甲状靭帯(Median cricothyroid ligament)",
+      "newName": "正中輪状甲状靱帯(Median cricothyroid ligament)"
+    },
+    {
+      "id": "FJ2790_BP47886_FMA55138_Median thyrohyoid ligament",
+      "oldName": "正中甲状舌骨靭帯(Median thyrohyoid ligament)",
+      "newName": "正中甲状舌骨靱帯(Median thyrohyoid ligament)"
+    },
+    {
+      "id": "FJ2793_BP47611_FMA55115_Right corniculate cartilage",
+      "oldName": "右角状軟骨(Right corniculate cartilage)",
+      "newName": "右小角軟骨(Right corniculate cartilage)"
+    },
+    {
+      "id": "FJ2797_BP47285_FMA55140_Right lateral thyrohyoid ligament",
+      "oldName": "右外側甲状舌骨靭帯(Right lateral thyrohyoid ligament)",
+      "newName": "右外側甲状舌骨靱帯(Right lateral thyrohyoid ligament)"
+    },
+    {
+      "id": "FJ2805_BP48341_FMA55245_Right vocal ligament",
+      "oldName": "右声帯靭帯(Right vocal ligament)",
+      "newName": "右声帯靱帯(Right vocal ligament)"
+    },
+    {
+      "id": "FJ2807_BP47478_FMA55230_Thyro-epiglottic ligament",
+      "oldName": "甲状喉頭蓋靭帯(Thyro-epiglottic ligament)",
+      "newName": "甲状喉頭蓋靱帯(Thyro-epiglottic ligament)"
+    },
+    {
+      "id": "FJ3367_BP50067_FMA24448_Right hamate",
+      "oldName": "右鉤状骨(Right hamate)",
+      "newName": "右有鈎骨(Right hamate)"
+    },
+    {
+      "id": "FJ6461_BP50067_FMA24448_Right hamate",
+      "oldName": "右有頭骨(Right hamate)",
+      "newName": "右有鈎骨(Right hamate)"
+    },
+    {
+      "id": "FJ1245_BP50167_FMA23725_Right trapezoid",
+      "oldName": "右台形骨(Right trapezoid)",
+      "newName": "右小菱形骨(Right trapezoid)"
+    },
+    {
+      "id": "FJ3152_BP49033_FMA16586_Right hip bone",
+      "oldName": "右腸骨(Right hip bone)",
+      "newName": "右寛骨(Right hip bone)"
+    },
+    {
+      "id": "FJ7211_BP48699_FMA21965_Left inguinal ligament",
+      "oldName": "左鼠径靭帯(Left inguinal ligament)",
+      "newName": "左鼠径靱帯(Left inguinal ligament)"
+    },
+    {
+      "id": "FJ7307_BP48687_FMA21964_Right inguinal ligament",
+      "oldName": "右鼠径靭帯(Right inguinal ligament)",
+      "newName": "右鼠径靱帯(Right inguinal ligament)"
+    },
+    {
+      "id": "FJ6398_BP48710_FMA236884_Bony part of left hip bone",
+      "oldName": "左腸骨(Bony part of left hip bone)",
+      "newName": "左寛骨の骨部(Bony part of left hip bone)"
+    }
+  ],
+  "rejectedEntries": [
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1701BP49800FMA50519Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50519",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "parentName": "後下小脳動脈(posterior inferior cerebellar artery)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1702MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "後下小脳動脈(posterior inferior cerebellar artery)",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1702BP49800FMA50519Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50519",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1703MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1703BP49800FMA50519Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50519",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1704MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1704BP49800FMA50519Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50519",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1705MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1705BP49800FMA50519Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50519",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1706MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1706BP49800FMA50519Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50519",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1707MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1709MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1709BP49800FMA50519Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50519",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1710MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1710BP49800FMA50519Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50519",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ1711MBP50457FMA50520Left posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50520",
+        "name": "左後下小脳動脈(Left posterior inferior cerebellar artery)",
+        "parentName": "posterior inferior cerebellar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of brain",
+        "region": "頭部",
+        "order": 110
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5072_BP48917_FMA50670_Right quadrigeminal artery",
+      "original": {
+        "conceptId": "FMA50670",
+        "name": "右四丘動脈(Right quadrigeminal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1135
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5073_BP48924_FMA50674_Right temporal quadrigeminal artery",
+      "original": {
+        "conceptId": "FMA50674",
+        "name": "右側頭四丘動脈(Right temporal quadrigeminal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1136
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5074_BP48931_FMA50678_Right occipital quadrigeminal artery",
+      "original": {
+        "conceptId": "FMA50678",
+        "name": "右後頭四丘動脈(Right occipital quadrigeminal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1137
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5075_BP48938_FMA50682_Right thalamogeniculate artery",
+      "original": {
+        "conceptId": "FMA50682",
+        "name": "右視床膝状体動脈(Right thalamogeniculate artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1138
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5076_BP48945_FMA50686_Right lateral posterior choroidal artery",
+      "original": {
+        "conceptId": "FMA50686",
+        "name": "右後外側脈絡動脈(Right lateral posterior choroidal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1139
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5077_BP48952_FMA50690_Right medial posterior choroidal artery",
+      "original": {
+        "conceptId": "FMA50690",
+        "name": "右後内側脈絡動脈(Right medial posterior choroidal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1140
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5078_BP48959_FMA50694_Right superior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50694",
+        "name": "右上小脳動脈(Right superior cerebellar artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar arteries",
+        "region": "頭部",
+        "order": 1141
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5079_BP48966_FMA50698_Right anterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50698",
+        "name": "右前下小脳動脈(Right anterior inferior cerebellar artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar arteries",
+        "region": "頭部",
+        "order": 1142
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5080_BP48973_FMA50702_Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50702",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar arteries",
+        "region": "頭部",
+        "order": 1143
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5088_BP49029_FMA50734_Right facial artery",
+      "original": {
+        "conceptId": "FMA50734",
+        "name": "右顔面動脈(Right facial artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of face",
+        "region": "頭部",
+        "order": 1151
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5089_BP49036_FMA50738_Right lingual artery",
+      "original": {
+        "conceptId": "FMA50738",
+        "name": "右舌動脈(Right lingual artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of tongue",
+        "region": "頭部",
+        "order": 1152
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5092_BP49057_FMA50750_Right superior labial artery",
+      "original": {
+        "conceptId": "FMA50750",
+        "name": "右上口唇動脈(Right superior labial artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of lip",
+        "region": "頭部",
+        "order": 1155
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5093_BP49064_FMA50754_Right inferior labial artery",
+      "original": {
+        "conceptId": "FMA50754",
+        "name": "右下口唇動脈(Right inferior labial artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of lip",
+        "region": "頭部",
+        "order": 1156
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5094_BP49071_FMA50758_Right angular artery",
+      "original": {
+        "conceptId": "FMA50758",
+        "name": "右鼻角動脈(Right angular artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of face",
+        "region": "頭部",
+        "order": 1157
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5095_BP49078_FMA50762_Right superior palpebral artery",
+      "original": {
+        "conceptId": "FMA50762",
+        "name": "右上眼瞼動脈(Right superior palpebral artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of eyelid",
+        "region": "頭部",
+        "order": 1158
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5096_BP49085_FMA50766_Right inferior palpebral artery",
+      "original": {
+        "conceptId": "FMA50766",
+        "name": "右下眼瞼動脈(Right inferior palpebral artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of eyelid",
+        "region": "頭部",
+        "order": 1159
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5097_BP49092_FMA50770_Right central retinal artery",
+      "original": {
+        "conceptId": "FMA50770",
+        "name": "右中心網膜動脈(Right central retinal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of eye",
+        "region": "頭部",
+        "order": 1160
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5098_BP49099_FMA50774_Right ophthalmic artery",
+      "original": {
+        "conceptId": "FMA50774",
+        "name": "右眼動脈(Right ophthalmic artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of eye",
+        "region": "頭部",
+        "order": 1161
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5099_BP49106_FMA50778_Right posterior communicating artery",
+      "original": {
+        "conceptId": "FMA50778",
+        "name": "右後交通動脈(Right posterior communicating artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1162
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5100_BP49113_FMA50782_Right posterior cerebral artery",
+      "original": {
+        "conceptId": "FMA50782",
+        "name": "右後大脳動脈(Right posterior cerebral artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1163
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5101_BP49120_FMA50786_Right anterior cerebral artery",
+      "original": {
+        "conceptId": "FMA50786",
+        "name": "右前大脳動脈(Right anterior cerebral artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1164
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5102_BP49127_FMA50790_Right middle cerebral artery",
+      "original": {
+        "conceptId": "FMA50790",
+        "name": "右中大脳動脈(Right middle cerebral artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1165
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5103_BP49134_FMA50794_Right anterior choroidal artery",
+      "original": {
+        "conceptId": "FMA50794",
+        "name": "右前脈絡叢動脈(Right anterior choroidal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebral arteries",
+        "region": "頭部",
+        "order": 1166
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5104_BP49141_FMA50798_Right posterior inferior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50798",
+        "name": "右後下小脳動脈(Right posterior inferior cerebellar artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar arteries",
+        "region": "頭部",
+        "order": 1167
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5105_BP49148_FMA50802_Right superior cerebellar artery",
+      "original": {
+        "conceptId": "FMA50802",
+        "name": "右上小脳動脈(Right superior cerebellar artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Cerebellar arteries",
+        "region": "頭部",
+        "order": 1168
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5081_BP48980_FMA50706_Right anterior spinal artery",
+      "original": {
+        "conceptId": "FMA50706",
+        "name": "右前脊髄動脈(Right anterior spinal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Spinal arteries",
+        "region": "頚部",
+        "order": 1144
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5082_BP48987_FMA50710_Right posterior spinal artery",
+      "original": {
+        "conceptId": "FMA50710",
+        "name": "右後脊髄動脈(Right posterior spinal artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Spinal arteries",
+        "region": "頚部",
+        "order": 1145
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5083_BP48994_FMA50714_Right vertebral artery",
+      "original": {
+        "conceptId": "FMA50714",
+        "name": "右椎骨動脈(Right vertebral artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1146
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5085_BP49008_FMA50722_Right common carotid artery",
+      "original": {
+        "conceptId": "FMA50722",
+        "name": "右総頸動脈(Right common carotid artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1148
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5086_BP49015_FMA50726_Right internal carotid artery",
+      "original": {
+        "conceptId": "FMA50726",
+        "name": "右内頸動脈(Right internal carotid artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1149
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5087_BP49022_FMA50730_Right external carotid artery",
+      "original": {
+        "conceptId": "FMA50730",
+        "name": "右外頸動脈(Right external carotid artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1150
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5090_BP49043_FMA50742_Right superior thyroid artery",
+      "original": {
+        "conceptId": "FMA50742",
+        "name": "右上甲状腺動脈(Right superior thyroid artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1153
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5091_BP49050_FMA50746_Right inferior thyroid artery",
+      "original": {
+        "conceptId": "FMA50746",
+        "name": "右下甲状腺動脈(Right inferior thyroid artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1154
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5106_BP49155_FMA50806_Right internal carotid artery",
+      "original": {
+        "conceptId": "FMA50806",
+        "name": "右内頸動脈(Right internal carotid artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1169
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5107_BP49162_FMA50810_Right external carotid artery",
+      "original": {
+        "conceptId": "FMA50810",
+        "name": "右外頸動脈(Right external carotid artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1170
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5109_BP49176_FMA50818_Right vertebral artery",
+      "original": {
+        "conceptId": "FMA50818",
+        "name": "右椎骨動脈(Right vertebral artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of neck",
+        "region": "頚部",
+        "order": 1172
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5110_BP49183_FMA50822_Right brachiocephalic artery",
+      "original": {
+        "conceptId": "FMA50822",
+        "name": "右腕頭動脈(Right brachiocephalic artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of thorax",
+        "region": "胸部",
+        "order": 1173
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ2236_BP50458_FMA22822_FMA22822_Left dorsal carpal branch of ulnar artery",
+      "original": {
+        "conceptId": "FMA22822",
+        "name": "左尺骨動脈手背枝(Left dorsal carpal branch of ulnar artery)",
+        "parentName": "dorsal carpal branch of ulnar artery",
+        "majorCategory": "Circulatory system",
+        "middleCategory": "Arteries of hand",
+        "region": "上肢",
+        "order": 330
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5084_BP49001_FMA50718_Right subclavian artery",
+      "original": {
+        "conceptId": "FMA50718",
+        "name": "右鎖骨下動脈(Right subclavian artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of upper limb",
+        "region": "上肢",
+        "order": 1147
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_circulatory_artery.json",
+      "id": "FJ5108_BP49169_FMA50814_Right subclavian artery",
+      "original": {
+        "conceptId": "FMA50814",
+        "name": "右鎖骨下動脈(Right subclavian artery)",
+        "majorCategory": "Cardiovascular system",
+        "middleCategory": "Arteries of upper limb",
+        "region": "上肢",
+        "order": 1171
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    },
+    {
+      "file": "sorted_elementParts_muscular.json",
+      "id": "FJ1446M_BP48855_FMA45892_Abdominal part of left pectoralis major",
+      "original": {
+        "conceptId": "FMA45875",
+        "name": "左大胸筋腹部(Abdominal part of left pectoralis major)",
+        "parentName": "abdominal part of pectoralis major",
+        "majorCategory": "Muscular system",
+        "middleCategory": "Thoracic muscles",
+        "region": "胸部",
+        "order": 210
+      },
+      "reason": "No exact matching GLB. Duplicate or inconsistent model identity; never substitute a different FMA/FJ."
+    }
+  ]
+}
